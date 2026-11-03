@@ -1,0 +1,113 @@
+@import url("shared/speech-9b03f6de.css");
+@import url("shared/speech-open-before-7c3fc813.css");
+@import url("shared/speech-gray-before-d5db9fb8.css");
+@import url("shared/speech-black-before-b0fb20f7.css");
+@import url("shared/connection-line--1-7767cfb0.css");
+@import url("shared/verse-group-5c006b15.css");
+
+.text-highlight-3 {
+  color: rgb(0, 150, 255);
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 15mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 15mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

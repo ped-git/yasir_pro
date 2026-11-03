@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "source": "Surah/099_Zelzelah_html.html",
+  "sourceHash": "ed3b7dc9b4ccdb85825b719e5478a24ec97fc21b7074ce7e3010afdbdcfaa47a",
+  "underlines": [
+    {
+      "id": "p099-u0001",
+      "text": "إِذَا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "41a5ef4bf942ba4c64dfe1fd301e89d8390fa2127d0645d147b3433415880890",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p099-c1",
+      "start": 97,
+      "end": 103,
+      "groups": [
+        "p099-u0001-individual"
+      ],
+      "sourceText": "إِذَا"
+    },
+    {
+      "id": "p099-u0002",
+      "text": "آن روز است که",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "ff9270246d39758f0aa6483de0e56226222e320d2030270bfc78c29c858d4071",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p099-c2",
+      "start": 406,
+      "end": 419,
+      "groups": [
+        "p099-local-underline-pattern-78b71185fc"
+      ],
+      "sourceText": "يَوْمَئِذٍ"
+    },
+    {
+      "id": "p099-u0003",
+      "text": "آن روز مردم [پس از پایان حساب]",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "77bcf0ffc05eefc508861343236f9ca5ee73f6f4e2f4c1e266f345c6644d7409",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p099-c3",
+      "start": 509,
+      "end": 539,
+      "groups": [
+        "p099-local-underline-pattern-78b71185fc"
+      ],
+      "sourceText": "يَوْمَئِذٍ"
+    },
+    {
+      "id": "p099-u0004",
+      "text": "پس هرکس هموزن ذره ای نیکی کند، آن نیکی را ببیند.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "1856a9060e90d30085270cc6a84978a8359907dc2bf543a9179ac0222f883715",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p099-c4",
+      "start": 726,
+      "end": 774,
+      "groups": [
+        "p099-red-green-pair-84c9b70fbe"
+      ],
+      "sourceText": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ"
+    },
+    {
+      "id": "p099-u0005",
+      "text": "و هرکس هموزن ذره ای بدی کند، آن بدی را ببیند.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "f211b2e8e49a5084ac305aacd9f55362992f3a58d3974e68f5fb8bd2c089e4c1",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p099-c5",
+      "start": 828,
+      "end": 873,
+      "groups": [
+        "p099-red-green-pair-84c9b70fbe"
+      ],
+      "sourceText": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p099-local-underline-pattern-78b71185fc",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p099-u0002",
+        "p099-u0003"
+      ]
+    },
+    {
+      "id": "p099-red-green-pair-84c9b70fbe",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p099-u0004",
+        "p099-u0005"
+      ]
+    },
+    {
+      "id": "p099-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p099-u0001"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p099-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "هنگامی که زمین را با [شدیدترین] لرزشش بلرزانند،۱",
+        "last": "و انسان بگوید: زمین را چه شده است؟۳"
+      },
+      "lines": [
+        "p099-l0001"
+      ]
+    }
+  ]
+}

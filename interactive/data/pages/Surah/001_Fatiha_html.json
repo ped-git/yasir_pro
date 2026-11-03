@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "source": "Surah/001_Fatiha_html.html",
+  "sourceHash": "3f697809148b5faf4e74f3c54a93e98b15e09093ae79ed8d4307f983c893918a",
+  "underlines": [
+    {
+      "id": "p001-u0001",
+      "text": "رَبِّ الْعَالَمِينَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "0b5bc33d6d2dcfe4793d6cca5f5e8f373e746e2c172072be96caecd7a7726ffd",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 123,
+      "end": 142,
+      "groups": [
+        "p001-divine-attributes"
+      ]
+    },
+    {
+      "id": "p001-u0002",
+      "text": "الرَّحْمَـٰنِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "5e7a881711b2e2198d4b300decbfee8da115b91800d5d3e64a911687df5478a2",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 150,
+      "end": 163,
+      "groups": [
+        "p001-divine-attributes"
+      ]
+    },
+    {
+      "id": "p001-u0003",
+      "text": "الرَّحِيمِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "c873b8557c4b6767baad732c2ecbb0f3db33bf38c4ea7be80b37e3adaf225122",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 170,
+      "end": 180,
+      "groups": [
+        "p001-divine-attributes"
+      ]
+    },
+    {
+      "id": "p001-u0004",
+      "text": "مَالِكِ يَوْمِ الدِّينِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "6f6ba24f8e1f558295c59d1fc532edaf8bfecb9820ea73a3c58a13869b2e73d4",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 188,
+      "end": 211,
+      "groups": [
+        "p001-divine-attributes"
+      ]
+    },
+    {
+      "id": "p001-u0005",
+      "text": "إِيَّاكَ نَعْبُدُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "6385a5f00f1336948e580c85fca6d66386cd7eb55de73600685dfd1663d06c44",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c2",
+      "start": 235,
+      "end": 252,
+      "groups": [
+        "p001-worship-and-help"
+      ]
+    },
+    {
+      "id": "p001-u0006",
+      "text": "إِيَّاكَ نَسْتَعِينُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "c3fb55e0b8e5d4c01cab4c2dae28f2e76bde8087153cf0502db33a0e74b60eae",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c2",
+      "start": 261,
+      "end": 281,
+      "groups": [
+        "p001-worship-and-help"
+      ]
+    },
+    {
+      "id": "p001-u0007",
+      "text": "أَنْعَمْتَ عَلَيْهِمْ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "02366eaf607ba86671457693785fac63aa15b947cd4bf6a6fed473c61a7e59b3",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 365,
+      "end": 386,
+      "groups": [
+        "p001-contrasting-paths"
+      ]
+    },
+    {
+      "id": "p001-u0008",
+      "text": "الْمَغْضُوبِ عَلَيْهِمْ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(2)",
+      "textHash": "ef950aa96e9fbedcc108532f326e43e6faa0e1a15798596231d76eaaea2ec903",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 400,
+      "end": 423,
+      "groups": [
+        "p001-contrasting-paths"
+      ]
+    },
+    {
+      "id": "p001-u0009",
+      "text": "الضَّالِّينَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "75f791cf1e9917450f83d2cb3405dd557bbbfccd0924783155b20d65ad84610d",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 436,
+      "end": 448,
+      "groups": [
+        "p001-contrasting-paths"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p001-divine-attributes",
+      "label": "Divine attributes in the opening praise",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0001",
+        "p001-u0002",
+        "p001-u0003",
+        "p001-u0004"
+      ]
+    },
+    {
+      "id": "p001-worship-and-help",
+      "label": "Parallel declarations of worship and seeking help",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0005",
+        "p001-u0006"
+      ]
+    },
+    {
+      "id": "p001-contrasting-paths",
+      "label": "Favored path contrasted with the two rejected paths",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0007",
+        "p001-u0008",
+        "p001-u0009"
+      ]
+    }
+  ],
+  "sections": []
+}

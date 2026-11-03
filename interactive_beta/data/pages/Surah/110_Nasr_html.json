@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "source": "Surah/110_Nasr_html.html",
+  "sourceHash": "e66ba9af773da2c57c72400f28fed4df67d22979faf18408c58a311772291cca",
+  "underlines": [
+    {
+      "id": "p110-u0001",
+      "text": "جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "f9ca6f97cd32fe8e49c4fdbc87f98032bcf7787243521f92e3c47dbf47d5b66a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 103,
+      "end": 141,
+      "groups": [
+        "p110-textual-coordination-b1f9663b33"
+      ]
+    },
+    {
+      "id": "p110-u0002",
+      "text": "نَصْرُ اللَّهِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "c07347a2d7c9dd0c083b657944ceeda122d7b905c0f05e1687b5a3f67afe7046",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p110-u0001",
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 109,
+      "end": 123,
+      "groups": [
+        "p110-textual-coordination-f6c8fc9b0b"
+      ]
+    },
+    {
+      "id": "p110-u0003",
+      "text": "الْفَتْحُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "f52ae5ded34e7d175182053901d46f3febe719378a5c846cc72868fa2cd161a0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p110-u0001",
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 132,
+      "end": 141,
+      "groups": [
+        "p110-textual-coordination-f6c8fc9b0b"
+      ]
+    },
+    {
+      "id": "p110-u0004",
+      "text": "رَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "a6ad353e1f7615c61210b9c5b416566026f52ee57d1869490d25e5e2d6143e85",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 151,
+      "end": 209,
+      "groups": [
+        "p110-textual-coordination-b1f9663b33"
+      ]
+    },
+    {
+      "id": "p110-u0005",
+      "text": "سَبِّحْ بِحَمْدِ رَبِّكَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "72c2738c25cc0eccafde7a5ff24cb3b73356675614fd9d7617723a2886ac0595",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 219,
+      "end": 243,
+      "groups": [
+        "p110-textual-coordination-0646d3508e"
+      ]
+    },
+    {
+      "id": "p110-u0006",
+      "text": "اسْتَغْفِرْهُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "468875111089d85e00d01730e9148b2fd9ccd95cd437813e6d3756ae3a6fa32f",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 246,
+      "end": 259,
+      "groups": [
+        "p110-textual-coordination-0646d3508e"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p110-textual-coordination-b1f9663b33",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0001",
+        "p110-u0004"
+      ]
+    },
+    {
+      "id": "p110-textual-coordination-0646d3508e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0005",
+        "p110-u0006"
+      ]
+    },
+    {
+      "id": "p110-textual-coordination-f6c8fc9b0b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0002",
+        "p110-u0003"
+      ]
+    }
+  ],
+  "sections": []
+}

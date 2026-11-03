@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "source": "Surah/110_Nasr_html.html",
+  "sourceHash": "751e1fa3c6a26c367aedb680390eb1e8618f6721556e26602cf4d78b5b06ad77",
+  "underlines": [
+    {
+      "id": "p110-u0001",
+      "text": "که یاری خدا و [آن] پیروزی فرا رسد،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "7b38ebf805e0198ea2b83a74d1737481a248fdf0f18887738d398bb6797534f3",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 99,
+      "end": 134,
+      "groups": [
+        "p110-textual-coordination-b1f9663b33"
+      ],
+      "sourceText": "جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+    },
+    {
+      "id": "p110-u0002",
+      "text": "خدا و [آن]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "1437aa10af93996f1dcb609600041af301bba5f2c4d4f71838513c1635433198",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p110-u0001",
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 107,
+      "end": 119,
+      "groups": [
+        "p110-textual-coordination-f6c8fc9b0b"
+      ],
+      "sourceText": "نَصْرُ اللَّهِ"
+    },
+    {
+      "id": "p110-u0003",
+      "text": "فرا رسد،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "55b0d6c17d25c058959e9c531181ef4776563ca6c89e8d73c40ffd6d4de65852",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p110-u0001",
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 125,
+      "end": 134,
+      "groups": [
+        "p110-textual-coordination-f6c8fc9b0b"
+      ],
+      "sourceText": "الْفَتْحُ"
+    },
+    {
+      "id": "p110-u0004",
+      "text": "مردم را ببینی که گروه گروه در دین خدا درآیند،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "6e3115203a56064b7024de8590f349b21a9e8404d6fded5da4792db08e8f93c8",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 137,
+      "end": 182,
+      "groups": [
+        "p110-textual-coordination-b1f9663b33"
+      ],
+      "sourceText": "رَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا"
+    },
+    {
+      "id": "p110-u0005",
+      "text": "پروردگارت را همراه با سپاس و ستایش",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "560ac23b286dfc991c6b877e187e966ac3287f43720c59581bb2058fd34c6866",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 186,
+      "end": 221,
+      "groups": [
+        "p110-textual-coordination-0646d3508e"
+      ],
+      "sourceText": "سَبِّحْ بِحَمْدِ رَبِّكَ"
+    },
+    {
+      "id": "p110-u0006",
+      "text": "گوی، و از او آمرزش",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "91703d73163e3880d28069b7cddb075480b1484f1a430083da2d245d6c432d70",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p110-c1",
+      "start": 226,
+      "end": 245,
+      "groups": [
+        "p110-textual-coordination-0646d3508e"
+      ],
+      "sourceText": "اسْتَغْفِرْهُ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p110-textual-coordination-b1f9663b33",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0001",
+        "p110-u0004"
+      ]
+    },
+    {
+      "id": "p110-textual-coordination-0646d3508e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0005",
+        "p110-u0006"
+      ]
+    },
+    {
+      "id": "p110-textual-coordination-f6c8fc9b0b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p110-u0002",
+        "p110-u0003"
+      ]
+    }
+  ],
+  "sections": []
+}

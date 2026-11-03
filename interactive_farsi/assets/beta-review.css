@@ -1,0 +1,64 @@
+:root { color-scheme: light; --ink: #232d29; --muted: #64716b; --edge: #d3ddd6; --accent: #216247; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: #fff; font: 15px/1.65 "Avenir Next", "Trebuchet MS", sans-serif; letter-spacing: 0; }
+.inner { max-width: 1080px; margin-inline: auto; padding: 22px 24px; }
+.language-links { display: flex; gap: 18px; }
+.masthead { background: #eef4ef; border-bottom: 1px solid var(--edge); }
+h1 { margin: 12px 0; font-size: 30px; line-height: 1.2; }
+h2 { font-size: 18px; margin: 0 0 12px; }
+h3 { font-size: 16px; line-height: 1.5; margin: 5px 0 12px; }
+h4 { font-size: 13px; margin: 10px 0 5px; }
+p { margin: 10px 0; }
+a { color: var(--accent); text-underline-offset: 3px; }
+.caution { max-width: 900px; border-left: 3px solid #aa792e; padding-left: 14px; }
+.principles { padding-bottom: 20px; border-bottom: 1px solid var(--edge); }
+.review-corrections { padding-block: 20px; border-bottom: 1px solid var(--edge); }
+.passage-coverage { padding-block: 20px; border-bottom: 1px solid var(--edge); }
+.table-scroll { overflow: auto; max-width: 100%; margin-top: 12px; }
+.inventory-table { max-height: 500px; }
+.inventory-table td[lang="ar"] { min-width: 250px; }
+.inventory-filters { padding-top: 12px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { border-bottom: 1px solid var(--edge); text-align: left; vertical-align: top; padding: 10px 8px; }
+td[lang="ar"] { font: 18px/1.8 "KFGQPC Uthman Taha Naskh", serif; text-align: right; min-width: 170px; }
+.role-sample { white-space: nowrap; padding-bottom: 3px; }
+.role-good { border-bottom: 2px solid #444; }
+.role-bad { border-bottom: 2px dotted #444; }
+.role-neutral { border-bottom: 2px dashed #444; }
+li { margin-block: 7px; }
+.filters { display: flex; flex-wrap: wrap; align-items: end; gap: 12px; padding-block: 20px 10px; }
+label { display: grid; gap: 4px; color: var(--muted); font-size: 12px; }
+select, input, button { height: 35px; max-width: 100%; border: 1px solid #b9c9bd; background: #fff; border-radius: 4px; padding: 4px 9px; font: inherit; color: var(--ink); }
+.search-label { flex: 1; min-width: 160px; }
+button { cursor: pointer; color: var(--accent); }
+button:hover { background: #edf4ed; }
+.filter-actions { display: flex; flex-wrap: wrap; gap: 6px; }
+#visible-count, .status, .no-issues { color: var(--muted); font-size: 13px; }
+.surah { padding-block: 22px; border-top: 1px solid var(--edge); }
+.surah-heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; }
+.surah-heading [lang="ar"] { font-family: "KFGQPC Uthman Taha Naskh", serif; font-size: 23px; }
+details { border-bottom: 1px solid #e4e9e5; }
+summary { cursor: pointer; padding: 12px 5px; }
+summary span { margin-right: 14px; }
+summary strong { font-size: 13px; font-variant-numeric: tabular-nums; color: var(--muted); }
+.issue-location { display: inline-block; min-width: 62px; font-variant-numeric: tabular-nums; font-weight: 600; }
+.issue-category { font-size: 14px; }
+.issue-status { float: right; margin-right: 0; font-size: 11px; color: var(--muted); }
+.review-item[data-status="source-check"] .issue-status { color: #806000; }
+.detail, .excerpt-note { color: var(--muted); font-size: 13px; }
+.decision { display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 8px 14px; margin: 14px 0; padding-block: 12px; border-block: 1px solid #e5eae6; }
+.decision dt { color: var(--muted); font-size: 12px; font-weight: 600; }
+.decision dd { margin: 0; overflow-wrap: anywhere; }
+.alternatives { border-left: 3px solid #b7cbbd; padding-left: 15px; margin-block: 16px; }
+.alternatives ol { margin-block: 6px; padding-left: 21px; }
+.issue-links { display: flex; flex-wrap: wrap; gap: 18px; font-size: 13px; }
+.review-item { scroll-margin-top: 15px; }
+.review-item:target { background: #fbfcf8; }
+.range-omission { color: var(--muted); font-family: "Avenir Next", sans-serif; font-size: 14px; }
+.issue-body { padding: 0 12px 15px 25px; overflow-wrap: anywhere; }
+blockquote { margin: 14px 0; padding: 12px 16px; border-right: 3px solid #9db8a8; background: #f7f9f7; font: 21px/2 "KFGQPC Uthman Taha Naskh", serif; }
+blockquote small { color: var(--muted); }
+.action { color: #705424; }
+[hidden] { display: none !important; }
+@media(max-width:600px) { .inner { padding-inline: 16px; } h1 { font-size: 25px; } .filters label { flex: 1 1 140px; min-width: 0; } .filters select { width: 100%; } .issue-body { padding-left: 8px; padding-right: 4px; } blockquote { font-size: 19px; } .decision { grid-template-columns: 1fr; gap: 3px; } .decision dd { margin-bottom: 9px; } .issue-status { float: none; display: block; margin-left: 80px; } }
+@media print { .filters, #visible-count { display:none; } .masthead { background: #fff; } details { break-inside: avoid; } }

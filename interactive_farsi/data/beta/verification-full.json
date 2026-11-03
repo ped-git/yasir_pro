@@ -1,0 +1,2116 @@
+{
+  "protectedReferences": 82,
+  "quotationSpans": 788,
+  "underlinePatternChanges": 514,
+  "newUnderlines": 584,
+  "baselineComparisons": 351,
+  "comparisonNote": "Target comparisons remove only approved quotation/new-underline markers and restore documented pattern changes; the real beta deliberately displays those additions.",
+  "results": [
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "dca8644faf2a84ec2d7f2f3822a194007ac3d0e2662b54f2e359e5f2aafd3c0c"
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "c4ee5c3927ecba3358894de80ac1a1881d8559f1f8396d85aa1ade2124fde753"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9399af7479a99f434ed68b27d6f7d22683001a51cfb35ba1fa510f3f7340197a"
+    },
+    {
+      "page": "Surah/004_Nissa_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "81e0b69a842b73be81b0b9af9aba35ce73d5d9d7fda00283719519fac1ef1979"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "312f651cb8918c32c812f57f0079b61c11684095f99ebf74bba2ec987fd59297"
+    },
+    {
+      "page": "Surah/006_Anaam_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "60947f7d6927a69e0ce59e65caaffe9c81efbc46508562672c7d535c336124d7"
+    },
+    {
+      "page": "Surah/007_Araf_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "843f78b3e3846a860f2e464c85c88b826a8ce180940789429dab477147be5ac0"
+    },
+    {
+      "page": "Surah/008_Anfal_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "6cd80a2acbda332bb5f1985cd243d27904ffeef2d143318e23555cff320fa141"
+    },
+    {
+      "page": "Surah/009_Tawbah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "317e92fa3e733cc7225bca564afe37062a4d24b343fa7d94b968b471af5c175b"
+    },
+    {
+      "page": "Surah/010_Yunus_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b97a38a3e1191e326bc83cfff2d28dc30b642d5edc25315950b7b22cf288f1c8"
+    },
+    {
+      "page": "Surah/011_Hud_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "43899b8bc4d2b615944c2bbe97a096f2e7f4dff2e7cb73ef5c2a1db419e2abfa"
+    },
+    {
+      "page": "Surah/012_Yusof_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "3aea682e90b08bca24f01c067c9d37d26973fe42dec4dbb51b7e1f83f201e265"
+    },
+    {
+      "page": "Surah/013_Raad_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "30c6002cd2ef8bb1da250b991e50dcac88a4bc5eed1ccee024be0265f959a496"
+    },
+    {
+      "page": "Surah/014_Ibrahim_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9858a0628d43f6210dfcbb70feb3ee9928044241c4fa2fb0dc6d797e55ecce61"
+    },
+    {
+      "page": "Surah/015_Hejr_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "fc01c139db9017d488318c89807e6dfa86d297c7636ca9ecf3b6e70cbba47758"
+    },
+    {
+      "page": "Surah/016_Nahl_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "08351133e2ef67a7f57aaabb8be3b251d5bd4c208dfe3bfb47ba64669f652f9c"
+    },
+    {
+      "page": "Surah/017_Esra_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "1bb6f88637380bec98e3804afbdc892182d377f0906265c401627a12f76ddfdf"
+    },
+    {
+      "page": "Surah/018_Kahf_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "57570be4c044a48da8821d416c40ce2967ec690bcc48ad9d1819d41367084293"
+    },
+    {
+      "page": "Surah/019_Maryam_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b2d18993a47083e7eb7c8e003389de324a11848e628d316ff90f2a499f03ceb2"
+    },
+    {
+      "page": "Surah/020_Taha_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "a48e38dccefcdd090bcc0535b60e6d2af5111116f488474228d5d53124058d5d"
+    },
+    {
+      "page": "Surah/021_Anbia_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "464fbfffe047975b54db335ab84f06861de52c271f24d1880aed27062c1edfa2"
+    },
+    {
+      "page": "Surah/022_Haj_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2e1f2b84561de4c1279ba50314aa19e854d5a09f24181b1a459e8803b7d29356"
+    },
+    {
+      "page": "Surah/023_Momenun_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "30ee34b41dbb6d6494aaf1320e80368eef50a978fd330d2064581c3fc4618120"
+    },
+    {
+      "page": "Surah/024_Noor_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "758e8b75e9d0c68f3a3926ff6dc23c73458caef6e38b16722949b982f853b813"
+    },
+    {
+      "page": "Surah/025_Forqan_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "add918a3a906740d3bba5178307fa7310e77b99a5c4d25b368d0776d325f1350"
+    },
+    {
+      "page": "Surah/026_Shoara_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "d557a62787a7b96919efb8b5e2589da2f97a539183c93b1d7b9477bdbd4a442f"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c2033b412410aad886eaebd80fedb92e9732c380d5a49f9382bb5fbdcb33e839"
+    },
+    {
+      "page": "Surah/028_Qasas_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "77ecc3d5743604d2e9d88a87a4d30c51b38d964a63c231647f271c6a4947c164"
+    },
+    {
+      "page": "Surah/029_Ankabut_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "4d159b202f5d3169bb33eb4e5144956c16949cf96a25bf2cf65336235a9cbd3e"
+    },
+    {
+      "page": "Surah/030_Rum_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "ad0df62840d815f6e6a28745c8b40d6ea7169c1e8172f6c91908faef9e7de816"
+    },
+    {
+      "page": "Surah/031_Loqman_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2f868e272cb68334a5848b01a3287f0ea27a94733eaff855c1f16e28366b3892"
+    },
+    {
+      "page": "Surah/032_Sajda_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "7716dd9155d462700f5fce70f04a1281ad3032ac15956612c650acc0fe2b7a20"
+    },
+    {
+      "page": "Surah/033_Ahzab_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c8e9a2359f9c94d5e81fbaae1fa064ccca89dbea8ae5377dd147e8a87db839bb"
+    },
+    {
+      "page": "Surah/034_Saba_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "af4318fc5bdd2243d878002aefb69a2669901b38f1448a7d698f0c797e69bb89"
+    },
+    {
+      "page": "Surah/035_Fater_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "dee19bb9163b774879a43b0b3997a4978c59c2514e8b6b978a88984cfbe47ddd"
+    },
+    {
+      "page": "Surah/036_Yasin_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "fafa23779313a314819cfa534dc2267f2fecd0cb3a2c27417e01842e27b1d652"
+    },
+    {
+      "page": "Surah/037_Saffat_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "333ed6860ea20e6b6ca575771a0498e815e41b1f2464d705a4ca18ac2387f0cd"
+    },
+    {
+      "page": "Surah/038_Saad_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "f4ea51b4b39a85a51cc892349c17526917a0293ff6b9a81ca576281e17376485"
+    },
+    {
+      "page": "Surah/039_Zomar_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "44ced695f33377130853cbb497826192b7c538748796243d86b7802e199f04ed"
+    },
+    {
+      "page": "Surah/040_Ghafer_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "366d2b9dc192d201315d2ca7df5f91e02f39e766c08d0d807ed1eb15d1716905"
+    },
+    {
+      "page": "Surah/041_Fussilat_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b1f9e416ab0ca0717f25bf76857b71d167b96ac1cc6a2b44df464416b956e2bf"
+    },
+    {
+      "page": "Surah/042_Showra_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "175c8d6e1ee90aebaee32de3bdb148da1252667be82617d8af0810794ed0d1b8"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "89a828c3754854e85ea37d848015e756d7f42798811f02d028c315cdebf7476e"
+    },
+    {
+      "page": "Surah/044_Dokhan_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "cf0fa24eeb9a6fb26ba71b91f4a2a175772d0189543b3bbf3b7a447b8a76469b"
+    },
+    {
+      "page": "Surah/045_Jathiah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d3fd4a8b274511d3b2b297cc8d5c413e61b3ed690b03c2089e93e237388f9625"
+    },
+    {
+      "page": "Surah/046_Ahqaf_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "0c8cfd12d9134b094fa8b4b0dfb1f9cb74453f4b93fcfb5d6651ac49a4ed43b3"
+    },
+    {
+      "page": "Surah/047_Muhammad_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "999e5578bb2e9f1ae6d9e648529228dbabb057c32888f83d2ce288384c0f2ca1"
+    },
+    {
+      "page": "Surah/048_Fath_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "06fbcdbf27964c9328e32a4728c502d9fb7c2e6384d2dd45ba4da057fb73795a"
+    },
+    {
+      "page": "Surah/049_Hojorat_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "a7e5b19dd864905dbae99461be221419c35b5903682915617c9bf6c0f01f499d"
+    },
+    {
+      "page": "Surah/050_Qaf_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2a3e9ae51a3c6295841436fd37facc35b31d9547d80779504cde54074af72d2c"
+    },
+    {
+      "page": "Surah/051_Zariyat_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "40c14da930b23a4a28b898781c951ac0b201a95c7f3be302df979a2f571650a5"
+    },
+    {
+      "page": "Surah/052_Tur_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "fecd0dbbe0ac589eebc08c5416cdd918e836055f119829153959196b3f9f2584"
+    },
+    {
+      "page": "Surah/053_Najm_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "723b42c1f28d0bcf0402cde7bd00a5ac55530eda1b6244e2bf7617e99013996a"
+    },
+    {
+      "page": "Surah/054_Qamar_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "5d5d77ab2d7121396b728f2d140bef7a6efe33be207d77f3418a09bcb0fad03a"
+    },
+    {
+      "page": "Surah/055_AlRahman_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "843f32f062be4c8a649460ca897027b622dbcbebb0e18451345f3b4a1415c5af"
+    },
+    {
+      "page": "Surah/056_Waqea_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "a5b33edd41a52c9ca7b6a1cebd4a033c0de04d298d4d85754a6915722d743ff2"
+    },
+    {
+      "page": "Surah/057_Hadid_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "08a360e678f02364c1d07a315213fb06932507db667166d2c4e5baa28e2ac6ca"
+    },
+    {
+      "page": "Surah/058_Mojadala_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "ead322f3688c4db8e741a13dd930fff90b9ce3b1f022aca5fbcffc6375c92974"
+    },
+    {
+      "page": "Surah/059_Hashr_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "70cf94ba8500fbed10dc53c4c6d6366c67e6daa3a0758abe28fb2410b9ca947e"
+    },
+    {
+      "page": "Surah/060_Momtahena_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "95f5723afeb8a4683d6efe2761257cd02a1f4e0fcfe25ed951776250e0eb7aa6"
+    },
+    {
+      "page": "Surah/061_Saff_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "cf1670a2e43433be8b8fc6de6ab094f6438704caab1b52c1c00ab8ba33f6ec5d"
+    },
+    {
+      "page": "Surah/062_Jome_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "26304c872de046eb7f9ea4d448510b5b34a1c3bd30102c2cfa08ac7e1f92837e"
+    },
+    {
+      "page": "Surah/063_Monafequn_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2f4ea44fe579a07a209800c6b571d67a89edb8f027e800158095584c15c4ac75"
+    },
+    {
+      "page": "Surah/064_Taqabon_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "5396b08b45b49c1a09db9f9184b01b8f013d904ad9615b27437024b0e9623610"
+    },
+    {
+      "page": "Surah/065_Talaq_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "22ecd97da84f70b6dc54d1b91f2918f64d9956bb16216e2aab302c79fdcda501"
+    },
+    {
+      "page": "Surah/066_Tahrim_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "5093826642309997266185c4b32008824f2429c0463da27ae36f2be424809d6d"
+    },
+    {
+      "page": "Surah/067_Molk_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "c73b947d3844c492eb20b394d99303330fee6fd57e72d68b7b97a1e9567a5828"
+    },
+    {
+      "page": "Surah/068_Qalam_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "15908f2c15f3cb9e043d0cc5fbaefab9d93d14d4c627d1fa875f6a6a2706f370"
+    },
+    {
+      "page": "Surah/069_Haqqa_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "4c08eb0ddb9281e7690b554615f02a9b9bf8b25d9b0bb587ed261c8a07a2c860"
+    },
+    {
+      "page": "Surah/070_Maarij_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "fa01f6cb521265169ce2091350200e7f1e6c71824b58d13f1f8fe366234892e9"
+    },
+    {
+      "page": "Surah/071_Nuh_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "afe2b62e37b812a60cce7950da673ae26ad47c872cf0a34b38708199a7bba4c1"
+    },
+    {
+      "page": "Surah/072_Jin_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "000b98efd13f91f24dc768ab70c87e612b63b786fe1d680c9ea4d54f29468cd9"
+    },
+    {
+      "page": "Surah/073_Mozamel_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "db33fe84b0161957b78d398dd50443bb3ca715d7821381a977951a067faffd19"
+    },
+    {
+      "page": "Surah/074_Modathir_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2458e5169b122f4bbb421915d06e3965a8113fb8093b07a843a81e99892b4542"
+    },
+    {
+      "page": "Surah/075_Qiyamah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "229c5e575b5eabd22a8d205031a8436de83f3bba148491a8ea460f19b91ea8f3"
+    },
+    {
+      "page": "Surah/076_Ensan_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "e9f278ce58799b0d416246996f44b359566722380e59f36f1e84c0d3049ac827"
+    },
+    {
+      "page": "Surah/077_Morsalat_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "f0c18c961e01068f258a84c177ea5a8854516198033217bd6bd15925e15193f6"
+    },
+    {
+      "page": "Surah/078_Nabaa_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d7b31c9d704e7713085bbef135be87481fabeed99819825a39673ebd3fd00fa9"
+    },
+    {
+      "page": "Surah/079_Nazeat_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "7b66c4f220f3b68fc07c938d8baee29ccb06e0691cc588e6a8394de14cf0a4c3"
+    },
+    {
+      "page": "Surah/080_Abas_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d6305166f9e5152b6ad7b4d2a945b44578174662b78705b7f46e09c5ceebb744"
+    },
+    {
+      "page": "Surah/081_Takwir_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d0efa353a891285b7709c0e2e9b7455322b31e0e97a2027fc8b0901811f10bf6"
+    },
+    {
+      "page": "Surah/082_Enfetar_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "f487ff90874d19575d54185861af73db027c98dd5b017537f95f089b74d13164"
+    },
+    {
+      "page": "Surah/083_Motafefin_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "9889a62fa43172f7c8d8fd958bddf85864c597fa8c6bdcd1ab4224eb14258494"
+    },
+    {
+      "page": "Surah/084_Ensheqaq_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "bfb89a48d96cfeb204d2701cbfdbc1cfe6c8ae002227ace694155cd18bae67e7"
+    },
+    {
+      "page": "Surah/085_Boruj_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "1faaa00e6d4aaa60fd2adb4a771795b1d0f815af594b94d239556b5c06f0ecaf"
+    },
+    {
+      "page": "Surah/086_Tareq_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "bcb6c740ed865d519211547e56a40195e96ce8a67ef18dc3644edf0da67038ca"
+    },
+    {
+      "page": "Surah/087_Aala_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d5faf7115b9232b106d4dc19286f0dabfede00b5c6b79b69f93da22a7208caa6"
+    },
+    {
+      "page": "Surah/088_Qashiya_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "f8e32877b3c41695562a4c07e21055022fc36acdc59f99b93cf22cce1fbc4b5b"
+    },
+    {
+      "page": "Surah/089_Fajr_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d53b5fbcc83af73c659d3392e3d7de38d3fbaf3b88d96cac7cdbedc42564a9a8"
+    },
+    {
+      "page": "Surah/090_Balad_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "8427eaa56d23e4932ee96cc1ad05c0d9cab7189d3140ffff782608d8956c9ea9"
+    },
+    {
+      "page": "Surah/091_Shams_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "83a4d0b1e824718e77cd8081b5702a66c7519d53e173014b6961285b364940eb"
+    },
+    {
+      "page": "Surah/092_Layl_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d8c8785ab044b0952651ee090e5f8d3882b05b257f12a6069b76fd1e83c8a4ad"
+    },
+    {
+      "page": "Surah/093_Dhoha_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "485dfac477d869a2dcc1126d3ebd2ecb005195bc12fad7782b3a266e13c4c4dd"
+    },
+    {
+      "page": "Surah/094_Sharh_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "6db74e182fe4b5297c50997d970039143e434beec2d76e3bbc45802c4073e3b8"
+    },
+    {
+      "page": "Surah/095_Tin_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "e2c9a7f1b3154b7304f671b4dbe59d3cf89a2b1dc0ffe1bd1f51eb6b639217e6"
+    },
+    {
+      "page": "Surah/096_Alaq_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "167277d984acf79b736276b3ffb16555f8d1b30b4d283afd8d83305dc8d321f1"
+    },
+    {
+      "page": "Surah/097_Qadr_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "e86db7223c73ef13c552e60d27939c7b9799a9fb7b53f484c2e33f172a0f031f"
+    },
+    {
+      "page": "Surah/098_Bayyenah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "196cc6791478c2cd8810e4dd0852a67f5b7e9a99548a0fe1205423a907de250b"
+    },
+    {
+      "page": "Surah/099_Zelzelah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "12465d3de0a998d6b93db54664dc8f52dc992eee3c1fd58598d4df214e3bcfd9"
+    },
+    {
+      "page": "Surah/100_Aadiyat_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "b43bee4c1856a72f88bc121c1ed96356fcf6c5574660ed27ba309544ec08c14e"
+    },
+    {
+      "page": "Surah/101_Qareah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "939ea03dee86c04db1796d5058c0c719f76073a7897f0d02d82c2c0da802cfa5"
+    },
+    {
+      "page": "Surah/102_Takathor_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "63a6e49b97ffb3f93230f07d3493b540d5c9690a1355d2811e69659ab4e5b6f6"
+    },
+    {
+      "page": "Surah/103_Aasr_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "79d6ad4d5cd6c377a5a8d7ccdc7b246228c02ee14c7a159cc174747fcfd613fc"
+    },
+    {
+      "page": "Surah/104_Homazah_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "7edd80afdb10268d64b3c2573d6170de415f65c20edec1d81436380e167e1741"
+    },
+    {
+      "page": "Surah/105_Fil_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "952ddd610ee0021d8ca3592749b833db2fee03b697b6d0190dc804d722b87b02"
+    },
+    {
+      "page": "Surah/106_Qoraysh_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "c46544a4a9b35be2d44f10b8b878c95ee728492b96e8dd748f52978363dd8348"
+    },
+    {
+      "page": "Surah/107_Maaun_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "653a60f68cd6678edd169a366b2a074971e0e72a4e26de7638dc922c6e386724"
+    },
+    {
+      "page": "Surah/108_Kawthar_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "80947a5af85dadbb14f775557ec6914eb85e129b7705a76660238079880605d9"
+    },
+    {
+      "page": "Surah/109_Kaferun_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2807842160c4c6f99abd13eb3102fd85da379a9239833bbffc380ca95041c1d9"
+    },
+    {
+      "page": "Surah/110_Nasr_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "608f1a4213e6f41eb8d15599ed41d7f0f7d6a330530fe75cb423d0cd87d1ab37"
+    },
+    {
+      "page": "Surah/111_Masad_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "1cdbf4be9827856b438dba4fa03ee7a9ad749f932a9917efc8fb2a89a0b4c150"
+    },
+    {
+      "page": "Surah/112_Ekhlas_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "036ff33cad50e0e792b08174cb05f5d547c9d052b2dbedf67410d18069e65a28"
+    },
+    {
+      "page": "Surah/113_Falaq_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "b5b511e7ba032bbca5ea1a8bd4623f02d1caa615b8fc76db264a58cb7c813287"
+    },
+    {
+      "page": "Surah/114_Nas_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "d9c361789c2ee588a1d165918b7012a64ce739c363b9b62fb7a79fde05fad8f7"
+    },
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "79d3143aafa6bec2e372e4f5fe940a54742a11e6329aa81d55233d2b1316864e"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "2671b9019f742c4b8136a1a42927ed2267cd56213832a656d3247f3886b89952"
+    },
+    {
+      "page": "index.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "1514882c6d638d6e542bdee61c7709b15bdca34255d6cabf373ae99794492cf8"
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0e8573e539a6b0d024b219a1ae9e2642ade996ab2cf6644ad444c1778cc0c6a0"
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "cc9d62ba6c676e5919b926c351ccd46ddb30bc77c3c009ac65df3617b3a002a0"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "e3524ed9061547220bd2ea7d4cb3e6c35608fc68b059212f3d0b3ae53b8c5e92"
+    },
+    {
+      "page": "Surah/004_Nissa_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "d3a2caff8dbeab6aeae44143a0b6ecedcaf0916a97d42d607a822f8e09fed31f"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "44e593623f8404bf39e96fbf7b5f61b923da0ffe00898faa08896aa9297e8808"
+    },
+    {
+      "page": "Surah/006_Anaam_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "873c68f31622f370d38c60b185da462917c3a83184f7509a7768c127d7e15e55"
+    },
+    {
+      "page": "Surah/007_Araf_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "33cf4d42dd115d9814c8af2f4ab081f229b02b46e33395ebd466359096807e79"
+    },
+    {
+      "page": "Surah/008_Anfal_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "8ff4c1e928db8cd00c7eb1937ef3bcdf6567936b54bc405d993f6b4b73ae6882"
+    },
+    {
+      "page": "Surah/009_Tawbah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "900561918f0a8fddc2d685eab8f86b80c7b6e270a37338531c69e7f1cef32d02"
+    },
+    {
+      "page": "Surah/010_Yunus_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9332e6dd1d5c9cdc82fba126a960ac0ab53d19e14f1beee83966445c914dbfe4"
+    },
+    {
+      "page": "Surah/011_Hud_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "4f6d6a00a3780799204a51a14e7db51632a2ea2fb1fc8d3c8c2230b576f7ae9d"
+    },
+    {
+      "page": "Surah/012_Yusof_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b2e7419b28f1b14d05d18f6be09f29c63c3c975bd4dfbd53036a5e851f5a7d72"
+    },
+    {
+      "page": "Surah/013_Raad_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "0283b8d88e5e467736eec3255b34d46e3f8e6158ded8d369f8d90c328d06ca34"
+    },
+    {
+      "page": "Surah/014_Ibrahim_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b1fe293ef6fc258983ff973b24d70577564ef4e3b19fab04b4f5e7b062d78938"
+    },
+    {
+      "page": "Surah/015_Hejr_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "3d64027eb1a84249391e99ef83175a8b49903b79cbcf34518c39dfc1f650f614"
+    },
+    {
+      "page": "Surah/016_Nahl_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "ca6160f7571c4b8e8f4d0a63f0787d5422335567a7f5ba9abb2717fd213b77bf"
+    },
+    {
+      "page": "Surah/017_Esra_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "0a889c1f54b2d0d27eaadef272e259bc7c3a3ba72f02accad42e587272f899c8"
+    },
+    {
+      "page": "Surah/018_Kahf_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "47a9372da86cc2ed485e38143bce5adaabd48ac8490ef33a8bd8c02d44e65a59"
+    },
+    {
+      "page": "Surah/019_Maryam_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "988d1a8c589e3fbe650f1cba9bc25efd67290582790cabc78b7d20fd1fde142a"
+    },
+    {
+      "page": "Surah/020_Taha_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "4c64ad9910aedab9a753a950a4d27d1d422feccff449c8f67a4c6d97150ec3d2"
+    },
+    {
+      "page": "Surah/021_Anbia_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "8a5bac7b367360d229e1ba4265ccbf62dcd9689fee63b8bebad3dda41956198c"
+    },
+    {
+      "page": "Surah/022_Haj_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0c651c7623fa342b462ca208ec6ad3cd11734ee77fb689fa1d4e8bdba53e610b"
+    },
+    {
+      "page": "Surah/023_Momenun_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "dbb74ac3d555567019efcb1d3d581dd4a1eb6ab07d7a8bcbc8524ab626d8d647"
+    },
+    {
+      "page": "Surah/024_Noor_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "2edc51536481398f788e504074f0922eba68ad121335295d59332585bc813eae"
+    },
+    {
+      "page": "Surah/025_Forqan_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "201e91d16f6cdce2714e9b5d8de04e5e18d8649c5f43aa79a9552a246f93cb07"
+    },
+    {
+      "page": "Surah/026_Shoara_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "8a40bd5b1b175e6e9ffd331b2f9959cf15840b1648b025060babde9e89624419"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "db72113457a397858805aefbbd7394e84a54ca0e948a71ae03ce2be76090509b"
+    },
+    {
+      "page": "Surah/028_Qasas_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "1e6339dadeff2e8cd19cd16aaa03fe9f68c8508d314e8de7d77a21114270f7ef"
+    },
+    {
+      "page": "Surah/029_Ankabut_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "3970a0740e303594a82aa40d0816da0d7aa6734590b90d7eec4d271ec606c78d"
+    },
+    {
+      "page": "Surah/030_Rum_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b66ce8a8351ef6b1b9510aea00c573246e8b79447c7ff06a4107e99791177035"
+    },
+    {
+      "page": "Surah/031_Loqman_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "cda122772c308df36892f3e72ece31bcd4f9fc89e9c335920fe40c6885665bcb"
+    },
+    {
+      "page": "Surah/032_Sajda_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "5bb6d17b989d5d5a19a4cbc8988d385f45a313833cfa22c783b11b8d78276a72"
+    },
+    {
+      "page": "Surah/033_Ahzab_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "35fd0134a0eee23255cafb58e421ae98abf5df63e5e5fa4bf864fda37dffb5d9"
+    },
+    {
+      "page": "Surah/034_Saba_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "58ca59fd69cbdeaa1cc31b86b503b5b6a2e0f18fef1426b6361f74a2cdd4ec92"
+    },
+    {
+      "page": "Surah/035_Fater_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "66776f660831f10fc8e657595694b49bdb474fdc624fbdcc37a6a01d6f9f38aa"
+    },
+    {
+      "page": "Surah/036_Yasin_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "50afec051cdf97dcc4c6f68691bcc0e007cbec46f558a89e0b55eee2fdcba4a3"
+    },
+    {
+      "page": "Surah/037_Saffat_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "59150af05d181e53b8bb706a1979354e8869226aeb10f26a00da1755e4476284"
+    },
+    {
+      "page": "Surah/038_Saad_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "a961bbf2045926f62d8eacf7456ae2fd8036bcd1020b2332d49f3bb56f69980b"
+    },
+    {
+      "page": "Surah/039_Zomar_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "5e8262e181a8d2d569b35c74ca43fd7a81d97b01148204e133634f7de404b1e5"
+    },
+    {
+      "page": "Surah/040_Ghafer_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "11e18589b8a5c34d3d56cd0d9965492056edd071ec71d8c4758b9e20fbf38a62"
+    },
+    {
+      "page": "Surah/041_Fussilat_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "98b3bb708b48230aa3e8fe6e1f825c5d32c35fa7c92061d831edab732740df11"
+    },
+    {
+      "page": "Surah/042_Showra_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "a0bdce27ca27e2d2d5bc6f5b60ff6c70ddf6762beecfd5e0ef70e6373aaf4f0a"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "846ee195fad73494a9139c184d031ab29c8db6c40babe3f2c69e156f1d7f2649"
+    },
+    {
+      "page": "Surah/044_Dokhan_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "02e1cfd2c6d0394b3f4d66d744087f1d771ebfe80531538627883738e4db1226"
+    },
+    {
+      "page": "Surah/045_Jathiah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "684cfffd528d54d24cdd064d4891ad887e0b16557de31e07eb39518456b0db1e"
+    },
+    {
+      "page": "Surah/046_Ahqaf_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "99810f654a8e95bb89a4a4193f8210218f865f9fab31f0bdd0f4098baff86f1d"
+    },
+    {
+      "page": "Surah/047_Muhammad_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0c2f5431a5d638f6dc322d30a38e7be03eded250456fd28f16f9f1cdbcb9f7e3"
+    },
+    {
+      "page": "Surah/048_Fath_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "71aa219ebec11134ce1e1a8be2943ddad5ad0cfa02f196cc9ab1c635287d24a1"
+    },
+    {
+      "page": "Surah/049_Hojorat_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "da5b06cddc234c271c24c46e7db2a28fbea0c1c4f21fad9eae2e1eaffbb4e281"
+    },
+    {
+      "page": "Surah/050_Qaf_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "eead2b89a680bd602cf256a1e5b19d878ff7e81fe33f41a91e6c3320a13c7d87"
+    },
+    {
+      "page": "Surah/051_Zariyat_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "bca1a8531f23d239effe137abf91c62b9c3614065261e8608cb6f2afadd4c44d"
+    },
+    {
+      "page": "Surah/052_Tur_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "73a6b9890ff4944aa12c76f6c0e6decd7d941468d25682ec291d6b814f0d6bb4"
+    },
+    {
+      "page": "Surah/053_Najm_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8c0b5b69e2f25a425fb9b7cba41fd9dfdd2152e7203f79e28b83ad90821e1879"
+    },
+    {
+      "page": "Surah/054_Qamar_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "cb805426b11d1d5dabf3be53caf1ab499983046aa670902ffccd9bb9e03592fa"
+    },
+    {
+      "page": "Surah/055_AlRahman_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "f38147a80e38a800f3d978e3a60b1ec6ed72946291a0680a51a2482d37893639"
+    },
+    {
+      "page": "Surah/056_Waqea_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d4591c4f912248b1894463f083cf7ab26978402a7d412ad10b0d2ebdf2e14e67"
+    },
+    {
+      "page": "Surah/057_Hadid_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e73fa1353c73ed0ac8166c90189841e8f6176682236701d22d4ef27272e5ab2c"
+    },
+    {
+      "page": "Surah/058_Mojadala_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "efb7868ee05a481261dd998971ecc5c4728331f1a6dbb681de24d6c3f40b6107"
+    },
+    {
+      "page": "Surah/059_Hashr_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "9b4c513e5524823eeccf335a887ce53866e7cae812f558900e1a172ba96e4ad2"
+    },
+    {
+      "page": "Surah/060_Momtahena_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "fb1a66cd3cbcae495dd5280549e2f34ad017a5654407951ebc27006fbcf8c26b"
+    },
+    {
+      "page": "Surah/061_Saff_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e15df2e358221140f1cfbc7c4ca87afb3ef7c41917c5079a452d361bb9f3f1d9"
+    },
+    {
+      "page": "Surah/062_Jome_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "a35f2e52ca09e8303f732142407827af307e38231244b744ef7af0333fece77b"
+    },
+    {
+      "page": "Surah/063_Monafequn_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8b4a5aa999713441552d62dc421be9ea299235752c10ce904317a73c26f42cbd"
+    },
+    {
+      "page": "Surah/064_Taqabon_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "803614e0cd04fd9739b1a863f6a200ae6b4031cb399e1e5f401f6e3876bddc9f"
+    },
+    {
+      "page": "Surah/065_Talaq_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d8c1731ef8915f39c9ecc7f39d0e76eaa9da9aaa58960326178918f95c8e2547"
+    },
+    {
+      "page": "Surah/066_Tahrim_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "7ee3335e075b044faf7da1f5cc38817d2a4e7328f0a2f9bd3f1d43c25c5b95d7"
+    },
+    {
+      "page": "Surah/067_Molk_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e0be49b1047e91c996828fb4976f258bda6d30326990f471516f4a30ef4f7723"
+    },
+    {
+      "page": "Surah/068_Qalam_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "f7b94a2bc8a3bdc7ca02f941ab3e6db429f6caf75276f5fdab8ed72dbc85d736"
+    },
+    {
+      "page": "Surah/069_Haqqa_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "949a0cd053c23dafd426ebe0ff26a6ff70f3aa731a68542efe67eed6746cad96"
+    },
+    {
+      "page": "Surah/070_Maarij_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "7ad0925f040b6b26fd5ec7089fdc059419f5d133671ffc2d6e0a44050cd44e3e"
+    },
+    {
+      "page": "Surah/071_Nuh_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8ca9843394a04b59fb9f07c448ea1ed8974b08174fcdc467fda7c8f3d21e06bf"
+    },
+    {
+      "page": "Surah/072_Jin_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "b7cfadee3ca10890bf6258fa525bc3227446490b3467e40e82a718ea34308106"
+    },
+    {
+      "page": "Surah/073_Mozamel_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "3de9e42cb70d58abf03d620f94d458dce70a93952f47260af39f3cbfdaa6ca46"
+    },
+    {
+      "page": "Surah/074_Modathir_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0596fea7c02f4ace0c8efb262edc8230d0c80574710fb2d3a7dcd07977921275"
+    },
+    {
+      "page": "Surah/075_Qiyamah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "1cfea0640ba16b097cab4ad67d436596e2c03194c9f3886e4173fdca4a6837c5"
+    },
+    {
+      "page": "Surah/076_Ensan_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "85ef57a3af8360c39b15dbf193943da7a331753740741f2a6a328274af65aff6"
+    },
+    {
+      "page": "Surah/077_Morsalat_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "08467703787c6d618c61d429c0b017367c8862fd01d47ee1ebb3c611935dba94"
+    },
+    {
+      "page": "Surah/078_Nabaa_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "265a32cdaedd7da7ebeb8c886928e2396f5d846101ae61633ae7d8b21d8b0e49"
+    },
+    {
+      "page": "Surah/079_Nazeat_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "c45b74ecd1f065f76a4713c870cf4a9ef9edfb60e2c9738450db6a184531c669"
+    },
+    {
+      "page": "Surah/080_Abas_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "545ea02c1ca6ae6ddb6fd65abc7c586562c408e7d6342291cf23878579c26b1c"
+    },
+    {
+      "page": "Surah/081_Takwir_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0e6d0ec87cd942e2eb32b863b0951630a2227ad64b2d87b8c449cbab92c51320"
+    },
+    {
+      "page": "Surah/082_Enfetar_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "981b518fe403aa8e160c22d8f60dd8606f45ba3e85fa2c6013457ca79ccc7f21"
+    },
+    {
+      "page": "Surah/083_Motafefin_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "44ab7052e0b7ff4e4a0c50d0afa316ffb49999c9addd7603a1a8b6aadf23f507"
+    },
+    {
+      "page": "Surah/084_Ensheqaq_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "ab2aba58e5f604f71a563278c55b361e069030a5e7526439bb4b9e7df6d0fe2b"
+    },
+    {
+      "page": "Surah/085_Boruj_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8d28a006711065ee2b6d517a731c2107bdab81ff7bcdd66f08da628442c0b4ec"
+    },
+    {
+      "page": "Surah/086_Tareq_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "aa16dd8da84834f719948c88cf4f3bfd31e5511e1aad864035099752db62ed5a"
+    },
+    {
+      "page": "Surah/087_Aala_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "bc3426229eca0efe561034a412f7593c63ed343113d2b8d269b9f02f0c5bfd4e"
+    },
+    {
+      "page": "Surah/088_Qashiya_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "ebf6fe7238f078ba6ffb18df4737b77e44a2202ceeeee63f449ee3e88ec64e0c"
+    },
+    {
+      "page": "Surah/089_Fajr_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "43d698af856d362abb18e5f08bb1f17a03d5126d85f1537afb2f59b78b9d014a"
+    },
+    {
+      "page": "Surah/090_Balad_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e78aa0fb1748717bd63cd773c8d9e8af0affb6f7ddf242fdb80a40bc13b7d662"
+    },
+    {
+      "page": "Surah/091_Shams_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "dac4c407ba9c5dc24d0b398560f3aa02a525950696791d9c6bda6dc660a681c6"
+    },
+    {
+      "page": "Surah/092_Layl_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d88a4c446f11fa0fe64a42ddcbfc3ed5af75635bf0913cadab0445377e6c9435"
+    },
+    {
+      "page": "Surah/093_Dhoha_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d26f5a1cc54bdf8fac2e2bc381ecb541d8c5f79b89ee737db915e762b3166b78"
+    },
+    {
+      "page": "Surah/094_Sharh_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "de397902d789863b93ef0433dd04e86dbecb07714ed4db23ff38c67c73a27bea"
+    },
+    {
+      "page": "Surah/095_Tin_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0678bd81cdc938555eda47ad8c380333da2bc276c37dba07c23a164424e06576"
+    },
+    {
+      "page": "Surah/096_Alaq_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "0d8d7be4014a95cedd7f0839a20ae61ca4f20dcda8aa7b8475e6dbd5fd2d64a9"
+    },
+    {
+      "page": "Surah/097_Qadr_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "c0aca09879a12fde3eeee8e40d0f071e766fe0e18d69f66ce9df6f5317b8b0f2"
+    },
+    {
+      "page": "Surah/098_Bayyenah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "4858a83eb36400b631ea88098c0c6a343f844758f0878e1b54d52648e2d2e76a"
+    },
+    {
+      "page": "Surah/099_Zelzelah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "dca3edbc4844b4112953628ede73bc420a4cce7c3c33442e4b4f0508f1a5daef"
+    },
+    {
+      "page": "Surah/100_Aadiyat_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "c32afaeaa8abd97eb621291619fb150e98f984e8d6875f5796a6f4db02c561b1"
+    },
+    {
+      "page": "Surah/101_Qareah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d89e07262d7307678370c84f955e8eb65b5e1b9591741ab5d8e0eb5182932efa"
+    },
+    {
+      "page": "Surah/102_Takathor_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "acdc2e5f9ed1931065059cc3ccbd7fbe836dd287fcfdd0865703bd5449b2e16b"
+    },
+    {
+      "page": "Surah/103_Aasr_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "1719be9462b51b89dcb9c5e29b0cf4d375a0522804fa63100feef8110d47c4cf"
+    },
+    {
+      "page": "Surah/104_Homazah_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "6b79065fb185c0f1cbcbab636c8496f947dd41231627f2ff2f2f2b9d847b7643"
+    },
+    {
+      "page": "Surah/105_Fil_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "899e3f1dfc96605f00e3fc6cc5f293859f7e6ccc081decf0648f4964610941df"
+    },
+    {
+      "page": "Surah/106_Qoraysh_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "d5d0d21ea69851d5c1ccdb34ccd43d5eac94aaf5f17c0dc248c32316e7ca3a6a"
+    },
+    {
+      "page": "Surah/107_Maaun_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8e563e3656e77c131273ab897e2c6d47bfb96ea08980c7a1bd68b36ab60b2085"
+    },
+    {
+      "page": "Surah/108_Kawthar_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "b432c8de259ce6b6b0cd55a643f89534c40baed96f895f108281b19de23cac0b"
+    },
+    {
+      "page": "Surah/109_Kaferun_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e8fcfad86462b57e2e306de2198d41256cef4eb51a187b781176e31ab25e10c6"
+    },
+    {
+      "page": "Surah/110_Nasr_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "cd96cd8a5dc47629ab72be2474fe7d1255ecb9abd7cbaf8198eef8d80d7ac2bd"
+    },
+    {
+      "page": "Surah/111_Masad_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "98dfc97432786ce1d4ba400fa251d2f1ffa1d2903378efc139aea0516053d67c"
+    },
+    {
+      "page": "Surah/112_Ekhlas_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "a56d7515a5b8838f44ea99a25fb979c692ed2edfdae66bcaf7911fb8bba24dd6"
+    },
+    {
+      "page": "Surah/113_Falaq_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "e4ecb69484e4881f103d1e67f55a333745cb3558c77188698de571dd5601f05d"
+    },
+    {
+      "page": "Surah/114_Nas_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "5d642aeee58da4bf9edd4ee5e3842da004373b7c406c4b042ae28b8713e87ddf"
+    },
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "8974815b6c019c7adc025c20de55a63956f31d52dd184caf2164192d06aa893a"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "4e530af904659dd10718972a9723cdd19a9869595029ebb77ee75c19104653d1"
+    },
+    {
+      "page": "index.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "fa56da9eb5bd34364f700df12b01683863467173317715501944a82d0d01c17b"
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "dca8644faf2a84ec2d7f2f3822a194007ac3d0e2662b54f2e359e5f2aafd3c0c"
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "c4ee5c3927ecba3358894de80ac1a1881d8559f1f8396d85aa1ade2124fde753"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9399af7479a99f434ed68b27d6f7d22683001a51cfb35ba1fa510f3f7340197a"
+    },
+    {
+      "page": "Surah/004_Nissa_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "81e0b69a842b73be81b0b9af9aba35ce73d5d9d7fda00283719519fac1ef1979"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "312f651cb8918c32c812f57f0079b61c11684095f99ebf74bba2ec987fd59297"
+    },
+    {
+      "page": "Surah/006_Anaam_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "60947f7d6927a69e0ce59e65caaffe9c81efbc46508562672c7d535c336124d7"
+    },
+    {
+      "page": "Surah/007_Araf_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "843f78b3e3846a860f2e464c85c88b826a8ce180940789429dab477147be5ac0"
+    },
+    {
+      "page": "Surah/008_Anfal_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "6cd80a2acbda332bb5f1985cd243d27904ffeef2d143318e23555cff320fa141"
+    },
+    {
+      "page": "Surah/009_Tawbah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "317e92fa3e733cc7225bca564afe37062a4d24b343fa7d94b968b471af5c175b"
+    },
+    {
+      "page": "Surah/010_Yunus_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b97a38a3e1191e326bc83cfff2d28dc30b642d5edc25315950b7b22cf288f1c8"
+    },
+    {
+      "page": "Surah/011_Hud_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "43899b8bc4d2b615944c2bbe97a096f2e7f4dff2e7cb73ef5c2a1db419e2abfa"
+    },
+    {
+      "page": "Surah/012_Yusof_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "3aea682e90b08bca24f01c067c9d37d26973fe42dec4dbb51b7e1f83f201e265"
+    },
+    {
+      "page": "Surah/013_Raad_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "30c6002cd2ef8bb1da250b991e50dcac88a4bc5eed1ccee024be0265f959a496"
+    },
+    {
+      "page": "Surah/014_Ibrahim_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9858a0628d43f6210dfcbb70feb3ee9928044241c4fa2fb0dc6d797e55ecce61"
+    },
+    {
+      "page": "Surah/015_Hejr_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "fc01c139db9017d488318c89807e6dfa86d297c7636ca9ecf3b6e70cbba47758"
+    },
+    {
+      "page": "Surah/016_Nahl_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "08351133e2ef67a7f57aaabb8be3b251d5bd4c208dfe3bfb47ba64669f652f9c"
+    },
+    {
+      "page": "Surah/017_Esra_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "1bb6f88637380bec98e3804afbdc892182d377f0906265c401627a12f76ddfdf"
+    },
+    {
+      "page": "Surah/018_Kahf_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "57570be4c044a48da8821d416c40ce2967ec690bcc48ad9d1819d41367084293"
+    },
+    {
+      "page": "Surah/019_Maryam_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b2d18993a47083e7eb7c8e003389de324a11848e628d316ff90f2a499f03ceb2"
+    },
+    {
+      "page": "Surah/020_Taha_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "a48e38dccefcdd090bcc0535b60e6d2af5111116f488474228d5d53124058d5d"
+    },
+    {
+      "page": "Surah/021_Anbia_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "464fbfffe047975b54db335ab84f06861de52c271f24d1880aed27062c1edfa2"
+    },
+    {
+      "page": "Surah/022_Haj_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2e1f2b84561de4c1279ba50314aa19e854d5a09f24181b1a459e8803b7d29356"
+    },
+    {
+      "page": "Surah/023_Momenun_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "30ee34b41dbb6d6494aaf1320e80368eef50a978fd330d2064581c3fc4618120"
+    },
+    {
+      "page": "Surah/024_Noor_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "758e8b75e9d0c68f3a3926ff6dc23c73458caef6e38b16722949b982f853b813"
+    },
+    {
+      "page": "Surah/025_Forqan_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "add918a3a906740d3bba5178307fa7310e77b99a5c4d25b368d0776d325f1350"
+    },
+    {
+      "page": "Surah/026_Shoara_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "d557a62787a7b96919efb8b5e2589da2f97a539183c93b1d7b9477bdbd4a442f"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c2033b412410aad886eaebd80fedb92e9732c380d5a49f9382bb5fbdcb33e839"
+    },
+    {
+      "page": "Surah/028_Qasas_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "77ecc3d5743604d2e9d88a87a4d30c51b38d964a63c231647f271c6a4947c164"
+    },
+    {
+      "page": "Surah/029_Ankabut_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "4d159b202f5d3169bb33eb4e5144956c16949cf96a25bf2cf65336235a9cbd3e"
+    },
+    {
+      "page": "Surah/030_Rum_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "ad0df62840d815f6e6a28745c8b40d6ea7169c1e8172f6c91908faef9e7de816"
+    },
+    {
+      "page": "Surah/031_Loqman_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2f868e272cb68334a5848b01a3287f0ea27a94733eaff855c1f16e28366b3892"
+    },
+    {
+      "page": "Surah/032_Sajda_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "7716dd9155d462700f5fce70f04a1281ad3032ac15956612c650acc0fe2b7a20"
+    },
+    {
+      "page": "Surah/033_Ahzab_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c8e9a2359f9c94d5e81fbaae1fa064ccca89dbea8ae5377dd147e8a87db839bb"
+    },
+    {
+      "page": "Surah/034_Saba_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "af4318fc5bdd2243d878002aefb69a2669901b38f1448a7d698f0c797e69bb89"
+    },
+    {
+      "page": "Surah/035_Fater_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "dee19bb9163b774879a43b0b3997a4978c59c2514e8b6b978a88984cfbe47ddd"
+    },
+    {
+      "page": "Surah/036_Yasin_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "fafa23779313a314819cfa534dc2267f2fecd0cb3a2c27417e01842e27b1d652"
+    },
+    {
+      "page": "Surah/037_Saffat_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "333ed6860ea20e6b6ca575771a0498e815e41b1f2464d705a4ca18ac2387f0cd"
+    },
+    {
+      "page": "Surah/038_Saad_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "f4ea51b4b39a85a51cc892349c17526917a0293ff6b9a81ca576281e17376485"
+    },
+    {
+      "page": "Surah/039_Zomar_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "44ced695f33377130853cbb497826192b7c538748796243d86b7802e199f04ed"
+    },
+    {
+      "page": "Surah/040_Ghafer_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "366d2b9dc192d201315d2ca7df5f91e02f39e766c08d0d807ed1eb15d1716905"
+    },
+    {
+      "page": "Surah/041_Fussilat_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "b1f9e416ab0ca0717f25bf76857b71d167b96ac1cc6a2b44df464416b956e2bf"
+    },
+    {
+      "page": "Surah/042_Showra_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "175c8d6e1ee90aebaee32de3bdb148da1252667be82617d8af0810794ed0d1b8"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "89a828c3754854e85ea37d848015e756d7f42798811f02d028c315cdebf7476e"
+    },
+    {
+      "page": "Surah/044_Dokhan_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "cf0fa24eeb9a6fb26ba71b91f4a2a175772d0189543b3bbf3b7a447b8a76469b"
+    },
+    {
+      "page": "Surah/045_Jathiah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d3fd4a8b274511d3b2b297cc8d5c413e61b3ed690b03c2089e93e237388f9625"
+    },
+    {
+      "page": "Surah/046_Ahqaf_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "0c8cfd12d9134b094fa8b4b0dfb1f9cb74453f4b93fcfb5d6651ac49a4ed43b3"
+    },
+    {
+      "page": "Surah/047_Muhammad_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "999e5578bb2e9f1ae6d9e648529228dbabb057c32888f83d2ce288384c0f2ca1"
+    },
+    {
+      "page": "Surah/048_Fath_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "06fbcdbf27964c9328e32a4728c502d9fb7c2e6384d2dd45ba4da057fb73795a"
+    },
+    {
+      "page": "Surah/049_Hojorat_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "a7e5b19dd864905dbae99461be221419c35b5903682915617c9bf6c0f01f499d"
+    },
+    {
+      "page": "Surah/050_Qaf_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2a3e9ae51a3c6295841436fd37facc35b31d9547d80779504cde54074af72d2c"
+    },
+    {
+      "page": "Surah/051_Zariyat_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "40c14da930b23a4a28b898781c951ac0b201a95c7f3be302df979a2f571650a5"
+    },
+    {
+      "page": "Surah/052_Tur_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "fecd0dbbe0ac589eebc08c5416cdd918e836055f119829153959196b3f9f2584"
+    },
+    {
+      "page": "Surah/053_Najm_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "723b42c1f28d0bcf0402cde7bd00a5ac55530eda1b6244e2bf7617e99013996a"
+    },
+    {
+      "page": "Surah/054_Qamar_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "5d5d77ab2d7121396b728f2d140bef7a6efe33be207d77f3418a09bcb0fad03a"
+    },
+    {
+      "page": "Surah/055_AlRahman_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "843f32f062be4c8a649460ca897027b622dbcbebb0e18451345f3b4a1415c5af"
+    },
+    {
+      "page": "Surah/056_Waqea_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "a5b33edd41a52c9ca7b6a1cebd4a033c0de04d298d4d85754a6915722d743ff2"
+    },
+    {
+      "page": "Surah/057_Hadid_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "08a360e678f02364c1d07a315213fb06932507db667166d2c4e5baa28e2ac6ca"
+    },
+    {
+      "page": "Surah/058_Mojadala_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "ead322f3688c4db8e741a13dd930fff90b9ce3b1f022aca5fbcffc6375c92974"
+    },
+    {
+      "page": "Surah/059_Hashr_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "70cf94ba8500fbed10dc53c4c6d6366c67e6daa3a0758abe28fb2410b9ca947e"
+    },
+    {
+      "page": "Surah/060_Momtahena_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "95f5723afeb8a4683d6efe2761257cd02a1f4e0fcfe25ed951776250e0eb7aa6"
+    },
+    {
+      "page": "Surah/061_Saff_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "cf1670a2e43433be8b8fc6de6ab094f6438704caab1b52c1c00ab8ba33f6ec5d"
+    },
+    {
+      "page": "Surah/062_Jome_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "26304c872de046eb7f9ea4d448510b5b34a1c3bd30102c2cfa08ac7e1f92837e"
+    },
+    {
+      "page": "Surah/063_Monafequn_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2f4ea44fe579a07a209800c6b571d67a89edb8f027e800158095584c15c4ac75"
+    },
+    {
+      "page": "Surah/064_Taqabon_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "5396b08b45b49c1a09db9f9184b01b8f013d904ad9615b27437024b0e9623610"
+    },
+    {
+      "page": "Surah/065_Talaq_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "22ecd97da84f70b6dc54d1b91f2918f64d9956bb16216e2aab302c79fdcda501"
+    },
+    {
+      "page": "Surah/066_Tahrim_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "5093826642309997266185c4b32008824f2429c0463da27ae36f2be424809d6d"
+    },
+    {
+      "page": "Surah/067_Molk_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "c73b947d3844c492eb20b394d99303330fee6fd57e72d68b7b97a1e9567a5828"
+    },
+    {
+      "page": "Surah/068_Qalam_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "15908f2c15f3cb9e043d0cc5fbaefab9d93d14d4c627d1fa875f6a6a2706f370"
+    },
+    {
+      "page": "Surah/069_Haqqa_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "4c08eb0ddb9281e7690b554615f02a9b9bf8b25d9b0bb587ed261c8a07a2c860"
+    },
+    {
+      "page": "Surah/070_Maarij_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "fa01f6cb521265169ce2091350200e7f1e6c71824b58d13f1f8fe366234892e9"
+    },
+    {
+      "page": "Surah/071_Nuh_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "afe2b62e37b812a60cce7950da673ae26ad47c872cf0a34b38708199a7bba4c1"
+    },
+    {
+      "page": "Surah/072_Jin_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "000b98efd13f91f24dc768ab70c87e612b63b786fe1d680c9ea4d54f29468cd9"
+    },
+    {
+      "page": "Surah/073_Mozamel_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "db33fe84b0161957b78d398dd50443bb3ca715d7821381a977951a067faffd19"
+    },
+    {
+      "page": "Surah/074_Modathir_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2458e5169b122f4bbb421915d06e3965a8113fb8093b07a843a81e99892b4542"
+    },
+    {
+      "page": "Surah/075_Qiyamah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "229c5e575b5eabd22a8d205031a8436de83f3bba148491a8ea460f19b91ea8f3"
+    },
+    {
+      "page": "Surah/076_Ensan_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "e9f278ce58799b0d416246996f44b359566722380e59f36f1e84c0d3049ac827"
+    },
+    {
+      "page": "Surah/077_Morsalat_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "f0c18c961e01068f258a84c177ea5a8854516198033217bd6bd15925e15193f6"
+    },
+    {
+      "page": "Surah/078_Nabaa_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d7b31c9d704e7713085bbef135be87481fabeed99819825a39673ebd3fd00fa9"
+    },
+    {
+      "page": "Surah/079_Nazeat_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "7b66c4f220f3b68fc07c938d8baee29ccb06e0691cc588e6a8394de14cf0a4c3"
+    },
+    {
+      "page": "Surah/080_Abas_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d6305166f9e5152b6ad7b4d2a945b44578174662b78705b7f46e09c5ceebb744"
+    },
+    {
+      "page": "Surah/081_Takwir_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d0efa353a891285b7709c0e2e9b7455322b31e0e97a2027fc8b0901811f10bf6"
+    },
+    {
+      "page": "Surah/082_Enfetar_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "f487ff90874d19575d54185861af73db027c98dd5b017537f95f089b74d13164"
+    },
+    {
+      "page": "Surah/083_Motafefin_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "9889a62fa43172f7c8d8fd958bddf85864c597fa8c6bdcd1ab4224eb14258494"
+    },
+    {
+      "page": "Surah/084_Ensheqaq_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "bfb89a48d96cfeb204d2701cbfdbc1cfe6c8ae002227ace694155cd18bae67e7"
+    },
+    {
+      "page": "Surah/085_Boruj_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1faaa00e6d4aaa60fd2adb4a771795b1d0f815af594b94d239556b5c06f0ecaf"
+    },
+    {
+      "page": "Surah/086_Tareq_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "bcb6c740ed865d519211547e56a40195e96ce8a67ef18dc3644edf0da67038ca"
+    },
+    {
+      "page": "Surah/087_Aala_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d5faf7115b9232b106d4dc19286f0dabfede00b5c6b79b69f93da22a7208caa6"
+    },
+    {
+      "page": "Surah/088_Qashiya_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "f8e32877b3c41695562a4c07e21055022fc36acdc59f99b93cf22cce1fbc4b5b"
+    },
+    {
+      "page": "Surah/089_Fajr_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d53b5fbcc83af73c659d3392e3d7de38d3fbaf3b88d96cac7cdbedc42564a9a8"
+    },
+    {
+      "page": "Surah/090_Balad_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "8427eaa56d23e4932ee96cc1ad05c0d9cab7189d3140ffff782608d8956c9ea9"
+    },
+    {
+      "page": "Surah/091_Shams_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "83a4d0b1e824718e77cd8081b5702a66c7519d53e173014b6961285b364940eb"
+    },
+    {
+      "page": "Surah/092_Layl_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d8c8785ab044b0952651ee090e5f8d3882b05b257f12a6069b76fd1e83c8a4ad"
+    },
+    {
+      "page": "Surah/093_Dhoha_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "485dfac477d869a2dcc1126d3ebd2ecb005195bc12fad7782b3a266e13c4c4dd"
+    },
+    {
+      "page": "Surah/094_Sharh_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "6db74e182fe4b5297c50997d970039143e434beec2d76e3bbc45802c4073e3b8"
+    },
+    {
+      "page": "Surah/095_Tin_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "e2c9a7f1b3154b7304f671b4dbe59d3cf89a2b1dc0ffe1bd1f51eb6b639217e6"
+    },
+    {
+      "page": "Surah/096_Alaq_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "167277d984acf79b736276b3ffb16555f8d1b30b4d283afd8d83305dc8d321f1"
+    },
+    {
+      "page": "Surah/097_Qadr_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "e86db7223c73ef13c552e60d27939c7b9799a9fb7b53f484c2e33f172a0f031f"
+    },
+    {
+      "page": "Surah/098_Bayyenah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "196cc6791478c2cd8810e4dd0852a67f5b7e9a99548a0fe1205423a907de250b"
+    },
+    {
+      "page": "Surah/099_Zelzelah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "12465d3de0a998d6b93db54664dc8f52dc992eee3c1fd58598d4df214e3bcfd9"
+    },
+    {
+      "page": "Surah/100_Aadiyat_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "b43bee4c1856a72f88bc121c1ed96356fcf6c5574660ed27ba309544ec08c14e"
+    },
+    {
+      "page": "Surah/101_Qareah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "939ea03dee86c04db1796d5058c0c719f76073a7897f0d02d82c2c0da802cfa5"
+    },
+    {
+      "page": "Surah/102_Takathor_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "63a6e49b97ffb3f93230f07d3493b540d5c9690a1355d2811e69659ab4e5b6f6"
+    },
+    {
+      "page": "Surah/103_Aasr_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "79d6ad4d5cd6c377a5a8d7ccdc7b246228c02ee14c7a159cc174747fcfd613fc"
+    },
+    {
+      "page": "Surah/104_Homazah_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "7edd80afdb10268d64b3c2573d6170de415f65c20edec1d81436380e167e1741"
+    },
+    {
+      "page": "Surah/105_Fil_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "952ddd610ee0021d8ca3592749b833db2fee03b697b6d0190dc804d722b87b02"
+    },
+    {
+      "page": "Surah/106_Qoraysh_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "c46544a4a9b35be2d44f10b8b878c95ee728492b96e8dd748f52978363dd8348"
+    },
+    {
+      "page": "Surah/107_Maaun_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "653a60f68cd6678edd169a366b2a074971e0e72a4e26de7638dc922c6e386724"
+    },
+    {
+      "page": "Surah/108_Kawthar_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "80947a5af85dadbb14f775557ec6914eb85e129b7705a76660238079880605d9"
+    },
+    {
+      "page": "Surah/109_Kaferun_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "2807842160c4c6f99abd13eb3102fd85da379a9239833bbffc380ca95041c1d9"
+    },
+    {
+      "page": "Surah/110_Nasr_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "608f1a4213e6f41eb8d15599ed41d7f0f7d6a330530fe75cb423d0cd87d1ab37"
+    },
+    {
+      "page": "Surah/111_Masad_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1cdbf4be9827856b438dba4fa03ee7a9ad749f932a9917efc8fb2a89a0b4c150"
+    },
+    {
+      "page": "Surah/112_Ekhlas_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "036ff33cad50e0e792b08174cb05f5d547c9d052b2dbedf67410d18069e65a28"
+    },
+    {
+      "page": "Surah/113_Falaq_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "b5b511e7ba032bbca5ea1a8bd4623f02d1caa615b8fc76db264a58cb7c813287"
+    },
+    {
+      "page": "Surah/114_Nas_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "d9c361789c2ee588a1d165918b7012a64ce739c363b9b62fb7a79fde05fad8f7"
+    },
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "79d3143aafa6bec2e372e4f5fe940a54742a11e6329aa81d55233d2b1316864e"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1d864978420ca2315230ccf2861199251db524da1776eb98b70b8acb69f50bde"
+    },
+    {
+      "page": "index.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1514882c6d638d6e542bdee61c7709b15bdca34255d6cabf373ae99794492cf8"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+speech.beta-speech {
+  font-size: 8mm;
+  display: inline;
+  color: inherit;
+  text-decoration: none;
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+
+speech.beta-speech[open]::before {
+  content: "\00ab";
+  position: relative;
+  top: 1.5mm;
+}
+
+speech.beta-speech[close]::before {
+  content: "\00bb";
+  position: relative;
+  top: 1.5mm;
+}
+
+speech.beta-speech[underline]::before {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0mm;
+}
+
+speech.beta-speech[green]::before { color: rgb(70, 175, 70); }
+speech.beta-speech[red]::before { color: rgb(205, 100, 100); }
+speech.beta-speech[blue]::before { color: rgb(70, 70, 220); }
+speech.beta-speech[black]::before { color: black; }
+speech.beta-speech[gray]::before { color: rgb(150, 150, 150); }
+speech.beta-speech[lightblue]::before { color: rgb(150, 150, 255); }
+speech.beta-speech[mixed]::before { color: rgb(140, 140, 85); }
+
+.annotation.ul-color-gray-80 { border-bottom-color: rgb(80, 80, 80); }
+.annotation.ul-color-gray-120 { border-bottom-color: rgb(120, 120, 120); }
+.annotation.ul-color-gray-140 { border-bottom-color: rgb(140, 140, 140); }
+.annotation.ul-color-gray-160 { border-bottom-color: rgb(160, 160, 160); }
+.annotation.ul-color-gray-240 { border-bottom-color: rgb(240, 240, 240); }
+.annotation.ul-color-gray-90 { border-bottom-color: rgb(90, 90, 90); }
+.annotation.ul-color-gray-110 { border-bottom-color: rgb(110, 110, 110); }
+.annotation.ul-color-gray-130 { border-bottom-color: rgb(130, 130, 130); }
+.annotation.ul-color-gray-170 { border-bottom-color: rgb(170, 170, 170); }
+.annotation.ul-color-gray-190 { border-bottom-color: rgb(190, 190, 190); }
+.annotation.ul-color-gray-210 { border-bottom-color: rgb(210, 210, 210); }
+.annotation.ul-color-gray-230 { border-bottom-color: rgb(230, 230, 230); }
+
+.annotation.ul-pad-y-2px { padding-top: 2px; padding-bottom: 2px; }
+.annotation.ul-pad-y-4px { padding-top: 4px; padding-bottom: 4px; }
+.annotation.ul-pad-y-6px { padding-top: 6px; padding-bottom: 6px; }
+.annotation.ul-pad-y-8px { padding-top: 8px; padding-bottom: 8px; }
+.annotation.ul-pad-y-10px { padding-top: 10px; padding-bottom: 10px; }
+.annotation.ul-pad-y-12px { padding-top: 12px; padding-bottom: 12px; }
+.annotation.ul-pad-y-14px { padding-top: 14px; padding-bottom: 14px; }
+.annotation.ul-pad-y-16px { padding-top: 16px; padding-bottom: 16px; }
+.annotation.ul-pad-y-20px { padding-top: 20px; padding-bottom: 20px; }
+.annotation.ul-pad-y-24px { padding-top: 24px; padding-bottom: 24px; }
+.annotation.ul-pad-y-32px { padding-top: 32px; padding-bottom: 32px; }

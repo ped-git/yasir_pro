@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "source": "Surah/114_Nas_html.html",
+  "sourceHash": "adf235028e08eb9da1523551b47c8fb4513e8a38a1a7f91a5e123cf299eafcb2",
+  "underlines": [
+    {
+      "id": "p114-u0001",
+      "text": "رَبِّ النَّاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "87aad99a7cb5dcb52f8d40ccc120f0dd27a067d052b23076991f217e63be5484",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c1",
+      "start": 179,
+      "end": 193,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ]
+    },
+    {
+      "id": "p114-u0002",
+      "text": "مَلِكِ النَّاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "7a73933cc6a9bc35f70da4ce1e5f6f7e7999da78c5d11180408eb8cc3b374db9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c2",
+      "start": 241,
+      "end": 256,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ]
+    },
+    {
+      "id": "p114-u0003",
+      "text": "إِلَـٰهِ النَّاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "e904875b642f4d81e9a3517c8145b34d5f92c877514531dd109ea6055ec4d121",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c3",
+      "start": 304,
+      "end": 321,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ]
+    },
+    {
+      "id": "p114-u0004",
+      "text": "الْوَسْوَاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "2d437b6053292fcd1eee47b00cef3e20b5fe2cf0320a3872d0d530d277aa13ba",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 383,
+      "end": 395,
+      "groups": [
+        "p114-textual-coordination-d99ef4a93a"
+      ]
+    },
+    {
+      "id": "p114-u0005",
+      "text": "الْخَنَّاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "7afcf1ac27fcd3b7c67bfbb3684b82679e54395c27c330fdfb44dd444c420004",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 396,
+      "end": 407,
+      "groups": [
+        "p114-textual-coordination-d99ef4a93a"
+      ]
+    },
+    {
+      "id": "p114-u0006",
+      "text": "الْجِنَّةِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(4)",
+      "textHash": "6ecb7c27d4cf3bb5c6dd427dec915e1050df2b41f14b8968385a93892528ef22",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 471,
+      "end": 481,
+      "groups": [
+        "p114-textual-coordination-afe1585997"
+      ]
+    },
+    {
+      "id": "p114-u0007",
+      "text": "النَّاسِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(5)",
+      "textHash": "bc2cddaf74104cef3037c653f56605344842b5fc1f7a05325dd2d8158bfad6d3",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 492,
+      "end": 500,
+      "groups": [
+        "p114-textual-coordination-afe1585997"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p114-textual-coordination-d99ef4a93a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p114-u0004",
+        "p114-u0005"
+      ]
+    },
+    {
+      "id": "p114-textual-coordination-afe1585997",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p114-u0006",
+        "p114-u0007"
+      ]
+    },
+    {
+      "id": "p114-local-underline-pattern-2684976540",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p114-u0001",
+        "p114-u0002",
+        "p114-u0003"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p114-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "بِرَبِّ النَّاسِ۱ مَلِكِ",
+        "last": "النَّاسِ۲ إِلَـٰهِ النَّاسِ۳"
+      },
+      "lines": [
+        "p114-l0001"
+      ]
+    }
+  ]
+}

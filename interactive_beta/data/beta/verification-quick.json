@@ -1,0 +1,136 @@
+{
+  "protectedReferences": 82,
+  "quotationSpans": 788,
+  "underlinePatternChanges": 514,
+  "newUnderlines": 615,
+  "baselineComparisons": 21,
+  "comparisonNote": "Target comparisons remove only approved quotation/new-underline markers and restore documented pattern changes; the real beta deliberately displays those additions.",
+  "results": [
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "839432932612884c99f23e8e5dd65832dd312433aa7426ada87239b2514c4227"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "8e88327ed77efd1f76d9bbcc1505d5ea97ffc56f1a619d62b7201aa4bc704c85"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "d89cb054afb4153c0f038ff6f50db0ea773912d86bab2a923e45eefe8d11fa72"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9818c32fdf3c2e50ed2aacae4b0feb3e221e18a36bc2b236ac78c9138b56a541"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "desktop",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "905971daba10ae27ce8165fc42ed0c9d2ac912eaec7453bf42600e2b49b5b35c"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "5cfc299708407b5a706a1b109e7dd8998bf92594a1f842e3de3f956e6bcd233e"
+    },
+    {
+      "page": "index.html",
+      "scenario": "desktop",
+      "mode": "unchanged",
+      "screenshot": "1d789245461e37ecc8adbc4f81aa689ec9df682e6c70cee4462056d474b97e22"
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "25a6d92c3e56433942bb5b7c951af7f60d8f06a5113f539195fcb89b0aa40a49"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "541bc8cb01ba808cbdd6936e4599f6859b707735ddfb19b60802e9776cac2ed1"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "eaf0a9eaef11fe1651ebd4864b149cedd65cc41e9fab8121368fb27a37e90513"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c297905f510e58fe521f2f26d3a4ba0a24941b179d2800b8cfade494721f3f1c"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "mobile",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "8f79b1989b5483544b840d46bb0fa0eb01bd7fdf97774264c09ab7416fff0295"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "bb84984a5054825f3a66e21018201d81737f6c0dae8523cde8ada5e116426ac2"
+    },
+    {
+      "page": "index.html",
+      "scenario": "mobile",
+      "mode": "unchanged",
+      "screenshot": "771912c1771f346f891d5cd3527aeff9f6a77d3523deabdc867d69e4dcd08284"
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "dca8644faf2a84ec2d7f2f3822a194007ac3d0e2662b54f2e359e5f2aafd3c0c"
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "9399af7479a99f434ed68b27d6f7d22683001a51cfb35ba1fa510f3f7340197a"
+    },
+    {
+      "page": "Surah/005_Maedah_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "312f651cb8918c32c812f57f0079b61c11684095f99ebf74bba2ec987fd59297"
+    },
+    {
+      "page": "Surah/027_Naml_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "c2033b412410aad886eaebd80fedb92e9732c380d5a49f9382bb5fbdcb33e839"
+    },
+    {
+      "page": "Surah/043_Zokhrof_html.html",
+      "scenario": "print",
+      "mode": "approved-annotation-delta-masked",
+      "screenshot": "89a828c3754854e85ea37d848015e756d7f42798811f02d028c315cdebf7476e"
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1d864978420ca2315230ccf2861199251db524da1776eb98b70b8acb69f50bde"
+    },
+    {
+      "page": "index.html",
+      "scenario": "print",
+      "mode": "unchanged",
+      "screenshot": "1514882c6d638d6e542bdee61c7709b15bdca34255d6cabf373ae99794492cf8"
+    }
+  ]
+}

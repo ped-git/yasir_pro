@@ -1,0 +1,29 @@
+speech[open]::before {
+  content: "«";
+  position: relative;
+  top: 1.5mm;
+}
+
+speech[close]::before {
+  content: "»";
+  position: relative;
+  top: 1.5mm;
+}
+
+speech[underline]::before {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0mm;
+}
+
+speech[green]::before {
+  color: rgb(70, 175, 70);
+}
+
+speech[red]::before {
+  color: rgb(205, 100, 100);
+}
+
+speech[blue]::before {
+  color: rgb(70, 70, 220);
+}

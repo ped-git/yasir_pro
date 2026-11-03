@@ -1,0 +1,2120 @@
+{
+  "version": 1,
+  "source": "Surah/024_Noor_html.html",
+  "sourceHash": "f9ff2f148d638c899f195ff60a70376ad0f9d7efeae48103871f31d799c5a3ee",
+  "underlines": [
+    {
+      "id": "p024-u0001",
+      "text": "[از آنچه حرام است مانند دیدن زنان نامحرم",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "b2e70f313a5e79796d639cb0a34c09e742cfb844e56cf63520d089b20aa28b95",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 30,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c1",
+      "start": 5539,
+      "end": 5580,
+      "groups": [
+        "p024-textual-coordination-4e995ae2bb",
+        "p024-local-underline-pattern-764c2b78e4",
+        "beta-24-guarding-conduct"
+      ],
+      "betaEditorialReason": "The acts of restraint are good, unlike the neutral faculties by themselves. Separate the newly nested underline levels so their different patterns remain visible.",
+      "betaSemanticRole": "good",
+      "sourceText": "يَغُضُّوا مِنْ أَبْصَارِهِمْ"
+    },
+    {
+      "id": "p024-u0002",
+      "text": "عورت دیگران] فرو بندند، و شرمگاه خود",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2) > span:nth-of-type(4)",
+      "textHash": "e51cf22c306c6de775b4db043def1e31ec2f6768d59c79e7167d8cbc16166b7d",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 30,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c1",
+      "start": 5583,
+      "end": 5619,
+      "groups": [
+        "p024-textual-coordination-4e995ae2bb",
+        "p024-local-underline-pattern-764c2b78e4",
+        "beta-24-guarding-conduct"
+      ],
+      "betaEditorialReason": "The acts of restraint are good, unlike the neutral faculties by themselves. Separate the newly nested underline levels so their different patterns remain visible.",
+      "betaSemanticRole": "good",
+      "sourceText": "يَحْفَظُوا فُرُوجَهُمْ"
+    },
+    {
+      "id": "p024-u0003",
+      "text": "خود را از آنچه حرام است فرو بندند، و",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "965a07b705b26c4bc4a3fd62617157622fad230881c1dd5c64f3c0e6699325a2",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 5775,
+      "end": 5812,
+      "groups": [
+        "p024-textual-coordination-a65307fd98",
+        "p024-local-underline-pattern-764c2b78e4",
+        "beta-24-guarding-conduct"
+      ],
+      "betaEditorialReason": "The parallel acts have the same positive role.",
+      "betaSemanticRole": "good",
+      "sourceText": "يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ"
+    },
+    {
+      "id": "p024-u0004",
+      "text": "شرمگاه خود را حفظ کنند، و زینت",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "3d31984d348dac31dc4d180a11c0501d9b7f3ae5f7f1babb91be34718535e69b",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 5813,
+      "end": 5844,
+      "groups": [
+        "p024-textual-coordination-a65307fd98",
+        "p024-local-underline-pattern-764c2b78e4",
+        "beta-24-guarding-conduct"
+      ],
+      "betaEditorialReason": "The parallel acts have the same positive role.",
+      "betaSemanticRole": "good",
+      "sourceText": "يَحْفَظْنَ فُرُوجَهُنَّ"
+    },
+    {
+      "id": "p024-u0005",
+      "text": "را [مانند لباس های زیبا، گوشواره و گردن بند] مگر مقداری که",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "textHash": "9faf5d5d881d28f8d61eb7c926e9f651870d4ba47f9e3aef8f55145884e19149",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 5847,
+      "end": 5907,
+      "groups": [
+        "p024-textual-coordination-a65307fd98",
+        "p024-local-underline-pattern-764c2b78e4"
+      ],
+      "sourceText": "لَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا"
+    },
+    {
+      "id": "p024-u0006",
+      "text": "مانند انگشتر و حنا و سرمه، بر دست و صورت] پیداست [در",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(6)",
+      "textHash": "7861f24950c90100ce7a40dc95cf4b77d48872e1d6d05ddeea82306edb789682",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 5915,
+      "end": 5969,
+      "groups": [
+        "p024-textual-coordination-a65307fd98",
+        "p024-local-underline-pattern-764c2b78e4"
+      ],
+      "sourceText": "لْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ"
+    },
+    {
+      "id": "p024-u0007",
+      "text": "سینه] مقنعه های خود",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(7)",
+      "textHash": "c0b4ea7a7393677380bea174b6b35b6f743a6d234d1c87031395ae747f71bdcd",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6016,
+      "end": 6035,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "بُعُولَتِهِنَّ"
+    },
+    {
+      "id": "p024-u0008",
+      "text": "روی گریبان",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(8)",
+      "textHash": "efbdbcf2c68f960c328b1c65d04f514ee91f972a7894fbe7f4566442e5a4997f",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6041,
+      "end": 6053,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "آبَائِهِنَّ"
+    },
+    {
+      "id": "p024-u0009",
+      "text": "بیندازند، و زینت خود را آشکار",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(9)",
+      "textHash": "c70d34be5d330a47be788db1bfcae95e58b45aa69ffc64339edbfaeb54bd848f",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6060,
+      "end": 6089,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "آبَاءِ بُعُولَتِهِنَّ"
+    },
+    {
+      "id": "p024-u0010",
+      "text": "نکنند مگر برای شوهرانشان،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(10)",
+      "textHash": "ff9fb0f0b2bce71c0f98d55046c0a76dea5c14f2b70c805becd47c4f6f34ec7e",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6090,
+      "end": 6115,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "أَبْنَائِهِنَّ"
+    },
+    {
+      "id": "p024-u0011",
+      "text": "یا پدرانشان، یا پدران شوهرانشان،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(11)",
+      "textHash": "e7120639cef12b3eb0fa809859316afa5aab25b7194844db1081f98ea33aef3d",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6116,
+      "end": 6148,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "أَبْنَاءِ بُعُولَتِهِنَّ"
+    },
+    {
+      "id": "p024-u0012",
+      "text": "پسرانشان، یا پسران",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(12)",
+      "textHash": "03d3007f8a60d55961995ed0ad5587f139359285bb26719483e1c11d917ceb3d",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6152,
+      "end": 6171,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "إِخْوَانِهِنَّ"
+    },
+    {
+      "id": "p024-u0013",
+      "text": "یا برادرانشان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(13)",
+      "textHash": "5526de7cf0e85db4b0740cb02412e58dc0910a6a00f10b9ad40743cc7db9f89e",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6181,
+      "end": 6200,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "بَنِي إِخْوَانِهِنَّ"
+    },
+    {
+      "id": "p024-u0014",
+      "text": "برادرانشان، یا پسران",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(14)",
+      "textHash": "0e4ec690a5ad761133f89f5a2ee7c3e7c8d279674bc15ef43a462b001c3a777b",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6206,
+      "end": 6227,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "بَنِي أَخَوَاتِهِنَّ"
+    },
+    {
+      "id": "p024-u0015",
+      "text": "یا زنان [هم کیش",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(15)",
+      "textHash": "b3b3d4616b0c07017e4408ab1e776a47cb13ee769f181ac2951b012803a4f2c7",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6238,
+      "end": 6254,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "نِسَائِهِنَّ"
+    },
+    {
+      "id": "p024-u0016",
+      "text": "شان، یا بردگان زر خریدشان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(16)",
+      "textHash": "bb17a8dda825a98efdda37abb3ac3aaa6482842f4060469e6bf3066d3fd8b12e",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6259,
+      "end": 6290,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "مَا مَلَكَتْ أَيْمَانُهُنَّ"
+    },
+    {
+      "id": "p024-u0017",
+      "text": "از مردانی که ساده لوح و کم عقل اند و نیاز شهوانی حس نمی کنند،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(17)",
+      "textHash": "3697e22a24a76b07aba33600031af3ef1fa6c2e7525c2205d68ee40a40aa08ea",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6302,
+      "end": 6365,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "التَّابِعِينَ غَيْرِ أُولِي الْإِرْبَةِ مِنَ الرِّجَالِ"
+    },
+    {
+      "id": "p024-u0018",
+      "text": "کودکانی که [به سنّ تمیز دادن خوب و بد نسبت به امیال جنسی] نرسیده اند. و زنان",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(18)",
+      "textHash": "fda43974e9f89c1aab03a5d33a379ee2c558d6b3dfd9eef07b2dbeebe1887ad8",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6369,
+      "end": 6445,
+      "groups": [
+        "p024-textual-coordination-b91936310f"
+      ],
+      "sourceText": "الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَىٰ عَوْرَاتِ النِّسَاءِ"
+    },
+    {
+      "id": "p024-u0019",
+      "text": "پاهایشان را [هنگام راه رفتن آن گونه] به زمین بزنند تا آنچه از زینت هایشان پنهان می",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(3) > span:nth-of-type(19)",
+      "textHash": "892d35f1ee5419b3b60496c0e12301c698cfa346cb462c16640bd3bf1577cf30",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "p024-c2",
+      "start": 6451,
+      "end": 6536,
+      "groups": [
+        "p024-local-underline-pattern-764c2b78e4"
+      ],
+      "sourceText": "لَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ"
+    },
+    {
+      "id": "p024-u0020",
+      "text": "آیا ندانسته ای که هرکه",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "e2d9187785708c6fd0c363f41f62982af797ad40586e9a7c3d12557a91a37d5f",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 41,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p024-s0007",
+      "contextId": "p024-c3",
+      "start": 9244,
+      "end": 9267,
+      "groups": [
+        "p024-local-underline-pattern-200c97df18"
+      ],
+      "sourceText": "أَلَمْ تَرَ أَنَّ اللَّهَ"
+    },
+    {
+      "id": "p024-u0021",
+      "text": "آیا ندانسته ای که خدا ابری را",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "6c13330af899e6d64bbb8f3053af9378c8c9b4c7d5cd75955d596714f15117c8",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 43,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p024-s0007",
+      "contextId": "p024-c4",
+      "start": 9546,
+      "end": 9576,
+      "groups": [
+        "p024-local-underline-pattern-200c97df18"
+      ],
+      "sourceText": "أَلَمْ تَرَ أَنَّ اللَّهَ"
+    },
+    {
+      "id": "p024-u0022",
+      "text": "آیا در دل هایشان بیماری",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "2860439bec3d81ae6bc0dbc0ffdab734588c8744809f11c478efd5d6ebecff6e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 50,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "p024-c5",
+      "start": 10857,
+      "end": 10881,
+      "groups": [
+        "p024-textual-coordination-439a554599"
+      ],
+      "sourceText": "أَفِي قُلُوبِهِم مَّرَضٌ"
+    },
+    {
+      "id": "p024-u0023",
+      "text": "[نفاق] است یا [در",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "cfa169fb492c56553fda7b7c23279e56b2b0951a97f49faa2d9641a06da19017",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 50,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "p024-c5",
+      "start": 10890,
+      "end": 10908,
+      "groups": [
+        "p024-textual-coordination-439a554599"
+      ],
+      "sourceText": "أَمِ ارْتَابُوا"
+    },
+    {
+      "id": "p024-u0024",
+      "text": "دین خدا] شک کرده اند یا می ترسند که خدا و پیامبرش بر آنان ستم",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(2) > span:nth-of-type(4)",
+      "textHash": "388e531190c2ffd39f903c87ef2a6e62a44246f408ff486d242964cb14ed430d",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 50,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "p024-c5",
+      "start": 10917,
+      "end": 10980,
+      "groups": [
+        "p024-textual-coordination-439a554599"
+      ],
+      "sourceText": "أَمْ يَخَافُونَ أَن يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ"
+    },
+    {
+      "id": "p024-u0025",
+      "text": "خانه های",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "69ef7c914d054d01e0b1c073651f265a4d2ce44f603034e2d46d9584b9467b62",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13783,
+      "end": 13793,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِكُمْ"
+    },
+    {
+      "id": "p024-u0026",
+      "text": "یا خانه های",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "e7199dd2905fb8aac4963614d75616bd5c9ec582052aaae74fa25b6458833a09",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13802,
+      "end": 13815,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ آبَائِكُمْ"
+    },
+    {
+      "id": "p024-u0027",
+      "text": "یا خانه های برادرانتان،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "b68e7370ae390f5bf2cee8165323a38206aaaec504684c521ce953a41b523175",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13824,
+      "end": 13848,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ أُمَّهَاتِكُمْ"
+    },
+    {
+      "id": "p024-u0028",
+      "text": "یا خانه های خواهرانتان،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "7267a6b220082c98d76e39f5cbf83ec50f38bec272f400b9ee589abd034533cb",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13849,
+      "end": 13872,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ إِخْوَانِكُمْ"
+    },
+    {
+      "id": "p024-u0029",
+      "text": "خانه های عموهایتان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "textHash": "3f3f7a7f66aba05ca54515397cc1e9c931a73840d2587ad4f740148070bbfbf9",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13876,
+      "end": 13898,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ أَخَوَاتِكُمْ"
+    },
+    {
+      "id": "p024-u0030",
+      "text": "های عمّه هایتان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(6)",
+      "textHash": "42e35e8b2b172851328ccdcfe8ff960b989524186649ea2880b7b3fcaf6a52dd",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13903,
+      "end": 13924,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ أَعْمَامِكُمْ"
+    },
+    {
+      "id": "p024-u0031",
+      "text": "های دایی هایتان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(7)",
+      "textHash": "d925938c3aaaf9e60c747c7448541299b3344b930fd60496a05640a41b9b227a",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13928,
+      "end": 13949,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ عَمَّاتِكُمْ"
+    },
+    {
+      "id": "p024-u0032",
+      "text": "های خاله هایتان، یا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(8)",
+      "textHash": "e434db07702114eabc5ef9b24152510d054264a03e69103714dd258f03271210",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13954,
+      "end": 13974,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ أَخْوَالِكُمْ"
+    },
+    {
+      "id": "p024-u0033",
+      "text": "هایی که کلیدهایشان در",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(9)",
+      "textHash": "fc42fb331224e7fdf127779a40609fac1ebaa86fbff4dc3dff149858b67e1e9e",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 13979,
+      "end": 14001,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "بُيُوتِ خَالَاتِكُمْ"
+    },
+    {
+      "id": "p024-u0034",
+      "text": "شماست، یا خانه های",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(10)",
+      "textHash": "8d524d90417261f30f46143766124f88bfc81296b0177d5540c8206261d6cf02",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 14007,
+      "end": 14027,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "مَا مَلَكْتُم مَّفَاتِحَهُ"
+    },
+    {
+      "id": "p024-u0035",
+      "text": "بر شما گناهی",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(11)",
+      "textHash": "14a15599da6595a5283337eabd7c95aaaf1e949dd0b17989850089c6bf9a9047",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 61,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p024-s0009",
+      "contextId": "p024-c6",
+      "start": 14037,
+      "end": 14050,
+      "groups": [
+        "p024-textual-coordination-775f2d815e"
+      ],
+      "sourceText": "صَدِيقِكُمْ"
+    },
+    {
+      "id": "beta-u-24-21-1",
+      "text": "پیروی نکنید؛ و هر که از گام های شیطان",
+      "logicalText": "لا تتبعوا خطوات الشيطان",
+      "textHash": "e03e94f1682cb5bf90de0473505449c2819632110071997c040f4deb67a94bf3",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-21",
+      "verse": 21,
+      "groups": [
+        "beta-24-avoidance-directive"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The entire prohibition is good conduct, unlike the bad object named within it.",
+      "start": 3557,
+      "end": 3595,
+      "sourceText": "لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ"
+    },
+    {
+      "id": "beta-u-24-21-2",
+      "text": "که از گام های شیطان",
+      "logicalText": "خطوات الشيطان",
+      "textHash": "13a1d900d74b647fae633907e3eaf52324ac735694fe9450893316e871660a43",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-21-1",
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-21",
+      "verse": 21,
+      "groups": [
+        "beta-24-condemned-path"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These name the condemned path and acts, including a nested object inside the approved prohibition.",
+      "start": 3574,
+      "end": 3595,
+      "sourceText": "خُطُوَاتِ الشَّيْطَانِ"
+    },
+    {
+      "id": "beta-u-24-21-3",
+      "text": "شود] زیرا شیطان به کار",
+      "logicalText": "خطوات الشيطان",
+      "textHash": "b2c75c95056291de009dd0bf59dd6aa825d9ed08d5d06d31117950ece87accfa",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-21",
+      "verse": 21,
+      "groups": [
+        "beta-24-condemned-path"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These name the condemned path and acts, including a nested object inside the approved prohibition.",
+      "start": 3613,
+      "end": 3637,
+      "sourceText": "خُطُوَاتِ الشَّيْطَانِ"
+    },
+    {
+      "id": "beta-u-24-21-4",
+      "text": "فرمان می",
+      "logicalText": "الفحشاء",
+      "textHash": "608d6eaa1c94a45343da2b39c2e28c5077e6b9a75312cb1d3eae0c8dee900f52",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-21",
+      "verse": 21,
+      "groups": [
+        "beta-24-condemned-path"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These name the condemned path and acts, including a nested object inside the approved prohibition.",
+      "start": 3660,
+      "end": 3671,
+      "sourceText": "الْفَحْشَاءِ"
+    },
+    {
+      "id": "beta-u-24-21-5",
+      "text": "و اگر فضل",
+      "logicalText": "المنكر",
+      "textHash": "cdb84b716a659d37cf727e408aed2197959f6e6871ba9f72e046d9a64cb61061",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(6)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-21",
+      "verse": 21,
+      "groups": [
+        "beta-24-condemned-path"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These name the condemned path and acts, including a nested object inside the approved prohibition.",
+      "start": 3675,
+      "end": 3685,
+      "sourceText": "الْمُنكَرِ"
+    },
+    {
+      "id": "beta-u-24-22-6",
+      "text": "کنند و از می ازات",
+      "logicalText": "ليعفوا",
+      "textHash": "ba1de7d404264d0c9253d86b6b22a67eb6203b9a4ee882ed025f455b6312e8dd",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(7)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-22",
+      "verse": 22,
+      "groups": [
+        "beta-24-pardon"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The two coordinated imperatives enjoin pardon.",
+      "start": 4068,
+      "end": 4086,
+      "sourceText": "لْيَعْفُوا"
+    },
+    {
+      "id": "beta-u-24-22-7",
+      "text": "آیا دوست نمی دارید",
+      "logicalText": "ليصفحوا",
+      "textHash": "9d29c022878b869cc397864c377fc9363be6a96e1dac77420006faa76b72f3a1",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > p:nth-of-type(3) > span:nth-of-type(8)",
+      "parentId": null,
+      "sectionId": "p024-s0005",
+      "contextId": "beta-24-22",
+      "verse": 22,
+      "groups": [
+        "beta-24-pardon"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The two coordinated imperatives enjoin pardon.",
+      "start": 4094,
+      "end": 4114,
+      "sourceText": "لْيَصْفَحُوا"
+    },
+    {
+      "id": "beta-u-24-30-8",
+      "text": "مانند دیدن زنان نامحرم",
+      "logicalText": "أبصارهم",
+      "textHash": "db88f8256852f4d859c38e1080d750786330b84897455668d99db5e343c7182f",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "parentId": "p024-u0001",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-30",
+      "verse": 30,
+      "groups": [
+        "beta-24-faculties"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are neutral body/faculty objects nested within approved conduct.",
+      "start": 5558,
+      "end": 5580,
+      "sourceText": "أَبْصَارِهِمْ"
+    },
+    {
+      "id": "beta-u-24-30-9",
+      "text": "بندند، و شرمگاه خود",
+      "logicalText": "فروجهم",
+      "textHash": "0682c9e8a99354aeaa9b7541f9c3133ec8f4211067130ac0e8d23d0bbf8f2745",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(2) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "parentId": "p024-u0002",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-30",
+      "verse": 30,
+      "groups": [
+        "beta-24-faculties"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are neutral body/faculty objects nested within approved conduct.",
+      "start": 5600,
+      "end": 5619,
+      "sourceText": "فُرُوجَهُمْ"
+    },
+    {
+      "id": "beta-u-24-56-10",
+      "text": "نماز را برپا دارید و",
+      "logicalText": "أقيموا الصلاة",
+      "textHash": "fbd2582080fed45df3c6956d373c91831fd0b594e47c0dd93c12d6392d3e2807",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "beta-24-56",
+      "verse": 56,
+      "groups": [
+        "beta-24-worship-and-obedience"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These coordinated commands prescribe approved acts.",
+      "start": 12343,
+      "end": 12364,
+      "sourceText": "أَقِيمُوا الصَّلَاةَ"
+    },
+    {
+      "id": "beta-u-24-56-11",
+      "text": "را بپردازید، و",
+      "logicalText": "آتوا الزكاة",
+      "textHash": "8c95b304adec83d96bd9af280704e45222337fde49c1e980154ef6a5a2111151",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "beta-24-56",
+      "verse": 56,
+      "groups": [
+        "beta-24-worship-and-obedience"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These coordinated commands prescribe approved acts.",
+      "start": 12368,
+      "end": 12384,
+      "sourceText": "آتُوا الزَّكَاةَ"
+    },
+    {
+      "id": "beta-u-24-56-12",
+      "text": "پیامبر را اطاعت کنید",
+      "logicalText": "أطيعوا الرسول",
+      "textHash": "3c8e977dbc90569b6a038232570618f781c8fb349d1962b5f8b6bd2414af56f1",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(4) > span:nth-of-type(5)",
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "beta-24-56",
+      "verse": 56,
+      "groups": [
+        "beta-24-worship-and-obedience"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These coordinated commands prescribe approved acts.",
+      "start": 12387,
+      "end": 12408,
+      "sourceText": "أَطِيعُوا الرَّسُولَ"
+    },
+    {
+      "id": "beta-u-24-4-13",
+      "text": "زنان عفیفه پاکدامن را به",
+      "logicalText": "يرمون المحصنات",
+      "textHash": "48f5b8339296b1daba8731bed65eb59f73ef21f8876aed9f76e12807b5ef81c8",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p024-s0004",
+      "contextId": "beta-24-4",
+      "verse": 4,
+      "groups": [
+        "beta-24-unsubstantiated-accusation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The predicates describe harmful accusation and the failure to supply its required evidence, not a neutral list of people.",
+      "start": 816,
+      "end": 840,
+      "sourceText": "يَرْمُونَ الْمُحْصَنَاتِ"
+    },
+    {
+      "id": "beta-u-24-4-14",
+      "text": "متهم می کنند، سپس چهار شاهد نمی",
+      "logicalText": "لم يأتوا بأربعة شهداء",
+      "textHash": "4187379452c7239b977b3e143abc794eb51978d565356602ef08fafc6fa1cbb0",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": "p024-s0004",
+      "contextId": "beta-24-4",
+      "verse": 4,
+      "groups": [
+        "beta-24-unsubstantiated-accusation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The predicates describe harmful accusation and the failure to supply its required evidence, not a neutral list of people.",
+      "start": 845,
+      "end": 879,
+      "sourceText": "لَمْ يَأْتُوا بِأَرْبَعَةِ شُهَدَاءَ"
+    },
+    {
+      "id": "beta-u-24-5-15",
+      "text": "توبه کنند و مفاسد خود را اصلاح نمایند",
+      "logicalText": "تابوا من بعد ذلك",
+      "textHash": "074bd4d55bdc214083bcadd8abeeb413da3bd944dca47543ca3efba59e4f0457",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p024-s0004",
+      "contextId": "beta-24-5",
+      "verse": 5,
+      "groups": [
+        "beta-24-repentant-exception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Repentance and repair form the positive exception to the preceding condemned conduct.",
+      "start": 1041,
+      "end": 1078,
+      "sourceText": "تَابُوا مِن بَعْدِ ذَٰلِكَ"
+    },
+    {
+      "id": "beta-u-24-5-16",
+      "text": "که بدون تردید خدا",
+      "logicalText": "أصلحوا",
+      "textHash": "98afe27a2aa1883df7994d1b74220f6463e0d1297699b29023f46bdb3889f24e",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": "p024-s0004",
+      "contextId": "beta-24-5",
+      "verse": 5,
+      "groups": [
+        "beta-24-repentant-exception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Repentance and repair form the positive exception to the preceding condemned conduct.",
+      "start": 1079,
+      "end": 1096,
+      "sourceText": "أَصْلَحُوا"
+    },
+    {
+      "id": "beta-u-24-27-17",
+      "text": "از خانه های خودتان وارد نشوید تا آنکه اجازه بگیرید، و بر اهل آنها سلام کنید، [رعایت] این [امور",
+      "logicalText": "لا تدخلوا بيوتا غير بيوتكم حتى تستأنسوا وتسلموا على أهلها",
+      "textHash": "ee8793de32d3168b8b3c5d67c19894eb0cfd7c6c58e6c591297bd2c2f84bfe49",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(1) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-27",
+      "verse": 27,
+      "groups": [
+        "beta-24-respectful-entry"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Keep the full prohibition and its permission condition together; a truncated لا تدخلوا would hide the important boundary.",
+      "start": 4984,
+      "end": 5079,
+      "sourceText": "لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا"
+    },
+    {
+      "id": "beta-u-24-47-18",
+      "text": "سپس گروهی از آنان پس از این [اعتراف] روی می",
+      "logicalText": "يتولى فريق منهم من بعد ذلك",
+      "textHash": "3809517b26908d4e9ccb3e5ddecd6c9cf6223f42d4908bb5b4320f5d2d1d8a70",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p024-s0008",
+      "contextId": "beta-24-47",
+      "verse": 47,
+      "groups": [
+        "beta-24-profession-versus-conduct"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The withdrawal is the condemned actual conduct, distinct from the superficially positive words in their quotation.",
+      "start": 10544,
+      "end": 10589,
+      "sourceText": "يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّن بَعْدِ ذَٰلِكَ"
+    },
+    {
+      "id": "beta-u-24-32-19",
+      "text": "[مردان و زنان] بی همسرتان و غلامان و کنیزان شایسته خود را همسر دهید؛ اگر تهیدست",
+      "logicalText": "وأنكحوا الأيامى منكم والصالحين من عبادكم وإمائكم",
+      "textHash": "232a720e390989fd56330be31e49b9b1a5668235376d8cc537a4eec59b1bbaee",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-32",
+      "verse": 32,
+      "groups": [
+        "beta-24-marriage-and-provision"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The directive and its stated provision are favorable; the conditional scope is retained intact.",
+      "start": 6666,
+      "end": 6745,
+      "sourceText": "وَأَنكِحُوا الْأَيَامَىٰ مِنكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ"
+    },
+    {
+      "id": "beta-u-24-32-20",
+      "text": "اند، خدا آنان را از فضل خود بی نیاز می کند؛ و خدا",
+      "logicalText": "إن يكونوا فقراء يغنهم الله من فضله",
+      "textHash": "e97e84dd6e3e50f0399e3c1c0921ed5ac3e8c0c452568ea19560dbfc4e18d2d9",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-32",
+      "verse": 32,
+      "groups": [
+        "beta-24-marriage-and-provision"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The directive and its stated provision are favorable; the conditional scope is retained intact.",
+      "start": 6745,
+      "end": 6797,
+      "sourceText": "إِن يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِن فَضْلِهِ"
+    },
+    {
+      "id": "beta-u-24-32-21",
+      "text": "را از",
+      "logicalText": "فقراء",
+      "textHash": "f14287a2c2fb8acc4cbad8aaec96c697acdc4c57a5976eaf1fa20461aeac0b3b",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(2) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-32-20",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-32",
+      "verse": 32,
+      "groups": [
+        "beta-24-economic-condition"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Poverty is the neutral condition within the favorable provision statement, not a bad type for the people.",
+      "start": 6759,
+      "end": 6766,
+      "sourceText": "فُقَرَاءَ"
+    },
+    {
+      "id": "beta-u-24-33-22",
+      "text": "و کسانی که [وسیله] ازدواجی نمی یابند باید پاکدامنی پیشه کنند تا خدا آنان را از فضل خود توانگرشان سازد. و کسانی از",
+      "logicalText": "وليستعفف الذين لا يجدون نكاحا حتى يغنيهم الله من فضله",
+      "textHash": "883bae0db2c51e92b01101a0f5bad27e020dbff6cb115c4a5d4a64818392a67c",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-chastity-and-provision"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-220 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The full directive commends restraint and preserves its favorable provision condition.",
+      "start": 6833,
+      "end": 6948,
+      "sourceText": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللَّهُ مِن فَضْلِهِ"
+    },
+    {
+      "id": "beta-u-24-33-23",
+      "text": "نمی یابند باید پاکدامنی پیشه کنند تا",
+      "logicalText": "الذين لا يجدون نكاحا",
+      "textHash": "621e4581f43ad2183d9f3c25562301b902a7e69ed34735230df4a62662da31f6",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-33-22",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-unmarried-needy-category"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-240",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "This identifies the people addressed by the directive; their stated circumstance is not assigned moral polarity.",
+      "start": 6859,
+      "end": 6898,
+      "sourceText": "الَّذِينَ لَا يَجِدُونَ نِكَاحًا"
+    },
+    {
+      "id": "beta-u-24-33-24",
+      "text": "شدن] دارند، اگر در آنان [برای عقد این قرارداد] شایستگی سراغ",
+      "logicalText": "فكاتبوهم إن علمتم فيهم خيرا",
+      "textHash": "2f66105187e7c9fd5071d7d8cef3b7e73d35f392a3561a0f2afaea363175ee54",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-contract-and-giving-directives"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-200",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the verse's explicit directions to make the contract and give from the provision received.",
+      "start": 7040,
+      "end": 7100,
+      "sourceText": "فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا"
+    },
+    {
+      "id": "beta-u-24-33-25",
+      "text": "دارید با آنان قرارداد ببندید، و چیزی از مال خدا را که به شما",
+      "logicalText": "وآتوهم من مال الله الذي آتاكم",
+      "textHash": "0a28d329ec0826fdaec013dc0b2e83d929819561bba1c7b2fe6f592283197938",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(5)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-contract-and-giving-directives"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-200 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the verse's explicit directions to make the contract and give from the provision received.",
+      "start": 7100,
+      "end": 7161,
+      "sourceText": "وَآتُوهُم مِّن مَّالِ اللَّهِ الَّذِي آتَاكُمْ"
+    },
+    {
+      "id": "beta-u-24-33-26",
+      "text": "قرارداد ببندید، و چیزی",
+      "logicalText": "من مال الله",
+      "textHash": "ebb96e68e4f1dafc57374a29a226364999e090dcf6372de0ce58187efb6a8e2d",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(5) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-33-25",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-given-property"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-160",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The property is a neutral object nested within the approved act of giving.",
+      "start": 7114,
+      "end": 7138,
+      "sourceText": "مِّن مَّالِ اللَّهِ"
+    },
+    {
+      "id": "beta-u-24-33-27",
+      "text": "عطا کرده است به آنان بدهید، و کنیزان خود را که می خواهند پاکدامن باشند، برای به دست آوردن متاع",
+      "logicalText": "ولا تكرهوا فتياتكم على البغاء إن أردن تحصنا",
+      "textHash": "e9729c4f58068bf76c68b0783d2ab3f28c5e62be95c9c0e0c71f8da2e74114d1",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(6)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-prohibition-of-coercion"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-80 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Keep the full prohibition and its condition together; the prohibition itself is a good directive.",
+      "start": 7161,
+      "end": 7257,
+      "sourceText": "وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا"
+    },
+    {
+      "id": "beta-u-24-33-28",
+      "text": "می خواهند",
+      "logicalText": "البغاء",
+      "textHash": "ec582c27d26ddf878958464867b26fcfe6673d4c630d9b1eb5b0ca99aadad0d8",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(6) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-33-27",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-sexual-exploitation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-140",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These bounded phrases identify the prohibited exploitation, its worldly-gain motive, and the coercion itself; they are bad inner acts within the good restraint and forgiveness clauses.",
+      "start": 7209,
+      "end": 7220,
+      "sourceText": "الْبِغَاءِ"
+    },
+    {
+      "id": "beta-u-24-33-29",
+      "text": "ناچیز و زودگذر زندگی دنیا به زنا وادار مکنید، و هر که",
+      "logicalText": "لتبتغوا عرض الحياة الدنيا",
+      "textHash": "f26513069e2c8488d0c61020c1defad0af7cb66b2aca822e336c1702b72ccf15",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(7)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-sexual-exploitation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-140",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These bounded phrases identify the prohibited exploitation, its worldly-gain motive, and the coercion itself; they are bad inner acts within the good restraint and forgiveness clauses.",
+      "start": 7258,
+      "end": 7312,
+      "sourceText": "لِّتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا"
+    },
+    {
+      "id": "beta-u-24-33-30",
+      "text": "آنان را وادار [به زنا] کند،",
+      "logicalText": "ومن يكرههن",
+      "textHash": "5b638c429d371cd339414491ea73bc9958c1ea50f61e54a8a7cda6f93e10fe37",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(8)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-sexual-exploitation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-140",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These bounded phrases identify the prohibited exploitation, its worldly-gain motive, and the coercion itself; they are bad inner acts within the good restraint and forgiveness clauses.",
+      "start": 7313,
+      "end": 7340,
+      "sourceText": "وَمَن يُكْرِههُّنَّ"
+    },
+    {
+      "id": "beta-u-24-33-31",
+      "text": "[نسبت به آنان] بسیار",
+      "logicalText": "إكراههن",
+      "textHash": "79c30c9e6cf889948ecb879750e911085fa590f8e4778dd6e789a3aaf43bf05d",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(9) > span:nth-of-type(1)",
+      "parentId": "beta-u-24-33-32",
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-sexual-exploitation"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-140",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These bounded phrases identify the prohibited exploitation, its worldly-gain motive, and the coercion itself; they are bad inner acts within the good restraint and forgiveness clauses.",
+      "start": 7374,
+      "end": 7394,
+      "sourceText": "إِكْرَاهِهِنَّ"
+    },
+    {
+      "id": "beta-u-24-33-32",
+      "text": "به یقین خدا پس از می بور شدنشان [نسبت به آنان] بسیار آمرزنده و مهربان است.",
+      "logicalText": "فإن الله من بعد إكراههن غفور رحيم",
+      "textHash": "34925471f627fc333b41a10b682489318a058f2fe30210ccba33f1afbed47166",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > p:nth-of-type(4) > span:nth-of-type(9)",
+      "parentId": null,
+      "sectionId": "p024-s0006",
+      "contextId": "beta-24-33",
+      "verse": 33,
+      "groups": [
+        "beta-24-forgiveness-after-coercion"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-120 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The closing assurance is favorable; it remains a separate layer from the coercion named inside it.",
+      "start": 7341,
+      "end": 7416,
+      "sourceText": "فَإِنَّ اللَّهَ مِن بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَّحِيمٌ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p024-textual-coordination-4e995ae2bb",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p024-u0001",
+        "p024-u0002"
+      ]
+    },
+    {
+      "id": "p024-textual-coordination-a65307fd98",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p024-u0003",
+        "p024-u0004",
+        "p024-u0005",
+        "p024-u0006"
+      ]
+    },
+    {
+      "id": "p024-textual-coordination-b91936310f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p024-u0007",
+        "p024-u0008",
+        "p024-u0009",
+        "p024-u0010",
+        "p024-u0011",
+        "p024-u0012",
+        "p024-u0013",
+        "p024-u0014",
+        "p024-u0015",
+        "p024-u0016",
+        "p024-u0017",
+        "p024-u0018"
+      ]
+    },
+    {
+      "id": "p024-textual-coordination-439a554599",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p024-u0022",
+        "p024-u0023",
+        "p024-u0024"
+      ]
+    },
+    {
+      "id": "p024-textual-coordination-775f2d815e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p024-u0025",
+        "p024-u0026",
+        "p024-u0027",
+        "p024-u0028",
+        "p024-u0029",
+        "p024-u0030",
+        "p024-u0031",
+        "p024-u0032",
+        "p024-u0033",
+        "p024-u0034",
+        "p024-u0035"
+      ]
+    },
+    {
+      "id": "p024-local-underline-pattern-764c2b78e4",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p024-u0001",
+        "p024-u0002",
+        "p024-u0003",
+        "p024-u0004",
+        "p024-u0005",
+        "p024-u0006",
+        "p024-u0019"
+      ]
+    },
+    {
+      "id": "p024-local-underline-pattern-200c97df18",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p024-u0020",
+        "p024-u0021"
+      ]
+    },
+    {
+      "id": "beta-24-guarding-conduct",
+      "label": "guarding conduct",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p024-u0001",
+        "p024-u0002",
+        "p024-u0003",
+        "p024-u0004"
+      ]
+    },
+    {
+      "id": "beta-24-avoidance-directive",
+      "label": "avoidance directive",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-21-1"
+      ]
+    },
+    {
+      "id": "beta-24-condemned-path",
+      "label": "condemned path",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-21-2",
+        "beta-u-24-21-3",
+        "beta-u-24-21-4",
+        "beta-u-24-21-5"
+      ]
+    },
+    {
+      "id": "beta-24-pardon",
+      "label": "pardon",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-22-6",
+        "beta-u-24-22-7"
+      ]
+    },
+    {
+      "id": "beta-24-faculties",
+      "label": "faculties",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-30-8",
+        "beta-u-24-30-9"
+      ]
+    },
+    {
+      "id": "beta-24-worship-and-obedience",
+      "label": "worship and obedience",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-56-10",
+        "beta-u-24-56-11",
+        "beta-u-24-56-12"
+      ]
+    },
+    {
+      "id": "beta-24-unsubstantiated-accusation",
+      "label": "unsubstantiated accusation",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-4-13",
+        "beta-u-24-4-14"
+      ]
+    },
+    {
+      "id": "beta-24-repentant-exception",
+      "label": "repentant exception",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-5-15",
+        "beta-u-24-5-16"
+      ]
+    },
+    {
+      "id": "beta-24-respectful-entry",
+      "label": "respectful entry",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-27-17"
+      ]
+    },
+    {
+      "id": "beta-24-profession-versus-conduct",
+      "label": "profession versus conduct",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-47-18"
+      ]
+    },
+    {
+      "id": "beta-24-marriage-and-provision",
+      "label": "marriage and provision",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-32-19",
+        "beta-u-24-32-20"
+      ]
+    },
+    {
+      "id": "beta-24-economic-condition",
+      "label": "economic condition",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-32-21"
+      ]
+    },
+    {
+      "id": "beta-24-chastity-and-provision",
+      "label": "chastity and provision",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-22"
+      ]
+    },
+    {
+      "id": "beta-24-unmarried-needy-category",
+      "label": "unmarried needy category",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-23"
+      ]
+    },
+    {
+      "id": "beta-24-contract-and-giving-directives",
+      "label": "contract and giving directives",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-24",
+        "beta-u-24-33-25"
+      ]
+    },
+    {
+      "id": "beta-24-given-property",
+      "label": "given property",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-26"
+      ]
+    },
+    {
+      "id": "beta-24-prohibition-of-coercion",
+      "label": "prohibition of coercion",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-27"
+      ]
+    },
+    {
+      "id": "beta-24-sexual-exploitation",
+      "label": "sexual exploitation",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-28",
+        "beta-u-24-33-29",
+        "beta-u-24-33-30",
+        "beta-u-24-33-31"
+      ]
+    },
+    {
+      "id": "beta-24-forgiveness-after-coercion",
+      "label": "forgiveness after coercion",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-24-33-32"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p024-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "به زن زناکار و مرد زناکار صد تازیانه",
+        "last": "هستند، برای آنان آمرزش و رزق نیکویی است.۲۶"
+      },
+      "lines": [
+        "p024-l0001"
+      ]
+    },
+    {
+      "id": "p024-s0002",
+      "parentId": "p024-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "به زن زناکار و مرد زناکار صد تازیانه",
+        "last": "[به کیفرهای بسیار سختی دچار می شدید.] ۱۰"
+      },
+      "lines": [
+        "p024-l0002"
+      ]
+    },
+    {
+      "id": "p024-s0003",
+      "parentId": "p024-s0002",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "به زن زناکار و مرد زناکار صد تازیانه",
+        "last": "و این [ازدواج] بر مؤمنان حرام شده است.۳"
+      },
+      "lines": [
+        "p024-l0003"
+      ]
+    },
+    {
+      "id": "p024-s0004",
+      "parentId": "p024-s0002",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "و کسانی که زنان عفیفه پاکدامن را به",
+        "last": "[به کیفرهای بسیار سختی دچار می شدید.] ۱۰"
+      },
+      "lines": [
+        "p024-l0004"
+      ]
+    },
+    {
+      "id": "p024-s0005",
+      "parentId": "p024-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "به یقین کسانی که آن تهمت [بزرگ] را",
+        "last": "هستند، برای آنان آمرزش و رزق نیکویی است.۲۶"
+      },
+      "lines": [
+        "p024-l0005"
+      ]
+    },
+    {
+      "id": "p024-s0006",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "^ ای اهل ایمان! به خانه هایی غیر",
+        "last": "پندی برای پرهیزکاران به سوی شما نازل کردیم.۳۴"
+      },
+      "lines": [
+        "p024-l0006"
+      ]
+    },
+    {
+      "id": "p024-s0007",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "خدا نور آسمان ها و زمین است؛ وصف",
+        "last": "را بخواهد به راهی راست راهنمایی می کند.۴۶"
+      },
+      "lines": [
+        "p024-l0007"
+      ]
+    },
+    {
+      "id": "p024-s0008",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": ". و می گویند: به خدا و این",
+        "last": "و جایگاهشان آتش است، و بد جایگاهی است.۵۷"
+      },
+      "lines": [
+        "p024-l0008"
+      ]
+    },
+    {
+      "id": "p024-s0009",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(6)",
+      "excerpt": {
+        "first": "^ ای اهل ایمان! باید بردگانتان و کسانی",
+        "last": "را برای شما بیان می کند تا بیندیشید.۶۱"
+      },
+      "lines": [
+        "p024-l0009"
+      ]
+    },
+    {
+      "id": "p024-s0010",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(7)",
+      "excerpt": {
+        "first": "مؤمنان فقط آنانند که به خدا و پیامبرش",
+        "last": "یا عذابی دردناک [در آخرت] به ایشان رسد.۶۳"
+      },
+      "lines": [
+        "p024-l0010"
+      ]
+    }
+  ],
+  "betaQuotations": [
+    {
+      "id": "beta-q-024-001",
+      "surah": 24,
+      "firstVerse": 12,
+      "lastVerse": 12,
+      "requestedLastVerse": 12,
+      "first": "هذا إفك مبين",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 6035,
+      "end": 6058
+    },
+    {
+      "id": "beta-q-024-002",
+      "surah": 24,
+      "firstVerse": 16,
+      "lastVerse": 16,
+      "requestedLastVerse": 16,
+      "first": "ما يكون لنا أن نتكلم بهذا",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 6600,
+      "end": 6683
+    },
+    {
+      "id": "beta-q-024-003",
+      "surah": 24,
+      "firstVerse": 47,
+      "lastVerse": 47,
+      "requestedLastVerse": 47,
+      "first": "آمنا بالله وبالرسول وأطعنا",
+      "color": "red",
+      "until": "ثم يتولى",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 22138,
+      "end": 22182
+    },
+    {
+      "id": "beta-q-024-004",
+      "surah": 24,
+      "firstVerse": 51,
+      "lastVerse": 51,
+      "requestedLastVerse": 51,
+      "first": "سمعنا وأطعنا",
+      "color": "green",
+      "until": "وأولئك",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 23549,
+      "end": 23570
+    },
+    {
+      "id": "beta-q-024-005",
+      "surah": 24,
+      "firstVerse": 53,
+      "lastVerse": 53,
+      "requestedLastVerse": 53,
+      "first": "لا تقسموا",
+      "color": "black",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 23976,
+      "end": 24056
+    },
+    {
+      "id": "beta-q-024-006",
+      "surah": 24,
+      "firstVerse": 54,
+      "lastVerse": 54,
+      "requestedLastVerse": 54,
+      "first": "أطيعوا الله وأطيعوا الرسول",
+      "color": "black",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 24222,
+      "end": 24426
+    },
+    {
+      "id": "beta-q-024-007",
+      "surah": 24,
+      "firstVerse": 53,
+      "lastVerse": 53,
+      "requestedLastVerse": 53,
+      "first": "لئن أمرتهم ليخرجن",
+      "color": "red",
+      "until": "قل لا تقسموا",
+      "implicit": true,
+      "speaker": "The reported oath content ends before the existing instructed response",
+      "anchorOptions": {},
+      "start": 23788,
+      "end": 23821
+    }
+  ],
+  "betaEditorialStatus": "conservative-transfer-with-review-queue"
+}

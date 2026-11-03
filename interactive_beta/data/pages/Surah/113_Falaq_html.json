@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "source": "Surah/113_Falaq_html.html",
+  "sourceHash": "17d9ed45bbad20d7cd12d5acd4d749a34cb255f9cfd88963ede5291333a2b68c",
+  "underlines": [
+    {
+      "id": "p113-u0001",
+      "text": "مِن شَرِّ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "f0a40086a202eecf4ec783e3063dc81e51e2743d289d881998cacced29cbabaf",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p113-s0001",
+      "contextId": "p113-c1",
+      "start": 216,
+      "end": 225,
+      "groups": [
+        "p113-local-underline-pattern-b604072951"
+      ]
+    },
+    {
+      "id": "p113-u0002",
+      "text": "مِن شَرِّ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "f0a40086a202eecf4ec783e3063dc81e51e2743d289d881998cacced29cbabaf",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 3,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p113-s0001",
+      "contextId": "p113-c2",
+      "start": 301,
+      "end": 310,
+      "groups": [
+        "p113-local-underline-pattern-b604072951"
+      ]
+    },
+    {
+      "id": "p113-u0003",
+      "text": "مِن شَرِّ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "f0a40086a202eecf4ec783e3063dc81e51e2743d289d881998cacced29cbabaf",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p113-s0001",
+      "contextId": "p113-c3",
+      "start": 396,
+      "end": 405,
+      "groups": [
+        "p113-local-underline-pattern-b604072951"
+      ]
+    },
+    {
+      "id": "p113-u0004",
+      "text": "مِن شَرِّ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "f0a40086a202eecf4ec783e3063dc81e51e2743d289d881998cacced29cbabaf",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 5,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p113-s0001",
+      "contextId": "p113-c4",
+      "start": 499,
+      "end": 508,
+      "groups": [
+        "p113-local-underline-pattern-b604072951"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p113-local-underline-pattern-b604072951",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p113-u0001",
+        "p113-u0002",
+        "p113-u0003",
+        "p113-u0004"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p113-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "– مِن شَرِّ مَا خَلَقَ۲ – وَمِن شَرِّ",
+        "last": "فِي الْعُقَدِ۴ – وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ۵"
+      },
+      "lines": [
+        "p113-l0001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "version": 1,
+  "source": "Surah/Farsi/061_Saff_farsi.html",
+  "sourceHash": "60bd7bca1a7d3c023166206cd73c0996b98a0cac231223e1e34eaf092143f03d",
+  "underlines": [
+    {
+      "id": "p115-u0001",
+      "text": "خداوند، کسانی را که صف در صف همچون بنایی فولادی در راه او می‌جنگند، دوست دارد.۴",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "2e6c00322d5b8d4c57897f78537cc057bbca550d9ea341bb67750b311984d8e6",
+      "appearance": {
+        "signature": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-color-currentcolor ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "structure": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c1",
+      "start": 412,
+      "end": 491,
+      "groups": [
+        "p115-u0001-individual"
+      ]
+    },
+    {
+      "id": "p115-u0002",
+      "text": "و خدا مردم فاسق را هدایت نمی کند",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "926a43fffb03f876e42578a0d47a70ac9d167ee62618102728731e2c9c515449",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p115-s0001",
+      "contextId": "p115-c2",
+      "start": 863,
+      "end": 895,
+      "groups": [
+        "p115-local-underline-pattern-c9f4334847"
+      ]
+    },
+    {
+      "id": "p115-u0003",
+      "text": "تورات را که پیش از من بوده، تصدیق می کنم،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "0832ffcea0967685a89480a9c656afe12c0e9c5fcad10ebe97c786cdfc9712b0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p115-s0001",
+      "contextId": "p115-c3",
+      "start": 1089,
+      "end": 1130,
+      "groups": [
+        "p115-textual-coordination-89413310ab"
+      ]
+    },
+    {
+      "id": "p115-u0004",
+      "text": "به پیامبری که بعد از من می آید و نامش «احمد» است، مژده می دهم.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(4)",
+      "textHash": "ad0df369584dbfa0b4215ecaa150df10382d06cd84b0e07ef16f1ba26a29b051",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p115-s0001",
+      "contextId": "p115-c3",
+      "start": 1145,
+      "end": 1207,
+      "groups": [
+        "p115-textual-coordination-89413310ab"
+      ]
+    },
+    {
+      "id": "p115-u0005",
+      "text": "و خدا مردم ستمکار را هدایت نمی کند.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "15d877e5730748f1f0f4e1bddf8500d5cd676d20aec23c39e8ad9a1182c992fb",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p115-s0001",
+      "contextId": "p115-c4",
+      "start": 1516,
+      "end": 1552,
+      "groups": [
+        "p115-local-underline-pattern-c9f4334847"
+      ]
+    },
+    {
+      "id": "p115-u0006",
+      "text": "گرچه کافران خوش نداشته باشند.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "6ce5a9c3dcadbb8847a1cbabc72ca857babf9e18018319b4f6496f24cde8dd36",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p115-s0001",
+      "contextId": "p115-c5",
+      "start": 1693,
+      "end": 1722,
+      "groups": [
+        "p115-lexical-parallel-e3e37d8547"
+      ]
+    },
+    {
+      "id": "p115-u0007",
+      "text": "هدایت",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(1)",
+      "textHash": "2ba476f6f6579efe0477c2039e2b9d78ca36e3ab38c762779577c495bfa256fd",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c6",
+      "start": 1778,
+      "end": 1783,
+      "groups": [
+        "p115-textual-coordination-08a40d4059"
+      ]
+    },
+    {
+      "id": "p115-u0008",
+      "text": "دین حق",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(2)",
+      "textHash": "0480fb03673488ccc3d78ab2e1a07060b317e8a8ecf69599a02bff5a722bc6a2",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c6",
+      "start": 1792,
+      "end": 1798,
+      "groups": [
+        "p115-textual-coordination-08a40d4059"
+      ]
+    },
+    {
+      "id": "p115-u0009",
+      "text": "گرچه مشرکان خوش نداشته باشند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(1)",
+      "textHash": "ce8a1102d09da7d54fd3b23bf98f2471f51bc75bd26f0371ca9d9b565fd34618",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c7",
+      "start": 1861,
+      "end": 1890,
+      "groups": [
+        "p115-lexical-parallel-e3e37d8547"
+      ]
+    },
+    {
+      "id": "p115-u0010",
+      "text": "به خدا و پیامبرش ایمان آورید",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(3)",
+      "textHash": "9606eb60eed65a2aed24350647bff9f15c1b964e5240aa692e1389bdefde4d78",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2032,
+      "end": 2060,
+      "groups": [
+        "p115-textual-coordination-1e0123ee7e"
+      ]
+    },
+    {
+      "id": "p115-u0011",
+      "text": "خدا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "5e88fadb0aa6bed69cc9301126732c27e4f5ab965b0b93688707f3d0d155b40d",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": "p115-u0010",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2035,
+      "end": 2038,
+      "groups": [
+        "p115-textual-coordination-c8e243829c"
+      ]
+    },
+    {
+      "id": "p115-u0012",
+      "text": "پیامبرش",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "5d8c06d9d805a8facbeb09848d6dde2013730f03babc1b09cecffdac45d93551",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": "p115-u0010",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2041,
+      "end": 2048,
+      "groups": [
+        "p115-textual-coordination-c8e243829c"
+      ]
+    },
+    {
+      "id": "p115-u0013",
+      "text": "با اموال و جان هایتان در راه خدا جهاد کنید",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(4)",
+      "textHash": "6fc85600bad70e4daab0bbe7306b60843ab7d8274178d7017e89dd1bce896e44",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2070,
+      "end": 2118,
+      "groups": [
+        "p115-textual-coordination-1e0123ee7e"
+      ]
+    },
+    {
+      "id": "p115-u0014",
+      "text": "اموال",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "643ab2261f1230d34b069644e0a75128703fcc505a08c2d4e9b013e9fc37ea50",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": "p115-u0013",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2073,
+      "end": 2078,
+      "groups": [
+        "p115-textual-coordination-a1e9f9bfec"
+      ]
+    },
+    {
+      "id": "p115-u0015",
+      "text": "جان هایتان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "e2bb0a9c1d6160737d4e9e7e7cbb2aacc3b5179f59ebaff4a92055360692a2fd",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 8,
+      "parentId": "p115-u0013",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2087,
+      "end": 2097,
+      "groups": [
+        "p115-textual-coordination-a1e9f9bfec"
+      ]
+    },
+    {
+      "id": "p115-u0016",
+      "text": "گناهتان را بیامرزد",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(5)",
+      "textHash": "e182a11d06c9ddb1c2a2e871299356d47a7288421b21cd891de3e4e4d5716cba",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-3px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2183,
+      "end": 2201,
+      "groups": [
+        "p115-textual-coordination-ba032dbd0f"
+      ]
+    },
+    {
+      "id": "p115-u0017",
+      "text": "شما را در بهشت هایی که از زیرِ آن نهرها جاری است و خانه های پاکیزه در بهشت های جاویدان، درآورد",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(6)",
+      "textHash": "3f4b33e6f288711e23f32bb13da6895556c8ce7adba133eb600619dbe154586b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-3px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2211,
+      "end": 2311,
+      "groups": [
+        "p115-textual-coordination-ba032dbd0f"
+      ]
+    },
+    {
+      "id": "p115-u0018",
+      "text": "بهشت هایی که از زیرِ آن نهرها جاری است",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(6) > span:nth-of-type(1)",
+      "textHash": "6c0774a4e02f39072c4e076a799367b0b388ba163f4e7488a3ad4b48cc0cf41f",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 8,
+      "parentId": "p115-u0017",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2221,
+      "end": 2259,
+      "groups": [
+        "p115-textual-coordination-b5b453bb59"
+      ]
+    },
+    {
+      "id": "p115-u0019",
+      "text": "خانه های پاکیزه در بهشت های جاویدان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(6) > span:nth-of-type(2)",
+      "textHash": "494e9e5943dbe9f8da24e0d684b45e7860c0bc4148e39ab8a36ddd244c79c50d",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 8,
+      "parentId": "p115-u0017",
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2268,
+      "end": 2303,
+      "groups": [
+        "p115-textual-coordination-b5b453bb59"
+      ]
+    },
+    {
+      "id": "p115-u0020",
+      "text": "(یعنی) یاری و کمکی از جانب خدا و پیروزی نزدیک",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(7)",
+      "textHash": "d058378760881248984beea135efeb11bcefa90bd2f92815dd0fdf1b4385f43a",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c8",
+      "start": 2407,
+      "end": 2452,
+      "groups": [
+        "p115-u0020-individual"
+      ]
+    },
+    {
+      "id": "p115-u0021",
+      "text": "گروهی از بنی اسرائیل ایمان آوردند",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "72ef82caa2942c00e67998cdb423ea3ab0a302a2b26559bd8c9560c2486d3a35",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 14,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c9",
+      "start": 2787,
+      "end": 2820,
+      "groups": [
+        "p115-paired-contrast-8d7a789b5d"
+      ]
+    },
+    {
+      "id": "p115-u0022",
+      "text": "گروهی کافر شدند",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "205897878b87aa4596c8b626e35e0aceb28e9348d7e3c75a605c0007e8a4169e",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 14,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p115-c9",
+      "start": 2833,
+      "end": 2848,
+      "groups": [
+        "p115-paired-contrast-8d7a789b5d"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p115-textual-coordination-89413310ab",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0003",
+        "p115-u0004"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-08a40d4059",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0007",
+        "p115-u0008"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-1e0123ee7e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0010",
+        "p115-u0013"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-ba032dbd0f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0016",
+        "p115-u0017"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-c8e243829c",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0011",
+        "p115-u0012"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-a1e9f9bfec",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0014",
+        "p115-u0015"
+      ]
+    },
+    {
+      "id": "p115-textual-coordination-b5b453bb59",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p115-u0018",
+        "p115-u0019"
+      ]
+    },
+    {
+      "id": "p115-paired-contrast-8d7a789b5d",
+      "label": "Locally coordinated contrasting alternatives",
+      "basis": "paired-contrast",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "paired-red-green",
+        "matching-line-structure",
+        "coordinating-text"
+      ],
+      "members": [
+        "p115-u0021",
+        "p115-u0022"
+      ]
+    },
+    {
+      "id": "p115-local-underline-pattern-c9f4334847",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p115-u0002",
+        "p115-u0005"
+      ]
+    },
+    {
+      "id": "p115-lexical-parallel-e3e37d8547",
+      "label": "Matching underline form and strongly parallel content",
+      "basis": "lexical-parallel",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-nesting-layer",
+        "two-shared-content-words",
+        "high-lexical-overlap"
+      ],
+      "members": [
+        "p115-u0006",
+        "p115-u0009"
+      ]
+    },
+    {
+      "id": "p115-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p115-u0001"
+      ]
+    },
+    {
+      "id": "p115-u0020-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p115-u0020"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p115-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "— n و (یاد کن) هنگامی را که",
+        "last": "نور خود است، گرچه کافران خوش نداشته باشند.۸"
+      },
+      "lines": [
+        "p115-l0001"
+      ]
+    }
+  ]
+}

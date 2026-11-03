@@ -1,0 +1,12 @@
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.annotation.border-horizontal {
+  border-bottom: 1px solid rgb(100, 100, 100);
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 0px 0px;
+}

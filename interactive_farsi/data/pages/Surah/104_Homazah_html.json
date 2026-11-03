@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "source": "Surah/104_Homazah_html.html",
+  "sourceHash": "72f1ae210041d00c65d9ec59e992516674fac74e47f72a4ad8c41037c826954c",
+  "underlines": [
+    {
+      "id": "p104-u0001",
+      "text": "عیب جوی بدگوی!۱همان که ثروتی فراهم آورده و [پی در پی] آن را شمرد [و ذخیره کرد.]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "0825e7b8401b28e82208157ab897ed4823ec6512a26e550ea0a713f13a30aaa5",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0px ul-pad-y-5px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-5px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 104,
+      "end": 198,
+      "groups": [
+        "p104-u0001-individual"
+      ],
+      "sourceText": "هُمَزَةٍ لُّمَزَةٍ۱ الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+      "id": "p104-u0002",
+      "text": "عیب جوی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "4e7eb4f2f76967288178709379ec3581eb3044333609b87f8a07b2672e14cb3b",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p104-u0001",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 111,
+      "end": 118,
+      "groups": [
+        "p104-textual-coordination-d609b14c8e",
+        "p104-local-underline-pattern-594605520c"
+      ],
+      "sourceText": "هُمَزَةٍ"
+    },
+    {
+      "id": "p104-u0003",
+      "text": "بدگوی!",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "de36df7dc5ae055a5771839e639cbd8c9745fedd6acef274a129cb7ed91a2fb3",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": "p104-u0001",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 125,
+      "end": 132,
+      "groups": [
+        "p104-textual-coordination-d609b14c8e",
+        "p104-local-underline-pattern-594605520c"
+      ],
+      "sourceText": "لُّمَزَةٍ"
+    },
+    {
+      "id": "p104-u0004",
+      "text": "فراهم آورده و [پی در پی] آن را شمرد [و ذخیره کرد.]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "8a0c8d3c5b383deec2a41e8a3b398af3f573abb382ec89f143127c5e4df48655",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": "p104-u0001",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 147,
+      "end": 198,
+      "groups": [
+        "p104-local-underline-pattern-594605520c"
+      ],
+      "sourceText": "جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+      "id": "p104-u0005",
+      "text": "فراهم آورده و [پی در پی] آن",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "a833d4010213e404142dff6b1d3ef4ba0d0abc7e0cb4b26bb46acdf10cedad62",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": "p104-u0004",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 147,
+      "end": 174,
+      "groups": [
+        "p104-textual-coordination-62f07d943a"
+      ],
+      "sourceText": "جَمَعَ مَالًا"
+    },
+    {
+      "id": "p104-u0006",
+      "text": "شمرد [و ذخیره کرد.]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "ab4331b8ca2ad4d5b1508f288e11c15f7a24e8fa57d410b042ab1627be64ef6e",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": "p104-u0004",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 178,
+      "end": 198,
+      "groups": [
+        "p104-textual-coordination-62f07d943a"
+      ],
+      "sourceText": "عَدَّدَهُ"
+    },
+    {
+      "id": "p104-u0007",
+      "text": "آتش برافروخته خداست۶[آتشی] که بر دل ها برآید و چیره شود.۷آن آتش بر آنان سربسته است [که هیچ راه گریزی از آن ندارند؛] ۸ [آتشی] در ستون هایی بلند و کشیده.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "f6a7e934dee538e3da2c6475ef3681a254fcc04ecb2724b8ad3db98f6b63d1ac",
+      "appearance": {
+        "signature": "ul-color-red-250-180-180 ul-pad-x-0px ul-pad-y-5px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-5px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 339,
+      "end": 503,
+      "groups": [
+        "p104-u0007-individual"
+      ],
+      "sourceText": "نَارُ اللَّهِ الْمُوقَدَةُ۶ الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ۷ إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ۸ فِي عَمَدٍ مُّمَدَّدَةٍ"
+    },
+    {
+      "id": "p104-u0008",
+      "text": "آتش برافروخته خداست",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "89472f582a2800089f75bc451b8dcf87559ed77a5dc15b45c5c09ff1d62db234",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": "p104-u0007",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 346,
+      "end": 365,
+      "groups": [
+        "p104-local-underline-pattern-f109d1b928"
+      ],
+      "sourceText": "نَارُ اللَّهِ الْمُوقَدَةُ"
+    },
+    {
+      "id": "p104-u0009",
+      "text": "که بر دل ها برآید و چیره شود.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "0f14b51a9cc629ada7e8548ff5514121776370e8009c50fe01215ca75c2e5e84",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 1,
+      "parentId": "p104-u0007",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 373,
+      "end": 402,
+      "groups": [
+        "p104-local-underline-pattern-f109d1b928"
+      ],
+      "sourceText": "تَطَّلِعُ عَلَى الْأَفْئِدَةِ"
+    },
+    {
+      "id": "p104-u0010",
+      "text": "سربسته است [که هیچ راه گریزی از آن ندارند؛] ۸ [آتشی] در ستون هایی بلند و کشیده.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "7bd98a08c0d79ca5a8ebfe27fbcf643c89a9fe841462688583c7b640dcddef39",
+      "appearance": {
+        "signature": "ul-color-red-240-170-170 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": "p104-u0007",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 418,
+      "end": 503,
+      "groups": [
+        "p104-local-underline-pattern-f109d1b928"
+      ],
+      "sourceText": "عَلَيْهِم مُّؤْصَدَةٌ۸ فِي عَمَدٍ مُّمَدَّدَةٍ"
+    },
+    {
+      "id": "p104-u0011",
+      "text": "سربسته است [که هیچ راه گریزی از آن ندارند؛]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "4fa2f8346210a98807f511e5d7977d08c61e85f30a7ce8d24e570bec1f33e794",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": "p104-u0010",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 418,
+      "end": 462,
+      "groups": [
+        "p104-textual-coordination-0cbc642a5c"
+      ],
+      "sourceText": "عَلَيْهِم مُّؤْصَدَةٌ"
+    },
+    {
+      "id": "p104-u0012",
+      "text": "[آتشی] در ستون هایی بلند و کشیده.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2) > span:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "4f1ebf1714c5953d7597bcd6b41582d346e016b2435a4765c5130a71789be6d0",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 9,
+      "blockIndex": 1,
+      "parentId": "p104-u0010",
+      "sectionId": null,
+      "contextId": "p104-c1",
+      "start": 470,
+      "end": 503,
+      "groups": [
+        "p104-textual-coordination-0cbc642a5c"
+      ],
+      "sourceText": "فِي عَمَدٍ مُّمَدَّدَةٍ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p104-textual-coordination-d609b14c8e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p104-u0002",
+        "p104-u0003"
+      ]
+    },
+    {
+      "id": "p104-textual-coordination-62f07d943a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p104-u0005",
+        "p104-u0006"
+      ]
+    },
+    {
+      "id": "p104-textual-coordination-0cbc642a5c",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p104-u0011",
+        "p104-u0012"
+      ]
+    },
+    {
+      "id": "p104-local-underline-pattern-594605520c",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p104-u0002",
+        "p104-u0003",
+        "p104-u0004"
+      ]
+    },
+    {
+      "id": "p104-local-underline-pattern-f109d1b928",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p104-u0008",
+        "p104-u0009",
+        "p104-u0010"
+      ]
+    },
+    {
+      "id": "p104-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p104-u0001"
+      ]
+    },
+    {
+      "id": "p104-u0007-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p104-u0007"
+      ]
+    }
+  ],
+  "sections": []
+}

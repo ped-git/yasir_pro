@@ -1,0 +1,76 @@
+{
+  "browser": "156.0.8078.4",
+  "comparisons": 3,
+  "interactions": [
+    {
+      "width": 1440,
+      "underlineOnlyEmphasis": true,
+      "verticalLineHover": true,
+      "nestedHover": true,
+      "distinctExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    },
+    {
+      "width": 390,
+      "underlineOnlyEmphasis": true,
+      "verticalLineHover": true,
+      "nestedHover": true,
+      "distinctExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    }
+  ],
+  "results": [
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "desktop",
+      "screenshot": "9399af7479a99f434ed68b27d6f7d22683001a51cfb35ba1fa510f3f7340197a",
+      "hashes": {
+        "styles": "36a7df93163c23593eef70e7d97ce977e60973bcb5a400ae32b65c740ad41107",
+        "geometry": "64c02ee5d0e2454fe3b17c89026b7659d2e679f77cea06db7ee7b98fba23d72c",
+        "generated": "f139fa78fe2b8dc5176d174f3fbc6c9c55f2164b58cea12f94dd10dcb29fc356",
+        "text": "8f01fb5f2f3aabd1615093bd3d0a2867a50d189314f0da125803574ca2b7c793"
+      },
+      "elements": 783,
+      "size": [
+        1440,
+        12300
+      ]
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "mobile",
+      "screenshot": "e3524ed9061547220bd2ea7d4cb3e6c35608fc68b059212f3d0b3ae53b8c5e92",
+      "hashes": {
+        "styles": "1c63b06e773141ae22678c84f7e3bc639a01960d63f15fa80ac8e82aaff948b9",
+        "geometry": "66f4966f4cfb35e199a02f66edff211d7ff639fba43f5fe83c82be345bf6fcf6",
+        "generated": "f139fa78fe2b8dc5176d174f3fbc6c9c55f2164b58cea12f94dd10dcb29fc356",
+        "text": "d40233db65ea7193adbdd6f0179555b452e524961cf071bfc1584cd07f73241c"
+      },
+      "elements": 783,
+      "size": [
+        726,
+        12300
+      ]
+    },
+    {
+      "page": "Surah/003_AleImran_html.html",
+      "scenario": "print",
+      "screenshot": "9399af7479a99f434ed68b27d6f7d22683001a51cfb35ba1fa510f3f7340197a",
+      "hashes": {
+        "styles": "36a7df93163c23593eef70e7d97ce977e60973bcb5a400ae32b65c740ad41107",
+        "geometry": "64c02ee5d0e2454fe3b17c89026b7659d2e679f77cea06db7ee7b98fba23d72c",
+        "generated": "f139fa78fe2b8dc5176d174f3fbc6c9c55f2164b58cea12f94dd10dcb29fc356",
+        "text": "8f01fb5f2f3aabd1615093bd3d0a2867a50d189314f0da125803574ca2b7c793"
+      },
+      "elements": 783,
+      "size": [
+        1440,
+        12300
+      ]
+    }
+  ]
+}

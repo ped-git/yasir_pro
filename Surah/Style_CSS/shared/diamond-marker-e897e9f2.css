@@ -1,0 +1,21 @@
+.diamond-marker {
+  width: 1.2mm;
+  height: 1.2mm;
+  -ms-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.diamond-marker.connection-cap--top-1 {
+  background-color: black;
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-1 {
+  background-color: black;
+  bottom: 0;
+  right: 7mm;
+}

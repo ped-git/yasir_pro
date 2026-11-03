@@ -1,0 +1,185 @@
+@import url("shared/speech-9b03f6de.css");
+@import url("shared/speech-open-before-7c3fc813.css");
+@import url("shared/speech-gray-before-d5db9fb8.css");
+@import url("shared/speech-black-before-b0fb20f7.css");
+@import url("shared/connection-line--1-9b7d81ea.css");
+
+.diamond-marker.connection-cap--top-blue-1 {
+  background-color: rgb(0, 130, 230);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-blue-1 {
+  background-color: rgb(0, 130, 230);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.verse-group {
+  position: relative;
+  page-break-inside: auto;
+}
+
+.verse-indent-1 {
+  display: inline-block;
+  page-break-inside: auto;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  flex: 1;
+  text-indent: 0mm;
+}
+
+.verse-indent-2 {
+  display: inline-block;
+  page-break-inside: auto;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  width: 132mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.border-gray {
+  border: 1px solid rgb(220, 220, 220);
+  padding: 1px 0.264583mm 0mm 0.264583mm;
+}
+
+.annotation.border-horizontal {
+  border-bottom: 1px solid rgb(100, 100, 100);
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 0px 0px;
+}
+
+.border-red {
+  border: 1px solid rgb(220, 180, 180);
+  padding: 2px 0.264583mm;
+}
+
+.border-green {
+  border: 1px solid rgb(180, 220, 180);
+  padding: 2px 0.264583mm;
+}
+
+.spacing-reset {
+  margin-top: 0mm;
+  margin-right: 0mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.spacing-reset.spacing-expanded {
+  margin-bottom: 4.5mm;
+}
+
+.spacing-reset-2 {
+  margin-top: 0mm;
+  margin-right: 6.5mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.spacing-reset-2.spacing-expanded {
+  margin-bottom: 4.5mm;
+}
+
+.spacing-reset-3 {
+  margin-top: 0mm;
+  margin-right: 7mm;
+  margin-bottom: 4.5mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.spacing-reset-6 {
+  margin-top: 0mm;
+  margin-right: 4mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -4mm;
+}
+
+.text-highlight-11 {
+  color: rgb(160, 160, 160);
+}
+
+.text-highlight-16 {
+  color: purple;
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

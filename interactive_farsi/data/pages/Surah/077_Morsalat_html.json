@@ -1,0 +1,637 @@
+{
+  "version": 1,
+  "source": "Surah/077_Morsalat_html.html",
+  "sourceHash": "0b11bce9c798a283aa2ddbccc793cfc06ec2f41331753c197b0e4b2905149f15",
+  "underlines": [
+    {
+      "id": "p077-u0001",
+      "text": "تا حجت [باشد برای اهل",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(2)",
+      "textHash": "a288770edad1c36051a0df9a20a25e2edfeaf09d4444a1174515d106bf8690c0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c1",
+      "start": 506,
+      "end": 528,
+      "groups": [
+        "p077-textual-coordination-260453104f"
+      ],
+      "sourceText": "عُذْرًا"
+    },
+    {
+      "id": "p077-u0002",
+      "text": "هشدار باشد [برای کافران]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(3)",
+      "textHash": "1c9927796db39240644f3d85c929a57341e5565a14dc0ea503c6d2caffef2004",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c1",
+      "start": 543,
+      "end": 568,
+      "groups": [
+        "p077-textual-coordination-260453104f"
+      ],
+      "sourceText": "نُذْرًا"
+    },
+    {
+      "id": "p077-u0003",
+      "text": "زمین را فراهم آورنده",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(1)",
+      "textHash": "81f6f0b6944a372f8140b4786d275016df88c1dd19e795fa3e7d0f2b23831f39",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-gray-170-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 25,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c2",
+      "start": 1550,
+      "end": 1571,
+      "groups": [
+        "p077-local-underline-pattern-c1450119b4"
+      ],
+      "sourceText": "لَمْ نَجْعَلِ"
+    },
+    {
+      "id": "p077-u0004",
+      "text": "هم در حال حیاتشان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(2)",
+      "textHash": "741a02a640aa9007ea4f708520c0d7f077d97a87234ea344b5959b1ba3630f98",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 26,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c2",
+      "start": 1604,
+      "end": 1621,
+      "groups": [
+        "p077-textual-coordination-68681ba8fd"
+      ],
+      "sourceText": "أَحْيَاءً"
+    },
+    {
+      "id": "p077-u0005",
+      "text": "و هم زمان مرگشان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(3)",
+      "textHash": "c7614532a89f7f450a4907c4540172dc0746a14311ed72d380e14151479d415f",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 26,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c2",
+      "start": 1622,
+      "end": 1638,
+      "groups": [
+        "p077-textual-coordination-68681ba8fd"
+      ],
+      "sourceText": "أَمْوَاتًا"
+    },
+    {
+      "id": "p077-u0006",
+      "text": "کوه های",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(4)",
+      "textHash": "044ed6392b9068418c8cdb361bddab98820bfb17e7b0b1a3256242ce1809e974",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-gray-170 ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 27,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c2",
+      "start": 1642,
+      "end": 1650,
+      "groups": [
+        "p077-u0006-individual"
+      ],
+      "sourceText": "جَعَلْنَا"
+    },
+    {
+      "id": "p077-u0007",
+      "text": "و شما را آبی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(5)",
+      "textHash": "4965efdc9c529d02cd2b65f5086a471d0b4152b8eb4ceebb63b355c614e6286b",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-gray-170-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 27,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c2",
+      "start": 1680,
+      "end": 1694,
+      "groups": [
+        "p077-local-underline-pattern-c1450119b4"
+      ],
+      "sourceText": "أَسْقَيْنَاكُم"
+    },
+    {
+      "id": "p077-u0008",
+      "text": "[آن روز به آنان گویند:] به سوی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(21) > span:nth-of-type(1)",
+      "textHash": "9cf943f0bd287dd8de69290a48eaa8e3da59eea74a132592b9e171187211a65f",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 29,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c3",
+      "start": 1783,
+      "end": 1813,
+      "groups": [
+        "p077-local-underline-pattern-23d03f05f0"
+      ],
+      "sourceText": "انطَلِقُوا إِلَىٰ"
+    },
+    {
+      "id": "p077-u0009",
+      "text": "و [نیز] به سوی سایه ای [از دود",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(21) > span:nth-of-type(2)",
+      "textHash": "bec3f5d2a17f1e3ce9fc9fb3924b186d95e780a4de21c57ae22f66e6ac4e74b3",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 30,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c3",
+      "start": 1867,
+      "end": 1898,
+      "groups": [
+        "p077-local-underline-pattern-23d03f05f0"
+      ],
+      "sourceText": "انطَلِقُوا إِلَىٰ"
+    },
+    {
+      "id": "p077-u0010",
+      "text": "[سایه ای که] نه مانع",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(21) > span:nth-of-type(3)",
+      "textHash": "a394872f2e2ffe0e0f9a7ae1eb616ed759f7dc027492470e612d9b2a88aaeb8d",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c3",
+      "start": 1952,
+      "end": 1973,
+      "groups": [
+        "p077-textual-coordination-f427ba86a4"
+      ],
+      "sourceText": "لَّا ظَلِيلٍ"
+    },
+    {
+      "id": "p077-u0011",
+      "text": "حرارت است، و نه از شعله های آتش جلوگیری می کند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(21) > span:nth-of-type(4)",
+      "textHash": "426bfe2a28f4185900b8c8214a3673ffb89297b7c03fb66a55154c2a41e8652c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 31,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c3",
+      "start": 1976,
+      "end": 2024,
+      "groups": [
+        "p077-textual-coordination-f427ba86a4"
+      ],
+      "sourceText": "لَا يُغْنِي مِنَ اللَّهَبِ"
+    },
+    {
+      "id": "p077-u0012",
+      "text": "را",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(25) > span:nth-of-type(2)",
+      "textHash": "4809641c81da8e67be7c93b036811690bdbe691096a5b58b3cb75ee6e0677cea",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c4",
+      "start": 2436,
+      "end": 2440,
+      "groups": [
+        "p077-textual-coordination-018be835cc"
+      ],
+      "sourceText": "كُمْ"
+    },
+    {
+      "id": "p077-u0013",
+      "text": "آن جمع کرده ایم.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(25) > span:nth-of-type(3)",
+      "textHash": "95867cc8394ed96582fb835f3e112837604b30b97fa04777c06fad9e3ec67175",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c4",
+      "start": 2442,
+      "end": 2459,
+      "groups": [
+        "p077-textual-coordination-018be835cc"
+      ],
+      "sourceText": "الْأَوَّلِينَ"
+    },
+    {
+      "id": "p077-u0014",
+      "text": "ها و کنار",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(27) > span:nth-of-type(1)",
+      "textHash": "68f9af5f262595737f993874e0e2188bce3a7b05a8701a4e185adab55f601758",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 41,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c5",
+      "start": 2626,
+      "end": 2636,
+      "groups": [
+        "p077-textual-coordination-dac841ca9c"
+      ],
+      "sourceText": "ظِلَالٍ"
+    },
+    {
+      "id": "p077-u0015",
+      "text": "سارهایند،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(27) > span:nth-of-type(2)",
+      "textHash": "9a7cf44ca60527611c932bfa076369c93156de6b22c88024b6fe2ebc48552113",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 41,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c5",
+      "start": 2640,
+      "end": 2650,
+      "groups": [
+        "p077-textual-coordination-dac841ca9c"
+      ],
+      "sourceText": "عُيُونٍ"
+    },
+    {
+      "id": "p077-u0016",
+      "text": "نزد میوه هایی از آنچه همواره بخواهند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(27) > span:nth-of-type(3)",
+      "textHash": "e188dacf9a0dd31ab774e78260ab055c938fcb4a9a3878eae76699eba1bbc895",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 42,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c5",
+      "start": 2654,
+      "end": 2691,
+      "groups": [
+        "p077-textual-coordination-dac841ca9c"
+      ],
+      "sourceText": "فَوَاكِهَ مِمَّا يَشْتَهُونَ"
+    },
+    {
+      "id": "p077-u0017",
+      "text": "[به آنان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(28) > span:nth-of-type(1)",
+      "textHash": "aca89fd0eae2a3a799231384e3a9f9083667d45ec13fbed1846c0148d9ab4e77",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 43,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c6",
+      "start": 2716,
+      "end": 2725,
+      "groups": [
+        "p077-textual-coordination-dd83e077cb"
+      ],
+      "sourceText": "كُلُوا"
+    },
+    {
+      "id": "p077-u0018",
+      "text": "به پاداش اعمالی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(28) > span:nth-of-type(2)",
+      "textHash": "81074b5c8b9ed4cc6fe560dd8caa391bd4a59b7267121543718bc69ddb2b0164",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 43,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c6",
+      "start": 2732,
+      "end": 2749,
+      "groups": [
+        "p077-textual-coordination-dd83e077cb"
+      ],
+      "sourceText": "اشْرَبُوا"
+    },
+    {
+      "id": "p077-u0019",
+      "text": "ما نیکوکاران را این گونه پاداش می دهیم.۴۴",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(28) > span:nth-of-type(3)",
+      "textHash": "53cc54f827679a1992a54eefb907f45d47b54b71bf7894268c1b70ec8a32425e",
+      "appearance": {
+        "signature": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-color-currentcolor ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "structure": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "colorFamily": null
+      },
+      "verse": 44,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c6",
+      "start": 2817,
+      "end": 2859,
+      "groups": [
+        "p077-u0019-individual"
+      ],
+      "sourceText": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ۴۴"
+    },
+    {
+      "id": "p077-u0020",
+      "text": "[شما ای کافران و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(30) > span:nth-of-type(1)",
+      "textHash": "045548ab5b4051c6f283ed8d97f7aa946757b355488a2cf864d4addc5e7db828",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 46,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c7",
+      "start": 2938,
+      "end": 2955,
+      "groups": [
+        "p077-textual-coordination-fa70f01014"
+      ],
+      "sourceText": "كُلُوا"
+    },
+    {
+      "id": "p077-u0021",
+      "text": "در این دنیا] بخورید و اندک زمانی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(30) > span:nth-of-type(2)",
+      "textHash": "84585b34f56436fefa5c4133c59da176701149b2ed9566f2b4ea819893c85be9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 46,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p077-c7",
+      "start": 2962,
+      "end": 2995,
+      "groups": [
+        "p077-textual-coordination-fa70f01014"
+      ],
+      "sourceText": "تَمَتَّعُوا"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p077-textual-coordination-260453104f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0001",
+        "p077-u0002"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-68681ba8fd",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0004",
+        "p077-u0005"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-f427ba86a4",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0010",
+        "p077-u0011"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-018be835cc",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0012",
+        "p077-u0013"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-dac841ca9c",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0014",
+        "p077-u0015",
+        "p077-u0016"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-dd83e077cb",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0017",
+        "p077-u0018"
+      ]
+    },
+    {
+      "id": "p077-textual-coordination-fa70f01014",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p077-u0020",
+        "p077-u0021"
+      ]
+    },
+    {
+      "id": "p077-local-underline-pattern-c1450119b4",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p077-u0003",
+        "p077-u0007"
+      ]
+    },
+    {
+      "id": "p077-local-underline-pattern-23d03f05f0",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p077-u0008",
+        "p077-u0009"
+      ]
+    },
+    {
+      "id": "p077-u0006-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p077-u0006"
+      ]
+    },
+    {
+      "id": "p077-u0019-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p077-u0019"
+      ]
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,9 @@
+.verse-indent-1 {
+  display: inline-block;
+  page-break-inside: auto;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  flex: 1;
+  text-indent: 0mm;
+}

@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "source": "Surah/103_Aasr_html.html",
+  "sourceHash": "a31c5b0875d38f9d7534efaa5aa8b6a79b96de069c8e0500d5ffe27dfe902a89",
+  "underlines": [
+    {
+      "id": "p103-u0001",
+      "text": "آورده و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "2e1223afef139d504b1995d61697533bbdc82802b40d61e759e0d88577a8bbd2",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 190,
+      "end": 198,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ],
+      "sourceText": "آمَنُوا"
+    },
+    {
+      "id": "p103-u0002",
+      "text": "شایسته انجام داده اند و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "b0766cc82146579112b5db1014a44bfa89a1d88fe8fb6cec967800bbd5625b37",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 204,
+      "end": 228,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ],
+      "sourceText": "عَمِلُوا الصَّالِحَاتِ"
+    },
+    {
+      "id": "p103-u0003",
+      "text": "یکدیگر را به حق توصیه نموده",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "08341e229dc556910dd73136f01189041b69347b163d1830a79cfb42ca8833b3",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 229,
+      "end": 256,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ],
+      "sourceText": "تَوَاصَوْا بِالْحَقِّ"
+    },
+    {
+      "id": "p103-u0004",
+      "text": "به شکیبایی سفارش کرده اند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "e27bb651644402fe618eef78d3e22c28388de050e0a4bd72666874f2fb098a14",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 258,
+      "end": 285,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ],
+      "sourceText": "تَوَاصَوْا بِالصَّبْرِ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p103-textual-coordination-1aa1df6c2b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p103-u0001",
+        "p103-u0002",
+        "p103-u0003",
+        "p103-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

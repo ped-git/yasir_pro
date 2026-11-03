@@ -1,0 +1,18 @@
+body { font-family: "Vazirmatn", Tahoma, sans-serif; }
+body[dir="rtl"] .caution { border-left: 0; border-right: 3px solid #aa792e; padding-left: 0; padding-right: 14px; }
+body[dir="rtl"] th, body[dir="rtl"] td { text-align: right; }
+body[dir="rtl"] summary span { margin-right: 0; margin-left: 14px; }
+body[dir="rtl"] .issue-status { float: left; }
+body[dir="rtl"] .issue-body { padding: 0 25px 15px 12px; }
+body[dir="rtl"] .alternatives { border-left: 0; border-right: 3px solid #b7cbbd; padding-left: 0; padding-right: 15px; }
+body[dir="rtl"] .alternatives ol { padding-left: 0; padding-right: 21px; }
+body[dir="rtl"] blockquote { border-right: 3px solid #9db8a8; border-left: 0; }
+.language-links { display: flex; justify-content: space-between; gap: 16px; }
+.language-links a[lang="en"] { margin-inline-start: auto; }
+.source-note { margin-block: 12px; padding-inline: 8px; background: #f7f9f7; }
+.source-note summary { color: #216247; }
+.source-note[dir="ltr"] { text-align: left; }
+@media(max-width:600px) {
+  body[dir="rtl"] .issue-body { padding-right: 8px; padding-left: 4px; }
+  body[dir="rtl"] .issue-status { float: none; margin-right: 80px; margin-left: 0; }
+}

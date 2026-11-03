@@ -1,0 +1,274 @@
+@import url("shared/connection-line--1-3c1b1b19.css");
+@import url("shared/connection-line--red-1-35dfefcc.css");
+
+.connection-line--blue-1 {
+  border-left: 0.3mm solid rgb(0, 130, 230);
+  height: 100%;
+  position: absolute;
+  right: 7.5mm;
+  page-break-inside: auto;
+}
+
+.connection-line--2 {
+  border-left: 0.3mm solid rgb(150, 150, 150);
+  height: 100%;
+  position: absolute;
+  right: 5.4mm;
+  page-break-inside: auto;
+}
+
+.connection-line--3 {
+  border-left: 0.3mm solid rgb(200, 200, 200);
+  height: 100%;
+  position: absolute;
+  right: 3.4mm;
+  page-break-inside: auto;
+}
+
+.connection-line--inside {
+  border-left: 0.3mm dotted rgb(220, 220, 220);
+  height: 95%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 0mm;
+  page-break-inside: auto;
+}
+
+.diamond-marker {
+  width: 1.2mm;
+  height: 1.2mm;
+  -ms-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.diamond-marker.connection-cap--top-1 {
+  background-color: black;
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-1 {
+  background-color: black;
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-red-1 {
+  background-color: rgb(205, 100, 100);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-red-1 {
+  background-color: rgb(205, 100, 100);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-green-1 {
+  background-color: rgb(70, 175, 70);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-green-1 {
+  background-color: rgb(70, 175, 70);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-blue-1 {
+  background-color: rgb(0, 130, 230);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-blue-1 {
+  background-color: rgb(0, 130, 230);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.verse-group {
+  position: relative;
+  page-break-inside: auto;
+}
+
+.verse-indent-1 {
+  display: inline-block;
+  page-break-inside: auto;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+
+  flex: 1;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.annotation.border-horizontal {
+  border-bottom: 1px solid rgb(100, 100, 100);
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 0px 0px;
+}
+
+.border-dashed {
+  border: 1px dashed rgb(150, 150, 150);
+  padding: 2px 0.264583mm;
+}
+
+.border-dashed.color-gray {
+  border: 1px dashed rgb(200, 200, 200);
+}
+
+.spacing-reset {
+  margin-top: 0mm;
+  margin-right: 0mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.spacing-reset.spacing-expanded {
+  margin-bottom: 4.5mm;
+}
+
+.spacing-reset-5 {
+  margin-top: 0mm;
+  margin-right: 7mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.text-highlight-13 {
+  color: rgb(50, 50, 255);
+}
+
+.background-highlight-1 {
+  text-shadow: 0.529166mm 0.529166mm 1.058332mm rgba(0, 0, 0, 0.5);
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

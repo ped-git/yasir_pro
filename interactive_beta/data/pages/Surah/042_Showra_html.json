@@ -1,0 +1,4829 @@
+{
+  "version": 1,
+  "source": "Surah/042_Showra_html.html",
+  "sourceHash": "d947aa67cf6d194ef6efc39eda2b80108ae1ca56bfd7130c50e9de19250eef91",
+  "underlines": [
+    {
+      "id": "p042-u0001",
+      "text": "إِلَيْكَ",
+      "selector": "[data-underline-id=\"p042-u0001\"]",
+      "textHash": "0cceef935b5dec46857413fa4f84aceb8090a7cf485a85313cbb7f4120b87733",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 161,
+      "end": 169,
+      "groups": [
+        "p042-textual-coordination-8cc2c4cef4"
+      ]
+    },
+    {
+      "id": "p042-u0002",
+      "text": "إِلَى الَّذِينَ مِن قَبْلِكَ",
+      "selector": "[data-underline-id=\"p042-u0002\"]",
+      "textHash": "e838e8c6a07058dc68b413655b644407e816ec0e5f823da3656b4b83f6dd3f83",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 178,
+      "end": 206,
+      "groups": [
+        "p042-textual-coordination-8cc2c4cef4"
+      ]
+    },
+    {
+      "id": "p042-u0003",
+      "text": "مَا فِي السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0003\"]",
+      "textHash": "1d99850d6abd9e8916ef7ab9cbae1ae9863b8d1f3c606fdbf581af11e3fd9b19",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 249,
+      "end": 270,
+      "groups": [
+        "p042-textual-coordination-361683e53b",
+        "p042-local-underline-pattern-117c365fc3",
+        "p042-exact-normalized-text-f336d0be6d"
+      ]
+    },
+    {
+      "id": "p042-u0004",
+      "text": "مَا فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0004\"]",
+      "textHash": "dc76804b25406b75da40de1cdf14559a2b6c1b138ed3b46d9f5dfb15132ce90b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 279,
+      "end": 296,
+      "groups": [
+        "p042-textual-coordination-361683e53b",
+        "p042-local-underline-pattern-117c365fc3",
+        "p042-exact-normalized-text-fc6f3c93e0"
+      ]
+    },
+    {
+      "id": "p042-u0005",
+      "text": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ",
+      "selector": "[data-underline-id=\"p042-u0005\"]",
+      "textHash": "c0c83ef5c8d965f95eae611ac3e204ff915d5bdd787023b8c676570450fc21a0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 335,
+      "end": 386,
+      "groups": [
+        "p042-textual-coordination-e298d05f4f",
+        "p042-local-underline-pattern-a92a376459"
+      ]
+    },
+    {
+      "id": "p042-u0006",
+      "text": "الْمَلَائِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0006\"]",
+      "textHash": "dcafb685d3c2e9082bac6975bd66e1e9dfe5f9da7c413ccb780d0f443495b3cc",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 397,
+      "end": 487,
+      "groups": [
+        "p042-textual-coordination-e298d05f4f",
+        "p042-local-underline-pattern-a92a376459"
+      ]
+    },
+    {
+      "id": "p042-u0007",
+      "text": "يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ",
+      "selector": "[data-underline-id=\"p042-u0007\"]",
+      "textHash": "b236034046ca067812441773bf354522630e8fdc064100e7eae5428f06673d0e",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p042-u0006",
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 412,
+      "end": 443,
+      "groups": [
+        "p042-textual-coordination-f73f3aa9dd"
+      ]
+    },
+    {
+      "id": "p042-u0008",
+      "text": "يَسْتَغْفِرُونَ لِمَن فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0008\"]",
+      "textHash": "ab123041997c7a407e4c536f41670a4e0cce7c59f5fff32f6a79c0a0ee05f242",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p042-u0006",
+      "sectionId": null,
+      "contextId": "p042-c1",
+      "start": 452,
+      "end": 487,
+      "groups": [
+        "p042-textual-coordination-f73f3aa9dd"
+      ]
+    },
+    {
+      "id": "p042-u0009",
+      "text": "اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ",
+      "selector": "[data-underline-id=\"p042-u0009\"]",
+      "textHash": "4935c32bbd923c13f0be54793c2e92f9c7eaf765cfdee4d6133f459da6733938",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-0p793749mm",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-0p793749mm",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c2",
+      "start": 572,
+      "end": 606,
+      "groups": [
+        "p042-exact-normalized-text-ec034efb5f"
+      ]
+    },
+    {
+      "id": "p042-u0010",
+      "text": "اللَّهُ حَفِيظٌ عَلَيْهِمْ",
+      "selector": "[data-underline-id=\"p042-u0010\"]",
+      "textHash": "13e65e2228a28a47f0f1cab4d4269d9d7415f3ad9285af559fabaaa44019a836",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c2",
+      "start": 607,
+      "end": 633,
+      "groups": [
+        "p042-textual-coordination-5ec51257c7",
+        "p042-local-underline-pattern-117c365fc3"
+      ]
+    },
+    {
+      "id": "p042-u0011",
+      "text": "مَا أَنتَ عَلَيْهِم بِوَكِيلٍ",
+      "selector": "[data-underline-id=\"p042-u0011\"]",
+      "textHash": "677404056f34c080af9a8621c88ac0c8774ff3c4c253b3b04dff0ee41245cdc6",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c2",
+      "start": 642,
+      "end": 671,
+      "groups": [
+        "p042-textual-coordination-5ec51257c7",
+        "p042-local-underline-pattern-117c365fc3"
+      ]
+    },
+    {
+      "id": "p042-u0012",
+      "text": "تُنذِرَ",
+      "selector": "[data-underline-id=\"p042-u0012\"]",
+      "textHash": "f6e62dbaa26bebb54f0b95ef4ecb3420d2685c21745c9dc4b7778fb65ac09b43",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 760,
+      "end": 768,
+      "groups": [
+        "p042-local-underline-pattern-5ec136a4f0"
+      ]
+    },
+    {
+      "id": "p042-u0013",
+      "text": "أُمَّ الْقُرَىٰ وَمَنْ حَوْلَهَا",
+      "selector": "[data-underline-id=\"p042-u0013\"]",
+      "textHash": "70d041268bf43bd3ff3edf63a021054b9b3ce872e01b23f65b7c695b6e7bf6c8",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 768,
+      "end": 806,
+      "groups": [
+        "p042-local-underline-pattern-a92a376459"
+      ]
+    },
+    {
+      "id": "p042-u0014",
+      "text": "أُمَّ الْقُرَىٰ",
+      "selector": "[data-underline-id=\"p042-u0014\"]",
+      "textHash": "213da5697e8ab43eeb217338bc8a0806fc322c94a6424a7b68513e72d14c119a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": "p042-u0013",
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 768,
+      "end": 783,
+      "groups": [
+        "p042-textual-coordination-816f4c1477"
+      ]
+    },
+    {
+      "id": "p042-u0015",
+      "text": "مَنْ حَوْلَهَا",
+      "selector": "[data-underline-id=\"p042-u0015\"]",
+      "textHash": "25bae5184fbc0dd2f76e6490d20c203c09dbddae7a73341265e752901a9dec74",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": "p042-u0013",
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 792,
+      "end": 806,
+      "groups": [
+        "p042-textual-coordination-816f4c1477"
+      ]
+    },
+    {
+      "id": "p042-u0016",
+      "text": "تُنذِرَ",
+      "selector": "[data-underline-id=\"p042-u0016\"]",
+      "textHash": "f6e62dbaa26bebb54f0b95ef4ecb3420d2685c21745c9dc4b7778fb65ac09b43",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 815,
+      "end": 823,
+      "groups": [
+        "p042-local-underline-pattern-5ec136a4f0"
+      ]
+    },
+    {
+      "id": "p042-u0017",
+      "text": "يَوْمَ الْجَمْعِ لَا رَيْبَ فِيهِ",
+      "selector": "[data-underline-id=\"p042-u0017\"]",
+      "textHash": "bcb7a68b68df82c35676c8ec4e860ea7b7bc2ea4fb2dadd5cec58d267296420b",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 823,
+      "end": 856,
+      "groups": [
+        "p042-local-underline-pattern-a92a376459"
+      ]
+    },
+    {
+      "id": "p042-u0018",
+      "text": "فَرِيقٌ فِي",
+      "selector": "[data-underline-id=\"p042-u0018\"]",
+      "textHash": "fa2a1deda5ac4c884740a5d9aa172df2c1dc66e95b65a98ab8710595c7a4b02e",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-green-230-255-230-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 859,
+      "end": 871,
+      "groups": [
+        "p042-red-green-pair-b17e45566d",
+        "p042-red-green-pair-de27711634",
+        "p042-red-green-pair-baf8390cdc",
+        "beta-contrast-42-u0018"
+      ]
+    },
+    {
+      "id": "p042-u0019",
+      "text": "الْجَنَّةِ",
+      "selector": "[data-underline-id=\"p042-u0019\"]",
+      "textHash": "beef0d5f12c744df75d5827ff92a19ee54982779cf7c4ce5dbea7d4c1999b281",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 871,
+      "end": 881,
+      "groups": [
+        "p042-red-green-pair-de27711634",
+        "p042-red-green-pair-baf8390cdc",
+        "beta-contrast-42-u0018"
+      ]
+    },
+    {
+      "id": "p042-u0020",
+      "text": "فَرِيقٌ فِي",
+      "selector": "[data-underline-id=\"p042-u0020\"]",
+      "textHash": "fa2a1deda5ac4c884740a5d9aa172df2c1dc66e95b65a98ab8710595c7a4b02e",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-red-220-150-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 890,
+      "end": 902,
+      "groups": [
+        "p042-red-green-pair-b17e45566d",
+        "p042-red-green-pair-de27711634",
+        "p042-red-green-pair-baf8390cdc",
+        "beta-contrast-42-u0018"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0021",
+      "text": "السَّعِيرِ",
+      "selector": "[data-underline-id=\"p042-u0021\"]",
+      "textHash": "0501aa0d68fd17fc74f4c593e1c6fddd0a370839c5d877f8837442fed566fd23",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 902,
+      "end": 912,
+      "groups": [
+        "p042-red-green-pair-baf8390cdc",
+        "beta-contrast-42-u0021"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0022",
+      "text": "يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ",
+      "selector": "[data-underline-id=\"p042-u0022\"]",
+      "textHash": "63ee9360090f38ae50c1be30bfba3ae3050a12503a6f90f7ba91ab4e5fc82dbc",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-color-green-120-200-120 ul-pattern-solid",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 982,
+      "end": 1017,
+      "groups": [
+        "p042-paired-contrast-3d3da27ad7",
+        "beta-contrast-42-u0021"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0023",
+      "text": "الظَّالِمُونَ مَا لَهُم مِّن وَلِيٍّ وَلَا نَصِيرٍ",
+      "selector": "[data-underline-id=\"p042-u0023\"]",
+      "textHash": "e14aa14f8568752887b5000ce26557a1c9a449f26a3a3d0caf91eded11337909",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 1028,
+      "end": 1084,
+      "groups": [
+        "p042-paired-contrast-3d3da27ad7",
+        "beta-contrast-42-u0021"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0024",
+      "text": "وَلِيٍّ",
+      "selector": "[data-underline-id=\"p042-u0024\"]",
+      "textHash": "1606e853ba6f4a40c953222312e714b90484e02931ebc146d36d7f062d4ff397",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": "p042-u0023",
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 1057,
+      "end": 1064,
+      "groups": [
+        "p042-local-underline-pattern-eea83c451c"
+      ]
+    },
+    {
+      "id": "p042-u0025",
+      "text": "نَصِيرٍ",
+      "selector": "[data-underline-id=\"p042-u0025\"]",
+      "textHash": "7bc36c92176bb73f77e16d46f46b865546af71f98e11d395b38215a0a858d4e5",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": "p042-u0023",
+      "sectionId": null,
+      "contextId": "p042-c3",
+      "start": 1077,
+      "end": 1084,
+      "groups": [
+        "p042-local-underline-pattern-eea83c451c"
+      ]
+    },
+    {
+      "id": "p042-u0026",
+      "text": "اتَّخَذُوا مِن دُونِهِ أَوْلِيَاءَ",
+      "selector": "[data-underline-id=\"p042-u0026\"]",
+      "textHash": "4935c32bbd923c13f0be54793c2e92f9c7eaf765cfdee4d6133f459da6733938",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-0p793749mm",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-0p793749mm",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1113,
+      "end": 1147,
+      "groups": [
+        "p042-exact-normalized-text-ec034efb5f"
+      ]
+    },
+    {
+      "id": "p042-u0027",
+      "text": "هُوَ",
+      "selector": "[data-underline-id=\"p042-u0027\"]",
+      "textHash": "7af96a47a4b6cd3616042115c801115ee6c286ad969d97faaf3aace5c043f9c9",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1160,
+      "end": 1165,
+      "groups": [
+        "p042-local-underline-pattern-0d0c19364d"
+      ]
+    },
+    {
+      "id": "p042-u0028",
+      "text": "الْوَلِيُّ",
+      "selector": "[data-underline-id=\"p042-u0028\"]",
+      "textHash": "c6d9c9d575ba98bb96ca5111fe36141d20ee1cb1fec10852143c0ec084034f36",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1165,
+      "end": 1175,
+      "groups": [
+        "p042-local-underline-pattern-32a4c1246a"
+      ]
+    },
+    {
+      "id": "p042-u0029",
+      "text": "هُوَ",
+      "selector": "[data-underline-id=\"p042-u0029\"]",
+      "textHash": "7af96a47a4b6cd3616042115c801115ee6c286ad969d97faaf3aace5c043f9c9",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1184,
+      "end": 1189,
+      "groups": [
+        "p042-local-underline-pattern-0d0c19364d"
+      ]
+    },
+    {
+      "id": "p042-u0030",
+      "text": "يُحْيِي الْمَوْتَىٰ",
+      "selector": "[data-underline-id=\"p042-u0030\"]",
+      "textHash": "56341592259d326d0a35a2e940382b029e50aba3e6607659eaeee95e7f2b0bec",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1189,
+      "end": 1208,
+      "groups": [
+        "p042-local-underline-pattern-32a4c1246a"
+      ]
+    },
+    {
+      "id": "p042-u0031",
+      "text": "هُوَ",
+      "selector": "[data-underline-id=\"p042-u0031\"]",
+      "textHash": "7af96a47a4b6cd3616042115c801115ee6c286ad969d97faaf3aace5c043f9c9",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1217,
+      "end": 1222,
+      "groups": [
+        "p042-local-underline-pattern-0d0c19364d"
+      ]
+    },
+    {
+      "id": "p042-u0032",
+      "text": "عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "selector": "[data-underline-id=\"p042-u0032\"]",
+      "textHash": "dcfea290a9bc446c50a1f9d31783d51e593a2de4366c4cf723dd554656f8985a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c4",
+      "start": 1222,
+      "end": 1249,
+      "groups": [
+        "p042-local-underline-pattern-32a4c1246a"
+      ]
+    },
+    {
+      "id": "p042-u0033",
+      "text": "n",
+      "selector": "[data-underline-id=\"p042-u0033\"]",
+      "textHash": "1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c5",
+      "start": 1354,
+      "end": 1355,
+      "groups": [
+        "p042-u0033-individual"
+      ]
+    },
+    {
+      "id": "p042-u0034",
+      "text": "عَلَيْهِ تَوَكَّلْتُ",
+      "selector": "[data-underline-id=\"p042-u0034\"]",
+      "textHash": "b83028c2a2a64e6080ea4a401ffac124ee40113c9809b8a382c2dfa898b20f54",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c5",
+      "start": 1389,
+      "end": 1409,
+      "groups": [
+        "p042-textual-coordination-a1cc0770e0",
+        "p042-local-underline-pattern-32a4c1246a"
+      ]
+    },
+    {
+      "id": "p042-u0035",
+      "text": "إِلَيْهِ أُنِيبُ",
+      "selector": "[data-underline-id=\"p042-u0035\"]",
+      "textHash": "21fd850da0b5cd3c8d40614797878703bc2366f59a7a51d3e57f7f2d18a8392a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c5",
+      "start": 1418,
+      "end": 1434,
+      "groups": [
+        "p042-textual-coordination-a1cc0770e0",
+        "p042-local-underline-pattern-32a4c1246a"
+      ]
+    },
+    {
+      "id": "p042-u0036",
+      "text": "السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0036\"]",
+      "textHash": "e39cbda5efd02b7e559f931abf11b22a34156e2f725e7e735b7be28983ac782c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1467,
+      "end": 1480,
+      "groups": [
+        "p042-textual-coordination-34c9785d10",
+        "p042-local-underline-pattern-0336a9321d"
+      ]
+    },
+    {
+      "id": "p042-u0037",
+      "text": "الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0037\"]",
+      "textHash": "5a0780cec0ed5f677d7f2acbd1e6debd43820252545a693ae11fed30c35fc70e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1489,
+      "end": 1498,
+      "groups": [
+        "p042-textual-coordination-34c9785d10",
+        "p042-local-underline-pattern-0336a9321d"
+      ]
+    },
+    {
+      "id": "p042-u0038",
+      "text": "مِّنْ أَنفُسِكُمْ أَزْوَاجًا",
+      "selector": "[data-underline-id=\"p042-u0038\"]",
+      "textHash": "33a0ce1a13eb73272f83933582f90587314bfd3d0fdeab021018440b01f63cdb",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1514,
+      "end": 1542,
+      "groups": [
+        "p042-textual-coordination-a786c99d15"
+      ]
+    },
+    {
+      "id": "p042-u0039",
+      "text": "مِنَ الْأَنْعَامِ أَزْوَاجًا",
+      "selector": "[data-underline-id=\"p042-u0039\"]",
+      "textHash": "184acbe17e83caaef98cdd26b21e8b5975ff6a81a1edd3223bfe551d27679f46",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1551,
+      "end": 1579,
+      "groups": [
+        "p042-textual-coordination-a786c99d15"
+      ]
+    },
+    {
+      "id": "p042-u0040",
+      "text": "السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0040\"]",
+      "textHash": "e39cbda5efd02b7e559f931abf11b22a34156e2f725e7e735b7be28983ac782c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1683,
+      "end": 1696,
+      "groups": [
+        "p042-textual-coordination-3cc9012af5",
+        "p042-local-underline-pattern-0336a9321d"
+      ]
+    },
+    {
+      "id": "p042-u0041",
+      "text": "الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0041\"]",
+      "textHash": "5a0780cec0ed5f677d7f2acbd1e6debd43820252545a693ae11fed30c35fc70e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1705,
+      "end": 1714,
+      "groups": [
+        "p042-textual-coordination-3cc9012af5",
+        "p042-local-underline-pattern-0336a9321d"
+      ]
+    },
+    {
+      "id": "p042-u0042",
+      "text": "يَبْسُطُ",
+      "selector": "[data-underline-id=\"p042-u0042\"]",
+      "textHash": "468aa50429d360323b31c698b1af72893df90655f140e1e5be06b4cbc9d19c1b",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1717,
+      "end": 1725,
+      "groups": [
+        "p042-local-underline-pattern-37218f786d"
+      ]
+    },
+    {
+      "id": "p042-u0043",
+      "text": "يَقْدِرُ",
+      "selector": "[data-underline-id=\"p042-u0043\"]",
+      "textHash": "58e6471ad06016833c6c1df8c7177c69cf078c81b303a86447f9eac2a283f796",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c6",
+      "start": 1758,
+      "end": 1766,
+      "groups": [
+        "p042-local-underline-pattern-37218f786d"
+      ]
+    },
+    {
+      "id": "p042-u0044",
+      "text": "مَا وَصَّىٰ بِهِ نُوحًا",
+      "selector": "[data-underline-id=\"p042-u0044\"]",
+      "textHash": "e4653adbe0a464fa87689e386adec765cda8d0bdcb685ea61895505bcd121bf4",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1852,
+      "end": 1875,
+      "groups": [
+        "p042-textual-coordination-92bb59da43"
+      ]
+    },
+    {
+      "id": "p042-u0045",
+      "text": "نُوحًا",
+      "selector": "[data-underline-id=\"p042-u0045\"]",
+      "textHash": "e28c00c896fc1d79c5dd09b61432dadce1e58d7ae0f0eb1a7ff3a3be1bb9811f",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": "p042-u0044",
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1869,
+      "end": 1875,
+      "groups": [
+        "p042-u0045-individual"
+      ]
+    },
+    {
+      "id": "p042-u0046",
+      "text": "الَّذِي أَوْحَيْنَا إِلَيْكَ",
+      "selector": "[data-underline-id=\"p042-u0046\"]",
+      "textHash": "22b8337c4ab6cd31a16c9a73ef7d5e2a490fc0215c8a02a5ce45a0ec9e5abf36",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1884,
+      "end": 1912,
+      "groups": [
+        "p042-textual-coordination-92bb59da43"
+      ]
+    },
+    {
+      "id": "p042-u0047",
+      "text": "كَ",
+      "selector": "[data-underline-id=\"p042-u0047\"]",
+      "textHash": "c73467ff1741678897968073daaae1772153d2a78c0f2549dd308c6d9fbf9566",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": "p042-u0046",
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1910,
+      "end": 1912,
+      "groups": [
+        "p042-u0047-individual"
+      ]
+    },
+    {
+      "id": "p042-u0048",
+      "text": "مَا وَصَّيْنَا بِهِ إِبْرَاهِيمَ وَمُوسَىٰ وَعِيسَىٰ",
+      "selector": "[data-underline-id=\"p042-u0048\"]",
+      "textHash": "6840e41344e204b9ca6a854e1d4837c6e3be2080993ae123949c9e9002df7f5e",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1921,
+      "end": 1985,
+      "groups": [
+        "p042-textual-coordination-92bb59da43"
+      ]
+    },
+    {
+      "id": "p042-u0049",
+      "text": "إِبْرَاهِيمَ",
+      "selector": "[data-underline-id=\"p042-u0049\"]",
+      "textHash": "5607b746e17b6775fa17fcf9f199ed30fccaec9cf1d88480986e09da3ade8b78",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": "p042-u0048",
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1941,
+      "end": 1953,
+      "groups": [
+        "p042-textual-coordination-5520dbbb7a"
+      ]
+    },
+    {
+      "id": "p042-u0050",
+      "text": "مُوسَىٰ",
+      "selector": "[data-underline-id=\"p042-u0050\"]",
+      "textHash": "db9b96ccf1328ba622ec0178cab52759602355227e86e019067ace64f1f9d69a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": "p042-u0048",
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1962,
+      "end": 1969,
+      "groups": [
+        "p042-textual-coordination-5520dbbb7a"
+      ]
+    },
+    {
+      "id": "p042-u0051",
+      "text": "عِيسَىٰ",
+      "selector": "[data-underline-id=\"p042-u0051\"]",
+      "textHash": "744f5d79687968b10bbd5118a8968f8320d251992b3931e065c361220a3d5b79",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": "p042-u0048",
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1978,
+      "end": 1985,
+      "groups": [
+        "p042-textual-coordination-5520dbbb7a"
+      ]
+    },
+    {
+      "id": "p042-u0052",
+      "text": "أَقِيمُوا الدِّينَ",
+      "selector": "[data-underline-id=\"p042-u0052\"]",
+      "textHash": "dbd05e5872624e43a6d8a48431884b3b7144deebaf013ebbeb58e859031b4f8c",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 1993,
+      "end": 2011,
+      "groups": [
+        "p042-textual-coordination-b0b8c0462c",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0053",
+      "text": "لَا تَتَفَرَّقُوا فِيهِ",
+      "selector": "[data-underline-id=\"p042-u0053\"]",
+      "textHash": "a101d2108baa49c7f6f30c15d7fdf09ad8bec58f89c82f07a3182e39b65715de",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 2020,
+      "end": 2043,
+      "groups": [
+        "p042-textual-coordination-b0b8c0462c",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0054",
+      "text": "يَجْتَبِي إِلَيْهِ مَن يَشَاءُ",
+      "selector": "[data-underline-id=\"p042-u0054\"]",
+      "textHash": "e26a50934c7c44db58da1c6e7a4a1c83d277af747b4c1f22f64148db03ec560a",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 2109,
+      "end": 2139,
+      "groups": [
+        "p042-textual-coordination-e319a8a4f3",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0055",
+      "text": "يَهْدِي إِلَيْهِ مَن يُنِيبُ",
+      "selector": "[data-underline-id=\"p042-u0055\"]",
+      "textHash": "646393f6253bc2be0045139ad91fbd39db6a0e341bb65faee0620cb1b5787bc4",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c7",
+      "start": 2148,
+      "end": 2176,
+      "groups": [
+        "p042-textual-coordination-e319a8a4f3",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0056",
+      "text": "ادْعُ",
+      "selector": "[data-underline-id=\"p042-u0056\"]",
+      "textHash": "53659bc3b2667fb9e9bdf4c82f8b036adb64954edf75c24d86955ca9681123cb",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c8",
+      "start": 2469,
+      "end": 2474,
+      "groups": [
+        "p042-textual-coordination-9d906ca037",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0057",
+      "text": "اسْتَقِمْ كَمَا أُمِرْتَ",
+      "selector": "[data-underline-id=\"p042-u0057\"]",
+      "textHash": "d2afe2f1bc0648bd7b55cac569e9578c8a7efb86d687b04d07c93c868228828c",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c8",
+      "start": 2485,
+      "end": 2509,
+      "groups": [
+        "p042-textual-coordination-9d906ca037",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0058",
+      "text": "لَا تَتَّبِعْ أَهْوَاءَهُمْ",
+      "selector": "[data-underline-id=\"p042-u0058\"]",
+      "textHash": "20da8f772d0a23be5bc3760e7ff2f3e189e040dbad0e41ae7876c1c96ed20745",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c8",
+      "start": 2520,
+      "end": 2547,
+      "groups": [
+        "p042-textual-coordination-9d906ca037",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0059",
+      "text": "آمَنتُ بِمَا أَنزَلَ اللَّهُ مِن كِتَابٍ",
+      "selector": "[data-underline-id=\"p042-u0059\"]",
+      "textHash": "ffce0aaa100b60c94f191daa9fbda37961090b8ca7e8bc6d0c02aae1c0728e85",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2589,
+      "end": 2629,
+      "groups": [
+        "p042-textual-coordination-d164219f9a",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0060",
+      "text": "أُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ",
+      "selector": "[data-underline-id=\"p042-u0060\"]",
+      "textHash": "ea33051feee2d7194c458a2b2cdef252197cdce46518c4a705284490e977acd3",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2640,
+      "end": 2670,
+      "groups": [
+        "p042-textual-coordination-d164219f9a",
+        "p042-local-underline-pattern-f81bbc8bb8"
+      ]
+    },
+    {
+      "id": "p042-u0061",
+      "text": "رَبُّنَا",
+      "selector": "[data-underline-id=\"p042-u0061\"]",
+      "textHash": "e74db5c89b7a50b66c1b2277322fae80574b66b850f1d57743e0d1e6ebd689df",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2681,
+      "end": 2689,
+      "groups": [
+        "p042-textual-coordination-b894ac1345"
+      ]
+    },
+    {
+      "id": "p042-u0062",
+      "text": "رَبُّكُمْ",
+      "selector": "[data-underline-id=\"p042-u0062\"]",
+      "textHash": "4f4ee1b1e207eacf089931918e4e27b2a4d4be46b9b76a5be0b3fa002180bf7c",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2698,
+      "end": 2707,
+      "groups": [
+        "p042-textual-coordination-b894ac1345"
+      ]
+    },
+    {
+      "id": "p042-u0063",
+      "text": "لَنَا أَعْمَالُنَا",
+      "selector": "[data-underline-id=\"p042-u0063\"]",
+      "textHash": "e3f7cffd877043c1a4e3f4a1e61edc94484eb1dba59bd65409be8180c4a1219e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2710,
+      "end": 2728,
+      "groups": [
+        "p042-textual-coordination-cedec1d714"
+      ]
+    },
+    {
+      "id": "p042-u0064",
+      "text": "لَكُمْ أَعْمَالُكُمْ",
+      "selector": "[data-underline-id=\"p042-u0064\"]",
+      "textHash": "b2f3e5deaec7efd5d77fb04377218e886ff7af5b2869cb07916e21662534df07",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2737,
+      "end": 2757,
+      "groups": [
+        "p042-textual-coordination-cedec1d714"
+      ]
+    },
+    {
+      "id": "p042-u0065",
+      "text": "بَيْنَنَا",
+      "selector": "[data-underline-id=\"p042-u0065\"]",
+      "textHash": "77d39aa5f0480f1d39385a971710c885c4451692dceb5f64df0c3cbe1b19688b",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2772,
+      "end": 2781,
+      "groups": [
+        "p042-textual-coordination-734117e495"
+      ]
+    },
+    {
+      "id": "p042-u0066",
+      "text": "بَيْنَكُمُ",
+      "selector": "[data-underline-id=\"p042-u0066\"]",
+      "textHash": "555f438029106893104c3266186bcb18e8c28749d63d19223387ce2840777e5c",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c9",
+      "start": 2790,
+      "end": 2800,
+      "groups": [
+        "p042-textual-coordination-734117e495"
+      ]
+    },
+    {
+      "id": "p042-u0067",
+      "text": "عَلَيْهِمْ غَضَبٌ",
+      "selector": "[data-underline-id=\"p042-u0067\"]",
+      "textHash": "11b0fc823ab43063c282fd49c6e968a8b90ef1fc7b0e042da8c942357ad33c4f",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 16,
+      "blockIndex": 10,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c10",
+      "start": 2985,
+      "end": 3002,
+      "groups": [
+        "p042-textual-coordination-c50a52c504"
+      ]
+    },
+    {
+      "id": "p042-u0068",
+      "text": "لَهُمْ عَذَابٌ شَدِيدٌ",
+      "selector": "[data-underline-id=\"p042-u0068\"]",
+      "textHash": "621215462c11ecaadf46c364715abe9452765bad784625fa6379d87d88ede0a5",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 16,
+      "blockIndex": 10,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c10",
+      "start": 3011,
+      "end": 3033,
+      "groups": [
+        "p042-textual-coordination-c50a52c504"
+      ]
+    },
+    {
+      "id": "p042-u0069",
+      "text": "اللَّهُ",
+      "selector": "[data-underline-id=\"p042-u0069\"]",
+      "textHash": "02d724c48c88a0cb8078641fa3972dd25358832cb2c0c30daacaa0b56c403466",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 17,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3058,
+      "end": 3066,
+      "groups": [
+        "p042-local-underline-pattern-f8c807f430"
+      ]
+    },
+    {
+      "id": "p042-u0070",
+      "text": "الْكِتَابَ",
+      "selector": "[data-underline-id=\"p042-u0070\"]",
+      "textHash": "571b8f5becbd20e86db786d5016655d56bcf78ba4467b75098edd142bdba38dc",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 17,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3082,
+      "end": 3092,
+      "groups": [
+        "p042-local-underline-pattern-77636c65a1"
+      ]
+    },
+    {
+      "id": "p042-u0071",
+      "text": "الْمِيزَانَ",
+      "selector": "[data-underline-id=\"p042-u0071\"]",
+      "textHash": "98ee13dd47d4b301a8eda3c6a2477533069dceadcaf2fbeab99a09cd99baeba5",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 17,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3112,
+      "end": 3123,
+      "groups": [
+        "p042-local-underline-pattern-77636c65a1"
+      ]
+    },
+    {
+      "id": "p042-u0072",
+      "text": "يَسْتَعْجِلُ بِهَا الَّذِينَ لَا يُؤْمِنُونَ بِهَا",
+      "selector": "[data-underline-id=\"p042-u0072\"]",
+      "textHash": "fb6e0a6fbee02c49c9964f6355fa238c747a462a6451c7db968941226e71babb",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 18,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3177,
+      "end": 3227,
+      "groups": [
+        "p042-red-green-pair-66b9883703",
+        "p042-red-green-pair-b6afbae1fe",
+        "beta-contrast-42-u0072"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0073",
+      "text": "الَّذِينَ آمَنُوا مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا الْحَقُّ",
+      "selector": "[data-underline-id=\"p042-u0073\"]",
+      "textHash": "60606a2a6de29293859a6ca8da280ca502777b96faf405fed53c1b98c7d1a6b2",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-color-green-120-200-120 ul-pattern-solid",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "verse": 18,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3238,
+      "end": 3313,
+      "groups": [
+        "p042-red-green-pair-66b9883703",
+        "p042-red-green-pair-b6afbae1fe",
+        "beta-contrast-42-u0072"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0074",
+      "text": "مُشْفِقُونَ مِنْهَا",
+      "selector": "[data-underline-id=\"p042-u0074\"]",
+      "textHash": "d65db93ee9662ed61f79e0f5bb2f04b0c7bd43c895a6f5f8cb5b57bc6e54e317",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 18,
+      "blockIndex": 11,
+      "parentId": "p042-u0073",
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3256,
+      "end": 3275,
+      "groups": [
+        "p042-u0074-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0075",
+      "text": "يَعْلَمُونَ أَنَّهَا الْحَقُّ",
+      "selector": "[data-underline-id=\"p042-u0075\"]",
+      "textHash": "61c0eccf4b2349d4666b8b2cfc14156777f2bc626525164e22f2d1668bd7a765",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 18,
+      "blockIndex": 11,
+      "parentId": "p042-u0073",
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3284,
+      "end": 3313,
+      "groups": [
+        "p042-u0075-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0076",
+      "text": "إِنَّ الَّذِينَ يُمَارُونَ فِي السَّاعَةِ لَفِي ضَلَالٍ بَعِيدٍ",
+      "selector": "[data-underline-id=\"p042-u0076\"]",
+      "textHash": "ba31270c0d1648df55857e9a0d02d80c3ca5588fdcbb11260a47bcbbdfdf7387",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 18,
+      "blockIndex": 11,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c11",
+      "start": 3322,
+      "end": 3385,
+      "groups": [
+        "p042-red-green-pair-b6afbae1fe",
+        "beta-contrast-42-u0072"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0077",
+      "text": "اللَّهُ",
+      "selector": "[data-underline-id=\"p042-u0077\"]",
+      "textHash": "02d724c48c88a0cb8078641fa3972dd25358832cb2c0c30daacaa0b56c403466",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 19,
+      "blockIndex": 12,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c12",
+      "start": 3410,
+      "end": 3418,
+      "groups": [
+        "p042-local-underline-pattern-f8c807f430"
+      ]
+    },
+    {
+      "id": "p042-u0078",
+      "text": "مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ",
+      "selector": "[data-underline-id=\"p042-u0078\"]",
+      "textHash": "c841dae11b0aea4b4df26e814226e65a07c039c626233cf084b3186a1cee01e0",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-green-230-255-230-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 20,
+      "blockIndex": 13,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c13",
+      "start": 3539,
+      "end": 3575,
+      "groups": [
+        "p042-red-green-pair-2cb6212106",
+        "p042-red-green-pair-8fe5de85a7",
+        "p042-red-green-pair-d40dca418d",
+        "beta-contrast-42-u0078"
+      ]
+    },
+    {
+      "id": "p042-u0079",
+      "text": "نَزِدْ لَهُ فِي حَرْثِهِ",
+      "selector": "[data-underline-id=\"p042-u0079\"]",
+      "textHash": "0e2e777aaf833a8969225f48fb6818c1c79cc7bb1f7b4dc3661669c11034ecff",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-green-100-180-100 ul-pattern-solid",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "verse": 20,
+      "blockIndex": 13,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c13",
+      "start": 3586,
+      "end": 3610,
+      "groups": [
+        "p042-red-green-pair-8fe5de85a7",
+        "p042-red-green-pair-d40dca418d",
+        "beta-contrast-42-u0078"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0080",
+      "text": "مَن كَانَ يُرِيدُ حَرْثَ الدُّنْيَا",
+      "selector": "[data-underline-id=\"p042-u0080\"]",
+      "textHash": "2b55975252aa717cabb3d76bad38789b255ef9caa2924e2fa95d1d5ce46d8c89",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-red-220-150-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 20,
+      "blockIndex": 14,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c14",
+      "start": 3676,
+      "end": 3712,
+      "groups": [
+        "p042-red-green-pair-2cb6212106",
+        "p042-red-green-pair-8fe5de85a7",
+        "p042-red-green-pair-d40dca418d",
+        "beta-contrast-42-u0078"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0081",
+      "text": "نُؤْتِهِ مِنْهَا",
+      "selector": "[data-underline-id=\"p042-u0081\"]",
+      "textHash": "c0b86fa0727dc43929e944eebc6b312e9c23c98f92c3be6abb63f9a2b7aead51",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 20,
+      "blockIndex": 14,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c14",
+      "start": 3723,
+      "end": 3739,
+      "groups": [
+        "p042-textual-coordination-89ac048a0e",
+        "p042-red-green-pair-d40dca418d",
+        "beta-contrast-42-u0078"
+      ]
+    },
+    {
+      "id": "p042-u0082",
+      "text": "مَا لَهُ فِي الْآخِرَةِ مِن نَّصِيبٍ",
+      "selector": "[data-underline-id=\"p042-u0082\"]",
+      "textHash": "abbe05d5ad3f3d026a5a8d77b2d0153117e3c79423923eeff626badf284e0ee6",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 20,
+      "blockIndex": 14,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c14",
+      "start": 3752,
+      "end": 3788,
+      "groups": [
+        "p042-textual-coordination-89ac048a0e",
+        "p042-red-green-pair-d40dca418d",
+        "beta-contrast-42-u0078"
+      ]
+    },
+    {
+      "id": "p042-u0083",
+      "text": "لَهُمْ عَذَابٌ أَلِيمٌ۲۱ تَرَى الظَّالِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا وَهُوَ وَاقِعٌ بِهِمْ",
+      "selector": "[data-underline-id=\"p042-u0083\"]",
+      "textHash": "d18b8e80b8c81cdb4b677c8acc902cd406f2a3996cd19d6679c146c5216fddb6",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 21,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 3986,
+      "end": 4086,
+      "groups": [
+        "p042-red-green-pair-da4454865c",
+        "beta-contrast-42-u0083"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0084",
+      "text": "آمَنُوا",
+      "selector": "[data-underline-id=\"p042-u0084\"]",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 22,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 4101,
+      "end": 4108,
+      "groups": [
+        "p042-textual-coordination-702d28d65b",
+        "p042-local-underline-pattern-f568b25a7e"
+      ]
+    },
+    {
+      "id": "p042-u0085",
+      "text": "عَمِلُوا الصَّالِحَاتِ",
+      "selector": "[data-underline-id=\"p042-u0085\"]",
+      "textHash": "02f3fdcfb782446c021600c0da79c7859e06d0cd8ad7bf09d58a2e85336f7bcf",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 22,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 4117,
+      "end": 4139,
+      "groups": [
+        "p042-textual-coordination-702d28d65b",
+        "p042-local-underline-pattern-f568b25a7e",
+        "p042-exact-normalized-text-76027dbcb3"
+      ]
+    },
+    {
+      "id": "p042-u0086",
+      "text": "فِي رَوْضَاتِ الْجَنَّاتِ ۖ لَهُم مَّا يَشَاءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ الْفَضْلُ الْكَبِيرُ",
+      "selector": "[data-underline-id=\"p042-u0086\"]",
+      "textHash": "a71b5b52163396d478b2459bce0c3e7e84958c83294bd20cc196eae562c54530",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 22,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 4140,
+      "end": 4241,
+      "groups": [
+        "p042-red-green-pair-da4454865c",
+        "beta-contrast-42-u0083"
+      ]
+    },
+    {
+      "id": "p042-u0087",
+      "text": "آمَنُوا",
+      "selector": "[data-underline-id=\"p042-u0087\"]",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 23,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 4304,
+      "end": 4311,
+      "groups": [
+        "p042-textual-coordination-11cb9c88b9",
+        "p042-local-underline-pattern-f568b25a7e"
+      ]
+    },
+    {
+      "id": "p042-u0088",
+      "text": "عَمِلُوا الصَّالِحَاتِ",
+      "selector": "[data-underline-id=\"p042-u0088\"]",
+      "textHash": "02f3fdcfb782446c021600c0da79c7859e06d0cd8ad7bf09d58a2e85336f7bcf",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 23,
+      "blockIndex": 15,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c15",
+      "start": 4320,
+      "end": 4342,
+      "groups": [
+        "p042-textual-coordination-11cb9c88b9",
+        "p042-local-underline-pattern-f568b25a7e",
+        "p042-exact-normalized-text-76027dbcb3"
+      ]
+    },
+    {
+      "id": "p042-u0089",
+      "text": "يَمْحُ اللَّهُ الْبَاطِلَ",
+      "selector": "[data-underline-id=\"p042-u0089\"]",
+      "textHash": "fba7e049611baafc9efda2df23c67f6965dfdcb327e3dfb7a535a50066db1b85",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 24,
+      "blockIndex": 16,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c16",
+      "start": 4708,
+      "end": 4733,
+      "groups": [
+        "p042-textual-coordination-02d4b04c39"
+      ]
+    },
+    {
+      "id": "p042-u0090",
+      "text": "يُحِقُّ الْحَقَّ بِكَلِمَاتِهِ",
+      "selector": "[data-underline-id=\"p042-u0090\"]",
+      "textHash": "e2e37fe0b0a549dcebfcfaa39f1c9979e8bc974152c81899c4ac01ec76dbd236",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 24,
+      "blockIndex": 16,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c16",
+      "start": 4742,
+      "end": 4772,
+      "groups": [
+        "p042-textual-coordination-02d4b04c39"
+      ]
+    },
+    {
+      "id": "p042-u0091",
+      "text": "يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ",
+      "selector": "[data-underline-id=\"p042-u0091\"]",
+      "textHash": "613803720896965ad890ff4227950140bbc464efa3df6068a96404730320d3dd",
+      "appearance": {
+        "signature": "ul-color-green-120-200-120 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 25,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4849,
+      "end": 4884,
+      "groups": [
+        "p042-textual-coordination-750735f6e4",
+        "p042-local-underline-pattern-5f2c618ca1",
+        "p042-red-green-pair-f63ddd17a0",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0091"
+      ]
+    },
+    {
+      "id": "p042-u0092",
+      "text": "يَعْفُو عَنِ السَّيِّئَاتِ",
+      "selector": "[data-underline-id=\"p042-u0092\"]",
+      "textHash": "7a0a957e9cc4aae68b7284e2b6efaa79450efc0f79d7413ee333d8930ac3fbc7",
+      "appearance": {
+        "signature": "ul-color-green-120-200-120 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 25,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4893,
+      "end": 4919,
+      "groups": [
+        "p042-textual-coordination-750735f6e4",
+        "p042-local-underline-pattern-5f2c618ca1",
+        "p042-red-green-pair-f63ddd17a0",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0091"
+      ]
+    },
+    {
+      "id": "p042-u0093",
+      "text": "يَعْلَمُ مَا تَفْعَلُونَ",
+      "selector": "[data-underline-id=\"p042-u0093\"]",
+      "textHash": "1a7ed74abc6281d04c54372467b906e1744bfc9bd7a0f3be02aa0aed934b3a63",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 25,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4928,
+      "end": 4952,
+      "groups": [
+        "p042-red-green-pair-f63ddd17a0",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0091"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0094",
+      "text": "يَعْلَمُ مَا تَفْعَلُونَ",
+      "selector": "[data-underline-id=\"p042-u0094\"]",
+      "textHash": "1a7ed74abc6281d04c54372467b906e1744bfc9bd7a0f3be02aa0aed934b3a63",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 25,
+      "blockIndex": 17,
+      "parentId": "p042-u0093",
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4928,
+      "end": 4952,
+      "groups": [
+        "p042-u0094-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0095",
+      "text": "يَسْتَجِيبُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+      "selector": "[data-underline-id=\"p042-u0095\"]",
+      "textHash": "b0c3e6258e88b948dd9ba8c49c1ba1c0036d872631a364af7a6701b78e331edb",
+      "appearance": {
+        "signature": "ul-color-green-120-200-120 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 26,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4963,
+      "end": 5023,
+      "groups": [
+        "p042-textual-coordination-80cdb1a405",
+        "p042-local-underline-pattern-5f2c618ca1",
+        "p042-red-green-pair-f63ddd17a0",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0091"
+      ]
+    },
+    {
+      "id": "p042-u0096",
+      "text": "آمَنُوا",
+      "selector": "[data-underline-id=\"p042-u0096\"]",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 26,
+      "blockIndex": 17,
+      "parentId": "p042-u0095",
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 4985,
+      "end": 4992,
+      "groups": [
+        "p042-textual-coordination-75cdd4be6f"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0097",
+      "text": "عَمِلُوا الصَّالِحَاتِ",
+      "selector": "[data-underline-id=\"p042-u0097\"]",
+      "textHash": "02f3fdcfb782446c021600c0da79c7859e06d0cd8ad7bf09d58a2e85336f7bcf",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 26,
+      "blockIndex": 17,
+      "parentId": "p042-u0095",
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 5001,
+      "end": 5023,
+      "groups": [
+        "p042-textual-coordination-75cdd4be6f"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0098",
+      "text": "يَزِيدُهُم مِّن فَضْلِهِ",
+      "selector": "[data-underline-id=\"p042-u0098\"]",
+      "textHash": "6c77faeb14c54d4a0cfd1aaf9756dd67c7050da50de883d896857ea39fb52f20",
+      "appearance": {
+        "signature": "ul-color-green-120-200-120 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 26,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 5032,
+      "end": 5056,
+      "groups": [
+        "p042-textual-coordination-80cdb1a405",
+        "p042-paired-contrast-196b33f69a",
+        "p042-local-underline-pattern-5f2c618ca1",
+        "p042-red-green-pair-f63ddd17a0",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0098"
+      ]
+    },
+    {
+      "id": "p042-u0099",
+      "text": "الْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "selector": "[data-underline-id=\"p042-u0099\"]",
+      "textHash": "bb9d63ad3dd23c8b7daa6579376cd51b1f2eea1ec5673516a2be5ee24258c0aa",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-color-red-240-170-170 ul-pattern-dotted",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "verse": 26,
+      "blockIndex": 17,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c17",
+      "start": 5061,
+      "end": 5097,
+      "groups": [
+        "p042-paired-contrast-196b33f69a",
+        "p042-red-green-pair-5310196bb9",
+        "beta-contrast-42-u0098"
+      ],
+      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0100",
+      "text": "يُنَزِّلُ الْغَيْثَ",
+      "selector": "[data-underline-id=\"p042-u0100\"]",
+      "textHash": "39bf85563dcd0b0a22d5150a5d625a9a358f06f26c5e26e46be1cb8790dd077e",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 28,
+      "blockIndex": 18,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c18",
+      "start": 5293,
+      "end": 5312,
+      "groups": [
+        "p042-local-underline-pattern-056bbf79fe"
+      ]
+    },
+    {
+      "id": "p042-u0101",
+      "text": "يَنشُرُ رَحْمَتَهُ",
+      "selector": "[data-underline-id=\"p042-u0101\"]",
+      "textHash": "9216afaa7ca1e1cb2546f7ade5338604c85cb4b9bca90ae2905c0c29add3fcfd",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 28,
+      "blockIndex": 18,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c18",
+      "start": 5345,
+      "end": 5363,
+      "groups": [
+        "p042-local-underline-pattern-056bbf79fe"
+      ]
+    },
+    {
+      "id": "p042-u0102",
+      "text": "السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0102\"]",
+      "textHash": "e39cbda5efd02b7e559f931abf11b22a34156e2f725e7e735b7be28983ac782c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 29,
+      "blockIndex": 19,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c19",
+      "start": 5451,
+      "end": 5464,
+      "groups": [
+        "p042-textual-coordination-1c6ab72660"
+      ]
+    },
+    {
+      "id": "p042-u0103",
+      "text": "الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0103\"]",
+      "textHash": "5a0780cec0ed5f677d7f2acbd1e6debd43820252545a693ae11fed30c35fc70e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 29,
+      "blockIndex": 19,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c19",
+      "start": 5473,
+      "end": 5482,
+      "groups": [
+        "p042-textual-coordination-1c6ab72660"
+      ]
+    },
+    {
+      "id": "p042-u0104",
+      "text": "يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ",
+      "selector": "[data-underline-id=\"p042-u0104\"]",
+      "textHash": "74c21d59b500afdf6ab28d7a61c223b359c4072e0c7e367b66b6f250ce218e18",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 33,
+      "blockIndex": 20,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c20",
+      "start": 5890,
+      "end": 5946,
+      "groups": [
+        "p042-local-underline-pattern-9b9e6792a6"
+      ]
+    },
+    {
+      "id": "p042-u0105",
+      "text": "يُوبِقْهُنَّ بِمَا كَسَبُوا",
+      "selector": "[data-underline-id=\"p042-u0105\"]",
+      "textHash": "a4d5118f7c147b4f6a38790f35c855de9a5c4d9174deb5ddd3e03cd53aca8f92",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 34,
+      "blockIndex": 20,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c20",
+      "start": 6015,
+      "end": 6042,
+      "groups": [
+        "p042-local-underline-pattern-9b9e6792a6"
+      ]
+    },
+    {
+      "id": "p042-u0106",
+      "text": "خَيْرٌ",
+      "selector": "[data-underline-id=\"p042-u0106\"]",
+      "textHash": "b6550d5c0e91ca7e8e1e7aca463e32589918ae3f43e04151b210bc54c2b7ce16",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 36,
+      "blockIndex": 21,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c21",
+      "start": 6261,
+      "end": 6267,
+      "groups": [
+        "p042-textual-coordination-244b3492f6"
+      ]
+    },
+    {
+      "id": "p042-u0107",
+      "text": "أَبْقَىٰ",
+      "selector": "[data-underline-id=\"p042-u0107\"]",
+      "textHash": "ad871ebe6b31a9dd69b3ba72f6ba068236404e17e7b9dc8445f38683d76d4cbe",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 36,
+      "blockIndex": 21,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c21",
+      "start": 6276,
+      "end": 6284,
+      "groups": [
+        "p042-textual-coordination-244b3492f6"
+      ]
+    },
+    {
+      "id": "p042-u0108",
+      "text": "آمَنُوا",
+      "selector": "[data-underline-id=\"p042-u0108\"]",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 36,
+      "blockIndex": 22,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c22",
+      "start": 6352,
+      "end": 6359,
+      "groups": [
+        "p042-textual-coordination-fc21c78e2d",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-trusting-response"
+      ],
+      "betaEditorialReason": "The passage explicitly commends faith and reliance as conditions of the better lasting outcome.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0109",
+      "text": "عَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "selector": "[data-underline-id=\"p042-u0109\"]",
+      "textHash": "995436873a9df9f57631f720f2863d14b0ee412cd289a1a3d59d73abfc18f77a",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 36,
+      "blockIndex": 22,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c22",
+      "start": 6372,
+      "end": 6403,
+      "groups": [
+        "p042-textual-coordination-fc21c78e2d",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-trusting-response"
+      ],
+      "betaEditorialReason": "The passage explicitly commends faith and reliance as conditions of the better lasting outcome.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0110",
+      "text": "يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ",
+      "selector": "[data-underline-id=\"p042-u0110\"]",
+      "textHash": "619383af7a8fd89b16482142adc6a1f20158f59e5297aa2d1276fe01bf3237c7",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 37,
+      "blockIndex": 23,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c23",
+      "start": 6469,
+      "end": 6527,
+      "groups": [
+        "p042-textual-coordination-227c9438c3",
+        "beta-42-approved-restraint"
+      ],
+      "betaEditorialReason": "Avoiding vices and forgiving when angry are good acts; the vices inside the avoidance clause are not thereby good.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0111",
+      "text": "كَبَائِرَ الْإِثْمِ",
+      "selector": "[data-underline-id=\"p042-u0111\"]",
+      "textHash": "2419f24cb84dc5e9fcfe8742240a08f2522d1e5636fcf04c7aa022b27c229dab",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "verse": 37,
+      "blockIndex": 23,
+      "parentId": "p042-u0110",
+      "sectionId": null,
+      "contextId": "p042-c23",
+      "start": 6483,
+      "end": 6502,
+      "groups": [
+        "p042-textual-coordination-1bd0830468",
+        "beta-42-avoided-vices"
+      ],
+      "betaEditorialReason": "The bad objects are nested inside the good avoidance predicate.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0112",
+      "text": "الْفَوَاحِشَ",
+      "selector": "[data-underline-id=\"p042-u0112\"]",
+      "textHash": "e1b34cb4b96f831ed960516ced792623e653fd8134c91bc8af0d0c7b3124fe63",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "verse": 37,
+      "blockIndex": 23,
+      "parentId": "p042-u0110",
+      "sectionId": null,
+      "contextId": "p042-c23",
+      "start": 6515,
+      "end": 6527,
+      "groups": [
+        "p042-textual-coordination-1bd0830468",
+        "beta-42-avoided-vices"
+      ],
+      "betaEditorialReason": "The bad objects are nested inside the good avoidance predicate.",
+      "betaSemanticRole": "bad"
+    },
+    {
+      "id": "p042-u0113",
+      "text": "إِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+      "selector": "[data-underline-id=\"p042-u0113\"]",
+      "textHash": "50567bb1b5c7fc54e43e2198a66cd0c8ac3c2bf58cbc6353755738bb21dea30f",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-3px ul-pad-x-0mm ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 37,
+      "blockIndex": 23,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c23",
+      "start": 6540,
+      "end": 6575,
+      "groups": [
+        "p042-textual-coordination-227c9438c3",
+        "beta-42-approved-restraint"
+      ],
+      "betaEditorialReason": "Avoiding vices and forgiving when angry are good acts; the vices inside the avoidance clause are not thereby good.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0114",
+      "text": "اسْتَجَابُوا لِرَبِّهِمْ",
+      "selector": "[data-underline-id=\"p042-u0114\"]",
+      "textHash": "1ae964e45ebafef58b782d15028a3f1e05bda9c98150f5e099ee49d2293a204e",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 24,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c24",
+      "start": 6641,
+      "end": 6665,
+      "groups": [
+        "p042-textual-coordination-83e8078658",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-approved-common-life"
+      ],
+      "betaEditorialReason": "These are the coordinated praised responses and practices.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0115",
+      "text": "أَقَامُوا الصَّلَاةَ",
+      "selector": "[data-underline-id=\"p042-u0115\"]",
+      "textHash": "85b664b3ed43b85028994aa3864e9838fe6d5743ea9a68d6ae31b43590246fa1",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 24,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c24",
+      "start": 6678,
+      "end": 6698,
+      "groups": [
+        "p042-textual-coordination-83e8078658",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-approved-common-life"
+      ],
+      "betaEditorialReason": "These are the coordinated praised responses and practices.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0116",
+      "text": "أَمْرُهُمْ شُورَىٰ بَيْنَهُمْ",
+      "selector": "[data-underline-id=\"p042-u0116\"]",
+      "textHash": "11443f92b7135298670e9462eace949084b116a2bef01572ad881157ea6b1634",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 24,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c24",
+      "start": 6711,
+      "end": 6740,
+      "groups": [
+        "p042-textual-coordination-83e8078658",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-approved-common-life"
+      ],
+      "betaEditorialReason": "These are the coordinated praised responses and practices.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0117",
+      "text": "مِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+      "selector": "[data-underline-id=\"p042-u0117\"]",
+      "textHash": "e96969c9a31ccc0f820ce5ba01cd46270d6d96163565c6639d43be3dfa706812",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 38,
+      "blockIndex": 24,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c24",
+      "start": 6753,
+      "end": 6784,
+      "groups": [
+        "p042-textual-coordination-83e8078658",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-approved-common-life"
+      ],
+      "betaEditorialReason": "These are the coordinated praised responses and practices.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0118",
+      "text": "عَفَا",
+      "selector": "[data-underline-id=\"p042-u0118\"]",
+      "textHash": "319ffea0a93a768c17009c3f55b43df4571af6bf1805ad11b5093faf67db728f",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 40,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 6986,
+      "end": 6991,
+      "groups": [
+        "p042-textual-coordination-bb3484a173",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-pardon-and-repair"
+      ],
+      "betaEditorialReason": "The good response is pardon and repair, distinct from an act of injury.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0119",
+      "text": "أَصْلَحَ",
+      "selector": "[data-underline-id=\"p042-u0119\"]",
+      "textHash": "8413b7230dade1266977936a236abcae0bc63ade5896a746560f986e488dc0dd",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 40,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 7004,
+      "end": 7012,
+      "groups": [
+        "p042-textual-coordination-bb3484a173",
+        "p042-local-underline-pattern-44a9c457b9",
+        "beta-42-pardon-and-repair"
+      ],
+      "betaEditorialReason": "The good response is pardon and repair, distinct from an act of injury.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0120",
+      "text": "يَظْلِمُونَ النَّاسَ",
+      "selector": "[data-underline-id=\"p042-u0120\"]",
+      "textHash": "3c44806214eb0d58da982f0f456637dc4075052598b1fae24be4f59dacdf21f2",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 42,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 7209,
+      "end": 7229,
+      "groups": [
+        "p042-textual-coordination-69d704f400"
+      ]
+    },
+    {
+      "id": "p042-u0121",
+      "text": "يَبْغُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ",
+      "selector": "[data-underline-id=\"p042-u0121\"]",
+      "textHash": "adb1325de47192592b1cd1b8bc8e71102bf61fe7778bdc489d9dc95f789a3752",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 42,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 7242,
+      "end": 7283,
+      "groups": [
+        "p042-textual-coordination-69d704f400"
+      ]
+    },
+    {
+      "id": "p042-u0122",
+      "text": "صَبَرَ",
+      "selector": "[data-underline-id=\"p042-u0122\"]",
+      "textHash": "f1feaf31f346b2d2062a5f0c4c8a0b6caa27cdadfa122c6bae7c439e14adf3e5",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 43,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 7341,
+      "end": 7347,
+      "groups": [
+        "p042-textual-coordination-f53912211a",
+        "beta-42-patient-forgiveness"
+      ],
+      "betaEditorialReason": "Patience and forgiveness are explicitly praised as determined conduct.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0123",
+      "text": "غَفَرَ",
+      "selector": "[data-underline-id=\"p042-u0123\"]",
+      "textHash": "232bb9bbae532e8975a718c10b17a01009764174d4ea339787b138d0714a7f50",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 43,
+      "blockIndex": 25,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c25",
+      "start": 7360,
+      "end": 7366,
+      "groups": [
+        "p042-textual-coordination-f53912211a",
+        "beta-42-patient-forgiveness"
+      ],
+      "betaEditorialReason": "Patience and forgiveness are explicitly praised as determined conduct.",
+      "betaSemanticRole": "good"
+    },
+    {
+      "id": "p042-u0124",
+      "text": "أَنفُسَهُمْ",
+      "selector": "[data-underline-id=\"p042-u0124\"]",
+      "textHash": "fc8b49732b1878535c5777790efa7a9452666d0bc3f72cdc6a5bb6172b54fb67",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 45,
+      "blockIndex": 26,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c26",
+      "start": 7829,
+      "end": 7840,
+      "groups": [
+        "p042-textual-coordination-c358d1a178"
+      ]
+    },
+    {
+      "id": "p042-u0125",
+      "text": "أَهْلِيهِمْ",
+      "selector": "[data-underline-id=\"p042-u0125\"]",
+      "textHash": "704c85d9c67f59d5b41adb96765a0156a7159c12f6a04064f0a5025137f26469",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 45,
+      "blockIndex": 26,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c26",
+      "start": 7849,
+      "end": 7860,
+      "groups": [
+        "p042-textual-coordination-c358d1a178"
+      ]
+    },
+    {
+      "id": "p042-u0126",
+      "text": "مَا لَكُم مِّن مَّلْجَإٍ",
+      "selector": "[data-underline-id=\"p042-u0126\"]",
+      "textHash": "7bf9b5eed9c578916131c9ab67dfd4188af4988eda18263f125b14ebce7330ff",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 47,
+      "blockIndex": 27,
+      "parentId": null,
+      "sectionId": "p042-s0001",
+      "contextId": "p042-c27",
+      "start": 8215,
+      "end": 8239,
+      "groups": [
+        "p042-local-underline-pattern-02e2e66356"
+      ]
+    },
+    {
+      "id": "p042-u0127",
+      "text": "مَا لَكُم مِّن نَّكِيرٍ",
+      "selector": "[data-underline-id=\"p042-u0127\"]",
+      "textHash": "883435bf5cbfdbbf8107d3fadec223b074d1e0715c1f693e32acd2ca05048c9f",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 47,
+      "blockIndex": 27,
+      "parentId": null,
+      "sectionId": "p042-s0001",
+      "contextId": "p042-c27",
+      "start": 8261,
+      "end": 8284,
+      "groups": [
+        "p042-local-underline-pattern-02e2e66356"
+      ]
+    },
+    {
+      "id": "p042-u0128",
+      "text": "إِنَّا إِذَا أَذَقْنَا الْإِنسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا",
+      "selector": "[data-underline-id=\"p042-u0128\"]",
+      "textHash": "84a4a2fa6807c2a1910481bee59b1e521d87ec5d7f70e9c8f08ae5af5df672cd",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 48,
+      "blockIndex": 28,
+      "parentId": null,
+      "sectionId": "p042-s0001",
+      "contextId": "p042-c28",
+      "start": 8413,
+      "end": 8476,
+      "groups": [
+        "p042-textual-coordination-4fb77a38de"
+      ]
+    },
+    {
+      "id": "p042-u0129",
+      "text": "إِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ",
+      "selector": "[data-underline-id=\"p042-u0129\"]",
+      "textHash": "d7e297a2deaf43d9b2c32a568a5fdc9b895ffbad0f3cfd97ec984440465540e4",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 48,
+      "blockIndex": 28,
+      "parentId": null,
+      "sectionId": "p042-s0001",
+      "contextId": "p042-c28",
+      "start": 8489,
+      "end": 8569,
+      "groups": [
+        "p042-textual-coordination-4fb77a38de"
+      ]
+    },
+    {
+      "id": "p042-u0130",
+      "text": "السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0130\"]",
+      "textHash": "e39cbda5efd02b7e559f931abf11b22a34156e2f725e7e735b7be28983ac782c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 49,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8625,
+      "end": 8638,
+      "groups": [
+        "p042-textual-coordination-e157ec411d"
+      ]
+    },
+    {
+      "id": "p042-u0131",
+      "text": "الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0131\"]",
+      "textHash": "5a0780cec0ed5f677d7f2acbd1e6debd43820252545a693ae11fed30c35fc70e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 49,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8647,
+      "end": 8656,
+      "groups": [
+        "p042-textual-coordination-e157ec411d"
+      ]
+    },
+    {
+      "id": "p042-u0132",
+      "text": "يَهَبُ لِمَن يَشَاءُ إِنَاثًا",
+      "selector": "[data-underline-id=\"p042-u0132\"]",
+      "textHash": "306c1056cc76c47cf3b80e2d27ca3f99e13b2a873c77966cb4da6b9b2c49376e",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 49,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8682,
+      "end": 8712,
+      "groups": [
+        "p042-textual-coordination-3c523f8167"
+      ]
+    },
+    {
+      "id": "p042-u0133",
+      "text": "يَهَبُ لِمَن يَشَاءُ الذُّكُورَ",
+      "selector": "[data-underline-id=\"p042-u0133\"]",
+      "textHash": "ae28b3d5091556a441fe2db399966c4151a3d694c0abcf4ecbd415fa2c40f5d2",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 49,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8721,
+      "end": 8752,
+      "groups": [
+        "p042-textual-coordination-3c523f8167"
+      ]
+    },
+    {
+      "id": "p042-u0134",
+      "text": "يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا",
+      "selector": "[data-underline-id=\"p042-u0134\"]",
+      "textHash": "30486a7f814d48c8c59fd8e29aa57eda71ef4d6cb39f653cdeff5a7f271cef24",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 50,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8766,
+      "end": 8801,
+      "groups": [
+        "p042-textual-coordination-3c523f8167"
+      ]
+    },
+    {
+      "id": "p042-u0135",
+      "text": "يَجْعَلُ مَن يَشَاءُ عَقِيمًا",
+      "selector": "[data-underline-id=\"p042-u0135\"]",
+      "textHash": "d850d52cef8a61178519c4e08cb561c9b0441ca45cb8eb4a71e26360424f6a23",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 50,
+      "blockIndex": 29,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c29",
+      "start": 8806,
+      "end": 8835,
+      "groups": [
+        "p042-textual-coordination-3c523f8167"
+      ]
+    },
+    {
+      "id": "p042-u0136",
+      "text": "وَحْيًا",
+      "selector": "[data-underline-id=\"p042-u0136\"]",
+      "textHash": "e83ed04d6c4ce9dcba834a78deaa3659eba9f18519f6d2d67a3f9ee84d5ec975",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 51,
+      "blockIndex": 30,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c30",
+      "start": 8938,
+      "end": 8945,
+      "groups": [
+        "p042-textual-coordination-f440ad0d5b"
+      ]
+    },
+    {
+      "id": "p042-u0137",
+      "text": "مِن وَرَاءِ حِجَابٍ",
+      "selector": "[data-underline-id=\"p042-u0137\"]",
+      "textHash": "9d789347b3133b1a53c8384e1da66826676cb50421d5c56d9c075881d2818eea",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 51,
+      "blockIndex": 30,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c30",
+      "start": 8957,
+      "end": 8976,
+      "groups": [
+        "p042-textual-coordination-f440ad0d5b"
+      ]
+    },
+    {
+      "id": "p042-u0138",
+      "text": "يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ",
+      "selector": "[data-underline-id=\"p042-u0138\"]",
+      "textHash": "8a8825287518f61ec13719fe45903ea48f88eb375623f68811c2547c9c56ca71",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 51,
+      "blockIndex": 30,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c30",
+      "start": 8988,
+      "end": 9038,
+      "groups": [
+        "p042-textual-coordination-f440ad0d5b"
+      ]
+    },
+    {
+      "id": "p042-u0139",
+      "text": "الْكِتَابُ",
+      "selector": "[data-underline-id=\"p042-u0139\"]",
+      "textHash": "f3354bc51603b6a893ce98aa2a13ba6a1b99aeae8785c28aea560c6b433144f6",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 52,
+      "blockIndex": 31,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c31",
+      "start": 9178,
+      "end": 9188,
+      "groups": [
+        "p042-local-underline-pattern-62defd402a"
+      ]
+    },
+    {
+      "id": "p042-u0140",
+      "text": "الْإِيمَانُ",
+      "selector": "[data-underline-id=\"p042-u0140\"]",
+      "textHash": "dab503968aae378983f88fabfa22b7ce3a593d75ca89b192110668fdfe787a8f",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 52,
+      "blockIndex": 31,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c31",
+      "start": 9201,
+      "end": 9212,
+      "groups": [
+        "p042-local-underline-pattern-62defd402a"
+      ]
+    },
+    {
+      "id": "p042-u0141",
+      "text": "مَا فِي السَّمَاوَاتِ",
+      "selector": "[data-underline-id=\"p042-u0141\"]",
+      "textHash": "1d99850d6abd9e8916ef7ab9cbae1ae9863b8d1f3c606fdbf581af11e3fd9b19",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 53,
+      "blockIndex": 31,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c31",
+      "start": 9372,
+      "end": 9393,
+      "groups": [
+        "p042-textual-coordination-7ca0231092",
+        "p042-exact-normalized-text-f336d0be6d"
+      ]
+    },
+    {
+      "id": "p042-u0142",
+      "text": "مَا فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p042-u0142\"]",
+      "textHash": "dc76804b25406b75da40de1cdf14559a2b6c1b138ed3b46d9f5dfb15132ce90b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 53,
+      "blockIndex": 31,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p042-c31",
+      "start": 9402,
+      "end": 9419,
+      "groups": [
+        "p042-textual-coordination-7ca0231092",
+        "p042-exact-normalized-text-fc6f3c93e0"
+      ]
+    },
+    {
+      "id": "beta-u-42-14-1",
+      "text": "تَفَرَّقُوا إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ",
+      "logicalText": "تفرقوا إلا من بعد ما جاءهم العلم بغيا بينهم",
+      "textHash": "fb8ef6075dca208cb4975fbc97b274a662aac65263ed7246f2ce8304b102a9e0",
+      "selector": "[data-underline-id=\"beta-u-42-14-1\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-42-14",
+      "verse": 14,
+      "groups": [
+        "beta-42-blameworthy-division"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The qualification makes this division blameworthy; the clause is not labeled from the word division alone."
+    },
+    {
+      "id": "beta-u-42-31-2",
+      "text": "وَلِيٍّ",
+      "logicalText": "ولي",
+      "textHash": "1606e853ba6f4a40c953222312e714b90484e02931ebc146d36d7f062d4ff397",
+      "selector": "[data-underline-id=\"beta-u-42-31-2\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-42-31",
+      "verse": 31,
+      "groups": [
+        "beta-42-assistance-categories"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are paired relationship-role categories in a negated claim; the adverse lack of help is a distinct larger layer."
+    },
+    {
+      "id": "beta-u-42-31-3",
+      "text": "نَصِيرٍ",
+      "logicalText": "نصير",
+      "textHash": "7bc36c92176bb73f77e16d46f46b865546af71f98e11d395b38215a0a858d4e5",
+      "selector": "[data-underline-id=\"beta-u-42-31-3\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-42-31",
+      "verse": 31,
+      "groups": [
+        "beta-42-assistance-categories"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are paired relationship-role categories in a negated claim; the adverse lack of help is a distinct larger layer."
+    }
+  ],
+  "groups": [
+    {
+      "id": "p042-textual-coordination-8cc2c4cef4",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0001",
+        "p042-u0002"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-361683e53b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0003",
+        "p042-u0004"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-e298d05f4f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0005",
+        "p042-u0006"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-f73f3aa9dd",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0007",
+        "p042-u0008"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-5ec51257c7",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0010",
+        "p042-u0011"
+      ]
+    },
+    {
+      "id": "p042-paired-contrast-3d3da27ad7",
+      "label": "Locally coordinated contrasting alternatives",
+      "basis": "paired-contrast",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "paired-red-green",
+        "matching-line-structure",
+        "coordinating-text"
+      ],
+      "members": [
+        "p042-u0022",
+        "p042-u0023"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-816f4c1477",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0014",
+        "p042-u0015"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-a1cc0770e0",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0034",
+        "p042-u0035"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-34c9785d10",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0036",
+        "p042-u0037"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-a786c99d15",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0038",
+        "p042-u0039"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-3cc9012af5",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0040",
+        "p042-u0041"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-92bb59da43",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0044",
+        "p042-u0046",
+        "p042-u0048"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-b0b8c0462c",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0052",
+        "p042-u0053"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-e319a8a4f3",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0054",
+        "p042-u0055"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-5520dbbb7a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0049",
+        "p042-u0050",
+        "p042-u0051"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-9d906ca037",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0056",
+        "p042-u0057",
+        "p042-u0058"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-d164219f9a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0059",
+        "p042-u0060"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-b894ac1345",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0061",
+        "p042-u0062"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-cedec1d714",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0063",
+        "p042-u0064"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-734117e495",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0065",
+        "p042-u0066"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-c50a52c504",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0067",
+        "p042-u0068"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-89ac048a0e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0081",
+        "p042-u0082"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-702d28d65b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0084",
+        "p042-u0085"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-11cb9c88b9",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0087",
+        "p042-u0088"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-02d4b04c39",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0089",
+        "p042-u0090"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-750735f6e4",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0091",
+        "p042-u0092"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-80cdb1a405",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0095",
+        "p042-u0098"
+      ]
+    },
+    {
+      "id": "p042-paired-contrast-196b33f69a",
+      "label": "Locally coordinated contrasting alternatives",
+      "basis": "paired-contrast",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "paired-red-green",
+        "matching-line-structure",
+        "coordinating-text"
+      ],
+      "members": [
+        "p042-u0098",
+        "p042-u0099"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-75cdd4be6f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0096",
+        "p042-u0097"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-1c6ab72660",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0102",
+        "p042-u0103"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-244b3492f6",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0106",
+        "p042-u0107"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-fc21c78e2d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0108",
+        "p042-u0109"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-227c9438c3",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0110",
+        "p042-u0113"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-1bd0830468",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0111",
+        "p042-u0112"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-83e8078658",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0114",
+        "p042-u0115",
+        "p042-u0116",
+        "p042-u0117"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-bb3484a173",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0118",
+        "p042-u0119"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-69d704f400",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0120",
+        "p042-u0121"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-f53912211a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0122",
+        "p042-u0123"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-c358d1a178",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0124",
+        "p042-u0125"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-4fb77a38de",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0128",
+        "p042-u0129"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-e157ec411d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0130",
+        "p042-u0131"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-3c523f8167",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0132",
+        "p042-u0133",
+        "p042-u0134",
+        "p042-u0135"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-f440ad0d5b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0136",
+        "p042-u0137",
+        "p042-u0138"
+      ]
+    },
+    {
+      "id": "p042-textual-coordination-7ca0231092",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p042-u0141",
+        "p042-u0142"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-32a4c1246a",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0028",
+        "p042-u0030",
+        "p042-u0032",
+        "p042-u0034",
+        "p042-u0035"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-f81bbc8bb8",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0052",
+        "p042-u0053",
+        "p042-u0054",
+        "p042-u0055",
+        "p042-u0056",
+        "p042-u0057",
+        "p042-u0058",
+        "p042-u0059",
+        "p042-u0060"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-f568b25a7e",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0084",
+        "p042-u0085",
+        "p042-u0087",
+        "p042-u0088"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-056bbf79fe",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0100",
+        "p042-u0101"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-44a9c457b9",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0108",
+        "p042-u0109",
+        "p042-u0114",
+        "p042-u0115",
+        "p042-u0116",
+        "p042-u0117",
+        "p042-u0118",
+        "p042-u0119"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-117c365fc3",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0003",
+        "p042-u0004",
+        "p042-u0010",
+        "p042-u0011"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-0336a9321d",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0036",
+        "p042-u0037",
+        "p042-u0040",
+        "p042-u0041"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-a92a376459",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0005",
+        "p042-u0006",
+        "p042-u0013",
+        "p042-u0017"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-5ec136a4f0",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0012",
+        "p042-u0016"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-eea83c451c",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0024",
+        "p042-u0025"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-0d0c19364d",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0027",
+        "p042-u0029",
+        "p042-u0031"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-f8c807f430",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0069",
+        "p042-u0077"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-37218f786d",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0042",
+        "p042-u0043"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-62defd402a",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0139",
+        "p042-u0140"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-9b9e6792a6",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0104",
+        "p042-u0105"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-77636c65a1",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0070",
+        "p042-u0071"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-5f2c618ca1",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0091",
+        "p042-u0092",
+        "p042-u0095",
+        "p042-u0098"
+      ]
+    },
+    {
+      "id": "p042-local-underline-pattern-02e2e66356",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p042-u0126",
+        "p042-u0127"
+      ]
+    },
+    {
+      "id": "p042-exact-normalized-text-f336d0be6d",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p042-u0003",
+        "p042-u0141"
+      ]
+    },
+    {
+      "id": "p042-exact-normalized-text-fc6f3c93e0",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p042-u0004",
+        "p042-u0142"
+      ]
+    },
+    {
+      "id": "p042-exact-normalized-text-ec034efb5f",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p042-u0009",
+        "p042-u0026"
+      ]
+    },
+    {
+      "id": "p042-exact-normalized-text-76027dbcb3",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p042-u0085",
+        "p042-u0088"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-b17e45566d",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0018",
+        "p042-u0020"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-de27711634",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0018",
+        "p042-u0019",
+        "p042-u0020"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-baf8390cdc",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0018",
+        "p042-u0019",
+        "p042-u0020",
+        "p042-u0021"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-66b9883703",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0072",
+        "p042-u0073"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-b6afbae1fe",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0072",
+        "p042-u0073",
+        "p042-u0076"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-2cb6212106",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0078",
+        "p042-u0080"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-8fe5de85a7",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0078",
+        "p042-u0079",
+        "p042-u0080"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-d40dca418d",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0078",
+        "p042-u0079",
+        "p042-u0080",
+        "p042-u0081",
+        "p042-u0082"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-da4454865c",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0083",
+        "p042-u0086"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-f63ddd17a0",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0091",
+        "p042-u0092",
+        "p042-u0093",
+        "p042-u0095",
+        "p042-u0098"
+      ]
+    },
+    {
+      "id": "p042-red-green-pair-5310196bb9",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p042-u0091",
+        "p042-u0092",
+        "p042-u0093",
+        "p042-u0095",
+        "p042-u0098",
+        "p042-u0099"
+      ]
+    },
+    {
+      "id": "p042-u0033-individual",
+      "label": "Symbol marker; not a textual relationship",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0033"
+      ]
+    },
+    {
+      "id": "p042-u0045-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0045"
+      ]
+    },
+    {
+      "id": "p042-u0047-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0047"
+      ]
+    },
+    {
+      "id": "p042-u0074-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0074"
+      ]
+    },
+    {
+      "id": "p042-u0075-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0075"
+      ]
+    },
+    {
+      "id": "p042-u0094-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p042-u0094"
+      ]
+    },
+    {
+      "id": "beta-contrast-42-u0018",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0018",
+        "p042-u0019",
+        "p042-u0020"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0021",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0021",
+        "p042-u0022",
+        "p042-u0023"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0072",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0072",
+        "p042-u0073",
+        "p042-u0076"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0078",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0078",
+        "p042-u0079",
+        "p042-u0080",
+        "p042-u0081",
+        "p042-u0082"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0083",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0083",
+        "p042-u0086"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0091",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0091",
+        "p042-u0092",
+        "p042-u0093",
+        "p042-u0095"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-contrast-42-u0098",
+      "label": "Compared good and bad alternatives",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0098",
+        "p042-u0099"
+      ],
+      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
+    },
+    {
+      "id": "beta-42-approved-restraint",
+      "label": "approved restraint",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0110",
+        "p042-u0113"
+      ]
+    },
+    {
+      "id": "beta-42-avoided-vices",
+      "label": "avoided vices",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0111",
+        "p042-u0112"
+      ]
+    },
+    {
+      "id": "beta-42-approved-common-life",
+      "label": "approved common life",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0114",
+        "p042-u0115",
+        "p042-u0116",
+        "p042-u0117"
+      ]
+    },
+    {
+      "id": "beta-42-pardon-and-repair",
+      "label": "pardon and repair",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0118",
+        "p042-u0119"
+      ]
+    },
+    {
+      "id": "beta-42-patient-forgiveness",
+      "label": "patient forgiveness",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0122",
+        "p042-u0123"
+      ]
+    },
+    {
+      "id": "beta-42-trusting-response",
+      "label": "trusting response",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "p042-u0108",
+        "p042-u0109"
+      ]
+    },
+    {
+      "id": "beta-42-blameworthy-division",
+      "label": "blameworthy division",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-42-14-1"
+      ]
+    },
+    {
+      "id": "beta-42-assistance-categories",
+      "label": "assistance categories",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-42-31-2",
+        "beta-u-42-31-3"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p042-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "اسْتَجِيبُوا لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا",
+        "last": "تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنسَانَ كَفُورٌ۴۸"
+      },
+      "lines": [
+        "p042-l0001"
+      ]
+    }
+  ],
+  "betaQuotations": [
+    {
+      "id": "beta-q-042-001",
+      "surah": 42,
+      "firstVerse": 13,
+      "lastVerse": 13,
+      "requestedLastVerse": 13,
+      "first": "أن أقيموا الدين",
+      "color": "blue",
+      "until": "كبر على المشركين",
+      "implicit": true,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 22806,
+      "end": 23432
+    },
+    {
+      "id": "beta-q-042-002",
+      "surah": 42,
+      "firstVerse": 15,
+      "lastVerse": 15,
+      "requestedLastVerse": 15,
+      "first": "آمنت بما أنزل الله من كتاب",
+      "color": "black",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 25870,
+      "end": 27767
+    },
+    {
+      "id": "beta-q-042-003",
+      "surah": 42,
+      "firstVerse": 23,
+      "lastVerse": 23,
+      "requestedLastVerse": 23,
+      "first": "لا أسألكم عليه أجرا",
+      "color": "black",
+      "until": "ومن يقترف",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 36240,
+      "end": 36310
+    },
+    {
+      "id": "beta-q-042-004",
+      "surah": 42,
+      "firstVerse": 24,
+      "lastVerse": 24,
+      "requestedLastVerse": 24,
+      "first": "افترى على الله كذبا",
+      "color": "red",
+      "until": "فإن يشإ الله",
+      "implicit": false,
+      "speaker": "The attributed accusation ends before the response",
+      "anchorOptions": {},
+      "start": 36622,
+      "end": 36653
+    }
+  ],
+  "betaEditorialStatus": "conservative-transfer-with-review-queue"
+}

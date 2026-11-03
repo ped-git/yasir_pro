@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "source": "Surah/106_Qoraysh_html.html",
+  "sourceHash": "6b71f2040980f0e3635d25c0017b10e4ad67e1603b9ed6cd445bb18972d08a49",
+  "underlines": [
+    {
+      "id": "p106-u0001",
+      "text": "پیوند و انس دهد [تا در آرامش و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "779d01bf3704a24c91cdfc841cb228fa203cfebfa5c4f58ddd77880b4f883bd4",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 239,
+      "end": 270,
+      "groups": [
+        "p106-textual-coordination-536870a22d"
+      ],
+      "sourceText": "الشِّتَاءِ"
+    },
+    {
+      "id": "p106-u0002",
+      "text": "امر معاششان را تأمین کنند.]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "c8cb295cf7b8f22aa277f684670f9ce03c91c725faad3213bbcdf8848042850e",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 277,
+      "end": 305,
+      "groups": [
+        "p106-textual-coordination-536870a22d"
+      ],
+      "sourceText": "الصَّيْفِ"
+    },
+    {
+      "id": "p106-u0003",
+      "text": "آنان را از گرسنگی نجات داد، و از بیمی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "b85187086d175c3ae1043eeac5416d0559fd47d6b77cfa1bdbd6f50267842afd",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 357,
+      "end": 394,
+      "groups": [
+        "p106-textual-coordination-2d210e2f31"
+      ],
+      "sourceText": "أَطْعَمَهُم مِّن جُوعٍ"
+    },
+    {
+      "id": "p106-u0004",
+      "text": "از دشمن داشتند] ایمنی شان بخشید.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "45f23fa3b637186bacd4d23578a1d83c88edb4f6ce7a5229237b47af2bd3a458",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 398,
+      "end": 431,
+      "groups": [
+        "p106-textual-coordination-2d210e2f31"
+      ],
+      "sourceText": "آمَنَهُم مِّنْ خَوْفٍ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p106-textual-coordination-536870a22d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p106-u0001",
+        "p106-u0002"
+      ]
+    },
+    {
+      "id": "p106-textual-coordination-2d210e2f31",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p106-u0003",
+        "p106-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,72 @@
+@import url("shared/speech-9b03f6de.css");
+@import url("shared/speech-open-before-7c3fc813.css");
+@import url("shared/speech-gray-before-d5db9fb8.css");
+@import url("shared/connection-line--1-3c1b1b19.css");
+@import url("shared/diamond-marker-1ee488a3.css");
+@import url("shared/diamond-marker-connection-cap--top-blue-1-ed2e089f.css");
+@import url("shared/verse-paragraph--compact-012e4b29.css");
+@import url("shared/annotation-f53eabf4.css");
+
+.border-gray {
+  border: 1px solid rgb(200, 200, 200);
+  padding: 2px 0.529166mm;
+}
+
+.annotation.border-horizontal {
+  border-bottom: 1px solid rgb(100, 100, 100);
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 0px 0px;
+}
+
+.text-highlight-1 {
+  color: rgb(70, 175, 70);
+}
+
+.text-highlight-3 {
+  color: rgb(0, 150, 255);
+}
+
+.text-highlight-5 {
+  color: rgb(175, 120, 35);
+}
+
+.text-highlight-10 {
+  color: rgb(180, 26, 26);
+}
+
+.text-highlight-15 {
+  color: rgb(100, 150, 150);
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

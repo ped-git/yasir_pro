@@ -1,0 +1,41 @@
+speech[open]::before {
+  content: "«";
+  display: inline;
+  vertical-align: -1.5mm;
+}
+
+speech[close]::before {
+  content: "»";
+  display: inline;
+  vertical-align: -1.5mm;
+}
+
+speech[underline]::before {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0mm;
+}
+
+speech[green]::before {
+  color: rgb(70, 175, 70);
+}
+
+speech[red]::before {
+  color: rgb(205, 100, 100);
+}
+
+speech[blue]::before {
+  color: rgb(70, 70, 220);
+}
+
+speech[gray]::before {
+  color: rgb(150, 150, 150);
+}
+
+.connection-line--1 {
+  border-left: 0.3mm solid black;
+  height: 100%;
+  position: absolute;
+  right: 7.5mm;
+  page-break-inside: auto;
+}

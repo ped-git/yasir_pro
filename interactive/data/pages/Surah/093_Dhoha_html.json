@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "source": "Surah/093_Dhoha_html.html",
+  "sourceHash": "d8328d266ee14f6a174c3201430cdca91083343f59888ec4c859720ded6b8ffa",
+  "underlines": [
+    {
+      "id": "p093-u0001",
+      "text": "وَالضُّحَىٰ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "be93fb77cf82bf9651f4744da46e1af3ae41b9f3a007292f34c92489a42f10ab",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 97,
+      "end": 108,
+      "groups": [
+        "p093-textual-coordination-b217158f39"
+      ]
+    },
+    {
+      "id": "p093-u0002",
+      "text": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "04fe838d5da359024e8f727d4c3283e3249648a47915a3d1532b6e02243b5c7a",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 116,
+      "end": 140,
+      "groups": [
+        "p093-textual-coordination-b217158f39"
+      ]
+    },
+    {
+      "id": "p093-u0003",
+      "text": "مَا وَدَّعَكَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "c114901bcc809b2fbf70ce2f5538a8d2ff6ade9258b918edbd7eca44668ffc74",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 148,
+      "end": 161,
+      "groups": [
+        "p093-local-underline-pattern-7b5b44371f"
+      ]
+    },
+    {
+      "id": "p093-u0004",
+      "text": "مَا قَلَىٰ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "5f924c7eafa93781d98c209e6ec9ef7a34eb4ac9f78aeab2c4110d6f79b096c7",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 178,
+      "end": 188,
+      "groups": [
+        "p093-local-underline-pattern-7b5b44371f"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p093-textual-coordination-b217158f39",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p093-u0001",
+        "p093-u0002"
+      ]
+    },
+    {
+      "id": "p093-local-underline-pattern-7b5b44371f",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p093-u0003",
+        "p093-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

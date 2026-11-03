@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "source": "Surah/055_AlRahman_html.html",
+  "sourceHash": "fdf79693b9b4120e6f55ff80520acaf74a00b5d8438cc3de25c0426133e99301",
+  "underlines": [
+    {
+      "id": "p055-u0001",
+      "text": "الْمِيزَانَ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "98ee13dd47d4b301a8eda3c6a2477533069dceadcaf2fbeab99a09cd99baeba5",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 400,
+      "end": 411,
+      "groups": [
+        "p055-balance"
+      ]
+    },
+    {
+      "id": "p055-u0002",
+      "text": "الْمِيزَانِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "849f734093927980ed0725ae54b8cd0664a44644086d025f52937c93d3ac85fe",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 442,
+      "end": 453,
+      "groups": [
+        "p055-balance"
+      ]
+    },
+    {
+      "id": "p055-u0003",
+      "text": "الْمِيزَانَ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "98ee13dd47d4b301a8eda3c6a2477533069dceadcaf2fbeab99a09cd99baeba5",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 514,
+      "end": 525,
+      "groups": [
+        "p055-balance"
+      ]
+    },
+    {
+      "id": "p055-u0004",
+      "text": "جَنَّتَانِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "f22e8b28dc34e7dec1de9d5db15543deb4c846fe05eb2b3966e0f9ca6504117c",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 46,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p055-s0005",
+      "contextId": "p055-c2",
+      "start": 3613,
+      "end": 3623,
+      "groups": [
+        "p055-garden-pairs"
+      ]
+    },
+    {
+      "id": "p055-u0005",
+      "text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(2)",
+      "textHash": "434e81740b1d2f079f71684cb0f17d4f301fcb98a16d3ac2c2fab3497b837668",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 62,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p055-s0005",
+      "contextId": "p055-c3",
+      "start": 5012,
+      "end": 5039,
+      "groups": [
+        "p055-garden-pairs"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p055-balance",
+      "label": "The three consecutive references to the balance",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p055-u0001",
+        "p055-u0002",
+        "p055-u0003"
+      ]
+    },
+    {
+      "id": "p055-garden-pairs",
+      "label": "The two corresponding garden-pair passages",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p055-u0004",
+        "p055-u0005"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p055-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "الرَّحْمَـٰنُ۱ عَلَّمَ الْقُرْآنَ۲ خَلَقَ الْإِنسَانَ۳ عَلَّمَهُ الْبَيَانَ۴ الشَّمْسُ",
+        "last": "نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ۳۵ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۳۶"
+      },
+      "lines": [
+        "p055-l0001"
+      ]
+    },
+    {
+      "id": "p055-s0002",
+      "parentId": "p055-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ۳۱ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۳۲",
+        "last": "نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ۳۵ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۳۶"
+      },
+      "lines": [
+        "p055-l0002"
+      ]
+    },
+    {
+      "id": "p055-s0003",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "فَإِذَا انشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ۳۷ فَبِأَيِّ آلَاءِ",
+        "last": "رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ۷۶ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۷۷"
+      },
+      "lines": [
+        "p055-l0003"
+      ]
+    },
+    {
+      "id": "p055-s0004",
+      "parentId": "p055-s0003",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ۴۱ فَبِأَيِّ آلَاءِ",
+        "last": "بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ۴۴ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۴۵"
+      },
+      "lines": [
+        "p055-l0004"
+      ]
+    },
+    {
+      "id": "p055-s0005",
+      "parentId": "p055-s0003",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ۴۶ فَبِأَيِّ آلَاءِ رَبِّكُمَا",
+        "last": "رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ۷۶ فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ۷۷"
+      },
+      "lines": [
+        "p055-l0005"
+      ]
+    }
+  ]
+}

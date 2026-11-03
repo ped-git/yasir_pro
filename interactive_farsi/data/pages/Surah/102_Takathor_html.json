@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "source": "Surah/102_Takathor_html.html",
+  "sourceHash": "6d156b90b04ae07e1a5478a74749c09ce008de87863db77bbd36c374565cbb4f",
+  "underlines": [
+    {
+      "id": "p102-u0001",
+      "text": "این چنین نیست [که شما می پندارید] ، به زودی [به آثار شوم این اوضاع و احوالی که دارید] آگاه خواهید شد.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "93360646ccf1cd7a29e4fca145c553e78e286bff8f91e32dc3a5d0d281838710",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c1",
+      "start": 313,
+      "end": 415,
+      "groups": [
+        "p102-local-underline-pattern-b59213265d"
+      ],
+      "sourceText": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "id": "p102-u0002",
+      "text": "این چنین نیست، به زودی آگاه خواهید شد.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "10713cc878172abe62c342dc3e719dfd3dd7842f027083dbe396c755fb866842",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c2",
+      "start": 439,
+      "end": 477,
+      "groups": [
+        "p102-local-underline-pattern-b59213265d"
+      ],
+      "sourceText": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "id": "p102-u0003",
+      "text": "بی تردید دوزخ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(1)",
+      "textHash": "24913ea7d5ba1363182a8fba30c4651793d0f01a79132b32906444049b02a9c7",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c3",
+      "start": 682,
+      "end": 696,
+      "groups": [
+        "p102-local-underline-pattern-7aca5e9160"
+      ],
+      "sourceText": "لَتَرَوُنَّ"
+    },
+    {
+      "id": "p102-u0004",
+      "text": "وارد شدن در آن،] قطعاً",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(1)",
+      "textHash": "3255f45d360817caba6fff29eec2a234907ae10b4de0e6486e6fc4a7f19e3fcc",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c4",
+      "start": 735,
+      "end": 758,
+      "groups": [
+        "p102-local-underline-pattern-7aca5e9160"
+      ],
+      "sourceText": "لَتَرَوُنَّ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p102-local-underline-pattern-b59213265d",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p102-u0001",
+        "p102-u0002"
+      ]
+    },
+    {
+      "id": "p102-local-underline-pattern-7aca5e9160",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p102-u0003",
+        "p102-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

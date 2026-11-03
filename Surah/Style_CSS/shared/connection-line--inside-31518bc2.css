@@ -1,0 +1,12 @@
+.connection-line--inside {
+  border-left: 0.3mm dotted rgb(220, 220, 220);
+  height: 95%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 0mm;
+  page-break-inside: auto;
+}

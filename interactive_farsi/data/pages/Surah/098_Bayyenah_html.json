@@ -1,0 +1,523 @@
+{
+  "version": 1,
+  "source": "Surah/098_Bayyenah_html.html",
+  "sourceHash": "e4d6ad21930212eefe4c5081f8670db102033b0ef3e6e15794ba125363cf69b7",
+  "underlines": [
+    {
+      "id": "p098-u0001",
+      "text": "اهل کتاب و مشرکان [از آیین خود]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "9b0a097ccea529acaf8fa5839e8744106da708756576d43a3f0541667bea647e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c1",
+      "start": 103,
+      "end": 135,
+      "groups": [
+        "p098-textual-coordination-cd7d42ba8a",
+        "p098-lexical-parallel-3138506f91"
+      ],
+      "sourceText": "الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ"
+    },
+    {
+      "id": "p098-u0002",
+      "text": "جدا نمی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "e3fcff9748626a66c22a37658fe23d66ca3087c8d65caff94f4a9a19a091ab9e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c1",
+      "start": 135,
+      "end": 145,
+      "groups": [
+        "p098-textual-coordination-cd7d42ba8a"
+      ],
+      "sourceText": "الْمُشْرِكِينَ"
+    },
+    {
+      "id": "p098-u0003",
+      "text": "جز آنکه خدا را بپرستند، و ایمان و عبادت را برای او از هرگونه شرکی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "73c1d674fc89301b50b7c9b486f08b5be7fe014fc6008629cdc7b88751f94667",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c2",
+      "start": 495,
+      "end": 562,
+      "groups": [
+        "p098-textual-coordination-9a86cf62fd",
+        "p098-local-underline-pattern-b891409556"
+      ],
+      "sourceText": "يَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ"
+    },
+    {
+      "id": "p098-u0004",
+      "text": "کنند، و حق گرا باشند، و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "35817f66ce98fe562a9e15cb932f9da802d6009407d65fbb5dc60078ec9241f3",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c2",
+      "start": 566,
+      "end": 591,
+      "groups": [
+        "p098-textual-coordination-9a86cf62fd",
+        "p098-local-underline-pattern-b891409556"
+      ],
+      "sourceText": "يُقِيمُوا الصَّلَاةَ"
+    },
+    {
+      "id": "p098-u0005",
+      "text": "را برپا دارند، و زکات",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "49b0d14f8f245f9e443e67b30e4b8764aad13a14d6ea6acd73c167326d814ba9",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c2",
+      "start": 595,
+      "end": 618,
+      "groups": [
+        "p098-textual-coordination-9a86cf62fd",
+        "p098-local-underline-pattern-b891409556"
+      ],
+      "sourceText": "يُؤْتُوا الزَّكَاةَ"
+    },
+    {
+      "id": "p098-u0006",
+      "text": "به یقین کافرانِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "5c30dab87f194c59bcd3a0a3e431d16bc9965653599eb33dfaa1b4a5661586b2",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-red-220-150-150 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c3",
+      "start": 691,
+      "end": 706,
+      "groups": [
+        "p098-red-green-pair-c1ecb10c5d",
+        "p098-red-green-pair-b29de74f96",
+        "p098-red-green-pair-1b2385b4ff"
+      ],
+      "sourceText": "إِنَّ الَّذِينَ"
+    },
+    {
+      "id": "p098-u0007",
+      "text": "از اهل کتاب و مشرکان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(4)",
+      "textHash": "66f601bd890bbea1af203173ed1c05d61f8371ca3ab63736ab0127303f098c2d",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c3",
+      "start": 707,
+      "end": 728,
+      "groups": [
+        "p098-textual-coordination-f5bebad65a",
+        "p098-lexical-parallel-3138506f91"
+      ],
+      "sourceText": "كَفَرُوا مِنْ أَهْلِ الْكِتَابِ"
+    },
+    {
+      "id": "p098-u0008",
+      "text": "در آتش دوزخ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(5)",
+      "textHash": "8d285d2665f239108bbc55dc9cc2d9314d6d034a20191678f7a7110670ec94c4",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c3",
+      "start": 728,
+      "end": 740,
+      "groups": [
+        "p098-textual-coordination-f5bebad65a"
+      ],
+      "sourceText": "الْمُشْرِكِينَ"
+    },
+    {
+      "id": "p098-u0009",
+      "text": "اینانند که بدترین مخلوقاتند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(6)",
+      "textHash": "fe61e5a31f9ef9ca8065b913525f2416cd2d7a83050ee92ecbb2a63e9fd52d3d",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c3",
+      "start": 766,
+      "end": 794,
+      "groups": [
+        "p098-red-green-pair-b29de74f96",
+        "p098-red-green-pair-1b2385b4ff"
+      ],
+      "sourceText": "أُولَـٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ"
+    },
+    {
+      "id": "p098-u0010",
+      "text": "مسلماً کسانی که",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(3)",
+      "textHash": "adf663a2ab149223f01bd6eda553896d163b063aa4c7a77b8e5af1ebad3ce390",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 828,
+      "end": 844,
+      "groups": [
+        "p098-red-green-pair-c1ecb10c5d",
+        "p098-red-green-pair-b29de74f96",
+        "p098-red-green-pair-1b2385b4ff"
+      ],
+      "sourceText": "إِنَّ الَّذِينَ"
+    },
+    {
+      "id": "p098-u0011",
+      "text": "ایمان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "1573ef1b776644b473cafebea32333699b801802fe8dbfa92d86fc3aa6044a12",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 845,
+      "end": 851,
+      "groups": [
+        "p098-textual-coordination-f9bb3b06c1",
+        "p098-local-underline-pattern-b891409556"
+      ],
+      "sourceText": "آمَنُوا"
+    },
+    {
+      "id": "p098-u0012",
+      "text": "و کارهای شایسته انجام",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "4397b60d832aec9b63e320e4634719c6c5aa7e7fd5d30e41d36c7cb09a7228a1",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 856,
+      "end": 879,
+      "groups": [
+        "p098-textual-coordination-f9bb3b06c1",
+        "p098-local-underline-pattern-b891409556"
+      ],
+      "sourceText": "عَمِلُوا الصَّالِحَاتِ"
+    },
+    {
+      "id": "p098-u0013",
+      "text": "داده اند، اینانند که بهترین مخلوقاتند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(5)",
+      "textHash": "0fb1c8b2cdd25cfdaaed6b976a794d48ee435490ff976fc15b2fbfcc87f99667",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 880,
+      "end": 918,
+      "groups": [
+        "p098-red-green-pair-1b2385b4ff"
+      ],
+      "sourceText": "أُولَـٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ"
+    },
+    {
+      "id": "p098-u0014",
+      "text": "خشنود است و آنان هم از خدا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(6)",
+      "textHash": "87041840e5a5883b85dca7125553365e4b011d6d1b596c6dd70b3b2c1272e10c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 1040,
+      "end": 1067,
+      "groups": [
+        "p098-textual-coordination-028a0519af"
+      ],
+      "sourceText": "رَّضِيَ اللَّهُ عَنْهُمْ"
+    },
+    {
+      "id": "p098-u0015",
+      "text": "این [پاداش]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(7)",
+      "textHash": "1e3d84e7abaab9925d4d85ed604028890d70462ca3c6e3d45884c909266b2d49",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p098-c4",
+      "start": 1075,
+      "end": 1088,
+      "groups": [
+        "p098-textual-coordination-028a0519af"
+      ],
+      "sourceText": "رَضُوا عَنْهُ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p098-textual-coordination-cd7d42ba8a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p098-u0001",
+        "p098-u0002"
+      ]
+    },
+    {
+      "id": "p098-textual-coordination-9a86cf62fd",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p098-u0003",
+        "p098-u0004",
+        "p098-u0005"
+      ]
+    },
+    {
+      "id": "p098-textual-coordination-f5bebad65a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p098-u0007",
+        "p098-u0008"
+      ]
+    },
+    {
+      "id": "p098-textual-coordination-f9bb3b06c1",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p098-u0011",
+        "p098-u0012"
+      ]
+    },
+    {
+      "id": "p098-textual-coordination-028a0519af",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p098-u0014",
+        "p098-u0015"
+      ]
+    },
+    {
+      "id": "p098-local-underline-pattern-b891409556",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p098-u0003",
+        "p098-u0004",
+        "p098-u0005",
+        "p098-u0011",
+        "p098-u0012"
+      ]
+    },
+    {
+      "id": "p098-lexical-parallel-3138506f91",
+      "label": "Matching underline form and strongly parallel content",
+      "basis": "lexical-parallel",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-nesting-layer",
+        "two-shared-content-words",
+        "high-lexical-overlap"
+      ],
+      "members": [
+        "p098-u0001",
+        "p098-u0007"
+      ]
+    },
+    {
+      "id": "p098-red-green-pair-c1ecb10c5d",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p098-u0006",
+        "p098-u0010"
+      ]
+    },
+    {
+      "id": "p098-red-green-pair-b29de74f96",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p098-u0006",
+        "p098-u0009",
+        "p098-u0010"
+      ]
+    },
+    {
+      "id": "p098-red-green-pair-1b2385b4ff",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p098-u0006",
+        "p098-u0009",
+        "p098-u0010",
+        "p098-u0013"
+      ]
+    }
+  ],
+  "sections": []
+}

@@ -1,0 +1,2374 @@
+{
+  "version": 1,
+  "source": "Surah/012_Yusof_html.html",
+  "sourceHash": "932af4ce5033364891605225c2108e8c177c41635c50178745b7d933017f92cb",
+  "underlines": [
+    {
+      "id": "p012-u0001",
+      "text": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْمًا صَالِحِينَ۹",
+      "selector": "[data-underline-id=\"p012-u0001\"]",
+      "textHash": "9ea0c7fa7d55275815e74f65bd8ffef180c5b8af24aec853ce6bc73bd4c6ccd4",
+      "appearance": {
+        "signature": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-color-currentcolor ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "structure": "ul-border-left-1px-dotted-gray-100 ul-border-right-1px-dotted-gray-100 ul-border-top-0 ul-pad-x-0p264583mm ul-pad-y-0px ul-pattern-none ul-thickness-0",
+        "colorFamily": null
+      },
+      "verse": 9,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p012-s0003",
+      "contextId": "p012-c1",
+      "start": 1326,
+      "end": 1443,
+      "groups": [
+        "p012-u0001-individual"
+      ]
+    },
+    {
+      "id": "p012-u0002",
+      "text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p012-u0002\"]",
+      "textHash": "e33ab49130a6c2b5ab7f24e8646020ad558dbcf4cdb548490996e5944894f8f3",
+      "appearance": {
+        "signature": "ul-color-gray-150 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 21,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "p012-c2",
+      "start": 3616,
+      "end": 3661,
+      "groups": [
+        "p012-exact-normalized-text-0f274323da"
+      ]
+    },
+    {
+      "id": "p012-u0003",
+      "text": "سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ",
+      "selector": "[data-underline-id=\"p012-u0003\"]",
+      "textHash": "007e2d7c18676f87bf236a6e4a4180ec6d23d32eae643535b97a9b4e12e12726",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 43,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p012-s0009",
+      "contextId": "p012-c3",
+      "start": 9596,
+      "end": 9696,
+      "groups": [
+        "p012-exact-normalized-text-54e4bcdf30"
+      ]
+    },
+    {
+      "id": "p012-u0004",
+      "text": "سَبْعِ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ",
+      "selector": "[data-underline-id=\"p012-u0004\"]",
+      "textHash": "8775da90896895dc64112d9aa0050f115be59354e6cd43a6d2fa768029367511",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 46,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p012-s0009",
+      "contextId": "p012-c4",
+      "start": 10234,
+      "end": 10334,
+      "groups": [
+        "p012-exact-normalized-text-54e4bcdf30"
+      ]
+    },
+    {
+      "id": "p012-u0005",
+      "text": "n",
+      "selector": "[data-underline-id=\"p012-u0005\"]",
+      "textHash": "1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 52,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p012-s0009",
+      "contextId": "p012-c5",
+      "start": 11873,
+      "end": 11874,
+      "groups": [
+        "p012-u0005-individual"
+      ]
+    },
+    {
+      "id": "p012-u0006",
+      "text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ",
+      "selector": "[data-underline-id=\"p012-u0006\"]",
+      "textHash": "e33ab49130a6c2b5ab7f24e8646020ad558dbcf4cdb548490996e5944894f8f3",
+      "appearance": {
+        "signature": "ul-color-gray-150 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 56,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p012-s0009",
+      "contextId": "p012-c6",
+      "start": 12633,
+      "end": 12678,
+      "groups": [
+        "p012-exact-normalized-text-0f274323da"
+      ]
+    },
+    {
+      "id": "p012-u0007",
+      "text": "n",
+      "selector": "[data-underline-id=\"p012-u0007\"]",
+      "textHash": "1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 101,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": "p012-s0017",
+      "contextId": "p012-c7",
+      "start": 23297,
+      "end": 23298,
+      "groups": [
+        "p012-u0007-individual"
+      ]
+    },
+    {
+      "id": "beta-u-12-4-1",
+      "text": "أَحَدَ عَشَرَ كَوْكَبًا",
+      "logicalText": "أحد عشر كوكبا",
+      "textHash": "ea3888360da8816343a997f8cafe5c5d0ac8cc8031f752ea19384433d00ec424",
+      "selector": "[data-underline-id=\"beta-u-12-4-1\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-4",
+      "verse": 4,
+      "groups": [
+        "beta-12-dream-objects"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The dream objects are a neutral coordinated list; distinguish them from the dream report."
+    },
+    {
+      "id": "beta-u-12-4-2",
+      "text": "الشَّمْسَ",
+      "logicalText": "الشمس",
+      "textHash": "04dbcaa25197316d79f8dcf703a7dfc69b0eb7c966e0a2d8d559a904b124f358",
+      "selector": "[data-underline-id=\"beta-u-12-4-2\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-4",
+      "verse": 4,
+      "groups": [
+        "beta-12-dream-objects"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Neutral celestial object in the same list."
+    },
+    {
+      "id": "beta-u-12-4-3",
+      "text": "الْقَمَرَ",
+      "logicalText": "القمر",
+      "textHash": "617487b19deb48646173ede9adf645e203895c7951411728bea565cc24992ef8",
+      "selector": "[data-underline-id=\"beta-u-12-4-3\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-4",
+      "verse": 4,
+      "groups": [
+        "beta-12-dream-objects"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Neutral celestial object in the same list."
+    },
+    {
+      "id": "beta-u-12-6-4",
+      "text": "يَجْتَبِيكَ رَبُّكَ",
+      "logicalText": "يجتبيك ربك",
+      "textHash": "4fc9b585443f7d4caf87cf0b43b8bd5fffc95c4fbbafdb785259f97006650f9e",
+      "selector": "[data-underline-id=\"beta-u-12-6-4\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-6",
+      "verse": 6,
+      "groups": [
+        "beta-12-promised-favors"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Election is a positively presented favor."
+    },
+    {
+      "id": "beta-u-12-6-5",
+      "text": "يُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ",
+      "logicalText": "يعلمك من تأويل الأحاديث",
+      "textHash": "0425fef7ccf65dc47266ea0d0c09fce007ce239874374071c712c19f4a4d6ae8",
+      "selector": "[data-underline-id=\"beta-u-12-6-5\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-6",
+      "verse": 6,
+      "groups": [
+        "beta-12-promised-favors"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Teaching is a positively presented favor, separate from its neutral object."
+    },
+    {
+      "id": "beta-u-12-6-6",
+      "text": "يُتِمُّ نِعْمَتَهُ عَلَيْكَ",
+      "logicalText": "يتم نعمته عليك",
+      "textHash": "43901ae1ded7c76a1b68bceacc16af820e6741beb454a1ca963de295d26490bb",
+      "selector": "[data-underline-id=\"beta-u-12-6-6\"]",
+      "parentId": null,
+      "sectionId": "p012-s0002",
+      "contextId": "beta-12-6",
+      "verse": 6,
+      "groups": [
+        "beta-12-promised-favors"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Completion of favor is coordinated with the other promised favors."
+    },
+    {
+      "id": "beta-u-12-23-7",
+      "text": "مَعَاذَ اللَّهِ",
+      "logicalText": "معاذ الله",
+      "textHash": "4e0a43e7e34082735c27c034555a479966df0503088a7e168e1c7710c7b05bd4",
+      "selector": "[data-underline-id=\"beta-u-12-23-7\"]",
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "beta-12-23",
+      "verse": 23,
+      "groups": [
+        "beta-12-seeking-protection"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Approved appeal for divine protection, not an endorsement of the surrounding temptation."
+    },
+    {
+      "id": "beta-u-12-33-8",
+      "text": "أَصْبُ إِلَيْهِنَّ",
+      "logicalText": "أصب إليهن",
+      "textHash": "f8341968d0cbe9f17e2042823e7e40478dc170aa7fe937e3ec92056099073bb6",
+      "selector": "[data-underline-id=\"beta-u-12-33-8\"]",
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "beta-12-33",
+      "verse": 33,
+      "groups": [
+        "beta-12-feared-wrongdoing"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The feared inclination is rejected conduct inside a prayer."
+    },
+    {
+      "id": "beta-u-12-33-9",
+      "text": "أَكُن مِّنَ الْجَاهِلِينَ",
+      "logicalText": "أكن من الجاهلين",
+      "textHash": "a866997a4b1e10246bb95a174337f840d9c879e57cca04ee16837da5e4459eb0",
+      "selector": "[data-underline-id=\"beta-u-12-33-9\"]",
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "beta-12-33",
+      "verse": 33,
+      "groups": [
+        "beta-12-feared-wrongdoing"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The second feared negative outcome shares the first outcome's local relationship."
+    },
+    {
+      "id": "beta-u-12-64-10",
+      "text": "اللَّهُ خَيْرٌ حَافِظًا",
+      "logicalText": "الله خير حافظا",
+      "textHash": "5df43b3ca0a2f6ba115e81b19a843232a9bca5f875d2bcb840eadc58fa311f1a",
+      "selector": "[data-underline-id=\"beta-u-12-64-10\"]",
+      "parentId": null,
+      "sectionId": "p012-s0012",
+      "contextId": "beta-12-64",
+      "verse": 64,
+      "groups": [
+        "beta-12-protective-attributes"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Positive attributes in the same assurance."
+    },
+    {
+      "id": "beta-u-12-64-11",
+      "text": "هُوَ أَرْحَمُ الرَّاحِمِينَ",
+      "logicalText": "هو أرحم الراحمين",
+      "textHash": "5cf49e95b3b9b522555e2955d362fd10806312458b294132320df202fa1d920c",
+      "selector": "[data-underline-id=\"beta-u-12-64-11\"]",
+      "parentId": null,
+      "sectionId": "p012-s0012",
+      "contextId": "beta-12-64",
+      "verse": 64,
+      "groups": [
+        "beta-12-protective-attributes"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Positive mercy attribute paired with protection."
+    },
+    {
+      "id": "beta-u-12-90-12",
+      "text": "مَن يَتَّقِ وَيَصْبِرْ",
+      "logicalText": "من يتق ويصبر",
+      "textHash": "046f0ffc35675d4cbfedfe49925e7fb0a9fedfe6143aabec022948749d57e860",
+      "selector": "[data-underline-id=\"beta-u-12-90-12\"]",
+      "parentId": null,
+      "sectionId": "p012-s0015",
+      "contextId": "beta-12-90",
+      "verse": 90,
+      "groups": [
+        "beta-12-approved-perseverance"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The explicitly commended combination of piety and patience."
+    },
+    {
+      "id": "beta-u-12-18-13",
+      "text": "جَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ",
+      "logicalText": "جاءوا على قميصه بدم كذب",
+      "textHash": "4821db992a1c740230048393cbad3068763d5ea348524479087c4dfaa4df9f6e",
+      "selector": "[data-underline-id=\"beta-u-12-18-13\"]",
+      "parentId": null,
+      "sectionId": "p012-s0005",
+      "contextId": "beta-12-18",
+      "verse": 18,
+      "groups": [
+        "beta-12-fabricated-evidence"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The phrase names the fabricated evidence, not merely a neutral shirt or blood object."
+    },
+    {
+      "id": "beta-u-12-18-14",
+      "text": "صَبْرٌ جَمِيلٌ",
+      "logicalText": "صبر جميل",
+      "textHash": "63d944a0707d20debb8a7ec0de8d02d26b86b8ecb4050ab1b6cf0c3e87bd997c",
+      "selector": "[data-underline-id=\"beta-u-12-18-14\"]",
+      "parentId": null,
+      "sectionId": "p012-s0005",
+      "contextId": "beta-12-18",
+      "verse": 18,
+      "groups": [
+        "beta-12-patient-response"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Patient reliance is the approved response to the deceit."
+    },
+    {
+      "id": "beta-u-12-18-15",
+      "text": "اللَّهُ الْمُسْتَعَانُ",
+      "logicalText": "الله المستعان",
+      "textHash": "85a4ebf21ca45f7e61b347af6b016d947af293c1f9438be8eb20755aebfceb06",
+      "selector": "[data-underline-id=\"beta-u-12-18-15\"]",
+      "parentId": null,
+      "sectionId": "p012-s0005",
+      "contextId": "beta-12-18",
+      "verse": 18,
+      "groups": [
+        "beta-12-patient-response"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Patient reliance is the approved response to the deceit."
+    },
+    {
+      "id": "beta-u-12-90-16",
+      "text": "يَتَّقِ",
+      "logicalText": "يتق",
+      "textHash": "855026c75d363902c2007ffbcfb78361c37576c44bcca8b97000fd8e88dc6942",
+      "selector": "[data-underline-id=\"beta-u-12-90-16\"]",
+      "parentId": "beta-u-12-90-12",
+      "sectionId": "p012-s0015",
+      "contextId": "beta-12-90",
+      "verse": 90,
+      "groups": [
+        "beta-12-perseverance-pair"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The inner coordinated acts are explicitly commended, even within an existing larger underline."
+    },
+    {
+      "id": "beta-u-12-90-17",
+      "text": "يَصْبِرْ",
+      "logicalText": "يصبر",
+      "textHash": "b4f2043a7a65b9f868541aa0ebc20245bf2139b81b7aa43f74f22181de87d8e1",
+      "selector": "[data-underline-id=\"beta-u-12-90-17\"]",
+      "parentId": "beta-u-12-90-12",
+      "sectionId": "p012-s0015",
+      "contextId": "beta-12-90",
+      "verse": 90,
+      "groups": [
+        "beta-12-perseverance-pair"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The inner coordinated acts are explicitly commended, even within an existing larger underline."
+    },
+    {
+      "id": "beta-u-12-22-18",
+      "text": "حُكْمًا",
+      "logicalText": "حكما",
+      "textHash": "a4747f049d1388bf06e50649246ba438acdf069a92d9c074640d18573dd6ed02",
+      "selector": "[data-underline-id=\"beta-u-12-22-18\"]",
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "beta-12-22",
+      "verse": 22,
+      "groups": [
+        "beta-12-granted-capacities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are explicitly granted favorable capacities in this context, not a global rule for all knowledge nouns."
+    },
+    {
+      "id": "beta-u-12-22-19",
+      "text": "عِلْمًا",
+      "logicalText": "علما",
+      "textHash": "e894a97d9994451f114015b8c33e76b91ee5aee5dcff3ad8d638a12b7e887bd3",
+      "selector": "[data-underline-id=\"beta-u-12-22-19\"]",
+      "parentId": null,
+      "sectionId": "p012-s0007",
+      "contextId": "beta-12-22",
+      "verse": 22,
+      "groups": [
+        "beta-12-granted-capacities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are explicitly granted favorable capacities in this context, not a global rule for all knowledge nouns."
+    },
+    {
+      "id": "beta-u-12-53-20",
+      "text": "النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ",
+      "logicalText": "النفس لأمارة بالسوء",
+      "textHash": "b53a13484d73e434682b57ac6c38ed9bd5291b889bc406473421048f61606191",
+      "selector": "[data-underline-id=\"beta-u-12-53-20\"]",
+      "parentId": null,
+      "sectionId": "p012-s0009",
+      "contextId": "beta-12-53",
+      "verse": 53,
+      "groups": [
+        "beta-12-acknowledged-inclination"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The negatively qualified inclination is explicit even though the identity of this passage's speaker remains unresolved."
+    },
+    {
+      "id": "beta-u-12-38-21",
+      "text": "إِبْرَاهِيمَ",
+      "logicalText": "إبراهيم",
+      "textHash": "5607b746e17b6775fa17fcf9f199ed30fccaec9cf1d88480986e09da3ade8b78",
+      "selector": "[data-underline-id=\"beta-u-12-38-21\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-38",
+      "verse": 38,
+      "groups": [
+        "beta-12-ancestral-referents"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The names are coordinated referents within the statement of affiliation; the affirmation itself is a separate layer."
+    },
+    {
+      "id": "beta-u-12-38-22",
+      "text": "إِسْحَاقَ",
+      "logicalText": "إسحاق",
+      "textHash": "52975f99d3af18956cbafe28b02166de463ea1121cf0e8cc8d1c94a41ef6a7e6",
+      "selector": "[data-underline-id=\"beta-u-12-38-22\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-38",
+      "verse": 38,
+      "groups": [
+        "beta-12-ancestral-referents"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The names are coordinated referents within the statement of affiliation; the affirmation itself is a separate layer."
+    },
+    {
+      "id": "beta-u-12-38-23",
+      "text": "يَعْقُوبَ",
+      "logicalText": "يعقوب",
+      "textHash": "e6b75fd78a49233757fb93b2772965963a5320be92dda5bd6fae2743c5b24d25",
+      "selector": "[data-underline-id=\"beta-u-12-38-23\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-38",
+      "verse": 38,
+      "groups": [
+        "beta-12-ancestral-referents"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The names are coordinated referents within the statement of affiliation; the affirmation itself is a separate layer."
+    },
+    {
+      "id": "beta-u-12-38-24",
+      "text": "مَا كَانَ لَنَا أَن نُّشْرِكَ بِاللَّهِ مِن شَيْءٍ",
+      "logicalText": "ما كان لنا أن نشرك بالله من شيء",
+      "textHash": "a93a72fae1ff738fbf121eabd12d20cd13318602b8ab743ffd9aa37b36e65930",
+      "selector": "[data-underline-id=\"beta-u-12-38-24\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-38",
+      "verse": 38,
+      "groups": [
+        "beta-12-refusal-of-association"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The complete denial of association is good, not dotted merely because the verb of association appears."
+    },
+    {
+      "id": "beta-u-12-40-25",
+      "text": "أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ",
+      "logicalText": "ألا تعبدوا إلا إياه",
+      "textHash": "cd6b70fb3f0e5925a06576e2f59eb755daf733420121c37d6a753775a2317d70",
+      "selector": "[data-underline-id=\"beta-u-12-40-25\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-40",
+      "verse": 40,
+      "groups": [
+        "beta-12-exclusive-worship"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The complete instruction and positively qualified way are approved in this argument."
+    },
+    {
+      "id": "beta-u-12-40-26",
+      "text": "الدِّينُ الْقَيِّمُ",
+      "logicalText": "الدين القيم",
+      "textHash": "9464a1260880659b1c139a8192f3e2f047c7e7ad0f7069c71632ce04402eb1db",
+      "selector": "[data-underline-id=\"beta-u-12-40-26\"]",
+      "parentId": null,
+      "sectionId": "p012-s0008",
+      "contextId": "beta-12-40",
+      "verse": 40,
+      "groups": [
+        "beta-12-exclusive-worship"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The complete instruction and positively qualified way are approved in this argument."
+    },
+    {
+      "id": "beta-u-12-100-27",
+      "text": "أَخْرَجَنِي مِنَ السِّجْنِ",
+      "logicalText": "أخرجني من السجن",
+      "textHash": "3327a04c305ebb9b59643654d235f2bb37bbb1c09aa8d1154df10d8c8853bd24",
+      "selector": "[data-underline-id=\"beta-u-12-100-27\"]",
+      "parentId": null,
+      "sectionId": "p012-s0017",
+      "contextId": "beta-12-100",
+      "verse": 100,
+      "groups": [
+        "beta-12-remembered-favors"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the favorable events Joseph explicitly presents as kindness, distinct from neutral place names."
+    },
+    {
+      "id": "beta-u-12-100-28",
+      "text": "جَاءَ بِكُم مِّنَ الْبَدْوِ",
+      "logicalText": "جاء بكم من البدو",
+      "textHash": "f4502dd3f387f3642e90c3a9a74f67d4c38741f7e80c2a04e0244ee404bf9cad",
+      "selector": "[data-underline-id=\"beta-u-12-100-28\"]",
+      "parentId": null,
+      "sectionId": "p012-s0017",
+      "contextId": "beta-12-100",
+      "verse": 100,
+      "groups": [
+        "beta-12-remembered-favors"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the favorable events Joseph explicitly presents as kindness, distinct from neutral place names."
+    }
+  ],
+  "groups": [
+    {
+      "id": "p012-exact-normalized-text-0f274323da",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p012-u0002",
+        "p012-u0006"
+      ]
+    },
+    {
+      "id": "p012-exact-normalized-text-54e4bcdf30",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p012-u0003",
+        "p012-u0004"
+      ]
+    },
+    {
+      "id": "p012-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p012-u0001"
+      ]
+    },
+    {
+      "id": "p012-u0005-individual",
+      "label": "Symbol marker; not a textual relationship",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p012-u0005"
+      ]
+    },
+    {
+      "id": "p012-u0007-individual",
+      "label": "Symbol marker; not a textual relationship",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p012-u0007"
+      ]
+    },
+    {
+      "id": "beta-12-dream-objects",
+      "label": "dream objects",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-4-1",
+        "beta-u-12-4-2",
+        "beta-u-12-4-3"
+      ]
+    },
+    {
+      "id": "beta-12-promised-favors",
+      "label": "promised favors",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-6-4",
+        "beta-u-12-6-5",
+        "beta-u-12-6-6"
+      ]
+    },
+    {
+      "id": "beta-12-seeking-protection",
+      "label": "seeking protection",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-23-7"
+      ]
+    },
+    {
+      "id": "beta-12-feared-wrongdoing",
+      "label": "feared wrongdoing",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-33-8",
+        "beta-u-12-33-9"
+      ]
+    },
+    {
+      "id": "beta-12-protective-attributes",
+      "label": "protective attributes",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-64-10",
+        "beta-u-12-64-11"
+      ]
+    },
+    {
+      "id": "beta-12-approved-perseverance",
+      "label": "approved perseverance",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-90-12"
+      ]
+    },
+    {
+      "id": "beta-12-fabricated-evidence",
+      "label": "fabricated evidence",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-18-13"
+      ]
+    },
+    {
+      "id": "beta-12-patient-response",
+      "label": "patient response",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-18-14",
+        "beta-u-12-18-15"
+      ]
+    },
+    {
+      "id": "beta-12-perseverance-pair",
+      "label": "perseverance pair",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-90-16",
+        "beta-u-12-90-17"
+      ]
+    },
+    {
+      "id": "beta-12-granted-capacities",
+      "label": "granted capacities",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-22-18",
+        "beta-u-12-22-19"
+      ]
+    },
+    {
+      "id": "beta-12-acknowledged-inclination",
+      "label": "acknowledged inclination",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-53-20"
+      ]
+    },
+    {
+      "id": "beta-12-ancestral-referents",
+      "label": "ancestral referents",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-38-21",
+        "beta-u-12-38-22",
+        "beta-u-12-38-23"
+      ]
+    },
+    {
+      "id": "beta-12-refusal-of-association",
+      "label": "refusal of association",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-38-24"
+      ]
+    },
+    {
+      "id": "beta-12-exclusive-worship",
+      "label": "exclusive worship",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-40-25",
+        "beta-u-12-40-26"
+      ]
+    },
+    {
+      "id": "beta-12-remembered-favors",
+      "label": "remembered favors",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-12-100-27",
+        "beta-u-12-100-28"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p012-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "n إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي",
+        "last": "فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ۱۸"
+      },
+      "lines": [
+        "p012-l0001"
+      ]
+    },
+    {
+      "id": "p012-s0002",
+      "parentId": "p012-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "n إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي",
+        "last": "قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ۶"
+      },
+      "lines": [
+        "p012-l0002"
+      ]
+    },
+    {
+      "id": "p012-s0003",
+      "parentId": "p012-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "v إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا",
+        "last": "غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِن كُنتُمْ فَاعِلِينَ۱۰"
+      },
+      "lines": [
+        "p012-l0003"
+      ]
+    },
+    {
+      "id": "p012-s0004",
+      "parentId": "p012-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "v قَالُوا يَا أَبَانَا مَا لَكَ لَا تَأْمَنَّا",
+        "last": "لَئِنْ أَكَلَهُ الذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّا إِذًا لَّخَاسِرُونَ۱۴"
+      },
+      "lines": [
+        "p012-l0004"
+      ]
+    },
+    {
+      "id": "p012-s0005",
+      "parentId": "p012-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6)",
+      "excerpt": {
+        "first": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ۱۶ v قَالُوا يَا أَبَانَا",
+        "last": "فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ۱۸"
+      },
+      "lines": [
+        "p012-l0005"
+      ]
+    },
+    {
+      "id": "p012-s0006",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": ". وَقَالَ الَّذِي اشْتَرَاهُ مِن مِّصْرَ لِامْرَأَتِهِ أَكْرِمِي",
+        "last": "الْمُحْسِنِينَ۵۶ وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِّلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ۵۷"
+      },
+      "lines": [
+        "p012-l0006"
+      ]
+    },
+    {
+      "id": "p012-s0007",
+      "parentId": "p012-s0006",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": ". وَقَالَ الَّذِي اشْتَرَاهُ مِن مِّصْرَ لِامْرَأَتِهِ أَكْرِمِي",
+        "last": "مِّن بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ۳۵"
+      },
+      "lines": [
+        "p012-l0007"
+      ]
+    },
+    {
+      "id": "p012-s0008",
+      "parentId": "p012-s0006",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ / قَالَ أَحَدُهُمَا",
+        "last": "الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ۴۲"
+      },
+      "lines": [
+        "p012-l0008"
+      ]
+    },
+    {
+      "id": "p012-s0009",
+      "parentId": "p012-s0006",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "q وَقَالَ الْمَلِكُ إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ",
+        "last": "الْمُحْسِنِينَ۵۶ وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِّلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ۵۷"
+      },
+      "lines": [
+        "p012-l0009"
+      ]
+    },
+    {
+      "id": "p012-s0010",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ",
+        "last": "فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ۱۰۱"
+      },
+      "lines": [
+        "p012-l0010"
+      ]
+    },
+    {
+      "id": "p012-s0011",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ",
+        "last": "لَعَلَّهُمْ يَعْرِفُونَهَا إِذَا انقَلَبُوا إِلَىٰ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ۶۲"
+      },
+      "lines": [
+        "p012-l0011"
+      ]
+    },
+    {
+      "id": "p012-s0012",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "فَلَمَّا رَجَعُوا إِلَىٰ أَبِيهِمْ v قَالُوا يَا أَبَانَا",
+        "last": "لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ الْمُتَوَكِّلُونَ۶۷"
+      },
+      "lines": [
+        "p012-l0012"
+      ]
+    },
+    {
+      "id": "p012-s0013",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "وَلَمَّا دَخَلُوا مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ",
+        "last": "فِيهَا وَالْعِيرَ الَّتِي أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَادِقُونَ۸۲"
+      },
+      "lines": [
+        "p012-l0013"
+      ]
+    },
+    {
+      "id": "p012-s0014",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(6)",
+      "excerpt": {
+        "first": "u قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ",
+        "last": "لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ۸۷"
+      },
+      "lines": [
+        "p012-l0014"
+      ]
+    },
+    {
+      "id": "p012-s0015",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(7)",
+      "excerpt": {
+        "first": "فَلَمَّا دَخَلُوا عَلَيْهِ v قَالُوا يَا أَيُّهَا الْعَزِيزُ",
+        "last": "عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ۹۳"
+      },
+      "lines": [
+        "p012-l0015"
+      ]
+    },
+    {
+      "id": "p012-s0016",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(8)",
+      "excerpt": {
+        "first": "وَلَمَّا فَصَلَتِ الْعِيرُ u قَالَ أَبُوهُمْ إِنِّي لَأَجِدُ",
+        "last": "أَسْتَغْفِرُ لَكُمْ رَبِّي ۖ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ۹۸"
+      },
+      "lines": [
+        "p012-l0016"
+      ]
+    },
+    {
+      "id": "p012-s0017",
+      "parentId": "p012-s0010",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(9)",
+      "excerpt": {
+        "first": "فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَبَوَيْهِ n",
+        "last": "فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ۱۰۱"
+      },
+      "lines": [
+        "p012-l0017"
+      ]
+    }
+  ],
+  "betaQuotations": [
+    {
+      "id": "beta-q-012-001",
+      "surah": 12,
+      "firstVerse": 4,
+      "lastVerse": 4,
+      "requestedLastVerse": 4,
+      "first": "يا أبت إني رأيت",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 2330,
+      "end": 2432
+    },
+    {
+      "id": "beta-q-012-002",
+      "surah": 12,
+      "firstVerse": 5,
+      "lastVerse": 6,
+      "requestedLastVerse": 6,
+      "first": "يا بني لا تقصص رؤياك",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 2607,
+      "end": 2987
+    },
+    {
+      "id": "beta-q-012-003",
+      "surah": 12,
+      "firstVerse": 11,
+      "lastVerse": 12,
+      "requestedLastVerse": 12,
+      "first": "يا أبانا ما لك لا تأمنا",
+      "color": "mixed",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 5178,
+      "end": 5351
+    },
+    {
+      "id": "beta-q-012-004",
+      "surah": 12,
+      "firstVerse": 13,
+      "lastVerse": 13,
+      "requestedLastVerse": 13,
+      "first": "إني ليحزنني أن تذهبوا به",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 5529,
+      "end": 5632
+    },
+    {
+      "id": "beta-q-012-005",
+      "surah": 12,
+      "firstVerse": 14,
+      "lastVerse": 14,
+      "requestedLastVerse": 14,
+      "first": "لئن أكله الذئب",
+      "color": "mixed",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 5811,
+      "end": 5881
+    },
+    {
+      "id": "beta-q-012-006",
+      "surah": 12,
+      "firstVerse": 23,
+      "lastVerse": 23,
+      "requestedLastVerse": 23,
+      "first": "معاذ الله",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 10287,
+      "end": 10375
+    },
+    {
+      "id": "beta-q-012-007",
+      "surah": 12,
+      "firstVerse": 33,
+      "lastVerse": 33,
+      "requestedLastVerse": 33,
+      "first": "رب السجن أحب إلي",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 14051,
+      "end": 14197
+    },
+    {
+      "id": "beta-q-012-008",
+      "surah": 12,
+      "firstVerse": 37,
+      "lastVerse": 41,
+      "requestedLastVerse": 41,
+      "first": "لا يأتيكما طعام",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 16063,
+      "end": 18025
+    },
+    {
+      "id": "beta-q-012-009",
+      "surah": 12,
+      "firstVerse": 54,
+      "lastVerse": 54,
+      "requestedLastVerse": 54,
+      "first": "ائتوني به أستخلصه لنفسي",
+      "color": "gray",
+      "until": "فلما كلمه",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 23900,
+      "end": 23939
+    },
+    {
+      "id": "beta-q-012-010",
+      "surah": 12,
+      "firstVerse": 55,
+      "lastVerse": 55,
+      "requestedLastVerse": 55,
+      "first": "اجعلني على خزائن الأرض",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 24466,
+      "end": 24528
+    },
+    {
+      "id": "beta-q-012-011",
+      "surah": 12,
+      "firstVerse": 67,
+      "lastVerse": 67,
+      "requestedLastVerse": 67,
+      "first": "يا بني لا تدخلوا",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 29739,
+      "end": 29975
+    },
+    {
+      "id": "beta-q-012-012",
+      "surah": 12,
+      "firstVerse": 86,
+      "lastVerse": 87,
+      "requestedLastVerse": 87,
+      "first": "إنما أشكو بثي وحزني",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 37385,
+      "end": 37674
+    },
+    {
+      "id": "beta-q-012-013",
+      "surah": 12,
+      "firstVerse": 90,
+      "lastVerse": 90,
+      "requestedLastVerse": 90,
+      "first": "أنا يوسف وهذا أخي",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 39299,
+      "end": 39442
+    },
+    {
+      "id": "beta-q-012-014",
+      "surah": 12,
+      "firstVerse": 92,
+      "lastVerse": 92,
+      "requestedLastVerse": 92,
+      "first": "لا تثريب عليكم اليوم",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 39927,
+      "end": 40019
+    },
+    {
+      "id": "beta-q-012-015",
+      "surah": 12,
+      "firstVerse": 98,
+      "lastVerse": 98,
+      "requestedLastVerse": 98,
+      "first": "سوف أستغفر لكم ربي",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 42225,
+      "end": 42295
+    },
+    {
+      "id": "beta-q-012-016",
+      "surah": 12,
+      "firstVerse": 101,
+      "lastVerse": 101,
+      "requestedLastVerse": 101,
+      "first": "رب قد آتيتني من الملك",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 44211,
+      "end": 44422
+    },
+    {
+      "id": "beta-q-012-017",
+      "surah": 12,
+      "firstVerse": 42,
+      "lastVerse": 42,
+      "requestedLastVerse": 42,
+      "first": "اذكرني عند ربك",
+      "color": "green",
+      "until": "فأنساه الشيطان",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 18333,
+      "end": 18357
+    },
+    {
+      "id": "beta-q-012-018",
+      "surah": 12,
+      "firstVerse": 54,
+      "lastVerse": 54,
+      "requestedLastVerse": 54,
+      "first": "إنك اليوم لدينا مكين أمين",
+      "color": "gray",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 24226,
+      "end": 24269
+    },
+    {
+      "id": "beta-q-012-019",
+      "surah": 12,
+      "firstVerse": 8,
+      "lastVerse": 9,
+      "requestedLastVerse": 9,
+      "first": "ليوسف وأخوه أحب",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers' continuous deliberation",
+      "anchorOptions": {},
+      "start": 3740,
+      "end": 4270
+    },
+    {
+      "id": "beta-q-012-020",
+      "surah": 12,
+      "firstVerse": 10,
+      "lastVerse": 10,
+      "requestedLastVerse": 10,
+      "first": "لا تقتلوا يوسف",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "A distinct brother proposes an alternative",
+      "anchorOptions": {},
+      "start": 4471,
+      "end": 4585
+    },
+    {
+      "id": "beta-q-012-021",
+      "surah": 12,
+      "firstVerse": 15,
+      "lastVerse": 15,
+      "requestedLastVerse": 15,
+      "first": "لتنبئنهم بأمرهم هذا",
+      "color": "blue",
+      "until": null,
+      "implicit": true,
+      "speaker": "Reported revelation to Joseph, not the surrounding narration",
+      "anchorOptions": {},
+      "start": 6163,
+      "end": 6224
+    },
+    {
+      "id": "beta-q-012-022",
+      "surah": 12,
+      "firstVerse": 17,
+      "lastVerse": 17,
+      "requestedLastVerse": 17,
+      "first": "يا أبانا إنا ذهبنا نستبق",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers' fabricated account",
+      "anchorOptions": {},
+      "start": 6877,
+      "end": 7032
+    },
+    {
+      "id": "beta-q-012-023",
+      "surah": 12,
+      "firstVerse": 18,
+      "lastVerse": 18,
+      "requestedLastVerse": 18,
+      "first": "بل سولت لكم أنفسكم أمرا",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob replies after the narrated shirt evidence",
+      "anchorOptions": {},
+      "start": 7321,
+      "end": 7429
+    },
+    {
+      "id": "beta-q-012-024",
+      "surah": 12,
+      "firstVerse": 19,
+      "lastVerse": 19,
+      "requestedLastVerse": 19,
+      "first": "يا بشرى هذا غلام",
+      "color": "gray",
+      "until": "وأسروه بضاعة",
+      "implicit": false,
+      "speaker": "The water-drawer's exclamation ends before narration",
+      "anchorOptions": {},
+      "start": 7853,
+      "end": 7881
+    },
+    {
+      "id": "beta-q-012-025",
+      "surah": 12,
+      "firstVerse": 21,
+      "lastVerse": 21,
+      "requestedLastVerse": 21,
+      "first": "أكرمي مثواه",
+      "color": "gray",
+      "until": "وكذلك مكنا",
+      "implicit": false,
+      "speaker": "The purchaser addresses his wife; divine narration follows",
+      "anchorOptions": {},
+      "start": 9005,
+      "end": 9071
+    },
+    {
+      "id": "beta-q-012-026",
+      "surah": 12,
+      "firstVerse": 23,
+      "lastVerse": 23,
+      "requestedLastVerse": 23,
+      "first": "هيت لك",
+      "color": "red",
+      "until": "قال معاذ الله",
+      "implicit": false,
+      "speaker": "The invitation is separate from Joseph's existing refusal",
+      "anchorOptions": {},
+      "start": 10099,
+      "end": 10110
+    },
+    {
+      "id": "beta-q-012-027",
+      "surah": 12,
+      "firstVerse": 25,
+      "lastVerse": 25,
+      "requestedLastVerse": 25,
+      "first": "ما جزاء من أراد بأهلك سوءا",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The wife's accusation",
+      "anchorOptions": {},
+      "start": 10955,
+      "end": 11038
+    },
+    {
+      "id": "beta-q-012-028",
+      "surah": 12,
+      "firstVerse": 26,
+      "lastVerse": 26,
+      "requestedLastVerse": 26,
+      "first": "هي راودتني عن نفسي",
+      "color": "green",
+      "until": "وشهد شاهد",
+      "implicit": false,
+      "speaker": "Joseph's response ends before the witness report",
+      "anchorOptions": {},
+      "start": 11200,
+      "end": 11230
+    },
+    {
+      "id": "beta-q-012-029",
+      "surah": 12,
+      "firstVerse": 26,
+      "lastVerse": 27,
+      "requestedLastVerse": 27,
+      "first": "إن كان قميصه قد من قبل",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The witness's two conditional tests form one continuous testimony",
+      "anchorOptions": {},
+      "start": 11434,
+      "end": 11608
+    },
+    {
+      "id": "beta-q-012-030",
+      "surah": 12,
+      "firstVerse": 28,
+      "lastVerse": 29,
+      "requestedLastVerse": 29,
+      "first": "إنه من كيدكن",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The admonishing voice continues through the addresses in verse 29",
+      "anchorOptions": {},
+      "start": 11914,
+      "end": 12379
+    },
+    {
+      "id": "beta-q-012-031",
+      "surah": 12,
+      "firstVerse": 30,
+      "lastVerse": 30,
+      "requestedLastVerse": 30,
+      "first": "امرأت العزيز تراود فتاها",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The women's reported discussion",
+      "anchorOptions": {},
+      "start": 12595,
+      "end": 12713
+    },
+    {
+      "id": "beta-q-012-032",
+      "surah": 12,
+      "firstVerse": 31,
+      "lastVerse": 31,
+      "requestedLastVerse": 31,
+      "first": "اخرج عليهن",
+      "color": "red",
+      "until": "فلما رأينه",
+      "implicit": false,
+      "speaker": "The command ends before the women's narrated reaction",
+      "anchorOptions": {},
+      "start": 13085,
+      "end": 13104
+    },
+    {
+      "id": "beta-q-012-033",
+      "surah": 12,
+      "firstVerse": 31,
+      "lastVerse": 31,
+      "requestedLastVerse": 31,
+      "first": "حاش لله ما هذا بشرا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The women speak after the reaction",
+      "anchorOptions": {},
+      "start": 13411,
+      "end": 13479
+    },
+    {
+      "id": "beta-q-012-034",
+      "surah": 12,
+      "firstVerse": 32,
+      "lastVerse": 32,
+      "requestedLastVerse": 32,
+      "first": "فذلكن الذي لمتنني فيه",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The wife's continuous address and threat",
+      "anchorOptions": {},
+      "start": 13679,
+      "end": 13853
+    },
+    {
+      "id": "beta-q-012-035",
+      "surah": 12,
+      "firstVerse": 36,
+      "lastVerse": 36,
+      "requestedLastVerse": 36,
+      "first": "إني أراني أعصر خمرا",
+      "color": "gray",
+      "until": "وقال الآخر",
+      "implicit": false,
+      "speaker": "The first prisoner's dream",
+      "anchorOptions": {},
+      "start": 15252,
+      "end": 15284
+    },
+    {
+      "id": "beta-q-012-036",
+      "surah": 12,
+      "firstVerse": 36,
+      "lastVerse": 36,
+      "requestedLastVerse": 36,
+      "first": "إني أراني أحمل فوق رأسي خبزا",
+      "color": "gray",
+      "until": "نبئنا بتأويله",
+      "implicit": false,
+      "speaker": "The second prisoner's dream ends before the shared request",
+      "anchorOptions": {},
+      "start": 15454,
+      "end": 15527
+    },
+    {
+      "id": "beta-q-012-037",
+      "surah": 12,
+      "firstVerse": 36,
+      "lastVerse": 36,
+      "requestedLastVerse": 36,
+      "first": "نبئنا بتأويله",
+      "color": "mixed",
+      "until": null,
+      "implicit": true,
+      "speaker": "Joint request distinguished from the two individual descriptions",
+      "anchorOptions": {},
+      "start": 15708,
+      "end": 15769
+    },
+    {
+      "id": "beta-q-012-038",
+      "surah": 12,
+      "firstVerse": 43,
+      "lastVerse": 43,
+      "requestedLastVerse": 43,
+      "first": "إني أرى سبع بقرات سمان",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The king describes the whole dream and asks his assembly",
+      "anchorOptions": {},
+      "start": 19185,
+      "end": 19612
+    },
+    {
+      "id": "beta-q-012-039",
+      "surah": 12,
+      "firstVerse": 44,
+      "lastVerse": 44,
+      "requestedLastVerse": 44,
+      "first": "أضغاث أحلام",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The interpreters' reply",
+      "anchorOptions": {},
+      "start": 19812,
+      "end": 19884
+    },
+    {
+      "id": "beta-q-012-040",
+      "surah": 12,
+      "firstVerse": 45,
+      "lastVerse": 45,
+      "requestedLastVerse": 45,
+      "first": "أنا أنبئكم بتأويله فأرسلون",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The surviving prisoner offers to obtain the interpretation",
+      "anchorOptions": {},
+      "start": 20134,
+      "end": 20180
+    },
+    {
+      "id": "beta-q-012-041",
+      "surah": 12,
+      "firstVerse": 46,
+      "lastVerse": 46,
+      "requestedLastVerse": 46,
+      "first": "يوسف أيها الصديق أفتنا",
+      "color": "gray",
+      "until": null,
+      "implicit": true,
+      "speaker": "The messenger's address is inferred from context, not a narrated event",
+      "anchorOptions": {},
+      "start": 20372,
+      "end": 20800
+    },
+    {
+      "id": "beta-q-012-042",
+      "surah": 12,
+      "firstVerse": 47,
+      "lastVerse": 49,
+      "requestedLastVerse": 49,
+      "first": "تزرعون سبع سنين دأبا",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph's continuous interpretation and advice",
+      "anchorOptions": {},
+      "start": 21108,
+      "end": 21674
+    },
+    {
+      "id": "beta-q-012-043",
+      "surah": 12,
+      "firstVerse": 50,
+      "lastVerse": 50,
+      "requestedLastVerse": 50,
+      "first": "ائتوني به",
+      "color": "gray",
+      "until": "فلما جاءه الرسول",
+      "implicit": false,
+      "speaker": "The king's command ends before the messenger arrives",
+      "anchorOptions": {},
+      "start": 21900,
+      "end": 21914
+    },
+    {
+      "id": "beta-q-012-044",
+      "surah": 12,
+      "firstVerse": 50,
+      "lastVerse": 50,
+      "requestedLastVerse": 50,
+      "first": "ارجع إلى ربك فاسأله",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph replies to the messenger",
+      "anchorOptions": {},
+      "start": 22210,
+      "end": 22337
+    },
+    {
+      "id": "beta-q-012-045",
+      "surah": 12,
+      "firstVerse": 51,
+      "lastVerse": 51,
+      "requestedLastVerse": 51,
+      "first": "ما خطبكن إذ راودتن يوسف",
+      "color": "gray",
+      "until": "قلن حاش لله",
+      "implicit": false,
+      "speaker": "The inquiry put to the women",
+      "anchorOptions": {},
+      "start": 22507,
+      "end": 22562
+    },
+    {
+      "id": "beta-q-012-046",
+      "surah": 12,
+      "firstVerse": 51,
+      "lastVerse": 51,
+      "requestedLastVerse": 51,
+      "first": "حاش لله ما علمنا عليه من سوء",
+      "color": "mixed",
+      "until": "قالت امرأت العزيز",
+      "implicit": false,
+      "speaker": "The women's answer ends before the individual confession",
+      "anchorOptions": {},
+      "start": 22722,
+      "end": 22768
+    },
+    {
+      "id": "beta-q-012-047",
+      "surah": 12,
+      "firstVerse": 51,
+      "lastVerse": 51,
+      "requestedLastVerse": 51,
+      "first": "الآن حصحص الحق",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The wife's confession; the disputed attribution in verses 52-53 remains outside",
+      "anchorOptions": {},
+      "start": 22978,
+      "end": 23065
+    },
+    {
+      "id": "beta-q-012-048",
+      "surah": 12,
+      "firstVerse": 59,
+      "lastVerse": 60,
+      "requestedLastVerse": 60,
+      "first": "ائتوني بأخ لكم من أبيكم",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph's request and condition continue into verse 60",
+      "anchorOptions": {},
+      "start": 26435,
+      "end": 26644
+    },
+    {
+      "id": "beta-q-012-049",
+      "surah": 12,
+      "firstVerse": 61,
+      "lastVerse": 61,
+      "requestedLastVerse": 61,
+      "first": "سنراود عنه أباه",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers' response",
+      "anchorOptions": {},
+      "start": 26844,
+      "end": 26892
+    },
+    {
+      "id": "beta-q-012-050",
+      "surah": 12,
+      "firstVerse": 62,
+      "lastVerse": 62,
+      "requestedLastVerse": 62,
+      "first": "اجعلوا بضاعتهم في رحالهم",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph instructs his attendants",
+      "anchorOptions": {},
+      "start": 27105,
+      "end": 27230
+    },
+    {
+      "id": "beta-q-012-051",
+      "surah": 12,
+      "firstVerse": 63,
+      "lastVerse": 63,
+      "requestedLastVerse": 63,
+      "first": "يا أبانا منع منا الكيل",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers report to their father",
+      "anchorOptions": {},
+      "start": 27979,
+      "end": 28079
+    },
+    {
+      "id": "beta-q-012-052",
+      "surah": 12,
+      "firstVerse": 64,
+      "lastVerse": 64,
+      "requestedLastVerse": 64,
+      "first": "هل آمنكم عليه إلا كما أمنتكم",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob's answer including reliance on God",
+      "anchorOptions": {},
+      "start": 28277,
+      "end": 28411
+    },
+    {
+      "id": "beta-q-012-053",
+      "surah": 12,
+      "firstVerse": 65,
+      "lastVerse": 65,
+      "requestedLastVerse": 65,
+      "first": "يا أبانا ما نبغي",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers continue their request after discovering the returned goods",
+      "anchorOptions": {},
+      "start": 28766,
+      "end": 28926
+    },
+    {
+      "id": "beta-q-012-054",
+      "surah": 12,
+      "firstVerse": 66,
+      "lastVerse": 66,
+      "requestedLastVerse": 66,
+      "first": "لن أرسله معكم",
+      "color": "green",
+      "until": "فلما آتوه موثقهم",
+      "implicit": false,
+      "speaker": "Jacob's condition ends before the narrated pledge",
+      "anchorOptions": {},
+      "start": 29096,
+      "end": 29208
+    },
+    {
+      "id": "beta-q-012-055",
+      "surah": 12,
+      "firstVerse": 66,
+      "lastVerse": 66,
+      "requestedLastVerse": 66,
+      "first": "الله على ما نقول وكيل",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob speaks again after the pledge",
+      "anchorOptions": {},
+      "start": 29506,
+      "end": 29540
+    },
+    {
+      "id": "beta-q-012-056",
+      "surah": 12,
+      "firstVerse": 69,
+      "lastVerse": 69,
+      "requestedLastVerse": 69,
+      "first": "إني أنا أخوك",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph's private assurance to his brother",
+      "anchorOptions": {},
+      "start": 31104,
+      "end": 31167
+    },
+    {
+      "id": "beta-q-012-057",
+      "surah": 12,
+      "firstVerse": 70,
+      "lastVerse": 70,
+      "requestedLastVerse": 70,
+      "first": "أيتها العير إنكم لسارقون",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The caller's accusation is reported, not certified as factual",
+      "anchorOptions": {},
+      "start": 31537,
+      "end": 31579
+    },
+    {
+      "id": "beta-q-012-058",
+      "surah": 12,
+      "firstVerse": 71,
+      "lastVerse": 71,
+      "requestedLastVerse": 71,
+      "first": "ماذا تفقدون",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers ask what is missing",
+      "anchorOptions": {},
+      "start": 31802,
+      "end": 31821
+    },
+    {
+      "id": "beta-q-012-059",
+      "surah": 12,
+      "firstVerse": 72,
+      "lastVerse": 72,
+      "requestedLastVerse": 72,
+      "first": "نفقد صواع الملك",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The attendants reply",
+      "anchorOptions": {},
+      "start": 32021,
+      "end": 32102
+    },
+    {
+      "id": "beta-q-012-060",
+      "surah": 12,
+      "firstVerse": 73,
+      "lastVerse": 73,
+      "requestedLastVerse": 73,
+      "first": "تالله لقد علمتم ما جئنا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers deny wrongdoing",
+      "anchorOptions": {},
+      "start": 32302,
+      "end": 32390
+    },
+    {
+      "id": "beta-q-012-061",
+      "surah": 12,
+      "firstVerse": 74,
+      "lastVerse": 74,
+      "requestedLastVerse": 74,
+      "first": "فما جزاؤه",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The question about the penalty",
+      "anchorOptions": {},
+      "start": 32590,
+      "end": 32628
+    },
+    {
+      "id": "beta-q-012-062",
+      "surah": 12,
+      "firstVerse": 75,
+      "lastVerse": 75,
+      "requestedLastVerse": 75,
+      "first": "جزاؤه من وجد في رحله",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers state their rule for the penalty",
+      "anchorOptions": {},
+      "start": 32828,
+      "end": 32912
+    },
+    {
+      "id": "beta-q-012-063",
+      "surah": 12,
+      "firstVerse": 77,
+      "lastVerse": 77,
+      "requestedLastVerse": 77,
+      "first": "إن يسرق فقد سرق أخ له",
+      "color": "red",
+      "until": "فأسرها يوسف",
+      "implicit": false,
+      "speaker": "The brothers' allegation ends before Joseph's unspoken reaction",
+      "anchorOptions": {},
+      "start": 33475,
+      "end": 33523
+    },
+    {
+      "id": "beta-q-012-064",
+      "surah": 12,
+      "firstVerse": 77,
+      "lastVerse": 77,
+      "requestedLastVerse": 77,
+      "first": "أنتم شر مكانا",
+      "color": "green",
+      "until": null,
+      "implicit": true,
+      "speaker": "Joseph's concealed response, not an audible reply to the brothers",
+      "anchorOptions": {},
+      "start": 33851,
+      "end": 33911
+    },
+    {
+      "id": "beta-q-012-065",
+      "surah": 12,
+      "firstVerse": 78,
+      "lastVerse": 78,
+      "requestedLastVerse": 78,
+      "first": "يا أيها العزيز إن له أبا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers request a substitute",
+      "anchorOptions": {},
+      "start": 34111,
+      "end": 34232
+    },
+    {
+      "id": "beta-q-012-066",
+      "surah": 12,
+      "firstVerse": 79,
+      "lastVerse": 79,
+      "requestedLastVerse": 79,
+      "first": "معاذ الله أن نأخذ",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph refuses the substitution",
+      "anchorOptions": {},
+      "start": 34429,
+      "end": 34525
+    },
+    {
+      "id": "beta-q-012-067",
+      "surah": 12,
+      "firstVerse": 80,
+      "lastVerse": 82,
+      "requestedLastVerse": 82,
+      "first": "ألم تعلموا أن أباكم",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The elder brother's continuous address and instructions",
+      "anchorOptions": {},
+      "start": 34857,
+      "end": 35596
+    },
+    {
+      "id": "beta-q-012-068",
+      "surah": 12,
+      "firstVerse": 81,
+      "lastVerse": 82,
+      "requestedLastVerse": 82,
+      "first": "أبانا إن ابنك سرق",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The proposed message is nested inside the elder's instructions, not asserted as a separately narrated event",
+      "anchorOptions": {},
+      "start": 35358,
+      "end": 35596
+    },
+    {
+      "id": "beta-q-012-069",
+      "surah": 12,
+      "firstVerse": 83,
+      "lastVerse": 83,
+      "requestedLastVerse": 83,
+      "first": "بل سولت لكم أنفسكم أمرا",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob's response on their return",
+      "anchorOptions": {},
+      "start": 36247,
+      "end": 36392
+    },
+    {
+      "id": "beta-q-012-070",
+      "surah": 12,
+      "firstVerse": 84,
+      "lastVerse": 84,
+      "requestedLastVerse": 84,
+      "first": "يا أسفى على يوسف",
+      "color": "green",
+      "until": "وابيضت عيناه",
+      "implicit": false,
+      "speaker": "The lament ends before the narrated bodily reaction",
+      "anchorOptions": {},
+      "start": 36680,
+      "end": 36707
+    },
+    {
+      "id": "beta-q-012-071",
+      "surah": 12,
+      "firstVerse": 85,
+      "lastVerse": 85,
+      "requestedLastVerse": 85,
+      "first": "تالله تفتأ تذكر يوسف",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The family's reply to Jacob",
+      "anchorOptions": {},
+      "start": 37087,
+      "end": 37178
+    },
+    {
+      "id": "beta-q-012-072",
+      "surah": 12,
+      "firstVerse": 88,
+      "lastVerse": 88,
+      "requestedLastVerse": 88,
+      "first": "يا أيها العزيز مسنا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The renewed request to Joseph",
+      "anchorOptions": {},
+      "start": 38441,
+      "end": 38616
+    },
+    {
+      "id": "beta-q-012-073",
+      "surah": 12,
+      "firstVerse": 89,
+      "lastVerse": 89,
+      "requestedLastVerse": 89,
+      "first": "هل علمتم ما فعلتم بيوسف",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph asks the brothers",
+      "anchorOptions": {},
+      "start": 38824,
+      "end": 38897
+    },
+    {
+      "id": "beta-q-012-074",
+      "surah": 12,
+      "firstVerse": 90,
+      "lastVerse": 90,
+      "requestedLastVerse": 90,
+      "first": "أإنك لأنت يوسف",
+      "color": "mixed",
+      "until": "قال أنا يوسف",
+      "implicit": false,
+      "speaker": "The brothers' question is distinct from Joseph's existing answer",
+      "anchorOptions": {},
+      "start": 39077,
+      "end": 39102
+    },
+    {
+      "id": "beta-q-012-075",
+      "surah": 12,
+      "firstVerse": 91,
+      "lastVerse": 91,
+      "requestedLastVerse": 91,
+      "first": "تالله لقد آثرك الله علينا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers acknowledge their fault",
+      "anchorOptions": {},
+      "start": 39652,
+      "end": 39720
+    },
+    {
+      "id": "beta-q-012-076",
+      "surah": 12,
+      "firstVerse": 93,
+      "lastVerse": 93,
+      "requestedLastVerse": 93,
+      "first": "اذهبوا بقميصي هذا",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph's instruction about the shirt",
+      "anchorOptions": {},
+      "start": 40049,
+      "end": 40161
+    },
+    {
+      "id": "beta-q-012-077",
+      "surah": 12,
+      "firstVerse": 94,
+      "lastVerse": 94,
+      "requestedLastVerse": 94,
+      "first": "إني لأجد ريح يوسف",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob's statement before the caravan arrives",
+      "anchorOptions": {},
+      "start": 40936,
+      "end": 40992
+    },
+    {
+      "id": "beta-q-012-078",
+      "surah": 12,
+      "firstVerse": 95,
+      "lastVerse": 95,
+      "requestedLastVerse": 95,
+      "first": "تالله إنك لفي ضلالك القديم",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The family's response",
+      "anchorOptions": {},
+      "start": 41256,
+      "end": 41300
+    },
+    {
+      "id": "beta-q-012-079",
+      "surah": 12,
+      "firstVerse": 96,
+      "lastVerse": 96,
+      "requestedLastVerse": 96,
+      "first": "ألم أقل لكم إني أعلم",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Jacob speaks after the narrated arrival of good news",
+      "anchorOptions": {},
+      "start": 41673,
+      "end": 41742
+    },
+    {
+      "id": "beta-q-012-080",
+      "surah": 12,
+      "firstVerse": 97,
+      "lastVerse": 97,
+      "requestedLastVerse": 97,
+      "first": "يا أبانا استغفر لنا ذنوبنا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The brothers ask for forgiveness",
+      "anchorOptions": {},
+      "start": 41952,
+      "end": 42018
+    },
+    {
+      "id": "beta-q-012-081",
+      "surah": 12,
+      "firstVerse": 99,
+      "lastVerse": 99,
+      "requestedLastVerse": 99,
+      "first": "ادخلوا مصر إن شاء الله آمنين",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph welcomes his family",
+      "anchorOptions": {},
+      "start": 43094,
+      "end": 43137
+    },
+    {
+      "id": "beta-q-012-082",
+      "surah": 12,
+      "firstVerse": 100,
+      "lastVerse": 100,
+      "requestedLastVerse": 100,
+      "first": "يا أبت هذا تأويل رؤياي",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Joseph addresses his father; the next verse is a separately addressed prayer",
+      "anchorOptions": {},
+      "start": 43497,
+      "end": 43797
+    }
+  ],
+  "betaEditorialStatus": "conservative-transfer-with-review-queue"
+}

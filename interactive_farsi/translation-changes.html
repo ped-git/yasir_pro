@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>گزارش تغییرات نسخه فارسی</title>
+  <style>
+    :root { color-scheme: light; font-family: Tahoma, sans-serif; color: #242824; background: #f5f4ed; }
+    body { max-width: 1100px; margin: 0 auto; padding: 32px 20px; line-height: 1.8; }
+    h1, h2 { color: #174e43; }
+    section { border-top: 1px solid #aeb8ac; padding: 18px 0; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { padding: 6px 9px; border-bottom: 1px solid #d5d8ce; text-align: right; }
+    th { background: #e5e9dd; }
+    code { direction: ltr; unicode-bidi: isolate; }
+    a { color: #185f56; }
+  </style>
+</head>
+<body>
+  <h1>گزارش تغییرات خوانش فارسی قرآن</h1>
+  <section><h2>منبع و دامنه</h2>
+    <p>مترجم: حسین انصاریان. منبع داده: فایل XML «Persian-Hussayn-Ansarian.xml»، بستهٔ AlQuraan در SourceForge (شناسهٔ ترجمهٔ ۷۴). واژه‌های ترجمه حفظ شدند؛ فاصله‌گذاری و نشانه‌گذاری چند آیهٔ بقره برای خوانایی اصلاح شد، بدون تغییر معنای ترجمه.</p>
+    <p><a href="https://sourceforge.net/projects/alquraan/files/Translations_Single_Package/Persian-Hussayn-Ansarian.zip/download">دریافت بستهٔ XML</a> | <a href="https://download.ghbook.ir/downloads.php?id=2654&amp;file=2654-f-13900322-tarjome-qoran-karim-ostad-ansariyan.htm&amp;packagename=ir.ghbook.reader&amp;platform=site">مشخصات کتاب در کتابخانهٔ غدیر</a></p>
+    <p>مشخصات نشر ثبت‌شده: تهران، سازمان دارالقرآن کریم، نشر تلاوت، ۱۳۹۳؛ شابک 978-600-5562-67-5. فایل XML مجوز بازنشر مستقلی اعلام نمی‌کند؛ استفاده از متن برای این پروژه با اجازهٔ اعلام‌شدهٔ کاربر انجام شده است.</p>
+    <p>SHA-256 فایل منبع: <code>367ce9d221f02122cfc47e551cfefa8f4152a3901facb824ccd13e9bd182e751</code></p>
+  </section>
+  <section><h2>تغییرات انجام‌شده</h2>
+    <ol>
+      <li>یک نسخهٔ مستقل از reader بتا در پوشهٔ <code>interactive_farsi</code> ساخته شد؛ پوشه‌های اصلی و نسخه‌های دیگر تغییر نکردند.</li>
+      <li>۱۱۴ سوره و ۶٬۲۳۶ آیه با تطبیق شناسهٔ سوره و شمارهٔ آیه جایگزین شدند؛ هر دو مجموعه شمارش و توالی کامل دارند.</li>
+      <li>زبان سند به فارسی تغییر کرد و جهت راست‌به‌چپ حفظ شد.</li>
+      <li>۱۱۲ بسملهٔ بی‌شمارهٔ آغاز سوره‌ها به ترجمهٔ منبع تبدیل شد؛ آیهٔ ۱ فاتحه به‌عنوان آیهٔ شماره‌دار از XML وارد شد و توبه بسملهٔ آغازین ندارد.</li>
+      <li>کلاس‌های چیدمان پاراگراف، نشانه‌های فهرست، خطوط عمودی و سر/پایان آن‌ها، شناسه‌ها و گروه‌های ذخیره‌شده حفظ شدند.</li>
+      <li>در این نسخه فقط، عرض ثابت ۱۹۰ میلی‌متری و عرض/حاشیهٔ تو‌رفتگی‌ها در صفحه‌نمایش‌های کوچک محدود شد؛ نسخه‌های اصلی دست‌نخورده ماندند.</li>
+      <li>برای حفظ قابلیت‌های بصری annotation، بیشتر مرزهای زیرخط و گفتار از متن عربی به نزدیک‌ترین مرز واژه در متن فارسی نگاشت شدند. این نگاشت هندسی است و بازبینی معناییِ کامل محسوب نمی‌شود؛ مرزهای فهرست‌شده در پایین به‌صورت دستی هم‌تراز شدند.</li>
+      <li>عبارت عربیِ هر زیرخط در کنار متن فارسی و checksum آن در sidecar سوره نگهداری شد؛ جفت بودن نشانه‌های باز و بستهٔ گفتار نیز هنگام واردسازی کنترل شد.</li>
+      <li>۴۰ مرز زیرخط به‌صورت عبارت‌به‌عبارت بازبینی و هم‌تراز شد:
+        <ul><li>سورهٔ ۱، آیهٔ ۲، شناسهٔ <code>p001-u0001</code>: «رَبِّ الْعَالَمِينَ» با «مالک و مربّی جهانیان است.» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۳، شناسهٔ <code>p001-u0002</code>: «الرَّحْمَـٰنِ» با «رحمتش بی اندازه و» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۳، شناسهٔ <code>p001-u0003</code>: «الرَّحِيمِ» با «مهربانی اش همیشگی است.» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۴، شناسهٔ <code>p001-u0004</code>: «مَالِكِ يَوْمِ الدِّينِ» با «مالک و فرمانروای روز پاداش و کیفر است.» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۵، شناسهٔ <code>p001-u0005</code>: «إِيَّاكَ نَعْبُدُ» با «[پروردگارا!] تنها تو را می پرستیم» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۵، شناسهٔ <code>p001-u0006</code>: «إِيَّاكَ نَسْتَعِينُ» با «تنها از تو کمک می خواهیم.» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۷، شناسهٔ <code>p001-u0007</code>: «أَنْعَمْتَ عَلَيْهِمْ» با «نعمتِ [ایمان، عمل شایسته و اخلاق حسنه] عطاکردی» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۷، شناسهٔ <code>p001-u0008</code>: «الْمَغْضُوبِ عَلَيْهِمْ» با «مورد خشم تواند» هم‌تراز شد.</li>
+<li>سورهٔ ۱، آیهٔ ۷، شناسهٔ <code>p001-u0009</code>: «الضَّالِّينَ» با «گمراه اند.» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۳، شناسهٔ <code>p002-u0001</code>: «يُؤْمِنُونَ بِالْغَيْبِ» با «به غیب ایمان دارند» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۳، شناسهٔ <code>p002-u0002</code>: «يُقِيمُونَ الصَّلَاةَ» با «نماز را بر پا می دارند» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۳، شناسهٔ <code>p002-u0003</code>: «مِمَّا رَزَقْنَاهُمْ يُنفِقُونَ» با «از آنچه به آنان روزی داده ایم، انفاق می کنند.» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۴، شناسهٔ <code>p002-u0005</code>: «مَا أُنزِلَ إِلَيْكَ» با «به سوی تو» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۴، شناسهٔ <code>p002-u0006</code>: «مَا أُنزِلَ مِن قَبْلِكَ» با «پیش از تو نازل شده» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۴، شناسهٔ <code>p002-u0007</code>: «بِالْآخِرَةِ هُمْ يُوقِنُونَ» با «و به آخرت یقین دارند.» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۶، شناسهٔ <code>p002-u0008</code>: «أَنذَرْتَهُمْ» با «بیمشان دهی» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۶، شناسهٔ <code>p002-u0009</code>: «لَمْ تُنذِرْهُمْ» با «بیمشان ندهی» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۷، شناسهٔ <code>p002-u0011</code>: «عَلَىٰ قُلُوبِهِمْ» با «بر دل ها» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۷، شناسهٔ <code>p002-u0012</code>: «عَلَىٰ سَمْعِهِمْ» با «و گوش هایشان» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۷، شناسهٔ <code>p002-u0013</code>: «عَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ» با «و بر چشم هایشان پرده ای» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۸، شناسهٔ <code>p002-u0014</code>: «بِاللَّهِ» با «به خدا» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۸، شناسهٔ <code>p002-u0015</code>: «بِالْيَوْمِ الْآخِرِ» با «روز قیامت» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۹، شناسهٔ <code>p002-u0016</code>: «اللَّهَ» با «خدا» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۹، شناسهٔ <code>p002-u0017</code>: «الَّذِينَ آمَنُوا» با «اهل ایمان» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۶، شناسهٔ <code>p002-u0022</code>: «مَا رَبِحَت تِّجَارَتُهُمْ» با «تجارتشان سود نکرد» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۶، شناسهٔ <code>p002-u0023</code>: «مَا كَانُوا مُهْتَدِينَ» با «و از راه یافتگان [به سوی حق] نبودند.» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۸، شناسهٔ <code>p002-u0026</code>: «عُمْيٌ» با «کورند» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۹، شناسهٔ <code>p002-u0027</code>: «ظُلُمَاتٌ» با «تاریکی ها» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۹، شناسهٔ <code>p002-u0028</code>: «رَعْدٌ» با «رعد» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۱۹، شناسهٔ <code>p002-u0029</code>: «بَرْقٌ» با «برق» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۰، شناسهٔ <code>p002-u0030</code>: «كُلَّمَا أَضَاءَ لَهُم مَّشَوْا فِيهِ» با «زمانی که آنان را روشنی دهد، در آن روشنی راه می روند» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۰، شناسهٔ <code>p002-u0031</code>: «إِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا» با «و چون محیط را بر آنان تاریک کند، می ایستند» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۰، شناسهٔ <code>p002-u0032</code>: «سَمْعِهِمْ» با «گوش» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۰، شناسهٔ <code>p002-u0033</code>: «أَبْصَارِهِمْ» با «[بیناییِ] چشم» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۱، شناسهٔ <code>p002-u0034</code>: «كُمْ» با «شما» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۱، شناسهٔ <code>p002-u0035</code>: «الَّذِينَ مِن قَبْلِكُمْ» با «پیشینیان شما» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۲، شناسهٔ <code>p002-u0037</code>: «الْأَرْضَ فِرَاشًا» با «زمین را برای شما بستری گسترده» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۲، شناسهٔ <code>p002-u0038</code>: «السَّمَاءَ بِنَاءً» با «آسمان را سقفی برافراشته» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۲، شناسهٔ <code>p002-u0039</code>: «أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ» با «و از آسمان، آبی [مانند برف و باران] نازل کرد و به وسیله آن از میوه های گوناگون، رزق و روزی برای شما بیرون آورد» هم‌تراز شد.</li>
+<li>سورهٔ ۲، آیهٔ ۲۴، شناسهٔ <code>p002-u0040</code>: «فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَافِرِينَ» با «از آتشی که هیزمش مردم و سنگ هایند، بپرهیزید؛ آتشی که برای کافران آماده شده است.» هم‌تراز شد.</li></ul>
+      </li>
+      <li>۶ مرز گفتار در بقره با عبارت فارسی مربوط هم‌تراز شد؛ دیگر مرزهای گفتار همچنان نگاشت هندسی دارند.</li>
+      <li>۱ شمارهٔ نادرست در نشانگرهای آیه بر اساس ترتیب XML اصلاح شد:
+        <ul><li>سورهٔ ۱۶، آیهٔ ۱۴: برچسب ۱۳ به ۱۴ اصلاح شد تا با ترتیب آیات XML منطبق باشد.</li></ul>
+      </li>
+      <li>اصلاحات متن بقره به فاصله‌گذاری، نشانه‌گذاری و براکت‌های توضیحی محدود است؛ واژه‌های ترجمه و معنای آن تغییر نکرده‌اند.</li>
+    </ol>
+  </section>
+  <section><h2>پوشش سوره‌ها</h2>
+    <table><thead><tr><th>شماره</th><th>نام منبع</th><th>آیه</th><th>مرز زیرخط</th><th>نشانهٔ گفتار</th><th>بخش تودرتو</th><th>فهرست</th><th>اصلاح شماره</th></tr></thead><tbody><tr><td>۱</td><td>الفاتحة</td><td>۷</td><td>۹</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۲</td><td>البقرة</td><td>۲۸۶</td><td>۸۷۹</td><td>۲۷۶</td><td>۳۵</td><td>۱۲۱</td><td>۰</td></tr>
+<tr><td>۳</td><td>آل عمران</td><td>۲۰۰</td><td>۱۹۹</td><td>۹۴</td><td>۱۱</td><td>۶۳</td><td>۰</td></tr>
+<tr><td>۴</td><td>النساء</td><td>۱۷۶</td><td>۱۱۵</td><td>۳۲</td><td>۷</td><td>۳۷</td><td>۰</td></tr>
+<tr><td>۵</td><td>المائدة</td><td>۱۲۰</td><td>۱۴۴</td><td>۵۸</td><td>۲۴</td><td>۵۹</td><td>۰</td></tr>
+<tr><td>۶</td><td>الأنعام</td><td>۱۶۵</td><td>۱۰۵</td><td>۸۴</td><td>۲۷</td><td>۸۷</td><td>۰</td></tr>
+<tr><td>۷</td><td>الأعراف</td><td>۲۰۶</td><td>۴۳۸</td><td>۱۶۸</td><td>۲۳</td><td>۱۱۶</td><td>۰</td></tr>
+<tr><td>۸</td><td>الأنفال</td><td>۷۵</td><td>۲۲۲</td><td>۱۴</td><td>۱</td><td>۲۴</td><td>۰</td></tr>
+<tr><td>۹</td><td>التوبة</td><td>۱۲۹</td><td>۴۱۱</td><td>۶۲</td><td>۱۰</td><td>۳۰</td><td>۰</td></tr>
+<tr><td>۱۰</td><td>یونس</td><td>۱۰۹</td><td>۸۶</td><td>۷۲</td><td>۴</td><td>۵۵</td><td>۰</td></tr>
+<tr><td>۱۱</td><td>هود</td><td>۱۲۳</td><td>۲۱۲</td><td>۱۰۶</td><td>۳۰</td><td>۵۶</td><td>۰</td></tr>
+<tr><td>۱۲</td><td>يوسف</td><td>۱۱۱</td><td>۳۵</td><td>۱۶۴</td><td>۱۷</td><td>۸۳</td><td>۰</td></tr>
+<tr><td>۱۳</td><td>الرعد</td><td>۴۳</td><td>۱۶۰</td><td>۲۴</td><td>۵</td><td>۱۸</td><td>۰</td></tr>
+<tr><td>۱۴</td><td>إبراهيم</td><td>۵۲</td><td>۶۴</td><td>۲۰</td><td>۵</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۱۵</td><td>الحجر</td><td>۹۹</td><td>۴۱</td><td>۳۸</td><td>۱۱</td><td>۳۰</td><td>۰</td></tr>
+<tr><td>۱۶</td><td>النحل</td><td>۱۲۸</td><td>۲۹۴</td><td>۳۰</td><td>۱۰</td><td>۴۰</td><td>۱</td></tr>
+<tr><td>۱۷</td><td>الإسراء</td><td>۱۱۱</td><td>۵۹</td><td>۵۴</td><td>۱۳</td><td>۴۳</td><td>۰</td></tr>
+<tr><td>۱۸</td><td>الكهف</td><td>۱۱۰</td><td>۶۹</td><td>۷۲</td><td>۱۶</td><td>۴۵</td><td>۰</td></tr>
+<tr><td>۱۹</td><td>مريم</td><td>۹۸</td><td>۳۵</td><td>۴۲</td><td>۸</td><td>۱۸</td><td>۰</td></tr>
+<tr><td>۲۰</td><td>طه</td><td>۱۳۵</td><td>۴۳</td><td>۱۰۶</td><td>۵</td><td>۴۵</td><td>۰</td></tr>
+<tr><td>۲۱</td><td>الأنبياء</td><td>۱۱۲</td><td>۴۶</td><td>۴۴</td><td>۲</td><td>۲۶</td><td>۰</td></tr>
+<tr><td>۲۲</td><td>الحج</td><td>۷۸</td><td>۱۹۹</td><td>۶</td><td>۳</td><td>۱۷</td><td>۰</td></tr>
+<tr><td>۲۳</td><td>المؤمنون</td><td>۱۱۸</td><td>۱۵۴</td><td>۴۲</td><td>۷</td><td>۴۰</td><td>۰</td></tr>
+<tr><td>۲۴</td><td>النور</td><td>۶۴</td><td>۶۷</td><td>۱۴</td><td>۱۰</td><td>۱۲</td><td>۰</td></tr>
+<tr><td>۲۵</td><td>الفرقان</td><td>۷۷</td><td>۱۵۵</td><td>۴۶</td><td>۱۵</td><td>۲۵</td><td>۰</td></tr>
+<tr><td>۲۶</td><td>الشعراء</td><td>۲۲۷</td><td>۱۵۳</td><td>۸۶</td><td>۷</td><td>۵۴</td><td>۰</td></tr>
+<tr><td>۲۷</td><td>النمل</td><td>۹۳</td><td>۱۸۹</td><td>۵۶</td><td>۵</td><td>۶۴</td><td>۰</td></tr>
+<tr><td>۲۸</td><td>القصص</td><td>۸۸</td><td>۱۶۵</td><td>۷۰</td><td>۲۲</td><td>۵۲</td><td>۰</td></tr>
+<tr><td>۲۹</td><td>العنكبوت</td><td>۶۹</td><td>۳۷</td><td>۲۶</td><td>۶</td><td>۱۷</td><td>۰</td></tr>
+<tr><td>۳۰</td><td>الروم</td><td>۶۰</td><td>۱۳۰</td><td>۱۲</td><td>۰</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۳۱</td><td>لقمان</td><td>۳۴</td><td>۶۷</td><td>۱۴</td><td>۴</td><td>۱۳</td><td>۰</td></tr>
+<tr><td>۳۲</td><td>السجدة</td><td>۳۰</td><td>۴۱</td><td>۱۶</td><td>۰</td><td>۶</td><td>۰</td></tr>
+<tr><td>۳۳</td><td>الأحزاب</td><td>۷۳</td><td>۱۰۶</td><td>۴۰</td><td>۱</td><td>۱۷</td><td>۰</td></tr>
+<tr><td>۳۴</td><td>سبأ</td><td>۵۴</td><td>۱۲۹</td><td>۷۸</td><td>۶</td><td>۲۸</td><td>۰</td></tr>
+<tr><td>۳۵</td><td>فاطر</td><td>۴۵</td><td>۱۱۳</td><td>۶</td><td>۰</td><td>۴</td><td>۰</td></tr>
+<tr><td>۳۶</td><td>يس</td><td>۸۳</td><td>۳۰</td><td>۲۴</td><td>۵</td><td>۲۲</td><td>۰</td></tr>
+<tr><td>۳۷</td><td>الصافات</td><td>۱۸۲</td><td>۳۵</td><td>۳۲</td><td>۱۰</td><td>۲۳</td><td>۰</td></tr>
+<tr><td>۳۸</td><td>ص</td><td>۸۸</td><td>۶۴</td><td>۵۰</td><td>۱۵</td><td>۲۸</td><td>۰</td></tr>
+<tr><td>۳۹</td><td>الزمر</td><td>۷۵</td><td>۱۴۱</td><td>۷۴</td><td>۴</td><td>۲۲</td><td>۰</td></tr>
+<tr><td>۴۰</td><td>غافر</td><td>۸۵</td><td>۷۸</td><td>۳۲</td><td>۱</td><td>۲۶</td><td>۰</td></tr>
+<tr><td>۴۱</td><td>فصلت</td><td>۵۴</td><td>۱۳۹</td><td>۳۰</td><td>۷</td><td>۲۱</td><td>۰</td></tr>
+<tr><td>۴۲</td><td>الشورى</td><td>۵۳</td><td>۱۴۵</td><td>۸</td><td>۱</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۴۳</td><td>الزخرف</td><td>۸۹</td><td>۳۶</td><td>۳۲</td><td>۷</td><td>۲۹</td><td>۰</td></tr>
+<tr><td>۴۴</td><td>الدخان</td><td>۵۹</td><td>۳۴</td><td>۱۶</td><td>۴</td><td>۵</td><td>۰</td></tr>
+<tr><td>۴۵</td><td>الجاثية</td><td>۳۷</td><td>۹۱</td><td>۱۶</td><td>۱</td><td>۸</td><td>۰</td></tr>
+<tr><td>۴۶</td><td>الأحقاف</td><td>۳۵</td><td>۸۸</td><td>۴۸</td><td>۵</td><td>۲۳</td><td>۰</td></tr>
+<tr><td>۴۷</td><td>محمد</td><td>۳۸</td><td>۸۸</td><td>۶</td><td>۰</td><td>۲</td><td>۰</td></tr>
+<tr><td>۴۸</td><td>الفتح</td><td>۲۹</td><td>۱۱۳</td><td>۱۲</td><td>۱</td><td>۷</td><td>۰</td></tr>
+<tr><td>۴۹</td><td>الحجرات</td><td>۱۸</td><td>۵۴</td><td>۱۰</td><td>۱</td><td>۱۲</td><td>۰</td></tr>
+<tr><td>۵۰</td><td>ق</td><td>۴۵</td><td>۶۷</td><td>۲۰</td><td>۱۶</td><td>۹</td><td>۰</td></tr>
+<tr><td>۵۱</td><td>الذاريات</td><td>۶۰</td><td>۵۳</td><td>۲۶</td><td>۱</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۵۲</td><td>الطور</td><td>۴۹</td><td>۶۱</td><td>۱۴</td><td>۲</td><td>۱۷</td><td>۰</td></tr>
+<tr><td>۵۳</td><td>النجم</td><td>۶۲</td><td>۵۷</td><td>۰</td><td>۶</td><td>۰</td><td>۰</td></tr>
+<tr><td>۵۴</td><td>القمر</td><td>۵۵</td><td>۷۰</td><td>۲۰</td><td>۵</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۵۵</td><td>الرحمن</td><td>۷۸</td><td>۵</td><td>۰</td><td>۵</td><td>۱</td><td>۰</td></tr>
+<tr><td>۵۶</td><td>الواقعة</td><td>۹۶</td><td>۱۵</td><td>۲</td><td>۰</td><td>۹</td><td>۰</td></tr>
+<tr><td>۵۷</td><td>الحديد</td><td>۲۹</td><td>۱۳۹</td><td>۱۰</td><td>۱</td><td>۳</td><td>۰</td></tr>
+<tr><td>۵۸</td><td>المجادلة</td><td>۲۲</td><td>۷۰</td><td>۸</td><td>۲</td><td>۳</td><td>۰</td></tr>
+<tr><td>۵۹</td><td>الحشر</td><td>۲۴</td><td>۸۹</td><td>۸</td><td>۱</td><td>۶</td><td>۰</td></tr>
+<tr><td>۶۰</td><td>الممتحنة</td><td>۱۳</td><td>۵۷</td><td>۶</td><td>۱</td><td>۴</td><td>۰</td></tr>
+<tr><td>۶۱</td><td>الصف</td><td>۱۴</td><td>۲۸</td><td>۱۰</td><td>۱</td><td>۶</td><td>۰</td></tr>
+<tr><td>۶۲</td><td>الجمعة</td><td>۱۱</td><td>۲۲</td><td>۶</td><td>۱</td><td>۴</td><td>۰</td></tr>
+<tr><td>۶۳</td><td>المنافقون</td><td>۱۱</td><td>۱۹</td><td>۱۰</td><td>۰</td><td>۴</td><td>۰</td></tr>
+<tr><td>۶۴</td><td>التغبن</td><td>۱۸</td><td>۵۱</td><td>۴</td><td>۱</td><td>۲</td><td>۰</td></tr>
+<tr><td>۶۵</td><td>الطلاق</td><td>۱۲</td><td>۵۴</td><td>۰</td><td>۰</td><td>۱</td><td>۰</td></tr>
+<tr><td>۶۶</td><td>التحريم</td><td>۱۲</td><td>۵۲</td><td>۱۰</td><td>۰</td><td>۹</td><td>۰</td></tr>
+<tr><td>۶۷</td><td>الملك</td><td>۳۰</td><td>۴۷</td><td>۲۴</td><td>۱</td><td>۱۴</td><td>۰</td></tr>
+<tr><td>۶۸</td><td>القلم</td><td>۵۲</td><td>۱۸</td><td>۱۶</td><td>۱</td><td>۶</td><td>۰</td></tr>
+<tr><td>۶۹</td><td>الحاقة</td><td>۵۲</td><td>۳۸</td><td>۸</td><td>۱</td><td>۱۱</td><td>۰</td></tr>
+<tr><td>۷۰</td><td>المعارج</td><td>۴۴</td><td>۴۱</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۷۱</td><td>نوح</td><td>۲۸</td><td>۵۳</td><td>۱۴</td><td>۰</td><td>۵</td><td>۰</td></tr>
+<tr><td>۷۲</td><td>الجن</td><td>۲۸</td><td>۴۱</td><td>۱۲</td><td>۱</td><td>۵</td><td>۰</td></tr>
+<tr><td>۷۳</td><td>المزمل</td><td>۲۰</td><td>۴۶</td><td>۰</td><td>۴</td><td>۱</td><td>۰</td></tr>
+<tr><td>۷۴</td><td>المدثر</td><td>۵۶</td><td>۴۶</td><td>۱۰</td><td>۲</td><td>۳</td><td>۰</td></tr>
+<tr><td>۷۵</td><td>القيامة</td><td>۴۰</td><td>۲۸</td><td>۶</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۷۶</td><td>الإنسان</td><td>۳۱</td><td>۳۷</td><td>۴</td><td>۲</td><td>۰</td><td>۰</td></tr>
+<tr><td>۷۷</td><td>المرسلات</td><td>۵۰</td><td>۲۱</td><td>۱۰</td><td>۰</td><td>۹</td><td>۰</td></tr>
+<tr><td>۷۸</td><td>النبأ</td><td>۴۰</td><td>۳۲</td><td>۴</td><td>۲</td><td>۰</td><td>۰</td></tr>
+<tr><td>۷۹</td><td>النازعات</td><td>۴۶</td><td>۳۲</td><td>۰</td><td>۱</td><td>۱۴</td><td>۰</td></tr>
+<tr><td>۸۰</td><td>عبس</td><td>۴۲</td><td>۲۰</td><td>۰</td><td>۰</td><td>۴</td><td>۰</td></tr>
+<tr><td>۸۱</td><td>التكوير</td><td>۲۹</td><td>۲۱</td><td>۰</td><td>۰</td><td>۱۵</td><td>۰</td></tr>
+<tr><td>۸۲</td><td>الإنفطار</td><td>۱۹</td><td>۱۷</td><td>۰</td><td>۰</td><td>۷</td><td>۰</td></tr>
+<tr><td>۸۳</td><td>المطففين</td><td>۳۶</td><td>۱۸</td><td>۰</td><td>۷</td><td>۴</td><td>۰</td></tr>
+<tr><td>۸۴</td><td>الانشقاق</td><td>۲۵</td><td>۲۷</td><td>۰</td><td>۰</td><td>۶</td><td>۰</td></tr>
+<tr><td>۸۵</td><td>البروج</td><td>۲۲</td><td>۲۴</td><td>۰</td><td>۰</td><td>۵</td><td>۰</td></tr>
+<tr><td>۸۶</td><td>الطارق</td><td>۱۷</td><td>۱۲</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۸۷</td><td>الأعلى</td><td>۱۹</td><td>۲۰</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۸۸</td><td>الغاشية</td><td>۲۶</td><td>۲۰</td><td>۰</td><td>۰</td><td>۲</td><td>۰</td></tr>
+<tr><td>۸۹</td><td>الفجر</td><td>۳۰</td><td>۲۸</td><td>۸</td><td>۲</td><td>۶</td><td>۰</td></tr>
+<tr><td>۹۰</td><td>البلد</td><td>۲۰</td><td>۲۳</td><td>۰</td><td>۰</td><td>۱</td><td>۰</td></tr>
+<tr><td>۹۱</td><td>الشمس</td><td>۱۵</td><td>۴</td><td>۰</td><td>۰</td><td>۱</td><td>۰</td></tr>
+<tr><td>۹۲</td><td>الليل</td><td>۲۱</td><td>۲۴</td><td>۰</td><td>۰</td><td>۲</td><td>۰</td></tr>
+<tr><td>۹۳</td><td>الضحى</td><td>۱۱</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۹۴</td><td>الانشراح</td><td>۸</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۹۵</td><td>التين</td><td>۸</td><td>۱۱</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۹۶</td><td>العلق</td><td>۱۹</td><td>۱۴</td><td>۰</td><td>۱</td><td>۳</td><td>۰</td></tr>
+<tr><td>۹۷</td><td>القدر</td><td>۵</td><td>۲</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۹۸</td><td>البينة</td><td>۸</td><td>۱۵</td><td>۰</td><td>۰</td><td>۲</td><td>۰</td></tr>
+<tr><td>۹۹</td><td>الزلزال</td><td>۸</td><td>۵</td><td>۰</td><td>۱</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۰</td><td>العاديات</td><td>۱۱</td><td>۱۰</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۱</td><td>القارعة</td><td>۱۱</td><td>۶</td><td>۰</td><td>۰</td><td>۲</td><td>۰</td></tr>
+<tr><td>۱۰۲</td><td>التكاثر</td><td>۸</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۳</td><td>العصر</td><td>۳</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۴</td><td>الهمزة</td><td>۹</td><td>۱۲</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۵</td><td>الفيل</td><td>۵</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۶</td><td>قريش</td><td>۴</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۷</td><td>الماعون</td><td>۷</td><td>۴</td><td>۰</td><td>۱</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۸</td><td>الكوثر</td><td>۳</td><td>۲</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۰۹</td><td>الكافرون</td><td>۶</td><td>۶</td><td>۰</td><td>۱</td><td>۱</td><td>۰</td></tr>
+<tr><td>۱۱۰</td><td>النصر</td><td>۳</td><td>۶</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۱۱</td><td>لهب</td><td>۵</td><td>۴</td><td>۰</td><td>۰</td><td>۰</td><td>۰</td></tr>
+<tr><td>۱۱۲</td><td>الإخلاص</td><td>۴</td><td>۳</td><td>۰</td><td>۱</td><td>۱</td><td>۰</td></tr>
+<tr><td>۱۱۳</td><td>الفلق</td><td>۵</td><td>۴</td><td>۰</td><td>۱</td><td>۱</td><td>۰</td></tr>
+<tr><td>۱۱۴</td><td>الناس</td><td>۶</td><td>۷</td><td>۰</td><td>۱</td><td>۱</td><td>۰</td></tr></tbody></table>
+  </section>
+</body>
+</html>

@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "source": "Surah/094_Sharh_html.html",
+  "sourceHash": "490e7bce2dc92cbea17e0a36f80d56e12de231754c521b616ef8e635c9fca3cc",
+  "underlines": [
+    {
+      "id": "p094-u0001",
+      "text": "بی تردید با دشواری آسانی است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "9b4ea0b85f4003569825b0219543b1d26124d66454a95cfb0687e6787ce1418b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c1",
+      "start": 399,
+      "end": 429,
+      "groups": [
+        "p094-textual-coordination-5e44ef439f"
+      ],
+      "sourceText": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+      "id": "p094-u0002",
+      "text": "[آری] بی تردید با دشواری آسانی است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "e2ff7163495d2f64fd17f9e8d233d36689f4a297269814b0817b7bb0a9498579",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c1",
+      "start": 437,
+      "end": 472,
+      "groups": [
+        "p094-textual-coordination-5e44ef439f"
+      ],
+      "sourceText": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+      "id": "p094-u0003",
+      "text": "به عبادت و دعا بکوش",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "fbbb4831cd058e70c00c0cc852f85f2cd4cb2cfc0764ac6621f66e2f17c1b347",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c2",
+      "start": 543,
+      "end": 562,
+      "groups": [
+        "p094-textual-coordination-c6f89aacc5"
+      ],
+      "sourceText": "انصَبْ"
+    },
+    {
+      "id": "p094-u0004",
+      "text": "مشتاقانه به سوی پروردگارت رو آور.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "044bedbc56e07a9ef424f1e3fe627ff844aba8fd4fddec48650ee3da24768eab",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c2",
+      "start": 565,
+      "end": 598,
+      "groups": [
+        "p094-textual-coordination-c6f89aacc5"
+      ],
+      "sourceText": "إِلَىٰ رَبِّكَ فَارْغَب"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p094-textual-coordination-5e44ef439f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p094-u0001",
+        "p094-u0002"
+      ]
+    },
+    {
+      "id": "p094-textual-coordination-c6f89aacc5",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p094-u0003",
+        "p094-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

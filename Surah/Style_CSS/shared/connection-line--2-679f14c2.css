@@ -1,0 +1,7 @@
+.connection-line--2 {
+  border-left: 0.3mm solid rgb(150, 150, 150);
+  height: 100%;
+  position: absolute;
+  right: 5.4mm;
+  page-break-inside: auto;
+}

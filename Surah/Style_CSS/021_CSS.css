@@ -1,0 +1,219 @@
+@import url("shared/connection-line--1-56745509.css");
+
+.diamond-marker {
+  width: 1.2mm;
+  height: 1.2mm;
+  -ms-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.diamond-marker.connection-cap--top-1 {
+  background-color: black;
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-1 {
+  background-color: black;
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-red-1 {
+  background-color: rgb(205, 100, 100);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-red-1 {
+  background-color: rgb(205, 100, 100);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-green-1 {
+  background-color: rgb(70, 175, 70);
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-green-1 {
+  background-color: rgb(70, 175, 70);
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.verse-group {
+  position: relative;
+}
+
+.verse-indent-1 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: -2mm;
+  width: 80mm;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.double-bullet-next--compact {
+  margin-top: 0mm;
+  margin-right: 25.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.double-bullet-next--compact-2 {
+  margin-top: 0mm;
+  margin-right: 25.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -5.5mm;
+}
+
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.border-dashed {
+  border: 1px dashed rgb(150, 150, 150);
+  padding: 0px 1.322915mm;
+}
+
+.spacing-reset {
+  margin-top: 0mm;
+  margin-right: 0mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.spacing-reset-2 {
+  margin-top: 0mm;
+  margin-right: 6mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -6mm;
+}
+
+.text-highlight-2 {
+  color: rgb(240, 150, 0);
+}
+
+.text-highlight-3 {
+  color: rgb(100, 100, 255);
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "source": "Surah/091_Shams_html.html",
+  "sourceHash": "13cabdc8c3e625614038926945af0a276a619f22fef21c72b240218860854d4d",
+  "underlines": [
+    {
+      "id": "p091-u0001",
+      "text": "پرهیزکاری اش را",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(2)",
+      "textHash": "209946dbe2185645e763ec412b4a50e58971274122ce4ff3d64e6245d7337caa",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c1",
+      "start": 633,
+      "end": 649,
+      "groups": [
+        "p091-paired-contrast-cbcb4ff9cd",
+        "p091-local-underline-pattern-ab777f77b8",
+        "p091-red-green-pair-2d3b70ed5e"
+      ],
+      "sourceText": "فُجُورَهَا"
+    },
+    {
+      "id": "p091-u0002",
+      "text": "او الهام کرد.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(3)",
+      "textHash": "2225a834e55b5e15101c218fce9c80dd7d82de8abf6c3b94ed19d2ca4e643c28",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c1",
+      "start": 652,
+      "end": 665,
+      "groups": [
+        "p091-paired-contrast-cbcb4ff9cd",
+        "p091-local-underline-pattern-b5bcdf8b8a",
+        "p091-red-green-pair-2d3b70ed5e"
+      ],
+      "sourceText": "تَقْوَاهَا"
+    },
+    {
+      "id": "p091-u0003",
+      "text": "بی تردید کسی که نفس را [از آلودگی پاک کرد و] رشد داد، رستگار شد.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "e4485da5d71bf97707e6efcc7933c13970830e5ad4c650e2d9e8ab9ecbdac4a8",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 9,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c2",
+      "start": 742,
+      "end": 806,
+      "groups": [
+        "p091-local-underline-pattern-b5bcdf8b8a",
+        "p091-red-green-pair-2d3b70ed5e"
+      ],
+      "sourceText": "قَدْ أَفْلَحَ مَن زَكَّاهَا"
+    },
+    {
+      "id": "p091-u0004",
+      "text": "آن را [به آلودگی ها و امور بازدارنده از رشد] بیالود [از رحمت حق] نومید شد.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "57fa376940cf36ef83fdf6f127087f1c9a2041376ffd9b54f6b42ee43bd99bd9",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 10,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c3",
+      "start": 856,
+      "end": 931,
+      "groups": [
+        "p091-local-underline-pattern-ab777f77b8",
+        "p091-red-green-pair-2d3b70ed5e"
+      ],
+      "sourceText": "قَدْ خَابَ مَن دَسَّاهَا"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p091-paired-contrast-cbcb4ff9cd",
+      "label": "Locally coordinated contrasting alternatives",
+      "basis": "paired-contrast",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "paired-red-green",
+        "matching-line-structure",
+        "coordinating-text"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0002"
+      ]
+    },
+    {
+      "id": "p091-local-underline-pattern-ab777f77b8",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0004"
+      ]
+    },
+    {
+      "id": "p091-local-underline-pattern-b5bcdf8b8a",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p091-u0002",
+        "p091-u0003"
+      ]
+    },
+    {
+      "id": "p091-red-green-pair-2d3b70ed5e",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0002",
+        "p091-u0003",
+        "p091-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

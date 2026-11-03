@@ -1,0 +1,221 @@
+@import url("shared/speech-9b03f6de.css");
+@import url("shared/speech-open-before-7c3fc813.css");
+@import url("shared/speech-gray-before-d5db9fb8.css");
+@import url("shared/connection-line--1-3c1b1b19.css");
+@import url("shared/connection-line--red-1-35dfefcc.css");
+@import url("shared/connection-line--2-679f14c2.css");
+@import url("shared/connection-line--3-7fbf68f1.css");
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.verse-group {
+  position: relative;
+  page-break-inside: auto;
+}
+
+.verse-indent-1 {
+  display: inline-block;
+  page-break-inside: auto;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: -1.5mm;
+  width: 156mm;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.small-bullet--compact-2 {
+  margin-top: 0mm;
+  margin-right: 14.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -4.5mm;
+}
+
+.small-bullet--spaced-2 {
+  margin-top: 0mm;
+  margin-right: 14.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -4.5mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 19.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -9.5mm;
+}
+
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.annotation.border-horizontal {
+  border-bottom: 1px solid rgb(100, 100, 100);
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 0px 0px;
+}
+
+.border-dashed {
+  border: 1px dashed rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.border-dashed.color-gray {
+  border: 1px dashed rgb(200, 200, 200);
+}
+
+.spacing-reset {
+  margin-top: 0mm;
+  margin-right: 0mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.spacing-reset-2 {
+  margin-top: 0mm;
+  margin-right: 6.5mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.spacing-reset-2.spacing-expanded {
+  margin-bottom: 4.5mm;
+}
+
+.text-highlight-1 {
+  color: rgb(70, 175, 70);
+}
+
+.text-highlight-2 {
+  color: rgb(205, 100, 100);
+}
+
+.text-highlight-6 {
+  color: goldenrod;
+}
+
+.text-highlight-9 {
+  color: rgb(5, 145, 5);
+}
+
+.text-highlight-10 {
+  color: rgb(180, 26, 26);
+}
+
+.text-highlight-12 {
+  color: rgb(0, 130, 230);
+}
+
+.background-highlight-1 {
+  text-shadow: 0.7mm 0.7mm 1.1mm rgba(0, 0, 0, 0.8);
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

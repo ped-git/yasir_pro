@@ -1,0 +1,74 @@
+{
+  "browser": "156.0.8078.4",
+  "comparisons": 3,
+  "interactions": [
+    {
+      "width": 1440,
+      "hover": true,
+      "nestedHover": true,
+      "shortExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    },
+    {
+      "width": 390,
+      "hover": true,
+      "nestedHover": true,
+      "shortExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    }
+  ],
+  "results": [
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "desktop",
+      "screenshot": "79d3143aafa6bec2e372e4f5fe940a54742a11e6329aa81d55233d2b1316864e",
+      "hashes": {
+        "styles": "2d698c3b7213ca9956ab5daed2004e5ec7bcc6d41f1124831c0f6111a98019a4",
+        "geometry": "02cb9019d0562d529b8c15eaa938595f32e9be61794768036659fca6d6811cd1",
+        "generated": "aa55160cc74d55c3dc5d410c8e8b97dd80265e0a8738bd89fa7c1c7f2e76e4ff",
+        "text": "a900657785929413e07617b142c2c447e63537db2dfdb4cdc706aa0507ebdc46"
+      },
+      "elements": 86,
+      "size": [
+        1440,
+        1643
+      ]
+    },
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "mobile",
+      "screenshot": "8974815b6c019c7adc025c20de55a63956f31d52dd184caf2164192d06aa893a",
+      "hashes": {
+        "styles": "229d46319181be83e4d95e421b08c1e0b1c3ae9c516778d5cab03ed4aea50e46",
+        "geometry": "79027a15f9000f498136d547ca4772fa749a6a8cf3dee8dbf6a06738b64deed0",
+        "generated": "aa55160cc74d55c3dc5d410c8e8b97dd80265e0a8738bd89fa7c1c7f2e76e4ff",
+        "text": "4c471e690ab6d627e133b43d85333ede92733a16c341fb7641549d313a331a16"
+      },
+      "elements": 86,
+      "size": [
+        726,
+        1643
+      ]
+    },
+    {
+      "page": "Surah/Farsi/061_Saff_farsi.html",
+      "scenario": "print",
+      "screenshot": "79d3143aafa6bec2e372e4f5fe940a54742a11e6329aa81d55233d2b1316864e",
+      "hashes": {
+        "styles": "2d698c3b7213ca9956ab5daed2004e5ec7bcc6d41f1124831c0f6111a98019a4",
+        "geometry": "02cb9019d0562d529b8c15eaa938595f32e9be61794768036659fca6d6811cd1",
+        "generated": "aa55160cc74d55c3dc5d410c8e8b97dd80265e0a8738bd89fa7c1c7f2e76e4ff",
+        "text": "a900657785929413e07617b142c2c447e63537db2dfdb4cdc706aa0507ebdc46"
+      },
+      "elements": 86,
+      "size": [
+        1440,
+        1643
+      ]
+    }
+  ]
+}

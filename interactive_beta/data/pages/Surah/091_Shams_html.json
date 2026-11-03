@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "source": "Surah/091_Shams_html.html",
+  "sourceHash": "4b93f97b629d292fa26f6b132334a79a785f95501cbbf1aecd333be857966f33",
+  "underlines": [
+    {
+      "id": "p091-u0001",
+      "text": "فُجُورَهَا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(2)",
+      "textHash": "afa45182c38ffe2cd6714118b6a4f4f90001e2b9a30951e2a412511377e3a89a",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c1",
+      "start": 659,
+      "end": 669,
+      "groups": [
+        "p091-paired-contrast-cbcb4ff9cd",
+        "p091-local-underline-pattern-ab777f77b8",
+        "p091-red-green-pair-2d3b70ed5e"
+      ]
+    },
+    {
+      "id": "p091-u0002",
+      "text": "تَقْوَاهَا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(3)",
+      "textHash": "603b6e8884e632d307116c9df7a874ae9d382b1e5a270d7f9d44af00c88e3c17",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c1",
+      "start": 682,
+      "end": 692,
+      "groups": [
+        "p091-paired-contrast-cbcb4ff9cd",
+        "p091-local-underline-pattern-b5bcdf8b8a",
+        "p091-red-green-pair-2d3b70ed5e"
+      ]
+    },
+    {
+      "id": "p091-u0003",
+      "text": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "234840a6d272bfcd36ebc12df37b775114fe6fc6794b8ad706b5c0ba8ef13a21",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 9,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c2",
+      "start": 769,
+      "end": 796,
+      "groups": [
+        "p091-local-underline-pattern-b5bcdf8b8a",
+        "p091-red-green-pair-2d3b70ed5e"
+      ]
+    },
+    {
+      "id": "p091-u0004",
+      "text": "قَدْ خَابَ مَن دَسَّاهَا",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "7e0dc88b5b5723a0712e4e3cd88442fd06419ab77407fb1e2ec77cb31b2f5fda",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 10,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p091-c3",
+      "start": 851,
+      "end": 875,
+      "groups": [
+        "p091-local-underline-pattern-ab777f77b8",
+        "p091-red-green-pair-2d3b70ed5e"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p091-paired-contrast-cbcb4ff9cd",
+      "label": "Locally coordinated contrasting alternatives",
+      "basis": "paired-contrast",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "paired-red-green",
+        "matching-line-structure",
+        "coordinating-text"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0002"
+      ]
+    },
+    {
+      "id": "p091-local-underline-pattern-ab777f77b8",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0004"
+      ]
+    },
+    {
+      "id": "p091-local-underline-pattern-b5bcdf8b8a",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p091-u0002",
+        "p091-u0003"
+      ]
+    },
+    {
+      "id": "p091-red-green-pair-2d3b70ed5e",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p091-u0001",
+        "p091-u0002",
+        "p091-u0003",
+        "p091-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

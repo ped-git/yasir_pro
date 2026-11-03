@@ -1,0 +1,220 @@
+{
+  "browser": "156.0.8078.4",
+  "comparisons": 12,
+  "interactions": [
+    {
+      "width": 1440,
+      "underlineOnlyEmphasis": true,
+      "verticalLineHover": true,
+      "nestedHover": true,
+      "distinctExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    },
+    {
+      "width": 390,
+      "underlineOnlyEmphasis": true,
+      "verticalLineHover": true,
+      "nestedHover": true,
+      "distinctExcerpts": true,
+      "nestedCollapse": true,
+      "exactExpansion": true,
+      "keyboard": true
+    }
+  ],
+  "results": [
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "desktop",
+      "screenshot": "dca8644faf2a84ec2d7f2f3822a194007ac3d0e2662b54f2e359e5f2aafd3c0c",
+      "hashes": {
+        "styles": "ec034c85fefc0459db1cb16e8cc3047e1239e77f47c6259a500e49f2f98aa23f",
+        "geometry": "26eee20e27723e9fca871592237b3dd4ca9f6322a9ccf4d1ab8ee63fe88b61d8",
+        "generated": "2c555c34a25557833ea0dade75882e914ed9597925c90c68f029e6b236a80c8d",
+        "text": "07e733de813c3e594f0531f2784ec3056635aa05153c0d8f13f71680f8664057"
+      },
+      "elements": 23,
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "desktop",
+      "screenshot": "c4ee5c3927ecba3358894de80ac1a1881d8559f1f8396d85aa1ade2124fde753",
+      "hashes": {
+        "styles": "818a5a9af5c236e972988254b604f2fc84d34c25411345852cd905db39cbd133",
+        "geometry": "413e41ccac1d4bcde42f78d1c30ea3d8614996ce7df625401a290a32e1bf5c70",
+        "generated": "8fe0bed79d60bc54e9dee981fbb76cc18cb6b3aa4fd211c30f23c7e2f563abd1",
+        "text": "d67d80e746d30882e52aab60c2c48549ebe3344d00746a424dc8f574a2d10f5f"
+      },
+      "elements": 2465,
+      "size": [
+        1440,
+        24204
+      ]
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "desktop",
+      "screenshot": "2671b9019f742c4b8136a1a42927ed2267cd56213832a656d3247f3886b89952",
+      "hashes": {
+        "styles": "ee98f2ae4f7d09fb025dddcd7c5bbddd033c9f5bf92e4640780e16314e267eca",
+        "geometry": "840dacdfef0c8047da69b3055d0282d8bee372cb83c9c558763b8d9ab5cc589f",
+        "generated": "189ca7bbc43f565e1fe43cc9fc9199fcb457b18ca6b1d52fc6b5c40aaffcd061",
+        "text": "97b31025baba491d14b3bc62381ca12981a3f842439cd043fffb8c92e88e566c"
+      },
+      "elements": 74,
+      "size": [
+        1440,
+        2459
+      ]
+    },
+    {
+      "page": "index.html",
+      "scenario": "desktop",
+      "screenshot": "1514882c6d638d6e542bdee61c7709b15bdca34255d6cabf373ae99794492cf8",
+      "hashes": {
+        "styles": "36027b9fb6a599c112d657475b01483308f4953d0d5770c0efcc2b0a114d0eea",
+        "geometry": "e61bf99f4b0802c343e1ee57e980ed5015906f82c6c1c9601081f83367b171bb",
+        "generated": "cac1b64889504aea14989b520cf8f8fe76da12eb1ed6fd160c11512a7eac7e99",
+        "text": "0fd5ee42a7a15ee17eba14cafc0b5d3fdef5c7b30c50d03ce8e0421d490a4325"
+      },
+      "elements": 234,
+      "size": [
+        1440,
+        2249
+      ]
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "mobile",
+      "screenshot": "0e8573e539a6b0d024b219a1ae9e2642ade996ab2cf6644ad444c1778cc0c6a0",
+      "hashes": {
+        "styles": "379512113b6342ee21bf2b5fc80542c1069fedfa56974eb43e1fee6528d65dde",
+        "geometry": "1448e61a22c56f384d4f5f5b5484dd1429785d2835e28e0dee355905951dc132",
+        "generated": "2c555c34a25557833ea0dade75882e914ed9597925c90c68f029e6b236a80c8d",
+        "text": "42831c0d59401da13c952de43bdaae281ae2690e8d3d06bd269a03584a8dae92"
+      },
+      "elements": 23,
+      "size": [
+        726,
+        844
+      ]
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "mobile",
+      "screenshot": "cc9d62ba6c676e5919b926c351ccd46ddb30bc77c3c009ac65df3617b3a002a0",
+      "hashes": {
+        "styles": "bf5a0f3f9081df8a6519d34a0992819fa15dad52e75775ff31ecd6d6d06387b3",
+        "geometry": "1b497c44484682f7186f66cf28194dc614b5a5022fef238a281ccd4fd1027f2e",
+        "generated": "8fe0bed79d60bc54e9dee981fbb76cc18cb6b3aa4fd211c30f23c7e2f563abd1",
+        "text": "16b375139badf786bdcd63799fd51dbcc1d3399f9170c89d18e557ec699ff7e9"
+      },
+      "elements": 2465,
+      "size": [
+        726,
+        24204
+      ]
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "mobile",
+      "screenshot": "4e530af904659dd10718972a9723cdd19a9869595029ebb77ee75c19104653d1",
+      "hashes": {
+        "styles": "5e7c91b8d86f31c8398c776abcf9a940f7aa48491ff50d6142bb99f2629308fb",
+        "geometry": "030d9e7a2e5bdf0606a3e46b2aaa1a972997b50e5d3429381d06b8d5ebae6aa1",
+        "generated": "40fc07e966d831e82c78d7d8c79ee1b2b872ce209de5b3760f208dfb6e63bb6c",
+        "text": "a5dbd70fa607d2f4f8dbed9c12a80f6b8d55e0480bd35fe751e65abbaf55b281"
+      },
+      "elements": 74,
+      "size": [
+        390,
+        4210
+      ]
+    },
+    {
+      "page": "index.html",
+      "scenario": "mobile",
+      "screenshot": "fa56da9eb5bd34364f700df12b01683863467173317715501944a82d0d01c17b",
+      "hashes": {
+        "styles": "8634a53acab8889e332cd2631c76a6ac45d7256a61a178d00f352eabf07a0ab4",
+        "geometry": "53f5b6f7fd19671dc83286b065f30f98ee532ca71361cdda7cc3f45a4e1f0150",
+        "generated": "cac1b64889504aea14989b520cf8f8fe76da12eb1ed6fd160c11512a7eac7e99",
+        "text": "9f027d0e25dd4a0be65bf3ee769ac3a8e77dc2fd568058cbdfd40539179870c1"
+      },
+      "elements": 234,
+      "size": [
+        756,
+        2249
+      ]
+    },
+    {
+      "page": "Surah/001_Fatiha_html.html",
+      "scenario": "print",
+      "screenshot": "dca8644faf2a84ec2d7f2f3822a194007ac3d0e2662b54f2e359e5f2aafd3c0c",
+      "hashes": {
+        "styles": "ec034c85fefc0459db1cb16e8cc3047e1239e77f47c6259a500e49f2f98aa23f",
+        "geometry": "26eee20e27723e9fca871592237b3dd4ca9f6322a9ccf4d1ab8ee63fe88b61d8",
+        "generated": "2c555c34a25557833ea0dade75882e914ed9597925c90c68f029e6b236a80c8d",
+        "text": "07e733de813c3e594f0531f2784ec3056635aa05153c0d8f13f71680f8664057"
+      },
+      "elements": 23,
+      "size": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "page": "Surah/002_Baqarah_html.html",
+      "scenario": "print",
+      "screenshot": "c4ee5c3927ecba3358894de80ac1a1881d8559f1f8396d85aa1ade2124fde753",
+      "hashes": {
+        "styles": "818a5a9af5c236e972988254b604f2fc84d34c25411345852cd905db39cbd133",
+        "geometry": "413e41ccac1d4bcde42f78d1c30ea3d8614996ce7df625401a290a32e1bf5c70",
+        "generated": "8fe0bed79d60bc54e9dee981fbb76cc18cb6b3aa4fd211c30f23c7e2f563abd1",
+        "text": "d67d80e746d30882e52aab60c2c48549ebe3344d00746a424dc8f574a2d10f5f"
+      },
+      "elements": 2465,
+      "size": [
+        1440,
+        24204
+      ]
+    },
+    {
+      "page": "explanation.html",
+      "scenario": "print",
+      "screenshot": "1d864978420ca2315230ccf2861199251db524da1776eb98b70b8acb69f50bde",
+      "hashes": {
+        "styles": "8eb20c38b77ba25bc213f8e630852011a91266eb064e5589a54a02af760c7146",
+        "geometry": "071aa41785d68d8a447c5bef7e054a3d2d1a2872e671fcd07d018884ad16d441",
+        "generated": "189ca7bbc43f565e1fe43cc9fc9199fcb457b18ca6b1d52fc6b5c40aaffcd061",
+        "text": "c0aee9678e0157a2fad4b79f41e37fedd84e74c00bd5c75c7d417afc58955bc6"
+      },
+      "elements": 74,
+      "size": [
+        1440,
+        2045
+      ]
+    },
+    {
+      "page": "index.html",
+      "scenario": "print",
+      "screenshot": "1514882c6d638d6e542bdee61c7709b15bdca34255d6cabf373ae99794492cf8",
+      "hashes": {
+        "styles": "36027b9fb6a599c112d657475b01483308f4953d0d5770c0efcc2b0a114d0eea",
+        "geometry": "e61bf99f4b0802c343e1ee57e980ed5015906f82c6c1c9601081f83367b171bb",
+        "generated": "cac1b64889504aea14989b520cf8f8fe76da12eb1ed6fd160c11512a7eac7e99",
+        "text": "0fd5ee42a7a15ee17eba14cafc0b5d3fdef5c7b30c50d03ce8e0421d490a4325"
+      },
+      "elements": 234,
+      "size": [
+        1440,
+        2249
+      ]
+    }
+  ]
+}

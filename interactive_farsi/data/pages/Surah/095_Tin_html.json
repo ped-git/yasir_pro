@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "source": "Surah/095_Tin_html.html",
+  "sourceHash": "3f40c74f2a30a2371c0172a4b6dfc60fe56c1f0e0f822a0e8e32854a19d8de9a",
+  "underlines": [
+    {
+      "id": "p095-u0001",
+      "text": "سوگند به",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "06df2051e39449fbb57bc24a074cfaaa75c86343d731d3f6613b5f3e3c08ffc4",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 93,
+      "end": 102,
+      "groups": [
+        "p095-textual-coordination-a140ed8435"
+      ],
+      "sourceText": "التِّينِ"
+    },
+    {
+      "id": "p095-u0002",
+      "text": "انجیر و زیتون",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "a28a9eb5e5e4e2f43995897152d664db455c2498968a7bc9e8dc53d47c7a0de0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 102,
+      "end": 115,
+      "groups": [
+        "p095-textual-coordination-a140ed8435"
+      ],
+      "sourceText": "الزَّيْتُونِ"
+    },
+    {
+      "id": "p095-u0003",
+      "text": "سوگند به طور سینا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "bd4812d3a678b167800ac93b4df25c44c113f35ab6793252801964a0c5bc31c8",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 118,
+      "end": 135,
+      "groups": [
+        "p095-textual-coordination-a140ed8435"
+      ],
+      "sourceText": "طُورِ سِينِينَ"
+    },
+    {
+      "id": "p095-u0004",
+      "text": "سوگند به این [مکه] شهر امن",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "cfb778f27e05d59cebd2715b45eb2afbec221f503039ad8d4ce5ed1842ed8767",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 138,
+      "end": 164,
+      "groups": [
+        "p095-textual-coordination-a140ed8435"
+      ],
+      "sourceText": "هَـٰذَا الْبَلَدِ الْأَمِينِ"
+    },
+    {
+      "id": "p095-u0005",
+      "text": "که ما",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "textHash": "4fb57c3feb92569a1027c2e4f35d29e27e609ddceba03334bb78ea13be4c94d5",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 172,
+      "end": 178,
+      "groups": [
+        "p095-u0005-individual"
+      ],
+      "sourceText": "لَقَدْ"
+    },
+    {
+      "id": "p095-u0006",
+      "text": "آن گاه او",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(6)",
+      "textHash": "bfd7edff0f992e47cf739208c66db2001073dea91d828360042fc6800b7148fe",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-red-220-150-150 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 235,
+      "end": 245,
+      "groups": [
+        "p095-red-green-pair-f81f380fee",
+        "p095-red-green-pair-feac6c235d",
+        "p095-red-green-pair-08632192e7"
+      ],
+      "sourceText": "ثُمَّ"
+    },
+    {
+      "id": "p095-u0007",
+      "text": "[مرحله] پست ترینِ پَستان بازگرداندیم.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(7)",
+      "textHash": "3cd2f5c62b9b748509dd95431f4f125a32ae3d7b564e4adb5b8378cf4a5dde6f",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 268,
+      "end": 306,
+      "groups": [
+        "p095-red-green-pair-feac6c235d",
+        "p095-red-green-pair-08632192e7"
+      ],
+      "sourceText": "أَسْفَلَ سَافِلِينَ"
+    },
+    {
+      "id": "p095-u0008",
+      "text": "مگر آنان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(8)",
+      "textHash": "32c728740339ea1918a241552b73143a24bb87d43caa9d78b679455f28b33b9a",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 314,
+      "end": 322,
+      "groups": [
+        "p095-red-green-pair-f81f380fee",
+        "p095-red-green-pair-feac6c235d",
+        "p095-red-green-pair-08632192e7"
+      ],
+      "sourceText": "إِلَّا"
+    },
+    {
+      "id": "p095-u0009",
+      "text": "آورده و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(9)",
+      "textHash": "2e1223afef139d504b1995d61697533bbdc82802b40d61e759e0d88577a8bbd2",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 332,
+      "end": 340,
+      "groups": [
+        "p095-textual-coordination-ef8aa5640a"
+      ],
+      "sourceText": "آمَنُوا"
+    },
+    {
+      "id": "p095-u0010",
+      "text": "شایسته انجام داده اند، پس",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(10)",
+      "textHash": "b0fa60148ad1cbe02a1b913864802eec4fed6d04fddfa9f813d5358c0090c09e",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 346,
+      "end": 372,
+      "groups": [
+        "p095-textual-coordination-ef8aa5640a"
+      ],
+      "sourceText": "عَمِلُوا الصَّالِحَاتِ"
+    },
+    {
+      "id": "p095-u0011",
+      "text": "پاداشی بی منت و همیشگی است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(11)",
+      "textHash": "5fc344f1524801ede9fbcb4e1f3a0751390cc95e16cccf8a89c6f7fbca1d3db4",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p095-c1",
+      "start": 381,
+      "end": 408,
+      "groups": [
+        "p095-red-green-pair-08632192e7"
+      ],
+      "sourceText": "أَجْرٌ غَيْرُ مَمْنُونٍ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p095-textual-coordination-a140ed8435",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p095-u0001",
+        "p095-u0002",
+        "p095-u0003",
+        "p095-u0004"
+      ]
+    },
+    {
+      "id": "p095-textual-coordination-ef8aa5640a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p095-u0009",
+        "p095-u0010"
+      ]
+    },
+    {
+      "id": "p095-red-green-pair-f81f380fee",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p095-u0006",
+        "p095-u0008"
+      ]
+    },
+    {
+      "id": "p095-red-green-pair-feac6c235d",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p095-u0006",
+        "p095-u0007",
+        "p095-u0008"
+      ]
+    },
+    {
+      "id": "p095-red-green-pair-08632192e7",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p095-u0006",
+        "p095-u0007",
+        "p095-u0008",
+        "p095-u0011"
+      ]
+    },
+    {
+      "id": "p095-u0005-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p095-u0005"
+      ]
+    }
+  ],
+  "sections": []
+}

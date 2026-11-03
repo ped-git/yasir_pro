@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "source": "Surah/097_Qadr_html.html",
+  "sourceHash": "f8ee021b47bd2c69fc8c6c3585893c64d590eaec3488c72b7bc192125386c052",
+  "underlines": [
+    {
+      "id": "p097-u0001",
+      "text": "روح در آن شب به اذن",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "b287c79ea82ab6749932de6feb1a65078e4add0a97ba5b91097198ac43823bb5",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p097-c1",
+      "start": 274,
+      "end": 293,
+      "groups": [
+        "p097-textual-coordination-8326993f08"
+      ],
+      "sourceText": "الْمَلَائِكَةُ"
+    },
+    {
+      "id": "p097-u0002",
+      "text": "پروردگارشان",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "a038805a4479dc2948827ba5f8cc2cece2af5fefc72b47ab32df2634d7b73e8e",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p097-c1",
+      "start": 294,
+      "end": 305,
+      "groups": [
+        "p097-textual-coordination-8326993f08"
+      ],
+      "sourceText": "الرُّوحُ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p097-textual-coordination-8326993f08",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p097-u0001",
+        "p097-u0002"
+      ]
+    }
+  ],
+  "sections": []
+}

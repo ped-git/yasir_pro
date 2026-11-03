@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "source": "Surah/114_Nas_html.html",
+  "sourceHash": "bd5bfbac61897bf58ac9e20803cb71f0c7eafcc67d7c091411c720a01cc9e546",
+  "underlines": [
+    {
+      "id": "p114-u0001",
+      "text": "پناه می برم به پروردگار مردم",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "9b5244bbcde80b9d568394b8e5b0ad465cfa4520442285ae2b5fbb359a07b2bb",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c1",
+      "start": 172,
+      "end": 201,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ],
+      "sourceText": "رَبِّ النَّاسِ"
+    },
+    {
+      "id": "p114-u0002",
+      "text": "[به] پادشاه مردم",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "dd8fbbf929094363735d5b6d539caf835772f8209373c0f700f1bd07f8ff0327",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c2",
+      "start": 249,
+      "end": 265,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ],
+      "sourceText": "مَلِكِ النَّاسِ"
+    },
+    {
+      "id": "p114-u0003",
+      "text": "[به] معبود مردم",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "ed293913713ceb02557427b90b00216d6a5dc395586fa08c731eefb8b2679402",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p114-s0001",
+      "contextId": "p114-c3",
+      "start": 313,
+      "end": 328,
+      "groups": [
+        "p114-local-underline-pattern-2684976540"
+      ],
+      "sourceText": "إِلَـٰهِ النَّاسِ"
+    },
+    {
+      "id": "p114-u0004",
+      "text": "وسوسه گر کمین",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "892f6108b2598fe6fd7c8a85debfd04bcbfec343d985eeef003f4d5f0bcc2630",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 379,
+      "end": 393,
+      "groups": [
+        "p114-textual-coordination-d99ef4a93a"
+      ],
+      "sourceText": "الْوَسْوَاسِ"
+    },
+    {
+      "id": "p114-u0005",
+      "text": "گرفته و پنهان،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "22732412aa266ad8f187bfbac08103a3b4831609bc5ec43ab20a38545a17c993",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 394,
+      "end": 408,
+      "groups": [
+        "p114-textual-coordination-d99ef4a93a"
+      ],
+      "sourceText": "الْخَنَّاسِ"
+    },
+    {
+      "id": "p114-u0006",
+      "text": "جنّیان و",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(4)",
+      "textHash": "abece6d19baed0a7d6d2de467c6c05ecda0980656e47b7efce2969af970acd94",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 455,
+      "end": 463,
+      "groups": [
+        "p114-textual-coordination-afe1585997"
+      ],
+      "sourceText": "الْجِنَّةِ"
+    },
+    {
+      "id": "p114-u0007",
+      "text": "آدمیان.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(5)",
+      "textHash": "0e1497ebcbae50b2a363041374afbb74b5d881ab83b04f8089127de02e2265f0",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p114-c4",
+      "start": 464,
+      "end": 471,
+      "groups": [
+        "p114-textual-coordination-afe1585997"
+      ],
+      "sourceText": "النَّاسِ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p114-textual-coordination-d99ef4a93a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p114-u0004",
+        "p114-u0005"
+      ]
+    },
+    {
+      "id": "p114-textual-coordination-afe1585997",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p114-u0006",
+        "p114-u0007"
+      ]
+    },
+    {
+      "id": "p114-local-underline-pattern-2684976540",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p114-u0001",
+        "p114-u0002",
+        "p114-u0003"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p114-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "بگو: پناه می برم به پروردگار مردم۱",
+        "last": "[به] پادشاه مردم۲ [به] معبود مردم۳"
+      },
+      "lines": [
+        "p114-l0001"
+      ]
+    }
+  ]
+}

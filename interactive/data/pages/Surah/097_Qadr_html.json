@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "source": "Surah/097_Qadr_html.html",
+  "sourceHash": "5c74528a49fde8d1f99144370d1d00a629fc8a259fc141726c20c8add2e496c7",
+  "underlines": [
+    {
+      "id": "p097-u0001",
+      "text": "الْمَلَائِكَةُ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "98bf781d31ccc4acfb3074b885b8693684ae4ad0243199c1daff552164b0dfca",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p097-c1",
+      "start": 344,
+      "end": 358,
+      "groups": [
+        "p097-textual-coordination-8326993f08"
+      ]
+    },
+    {
+      "id": "p097-u0002",
+      "text": "الرُّوحُ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "2badf95ae3512c75cc0d8b749b36b7b0db1f54980debae2e4a0b1038f32f3773",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p097-c1",
+      "start": 371,
+      "end": 379,
+      "groups": [
+        "p097-textual-coordination-8326993f08"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p097-textual-coordination-8326993f08",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p097-u0001",
+        "p097-u0002"
+      ]
+    }
+  ],
+  "sections": []
+}

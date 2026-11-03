@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "source": "Surah/107_Maaun_html.html",
+  "sourceHash": "3cf370a5c3120311db575788dac6f7613ea8d8e66086c7d8f3d0e71dcc020ae7",
+  "underlines": [
+    {
+      "id": "p107-u0001",
+      "text": "يَدُعُّ الْيَتِيمَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "c0529f50884ffb1706c3928b671b79866d1e8e346bbde1d8001c138a2e2bd8a7",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p107-c1",
+      "start": 180,
+      "end": 198,
+      "groups": [
+        "p107-textual-coordination-2d2922d96b"
+      ]
+    },
+    {
+      "id": "p107-u0002",
+      "text": "لَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "a7366712d2988ba2994b3e134350422dcc2de9160da740499664dbb84971465b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p107-c1",
+      "start": 208,
+      "end": 247,
+      "groups": [
+        "p107-textual-coordination-2d2922d96b"
+      ]
+    },
+    {
+      "id": "p107-u0003",
+      "text": "يُرَاءُونَ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "0355b500e6a7515c1b763a2ada19b99995d1d5bc0a1c58ff19efa66aabc21373",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p107-s0001",
+      "contextId": "p107-c2",
+      "start": 491,
+      "end": 501,
+      "groups": [
+        "p107-textual-coordination-635549065b"
+      ]
+    },
+    {
+      "id": "p107-u0004",
+      "text": "يَمْنَعُونَ الْمَاعُونَ",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "9d11ffc616a70c2219466d76d77a06722dab97837cdf59bec1f1372bc2e4c987",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p107-s0001",
+      "contextId": "p107-c2",
+      "start": 517,
+      "end": 540,
+      "groups": [
+        "p107-textual-coordination-635549065b"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p107-textual-coordination-2d2922d96b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p107-u0001",
+        "p107-u0002"
+      ]
+    },
+    {
+      "id": "p107-textual-coordination-635549065b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p107-u0003",
+        "p107-u0004"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p107-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "– الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ۵",
+        "last": "– الَّذِينَ هُمْ يُرَاءُونَ۶ وَيَمْنَعُونَ الْمَاعُونَ۷"
+      },
+      "lines": [
+        "p107-l0001"
+      ]
+    }
+  ]
+}

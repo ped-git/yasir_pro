@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "source": "Surah/111_Masad_html.html",
+  "sourceHash": "df041840d0db616ddcfb46cf58e6a0ae6e738745186b6f4809e5e6c43c6de80b",
+  "underlines": [
+    {
+      "id": "p111-u0001",
+      "text": "أَبِي لَهَبٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "08307d004dc0cc3642025c40275582b53cea04dbfa8be63cf644fd36a79e5089",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 111,
+      "end": 123,
+      "groups": [
+        "p111-u0001-individual"
+      ]
+    },
+    {
+      "id": "p111-u0002",
+      "text": "مَالُهُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "e01a81ca1d4b0eb338221788a660a69217fbcac4911e3e9ff0f211d12e000fd9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 159,
+      "end": 166,
+      "groups": [
+        "p111-textual-coordination-568b561633"
+      ]
+    },
+    {
+      "id": "p111-u0003",
+      "text": "مَا كَسَبَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "2a5771b4b25561ca265ba97a5fc968dec84ebc1f69bb2507455337b8fbffcf68",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 175,
+      "end": 185,
+      "groups": [
+        "p111-textual-coordination-568b561633"
+      ]
+    },
+    {
+      "id": "p111-u0004",
+      "text": "امْرَأَتُهُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "fa1c539b6e56c279883c728625402c8d52ece0f96e458f4bd83638c3e63d00d6",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 233,
+      "end": 244,
+      "groups": [
+        "p111-u0004-individual"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p111-textual-coordination-568b561633",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p111-u0002",
+        "p111-u0003"
+      ]
+    },
+    {
+      "id": "p111-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p111-u0001"
+      ]
+    },
+    {
+      "id": "p111-u0004-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p111-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

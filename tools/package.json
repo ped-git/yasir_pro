@@ -1,0 +1,19 @@
+{
+  "name": "yasir-pro-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test underlines.test.mjs",
+    "audit": "node refactor.mjs --audit",
+    "refactor": "node refactor.mjs",
+    "verify": "node verify.mjs"
+  },
+  "devDependencies": {
+    "parse5": "^8.0.0",
+    "playwright": "^1.56.1",
+    "postcss": "^8.5.6",
+    "postcss-selector-parser": "^7.1.0",
+    "postcss-value-parser": "^4.2.0",
+    "prettier": "^3.6.2"
+  }
+}

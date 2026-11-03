@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yasir Studio</title>
+  <link rel="stylesheet" href="/app.css">
+  <script defer src="/vendor/lucide.js"></script>
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><i data-lucide="notebook-pen"></i><strong>Yasir Studio</strong></div>
+    <select id="workspace-select" aria-label="Workspace" title="Choose which reader to edit">
+      <option value="interactive">interactive</option>
+      <option value="interactive_beta">interactive_beta</option>
+    </select>
+    <select id="page-select" aria-label="Document"></select>
+    <span id="save-state" role="status">Opening</span>
+    <nav class="commands" aria-label="Document commands">
+      <button id="open-guide" title="Open editing guide" aria-label="Open editing guide"><i data-lucide="circle-help"></i></button>
+      <button id="undo" title="Undo" aria-label="Undo" disabled><i data-lucide="undo-2"></i></button>
+      <button id="redo" title="Redo" aria-label="Redo" disabled><i data-lucide="redo-2"></i></button>
+      <button id="preview" title="Open saved reader" aria-label="Open saved reader"><i data-lucide="external-link"></i></button>
+      <button id="save" class="primary" title="Save to selected workspace" aria-label="Save to selected workspace" disabled><i data-lucide="save"></i></button>
+    </nav>
+  </header>
+  <main class="workspace">
+    <aside class="sidebar">
+      <div class="panel-title"><h1>Annotations</h1><span id="style-count"></span></div>
+      <div class="tabs" role="tablist" aria-label="Style category">
+        <button data-kind="underline" role="tab" aria-selected="true" title="Underlines"><i data-lucide="underline"></i></button>
+        <button data-kind="vertical" role="tab" aria-selected="false" title="Vertical sections"><i data-lucide="panel-right-close"></i></button>
+        <button data-kind="highlight" role="tab" aria-selected="false" title="Highlights"><i data-lucide="highlighter"></i></button>
+        <button data-kind="effect" role="tab" aria-selected="false" title="Text effects"><i data-lucide="type"></i></button>
+      </div>
+      <label class="search"><i data-lucide="search"></i><input id="style-filter" type="search" placeholder="Filter styles" aria-label="Filter styles"></label>
+      <p id="style-help" class="panel-hint">Select text in the page, then choose a style. Select inside an underline or section to nest another layer.</p>
+      <div id="style-list" class="style-list" aria-label="Available styles"></div>
+      <section class="inspector">
+        <div class="panel-title"><h2>Selected Layer</h2><button id="remove" title="Remove selected annotation" aria-label="Remove selected annotation"><i data-lucide="eraser"></i></button></div>
+        <select id="layer-select" aria-label="Annotation layer"><option value="">None</option></select>
+      </section>
+      <section class="quote-tools">
+        <div class="panel-title"><h2>Quotation Pair</h2><i data-lucide="quote"></i></div>
+        <label for="quote-color">Speaker color</label>
+        <select id="quote-color" aria-label="Quotation color">
+          <option value="blue">Blue</option><option value="green">Green</option><option value="red">Red</option>
+          <option value="black">Black</option><option value="gray">Gray</option><option value="lightblue">Light blue</option><option value="mixed">Mixed</option>
+        </select>
+        <div class="quote-actions">
+          <button id="add-quote-pair" title="Add opening and closing marks around selected text"><i data-lucide="between-horizontal-start"></i>Pair selection</button>
+          <button id="apply-quote-color" title="Apply color to the selected quote pair"><i data-lucide="palette"></i></button>
+          <button id="remove-quote-pair" title="Remove the selected quote pair"><i data-lucide="x"></i></button>
+        </div>
+        <p class="panel-hint">Select a passage to add a pair. Select either existing mark to recolor or remove its pair.</p>
+      </section>
+      <section class="group-manager">
+        <div class="panel-title"><h2>Underline Groups</h2><button id="refresh-groups" title="Refresh group list" aria-label="Refresh group list"><i data-lucide="refresh-cw"></i></button></div>
+        <p class="panel-hint">Check underlines below, or select a group here to edit its members.</p>
+        <div id="group-list" class="group-list" aria-label="Saved underline groups"></div>
+        <label for="group-input">Group IDs</label>
+        <input id="group-input" placeholder="group-a group-b" autocomplete="off" spellcheck="false">
+        <label for="group-label">Group label</label>
+        <input id="group-label" autocomplete="off">
+        <div class="group-actions">
+          <button id="replace-groups" title="Replace selected underlines' memberships"><i data-lucide="replace"></i>Replace</button>
+          <button id="add-to-groups" title="Add selected underlines to these groups"><i data-lucide="list-plus"></i>Add</button>
+          <button id="remove-from-groups" title="Remove selected underlines from these groups"><i data-lucide="list-minus"></i>Remove</button>
+          <button id="ungroup-selected" title="Remove selected underlines from all groups"><i data-lucide="unlink"></i>Ungroup</button>
+        </div>
+      </section>
+      <section class="members"><div class="panel-title"><h2>Underlines</h2><button id="clear-selection" title="Clear checked underlines" aria-label="Clear checked underlines"><i data-lucide="list-x"></i></button></div><div id="member-list"></div><div id="member-list-resizer" class="member-list-resizer" role="separator" aria-label="Resize underline list" aria-orientation="horizontal" aria-valuemin="140" aria-valuemax="600" aria-valuenow="280" tabindex="0" title="Drag to resize the underline list, or focus and use the arrow keys"></div></section>
+    </aside>
+    <div id="sidebar-resizer" class="sidebar-resizer" role="separator" aria-label="Resize sidebar" aria-orientation="vertical" aria-valuemin="240" aria-valuemax="600" aria-valuenow="340" tabindex="0" title="Drag to resize the sidebar, or focus and use the arrow keys"></div>
+    <section class="canvas" aria-label="Document canvas"><iframe id="document" title="Document" sandbox="allow-same-origin"></iframe></section>
+  </main>
+  <footer><span id="selection-state">No selection</span><span id="message" role="status"></span><span id="document-path">interactive</span></footer>
+  <div id="context-menu" class="context-menu" hidden></div>
+  <dialog id="error-dialog"><h2>Cannot Complete Action</h2><p id="error-message"></p><button id="close-error">Close</button></dialog>
+  <dialog id="guide-dialog" class="guide-dialog" aria-labelledby="guide-title">
+    <header class="guide-header"><div><span class="eyebrow">YASIR STUDIO</span><h2 id="guide-title">A quick guide to editing</h2></div><button id="guide-close" title="Close guide" aria-label="Close guide"><i data-lucide="x"></i></button></header>
+    <ol class="guide-steps">
+      <li><strong>Choose a workspace</strong><span>Use the top-bar selector to edit interactive or interactive_beta. Unsaved changes must be confirmed before switching.</span></li>
+      <li><strong>Select the passage</strong><span>Drag across text in the page. Right-click for the quick menu, or choose a category and style from the sidebar.</span></li>
+      <li><strong>Build underline layers</strong><span>Choose Underlines, set the line type, distance, color, and thickness, and check the preview before applying. Select text inside an underline to create a nested layer. Select a layer and use the eraser to remove only that layer.</span></li>
+      <li><strong>Manage groups</strong><span>Check underlines in the list or Command/Ctrl-click them in the page. Replace, add, or remove specific group memberships, or ungroup the selection. Choose a group above to select its current members.</span></li>
+      <li><strong>Add quotation marks</strong><span>Select the quoted text, choose a speaker color, and select Pair selection. To recolor or remove a pair, select either mark in the page first.</span></li>
+      <li><strong>Draw vertical sections</strong><span>Select text or paragraphs, choose Vertical sections and a line style. Select inside a section to nest another. The eraser removes only the selected section and its own ornaments.</span></li>
+      <li><strong>Save safely</strong><span>Undo and redo unsaved steps. Save writes a backup and checks that text and whitespace have not changed.</span></li>
+    </ol>
+    <footer class="guide-footer"><label><input id="guide-dont-show" type="checkbox"> Do not show automatically again</label><button id="guide-start" class="primary">Start editing</button></footer>
+  </dialog>
+</body>
+</html>

@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "source": "Surah/102_Takathor_html.html",
+  "sourceHash": "ce06b97a7916b272f41e332c1f5b15bbb1f403c9f6408f934db2995d6d5ff510",
+  "underlines": [
+    {
+      "id": "p102-u0001",
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "150a54ea8d9d0daa5534de640da1ad1c728d7619a5720d67b3457abfb5220f8c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c1",
+      "start": 184,
+      "end": 209,
+      "groups": [
+        "p102-local-underline-pattern-b59213265d"
+      ]
+    },
+    {
+      "id": "p102-u0002",
+      "text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "150a54ea8d9d0daa5534de640da1ad1c728d7619a5720d67b3457abfb5220f8c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c2",
+      "start": 239,
+      "end": 264,
+      "groups": [
+        "p102-local-underline-pattern-b59213265d"
+      ]
+    },
+    {
+      "id": "p102-u0003",
+      "text": "لَتَرَوُنَّ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(1)",
+      "textHash": "2290ec2fecbe5de23a16937fe02299b46ec61842ca8908cadba7b0e514d2732c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c3",
+      "start": 337,
+      "end": 348,
+      "groups": [
+        "p102-local-underline-pattern-7aca5e9160"
+      ]
+    },
+    {
+      "id": "p102-u0004",
+      "text": "لَتَرَوُنَّ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(1)",
+      "textHash": "2290ec2fecbe5de23a16937fe02299b46ec61842ca8908cadba7b0e514d2732c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p102-c4",
+      "start": 389,
+      "end": 400,
+      "groups": [
+        "p102-local-underline-pattern-7aca5e9160"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p102-local-underline-pattern-b59213265d",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p102-u0001",
+        "p102-u0002"
+      ]
+    },
+    {
+      "id": "p102-local-underline-pattern-7aca5e9160",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p102-u0003",
+        "p102-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

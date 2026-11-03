@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "source": "Surah/112_Ekhlas_html.html",
+  "sourceHash": "553105962cd84a565b64dfb74c6b616decd3365ea9200e40a32414d037c46caa",
+  "underlines": [
+    {
+      "id": "p112-u0001",
+      "text": "نزاده،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "a4040bc657e3a09a9f8aa6a554f124db6c2ce76b2679174865c86c844b315ed5",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p112-s0001",
+      "contextId": "p112-c1",
+      "start": 306,
+      "end": 312,
+      "groups": [
+        "p112-local-underline-pattern-3c35636d8e"
+      ],
+      "sourceText": "لَمْ"
+    },
+    {
+      "id": "p112-u0002",
+      "text": "",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 3,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p112-s0001",
+      "contextId": "p112-c2",
+      "start": 359,
+      "end": 360,
+      "groups": [
+        "p112-local-underline-pattern-3c35636d8e"
+      ],
+      "sourceText": "لَمْ"
+    },
+    {
+      "id": "p112-u0003",
+      "text": "کس [در",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "56dbc918f84a3b6081813955936aff9d8d23b7331c61efb96e07615ce15fa970",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p112-s0001",
+      "contextId": "p112-c3",
+      "start": 424,
+      "end": 431,
+      "groups": [
+        "p112-local-underline-pattern-3c35636d8e"
+      ],
+      "sourceText": "لَمْ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p112-local-underline-pattern-3c35636d8e",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p112-u0001",
+        "p112-u0002",
+        "p112-u0003"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p112-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "– نزاده، و – زاییده نشده است،۳ –",
+        "last": "همانند و همتا و شبیه او نمی باشد.۴"
+      },
+      "lines": [
+        "p112-l0001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "source": "Surah/101_Qareah_html.html",
+  "sourceHash": "9f7dfa30b8df38076bc65141d4ea3961f44b077b66fa09699d618b749b7a038f",
+  "underlines": [
+    {
+      "id": "p101-u0001",
+      "text": "مردم [در سراسیمگی] چون پروانه های پراکنده اند",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "5453fcb752b81c45ef9260a8d6da8583e1b50bdf5a66a988d23b3a5b7af614f5",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c1",
+      "start": 168,
+      "end": 214,
+      "groups": [
+        "p101-textual-coordination-277707498d"
+      ],
+      "sourceText": "يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ"
+    },
+    {
+      "id": "p101-u0002",
+      "text": "کوه ها مانند پشم رنگین حلاجی شده گردد!",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "textHash": "a11776c298204c398f11ddf50337fa20d41d0389f4ca5c3732de5f6d0a33ae40",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c1",
+      "start": 217,
+      "end": 255,
+      "groups": [
+        "p101-textual-coordination-277707498d"
+      ],
+      "sourceText": "تَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ"
+    },
+    {
+      "id": "p101-u0003",
+      "text": "اما هرکس اعمال وزن شده اش سنگین و باارزش است؛",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "d3d4df5ab81916935a7f12227a0217cc567a04bacbb85a3d95b334ec4351dd12",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c2",
+      "start": 289,
+      "end": 334,
+      "groups": [
+        "p101-red-green-pair-76b5fea6bb",
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ],
+      "sourceText": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ"
+    },
+    {
+      "id": "p101-u0004",
+      "text": "پس او در یک زندگی خوش و پسندیده ای است،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "textHash": "15c70b7dbe0c03424bec41eddf29f63cae8a59d05b385d4018e347b700c3853c",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c2",
+      "start": 342,
+      "end": 381,
+      "groups": [
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ],
+      "sourceText": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ"
+    },
+    {
+      "id": "p101-u0005",
+      "text": "و اما هرکساعمال وزن شده اش سبک و بی ارزش است،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "f745cd445e55e37b531309be1d9eb058ee4f81f64b7c2f9faad8d3e4ba848cb1",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-red-220-150-150 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c3",
+      "start": 415,
+      "end": 460,
+      "groups": [
+        "p101-red-green-pair-76b5fea6bb",
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ],
+      "sourceText": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ"
+    },
+    {
+      "id": "p101-u0006",
+      "text": "پس جایگاه و پناهگاهش هاویه است،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(4)",
+      "textHash": "68a67ac847847ef5371a50ed471b9a3131bbf84cdb76dd5841ff0f2a18d7ab13",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 9,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c3",
+      "start": 468,
+      "end": 499,
+      "groups": [
+        "p101-red-green-pair-71c42b141c"
+      ],
+      "sourceText": "فَأُمُّهُ هَاوِيَةٌ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p101-textual-coordination-277707498d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p101-u0001",
+        "p101-u0002"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-76b5fea6bb",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0005"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-b055a3de99",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0004",
+        "p101-u0005"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-71c42b141c",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0004",
+        "p101-u0005",
+        "p101-u0006"
+      ]
+    }
+  ],
+  "sections": []
+}

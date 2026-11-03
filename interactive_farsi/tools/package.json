@@ -1,0 +1,16 @@
+{
+  "name": "yasir-interactive-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import:ansarian": "node import-ansarian.mjs",
+    "test": "node --test *.test.mjs",
+    "serve": "node serve.mjs"
+  },
+  "devDependencies": {
+    "entities": "^6.0.0",
+    "fast-xml-parser": "^5.11.2",
+    "parse5": "^8.0.0",
+    "playwright": "^1.56.1"
+  }
+}

@@ -1,0 +1,35 @@
+@import url("shared/connection-line--1-3c1b1b19.css");
+@import url("shared/verse-group-f50dd378.css");
+@import url("shared/verse-paragraph--compact-2c0a63a7.css");
+@import url("shared/verse-paragraph--spaced-25f4dc9b.css");
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

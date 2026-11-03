@@ -1,0 +1,94 @@
+{
+  "Surah/001_Fatiha_html.html": [
+    {
+      "id": "divine-attributes",
+      "label": "Divine attributes in the opening praise",
+      "members": ["رَبِّ الْعَالَمِينَ", "الرَّحْمَـٰنِ", "الرَّحِيمِ", "مَالِكِ يَوْمِ الدِّينِ"]
+    },
+    {
+      "id": "worship-and-help",
+      "label": "Parallel declarations of worship and seeking help",
+      "members": ["إِيَّاكَ نَعْبُدُ", "إِيَّاكَ نَسْتَعِينُ"]
+    },
+    {
+      "id": "contrasting-paths",
+      "label": "Favored path contrasted with the two rejected paths",
+      "members": ["أَنْعَمْتَ عَلَيْهِمْ", "الْمَغْضُوبِ عَلَيْهِمْ", "الضَّالِّينَ"]
+    }
+  ],
+  "Surah/002_Baqarah_html.html": [
+    {
+      "id": "believers-actions",
+      "label": "Three coordinated qualities of the believers in verse 3",
+      "members": ["يُؤْمِنُونَ بِالْغَيْبِ", {"text": "يُقِيمُونَ الصَّلَاةَ", "occurrence": 0}, "مِمَّا رَزَقْنَاهُمْ يُنفِقُونَ"]
+    },
+    {
+      "id": "revelations",
+      "label": "Present and preceding revelations within the same belief statement",
+      "members": [{"text": "مَا أُنزِلَ إِلَيْكَ", "occurrence": 0}, {"text": "مَا أُنزِلَ مِن قَبْلِكَ", "occurrence": 0}]
+    },
+    {
+      "id": "warning-alternatives",
+      "label": "Warning and not warning contrasted in verse 6",
+      "members": ["أَنذَرْتَهُمْ", "لَمْ تُنذِرْهُمْ"]
+    },
+    {
+      "id": "sealed-faculties",
+      "label": "The two faculties governed by the same sealing statement",
+      "members": ["عَلَىٰ قُلُوبِهِمْ", "عَلَىٰ سَمْعِهِمْ"]
+    },
+    {
+      "id": "trade-outcomes",
+      "label": "The two negated outcomes in verse 16",
+      "members": ["مَا رَبِحَت تِّجَارَتُهُمْ", "مَا كَانُوا مُهْتَدِينَ"]
+    },
+    {
+      "id": "storm-conditions",
+      "label": "Light and darkness as contrasting conditions in verse 20",
+      "members": ["كُلَّمَا أَضَاءَ لَهُم مَّشَوْا فِيهِ", "إِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا"]
+    }
+  ],
+  "Surah/018_Kahf_html.html": [
+    { "id": "belief-alternatives", "label": "Believing and disbelieving as paired alternatives in verse 29", "members": [{"id":"p018-u0002"},{"id":"p018-u0003"}] },
+    { "id": "contrasting-destinies", "label": "Contrasting outcomes in verses 29 through 31, separate from the preceding alternatives", "members": [{"id":"p018-u0004"},{"id":"p018-u0006"}] },
+    { "id": "garden-rewards", "label": "Four coordinated descriptions within the garden passage", "members": [{"id":"p018-u0007"},{"id":"p018-u0008"},{"id":"p018-u0009"},{"id":"p018-u0010"}] },
+    { "id": "parable-introductions", "label": "Matching introductions to the two parables", "members": [{"id":"p018-u0011"},{"id":"p018-u0012"}] },
+    { "id": "veiled-faculties", "label": "The two coordinated impediments to understanding", "members": [{"id":"p018-u0015"},{"id":"p018-u0016"}] },
+    { "id": "journey-stages", "label": "Repeated introductions to the three journey incidents", "members": [{"id":"p018-u0017"},{"id":"p018-u0018"},{"id":"p018-u0019"}] }
+  ],
+  "Surah/036_Yasin_html.html": [
+    { "id": "unbelief-refrain", "label": "The repeated unbelief conclusion", "members": [{"id":"p036-u0001"},{"id":"p036-u0004"}] },
+    { "id": "paired-setting-actions", "label": "The repeated verb introducing the two impediments", "members": [{"id":"p036-u0002"},{"id":"p036-u0003"}] },
+    { "id": "sign-introductions", "label": "The earth, night, and ship sign introductions", "members": [{"id":"p036-u0005"},{"id":"p036-u0006"},{"id":"p036-u0007"}] },
+    { "id": "admonition-introductions", "label": "The two repeated admonition introductions", "members": [{"id":"p036-u0008"},{"id":"p036-u0009"}] },
+    { "id": "single-cry", "label": "The repeated single-cry expression", "members": [{"id":"p036-u0010"},{"id":"p036-u0011"}] },
+    { "id": "testifying-faculties", "label": "The three coordinated bodily faculties in verse 65", "members": [{"id":"p036-u0012"},{"id":"p036-u0013"},{"id":"p036-u0014"}] },
+    { "id": "conditional-power", "label": "The two parallel conditional statements", "members": [{"id":"p036-u0015"},{"id":"p036-u0016"}] }
+  ],
+  "Surah/055_AlRahman_html.html": [
+    { "id": "balance", "label": "The three consecutive references to the balance", "members": [{"id":"p055-u0001"},{"id":"p055-u0002"},{"id":"p055-u0003"}] },
+    { "id": "garden-pairs", "label": "The two corresponding garden-pair passages", "members": [{"id":"p055-u0004"},{"id":"p055-u0005"}] }
+  ],
+  "Surah/067_Molk_html.html": [
+    { "id": "sovereignty-and-power", "label": "The two opening attributes", "members": [{"id":"p067-u0001"},{"id":"p067-u0002"}] },
+    { "id": "creation-introductions", "label": "The repeated creation introductions", "members": [{"id":"p067-u0003"},{"id":"p067-u0006"}] },
+    { "id": "death-and-life", "label": "Death and life as coordinated objects of creation", "members": [{"id":"p067-u0004"},{"id":"p067-u0005"}] },
+    { "id": "hearing-and-reason", "label": "The two alternatives in the speakers' regret", "members": [{"id":"p067-u0008"},{"id":"p067-u0009"}] },
+    { "id": "fire-companions", "label": "The repeated companions-of-the-fire phrase", "members": [{"id":"p067-u0010"},{"id":"p067-u0011"}] },
+    { "id": "forgiveness-and-reward", "label": "The two promised outcomes", "members": [{"id":"p067-u0012"},{"id":"p067-u0013"}] },
+    { "id": "conceal-and-reveal", "label": "Concealing and revealing speech as contrasting alternatives", "members": [{"id":"p067-u0014"},{"id":"p067-u0015"}] },
+    { "id": "walk-and-eat", "label": "The two coordinated imperatives", "members": [{"id":"p067-u0018"},{"id":"p067-u0019"}] },
+    { "id": "security-questions", "label": "The two parallel security questions", "members": [{"id":"p067-u0020"},{"id":"p067-u0021"}] },
+    { "id": "wing-states", "label": "The two contrasted wing states", "members": [{"id":"p067-u0022"},{"id":"p067-u0023"}] },
+    { "id": "rejection-qualities", "label": "The two coordinated descriptions of rejection", "members": [{"id":"p067-u0024"},{"id":"p067-u0025"}] },
+    { "id": "walking-clauses", "label": "The parallel walking-clause introductions", "members": [{"id":"p067-u0026"},{"id":"p067-u0028"}] },
+    { "id": "walking-conditions", "label": "The two contrasting manners of walking", "members": [{"id":"p067-u0027"},{"id":"p067-u0029"}] },
+    { "id": "declaration-introductions", "label": "The three matching declaration introductions", "members": [{"id":"p067-u0030"},{"id":"p067-u0034"},{"id":"p067-u0044"}] },
+    { "id": "created-faculties", "label": "Hearing, sight, and hearts in the same list", "members": [{"id":"p067-u0031"},{"id":"p067-u0032"},{"id":"p067-u0033"}] },
+    { "id": "restriction-markers", "label": "The two corresponding restriction markers", "members": [{"id":"p067-u0035"},{"id":"p067-u0037"}] },
+    { "id": "consider-questions", "label": "The two matching consider-if question introductions", "members": [{"id":"p067-u0039"},{"id":"p067-u0047"}] },
+    { "id": "harm-and-mercy", "label": "The contrasting alternatives concerning the speaker and companions", "members": [{"id":"p067-u0040"},{"id":"p067-u0043"}] },
+    { "id": "speaker-and-companions", "label": "The two coordinated participants within the same nested phrase", "members": [{"id":"p067-u0041"},{"id":"p067-u0042"}] },
+    { "id": "faith-and-trust", "label": "The two parallel declarations of faith and trust", "members": [{"id":"p067-u0045"},{"id":"p067-u0046"}] }
+  ]
+}

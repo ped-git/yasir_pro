@@ -1,0 +1,1332 @@
+{
+  "version": 1,
+  "source": "Surah/019_Maryam_html.html",
+  "sourceHash": "cdac8cd5fc69f13f81c8141fda8cd5282c732ddf8fb3879fcafa343d35d33af5",
+  "underlines": [
+    {
+      "id": "p019-u0001",
+      "text": "يَا أَبَتِ",
+      "selector": "[data-underline-id=\"p019-u0001\"]",
+      "textHash": "b34a6da250e0f0e27aa8ea9ab9403ee9ccfcc6d7a2be752c90a98dff8462fc4b",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 42,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p019-s0005",
+      "contextId": "p019-c1",
+      "start": 5544,
+      "end": 5554,
+      "groups": [
+        "p019-local-underline-pattern-068366da2b"
+      ]
+    },
+    {
+      "id": "p019-u0002",
+      "text": "يَا أَبَتِ",
+      "selector": "[data-underline-id=\"p019-u0002\"]",
+      "textHash": "b34a6da250e0f0e27aa8ea9ab9403ee9ccfcc6d7a2be752c90a98dff8462fc4b",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 43,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p019-s0005",
+      "contextId": "p019-c2",
+      "start": 5685,
+      "end": 5695,
+      "groups": [
+        "p019-local-underline-pattern-068366da2b"
+      ]
+    },
+    {
+      "id": "p019-u0003",
+      "text": "يَا أَبَتِ",
+      "selector": "[data-underline-id=\"p019-u0003\"]",
+      "textHash": "b34a6da250e0f0e27aa8ea9ab9403ee9ccfcc6d7a2be752c90a98dff8462fc4b",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 44,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p019-s0005",
+      "contextId": "p019-c3",
+      "start": 5847,
+      "end": 5857,
+      "groups": [
+        "p019-local-underline-pattern-068366da2b"
+      ]
+    },
+    {
+      "id": "p019-u0004",
+      "text": "يَا أَبَتِ",
+      "selector": "[data-underline-id=\"p019-u0004\"]",
+      "textHash": "b34a6da250e0f0e27aa8ea9ab9403ee9ccfcc6d7a2be752c90a98dff8462fc4b",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 45,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p019-s0005",
+      "contextId": "p019-c4",
+      "start": 5991,
+      "end": 6001,
+      "groups": [
+        "p019-local-underline-pattern-068366da2b"
+      ]
+    },
+    {
+      "id": "beta-u-19-31-1",
+      "text": "الصَّلَاةِ",
+      "logicalText": "الصلاة",
+      "textHash": "51c41785e6ed0057586b50a306fb483d047b134a5aae667f445a8f269dc70c56",
+      "selector": "[data-underline-id=\"beta-u-19-31-1\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-31",
+      "verse": 31,
+      "groups": [
+        "beta-19-enjoined-worship"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The prescribed worship acts are positively enjoined, not neutral body/object labels."
+    },
+    {
+      "id": "beta-u-19-31-2",
+      "text": "الزَّكَاةِ",
+      "logicalText": "الزكاة",
+      "textHash": "398b0739689f19399595992d9d9a179525157df3f9133de17ddf3fbc58fc01bd",
+      "selector": "[data-underline-id=\"beta-u-19-31-2\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-31",
+      "verse": 31,
+      "groups": [
+        "beta-19-enjoined-worship"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The second positively enjoined act shares its local list relationship."
+    },
+    {
+      "id": "beta-u-19-32-3",
+      "text": "بَرًّا بِوَالِدَتِي",
+      "logicalText": "برا بوالدتي",
+      "textHash": "568e26c866ebc18d85fd98730e83f851a4d4714d9eb80f975ba90abf182bb6cc",
+      "selector": "[data-underline-id=\"beta-u-19-32-3\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-32",
+      "verse": 32,
+      "groups": [
+        "beta-19-approved-kindness"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The positive act of filial kindness is distinct from a list of recipient nouns."
+    },
+    {
+      "id": "beta-u-19-59-4",
+      "text": "أَضَاعُوا الصَّلَاةَ",
+      "logicalText": "أضاعوا الصلاة",
+      "textHash": "6b56f3a0e97ceb091d033e24ec5da74841fcaf50d1720b67c8521246a77d3c34",
+      "selector": "[data-underline-id=\"beta-u-19-59-4\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-59",
+      "verse": 59,
+      "groups": [
+        "beta-19-rejected-conduct",
+        "beta-contrast-19-repentance-exception"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-red-220-150-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "betaEditorialReason": "Neglected worship is explicitly condemned conduct."
+    },
+    {
+      "id": "beta-u-19-59-5",
+      "text": "اتَّبَعُوا الشَّهَوَاتِ",
+      "logicalText": "اتبعوا الشهوات",
+      "textHash": "0bbdd22ce7a8968c694688cb2b592a8bb24d9ae522cf7c3372bcc0d6dc162513",
+      "selector": "[data-underline-id=\"beta-u-19-59-5\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-59",
+      "verse": 59,
+      "groups": [
+        "beta-19-rejected-conduct",
+        "beta-contrast-19-repentance-exception"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-red-220-150-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "red"
+      },
+      "betaEditorialReason": "Following desires is coordinated with the condemned neglect."
+    },
+    {
+      "id": "beta-u-19-60-6",
+      "text": "تَابَ",
+      "logicalText": "تاب",
+      "textHash": "0f26c15ecb1064f2ac8b899fd81231fbeb109648303c1939f78289f3f7deff32",
+      "selector": "[data-underline-id=\"beta-u-19-60-6\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-60",
+      "verse": 60,
+      "groups": [
+        "beta-19-repentant-exception",
+        "beta-contrast-19-repentance-exception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-green-100-180-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "betaEditorialReason": "Repentance belongs to the positive exception, not the preceding condemned group."
+    },
+    {
+      "id": "beta-u-19-60-7",
+      "text": "آمَنَ",
+      "logicalText": "آمن",
+      "textHash": "f68a8fc94b85786706c2f7505cb1d5810b546de48acd35ef8574610308592e93",
+      "selector": "[data-underline-id=\"beta-u-19-60-7\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-60",
+      "verse": 60,
+      "groups": [
+        "beta-19-repentant-exception",
+        "beta-contrast-19-repentance-exception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-green-100-180-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "betaEditorialReason": "Faith is a positive act within the exception."
+    },
+    {
+      "id": "beta-u-19-60-8",
+      "text": "عَمِلَ صَالِحًا",
+      "logicalText": "عمل صالحا",
+      "textHash": "1f580cb557a634fd9b0398bbd8061d659abc894dd2268f2a3170b3e5aec4a8ac",
+      "selector": "[data-underline-id=\"beta-u-19-60-8\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-60",
+      "verse": 60,
+      "groups": [
+        "beta-19-repentant-exception",
+        "beta-contrast-19-repentance-exception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-green-100-180-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "green"
+      },
+      "betaEditorialReason": "Righteous action completes the coordinated positive exception."
+    },
+    {
+      "id": "beta-u-19-76-9",
+      "text": "الْبَاقِيَاتُ الصَّالِحَاتُ",
+      "logicalText": "الباقيات الصالحات",
+      "textHash": "ad98d34f2b1ede39f74c086a7902463b75c685caefd3d4050ebb1031755e9ee8",
+      "selector": "[data-underline-id=\"beta-u-19-76-9\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-76",
+      "verse": 76,
+      "groups": [
+        "beta-19-lasting-good"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The phrase explicitly denotes lasting approved works."
+    },
+    {
+      "id": "beta-u-19-96-10",
+      "text": "آمَنُوا",
+      "logicalText": "آمنوا",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "selector": "[data-underline-id=\"beta-u-19-96-10\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-96",
+      "verse": 96,
+      "groups": [
+        "beta-19-faith-and-deeds"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Faith and righteous deeds are the local coordinated positive acts."
+    },
+    {
+      "id": "beta-u-19-96-11",
+      "text": "عَمِلُوا الصَّالِحَاتِ",
+      "logicalText": "عملوا الصالحات",
+      "textHash": "02f3fdcfb782446c021600c0da79c7859e06d0cd8ad7bf09d58a2e85336f7bcf",
+      "selector": "[data-underline-id=\"beta-u-19-96-11\"]",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-19-96",
+      "verse": 96,
+      "groups": [
+        "beta-19-faith-and-deeds"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Righteous deeds complete the same positive pair."
+    },
+    {
+      "id": "beta-u-19-12-12",
+      "text": "خُذِ الْكِتَابَ بِقُوَّةٍ",
+      "logicalText": "خذ الكتاب بقوة",
+      "textHash": "3ec0d97f1d855be3ba9f3616afd03ba49e9b8aba0f26e02e8e5a7e5c20da4a8f",
+      "selector": "[data-underline-id=\"beta-u-19-12-12\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-12",
+      "verse": 12,
+      "groups": [
+        "beta-19-committed-reception"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The whole command describes a positively enjoined response."
+    },
+    {
+      "id": "beta-u-19-54-13",
+      "text": "صَادِقَ الْوَعْدِ",
+      "logicalText": "صادق الوعد",
+      "textHash": "a4439321b9169bd1cc088e3e589557664d7d5c5037047e8a5a5f0f8d68470ed5",
+      "selector": "[data-underline-id=\"beta-u-19-54-13\"]",
+      "parentId": null,
+      "sectionId": "p019-s0007",
+      "contextId": "beta-19-54",
+      "verse": 54,
+      "groups": [
+        "beta-19-ishmael-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the positively presented qualities in this passage."
+    },
+    {
+      "id": "beta-u-19-54-14",
+      "text": "رَسُولًا نَّبِيًّا",
+      "logicalText": "رسولا نبيا",
+      "textHash": "84b0040ca959d509db0a7d066cc9f8ec2979788865f1538b40ca7a89b8dfae4c",
+      "selector": "[data-underline-id=\"beta-u-19-54-14\"]",
+      "parentId": null,
+      "sectionId": "p019-s0007",
+      "contextId": "beta-19-54",
+      "verse": 54,
+      "groups": [
+        "beta-19-ishmael-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the positively presented qualities in this passage."
+    },
+    {
+      "id": "beta-u-19-55-15",
+      "text": "يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ",
+      "logicalText": "يأمر أهله بالصلاة والزكاة",
+      "textHash": "df9fc64a06b50e7c57413d27134f4fc35ccffc39cd4601e1662afe1ecf7d0378",
+      "selector": "[data-underline-id=\"beta-u-19-55-15\"]",
+      "parentId": null,
+      "sectionId": "p019-s0007",
+      "contextId": "beta-19-55",
+      "verse": 55,
+      "groups": [
+        "beta-19-ishmael-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Enjoining worship and being approved by his Lord continue the same commendation."
+    },
+    {
+      "id": "beta-u-19-55-16",
+      "text": "عِندَ رَبِّهِ مَرْضِيًّا",
+      "logicalText": "عند ربه مرضيا",
+      "textHash": "3e070261bd50058b36dd23d439b99afb882b1677e9f45460101cc9083f718e71",
+      "selector": "[data-underline-id=\"beta-u-19-55-16\"]",
+      "parentId": null,
+      "sectionId": "p019-s0007",
+      "contextId": "beta-19-55",
+      "verse": 55,
+      "groups": [
+        "beta-19-ishmael-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Enjoining worship and being approved by his Lord continue the same commendation."
+    },
+    {
+      "id": "beta-u-19-13-17",
+      "text": "حَنَانًا مِّن لَّدُنَّا",
+      "logicalText": "حنانا من لدنا",
+      "textHash": "1ccb974e2dd83afc2abd7b77a2cab9ee4aac0ae0f2fd04b1935271faab1a4780",
+      "selector": "[data-underline-id=\"beta-u-19-13-17\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-13",
+      "verse": 13,
+      "groups": [
+        "beta-19-granted-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The qualities are positively presented within this specific description."
+    },
+    {
+      "id": "beta-u-19-13-18",
+      "text": "زَكَاةً",
+      "logicalText": "زكاة",
+      "textHash": "80b4c4268095e9f020b6d89dc7d7b110db1323ad5f5858e133014710d2af5b84",
+      "selector": "[data-underline-id=\"beta-u-19-13-18\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-13",
+      "verse": 13,
+      "groups": [
+        "beta-19-granted-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The qualities are positively presented within this specific description."
+    },
+    {
+      "id": "beta-u-19-13-19",
+      "text": "تَقِيًّا",
+      "logicalText": "تقيا",
+      "textHash": "ed09c5a411b6b51a367b7a5a93ee5ea456ff81ea781b18975ae965bcd3e737ed",
+      "selector": "[data-underline-id=\"beta-u-19-13-19\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-13",
+      "verse": 13,
+      "groups": [
+        "beta-19-granted-qualities"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The qualities are positively presented within this specific description."
+    },
+    {
+      "id": "beta-u-19-14-20",
+      "text": "بَرًّا بِوَالِدَيْهِ",
+      "logicalText": "برا بوالديه",
+      "textHash": "471c7b8b93cee8ed23be665274c1aa4bd3d97cdb8bcc337f76df4fc03a40b89a",
+      "selector": "[data-underline-id=\"beta-u-19-14-20\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-14",
+      "verse": 14,
+      "groups": [
+        "beta-19-filial-character"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Kindness and the absence of tyrannical disobedience are good; keep the negation in the outer layer."
+    },
+    {
+      "id": "beta-u-19-14-21",
+      "text": "لَمْ يَكُن جَبَّارًا عَصِيًّا",
+      "logicalText": "لم يكن جبارا عصيا",
+      "textHash": "346e75ce4910b6254af2ae999f304a863e2ae7b457da00b682ffffbe415044e1",
+      "selector": "[data-underline-id=\"beta-u-19-14-21\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-14",
+      "verse": 14,
+      "groups": [
+        "beta-19-filial-character"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Kindness and the absence of tyrannical disobedience are good; keep the negation in the outer layer."
+    },
+    {
+      "id": "beta-u-19-14-22",
+      "text": "جَبَّارًا",
+      "logicalText": "جبارا",
+      "textHash": "97baaa18bf76eebf6dbf8b5a3cbffdc5ddf61ca38be190e69efb88a987c117da",
+      "selector": "[data-underline-id=\"beta-u-19-14-22\"]",
+      "parentId": "beta-u-19-14-21",
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-14",
+      "verse": 14,
+      "groups": [
+        "beta-19-negated-vices"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the bad qualities being denied, not asserted as belonging to the praised person."
+    },
+    {
+      "id": "beta-u-19-14-23",
+      "text": "عَصِيًّا",
+      "logicalText": "عصيا",
+      "textHash": "44876ddbe2dcf5f51925fa781c3b134357f1e9033bfd6db3ca78aee3d93e24e1",
+      "selector": "[data-underline-id=\"beta-u-19-14-23\"]",
+      "parentId": "beta-u-19-14-21",
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-14",
+      "verse": 14,
+      "groups": [
+        "beta-19-negated-vices"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "These are the bad qualities being denied, not asserted as belonging to the praised person."
+    },
+    {
+      "id": "beta-u-19-5-24",
+      "text": "هَبْ لِي مِن لَّدُنكَ وَلِيًّا",
+      "logicalText": "هب لي من لدنك وليا",
+      "textHash": "773f5b8e0c26545056fc07efae0a5c251fde7508483f039ccb01d7d380c3fde7",
+      "selector": "[data-underline-id=\"beta-u-19-5-24\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-5",
+      "verse": 5,
+      "groups": [
+        "beta-19-requested-successor"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The request is for a favorable successor in this prayer, not a neutral genealogy list."
+    },
+    {
+      "id": "beta-u-19-15-25",
+      "text": "يَوْمَ وُلِدَ",
+      "logicalText": "يوم ولد",
+      "textHash": "08a504b5f7bbb09fe847e4c0050c3b00db34632759bab240bc8a176db9389fb9",
+      "selector": "[data-underline-id=\"beta-u-19-15-25\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-15",
+      "verse": 15,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The three temporal stages are neutral categories nested under the favorable peace statement."
+    },
+    {
+      "id": "beta-u-19-15-26",
+      "text": "يَوْمَ يَمُوتُ",
+      "logicalText": "يوم يموت",
+      "textHash": "f486be63f7951fd89f317df8db3601b55c1ff027cc71f11a69eaafe20cfebc6e",
+      "selector": "[data-underline-id=\"beta-u-19-15-26\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-15",
+      "verse": 15,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The three temporal stages are neutral categories nested under the favorable peace statement."
+    },
+    {
+      "id": "beta-u-19-15-27",
+      "text": "يَوْمَ يُبْعَثُ حَيًّا",
+      "logicalText": "يوم يبعث حيا",
+      "textHash": "f3b99bb5e080f7742a5cd725e7c9ae570f34cb42aee2ee9cac9e18b5cd6c7945",
+      "selector": "[data-underline-id=\"beta-u-19-15-27\"]",
+      "parentId": null,
+      "sectionId": "p019-s0002",
+      "contextId": "beta-19-15",
+      "verse": 15,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The three temporal stages are neutral categories nested under the favorable peace statement."
+    },
+    {
+      "id": "beta-u-19-33-28",
+      "text": "يَوْمَ وُلِدتُّ",
+      "logicalText": "يوم ولدت",
+      "textHash": "4d330b1a97fab309f4ea5eb98fa5da7466eb8abcd3d2fe9f2139ac9d70f08143",
+      "selector": "[data-underline-id=\"beta-u-19-33-28\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-33",
+      "verse": 33,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The repeated stages form the corresponding neutral temporal list, not a good/bad classification of birth or death."
+    },
+    {
+      "id": "beta-u-19-33-29",
+      "text": "يَوْمَ أَمُوتُ",
+      "logicalText": "يوم أموت",
+      "textHash": "817987b308583e8e17354e14ab56d9543ee7738fa93440a29dadb6a01580d71b",
+      "selector": "[data-underline-id=\"beta-u-19-33-29\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-33",
+      "verse": 33,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The repeated stages form the corresponding neutral temporal list, not a good/bad classification of birth or death."
+    },
+    {
+      "id": "beta-u-19-33-30",
+      "text": "يَوْمَ أُبْعَثُ حَيًّا",
+      "logicalText": "يوم أبعث حيا",
+      "textHash": "3270d57336d25e7527d12ce6634bd60e26f8d38b317c114a156c7ee4e7c95613",
+      "selector": "[data-underline-id=\"beta-u-19-33-30\"]",
+      "parentId": null,
+      "sectionId": "p019-s0004",
+      "contextId": "beta-19-33",
+      "verse": 33,
+      "groups": [
+        "beta-19-life-stage-times"
+      ],
+      "betaSemanticRole": "neutral",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The repeated stages form the corresponding neutral temporal list, not a good/bad classification of birth or death."
+    },
+    {
+      "id": "beta-u-19-58-31",
+      "text": "خَرُّوا سُجَّدًا وَبُكِيًّا",
+      "logicalText": "خروا سجدا وبكيا",
+      "textHash": "a5d4c1e0d11146760fc662aa78ebc58630d4938bb0a8b3518e03b376da6d4647",
+      "selector": "[data-underline-id=\"beta-u-19-58-31\"]",
+      "parentId": null,
+      "sectionId": "p019-s0001",
+      "contextId": "beta-19-58",
+      "verse": 58,
+      "groups": [
+        "beta-19-devout-reaction"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The full response is devotion in the passage; bodily position or crying alone would not receive a global good type."
+    }
+  ],
+  "groups": [
+    {
+      "id": "p019-local-underline-pattern-068366da2b",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p019-u0001",
+        "p019-u0002",
+        "p019-u0003",
+        "p019-u0004"
+      ]
+    },
+    {
+      "id": "beta-19-enjoined-worship",
+      "label": "enjoined worship",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-31-1",
+        "beta-u-19-31-2"
+      ]
+    },
+    {
+      "id": "beta-19-approved-kindness",
+      "label": "approved kindness",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-32-3"
+      ]
+    },
+    {
+      "id": "beta-19-rejected-conduct",
+      "label": "rejected conduct",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-59-4",
+        "beta-u-19-59-5"
+      ]
+    },
+    {
+      "id": "beta-19-repentant-exception",
+      "label": "repentant exception",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-60-6",
+        "beta-u-19-60-7",
+        "beta-u-19-60-8"
+      ]
+    },
+    {
+      "id": "beta-19-lasting-good",
+      "label": "lasting good",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-76-9"
+      ]
+    },
+    {
+      "id": "beta-19-faith-and-deeds",
+      "label": "faith and deeds",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-96-10",
+        "beta-u-19-96-11"
+      ]
+    },
+    {
+      "id": "beta-19-committed-reception",
+      "label": "committed reception",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-12-12"
+      ]
+    },
+    {
+      "id": "beta-19-ishmael-qualities",
+      "label": "ishmael qualities",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-54-13",
+        "beta-u-19-54-14",
+        "beta-u-19-55-15",
+        "beta-u-19-55-16"
+      ]
+    },
+    {
+      "id": "beta-19-granted-qualities",
+      "label": "granted qualities",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-13-17",
+        "beta-u-19-13-18",
+        "beta-u-19-13-19"
+      ]
+    },
+    {
+      "id": "beta-19-filial-character",
+      "label": "filial character",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-14-20",
+        "beta-u-19-14-21"
+      ]
+    },
+    {
+      "id": "beta-19-negated-vices",
+      "label": "negated vices",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-14-22",
+        "beta-u-19-14-23"
+      ]
+    },
+    {
+      "id": "beta-19-requested-successor",
+      "label": "requested successor",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-5-24"
+      ]
+    },
+    {
+      "id": "beta-19-life-stage-times",
+      "label": "life stage times",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-15-25",
+        "beta-u-19-15-26",
+        "beta-u-19-15-27",
+        "beta-u-19-33-28",
+        "beta-u-19-33-29",
+        "beta-u-19-33-30"
+      ]
+    },
+    {
+      "id": "beta-19-devout-reaction",
+      "label": "devout reaction",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-58-31"
+      ]
+    },
+    {
+      "id": "beta-contrast-19-repentance-exception",
+      "label": "repentance exception",
+      "basis": "beta-semantic-contrast",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-19-59-4",
+        "beta-u-19-59-5",
+        "beta-u-19-60-6",
+        "beta-u-19-60-7",
+        "beta-u-19-60-8"
+      ],
+      "evidence": "Verse 60 explicitly excepts repentance, faith, and good action from the condemned neglect and desire-following in verse 59. This is a true bad/good comparison, not merely adjacent unrelated groups."
+    }
+  ],
+  "sections": [
+    {
+      "id": "p019-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا۲ إِذْ نَادَىٰ رَبَّهُ",
+        "last": "تُتْلَىٰ عَلَيْهِمْ آيَاتُ الرَّحْمَـٰنِ خَرُّوا سُجَّدًا وَبُكِيًّا ۩۵۸"
+      },
+      "lines": [
+        "p019-l0001"
+      ]
+    },
+    {
+      "id": "p019-s0002",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا۲ إِذْ نَادَىٰ رَبَّهُ",
+        "last": "عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا۱۵"
+      },
+      "lines": [
+        "p019-l0002"
+      ]
+    },
+    {
+      "id": "p019-s0003",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا",
+        "last": "إِنَّا نَحْنُ نَرِثُ الْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ۴۰"
+      },
+      "lines": [
+        "p019-l0003"
+      ]
+    },
+    {
+      "id": "p019-s0004",
+      "parentId": "p019-s0003",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انتَبَذَتْ مِنْ أَهْلِهَا",
+        "last": "اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ ۚ هَـٰذَا صِرَاطٌ مُّسْتَقِيمٌ۳۶"
+      },
+      "lines": [
+        "p019-l0004"
+      ]
+    },
+    {
+      "id": "p019-s0005",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ ۚ إِنَّهُ كَانَ صِدِّيقًا",
+        "last": "لَهُم مِّن رَّحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا۵۰"
+      },
+      "lines": [
+        "p019-l0005"
+      ]
+    },
+    {
+      "id": "p019-s0006",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا",
+        "last": "نَجِيًّا۵۲ وَوَهَبْنَا لَهُ مِن رَّحْمَتِنَا أَخَاهُ هَارُونَ نَبِيًّا۵۳"
+      },
+      "lines": [
+        "p019-l0006"
+      ]
+    },
+    {
+      "id": "p019-s0007",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ إِسْمَاعِيلَ ۚ إِنَّهُ كَانَ صَادِقَ",
+        "last": "يَأْمُرُ أَهْلَهُ بِالصَّلَاةِ وَالزَّكَاةِ وَكَانَ عِندَ رَبِّهِ مَرْضِيًّا۵۵"
+      },
+      "lines": [
+        "p019-l0007"
+      ]
+    },
+    {
+      "id": "p019-s0008",
+      "parentId": "p019-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8)",
+      "excerpt": {
+        "first": "وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ",
+        "last": "كَانَ صِدِّيقًا نَّبِيًّا۵۶ وَرَفَعْنَاهُ مَكَانًا عَلِيًّا۵۷"
+      },
+      "lines": [
+        "p019-l0008"
+      ]
+    }
+  ],
+  "betaQuotations": [
+    {
+      "id": "beta-q-019-001",
+      "surah": 19,
+      "firstVerse": 4,
+      "lastVerse": 6,
+      "requestedLastVerse": 6,
+      "first": "رب إني وهن العظم مني",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 2086,
+      "end": 2408
+    },
+    {
+      "id": "beta-q-019-002",
+      "surah": 19,
+      "firstVerse": 8,
+      "lastVerse": 8,
+      "requestedLastVerse": 8,
+      "first": "رب أنى يكون لي غلام",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 2853,
+      "end": 2956
+    },
+    {
+      "id": "beta-q-019-003",
+      "surah": 19,
+      "firstVerse": 10,
+      "lastVerse": 10,
+      "requestedLastVerse": 10,
+      "first": "رب اجعل لي آية",
+      "color": "green",
+      "until": "قال آيتك",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 3378,
+      "end": 3401
+    },
+    {
+      "id": "beta-q-019-004",
+      "surah": 19,
+      "firstVerse": 18,
+      "lastVerse": 18,
+      "requestedLastVerse": 18,
+      "first": "إني أعوذ بالرحمن منك",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 5528,
+      "end": 5583
+    },
+    {
+      "id": "beta-q-019-005",
+      "surah": 19,
+      "firstVerse": 19,
+      "lastVerse": 19,
+      "requestedLastVerse": 19,
+      "first": "إنما أنا رسول ربك",
+      "color": "gray",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 5771,
+      "end": 5833
+    },
+    {
+      "id": "beta-q-019-006",
+      "surah": 19,
+      "firstVerse": 20,
+      "lastVerse": 20,
+      "requestedLastVerse": 20,
+      "first": "أنى يكون لي غلام",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 6023,
+      "end": 6097
+    },
+    {
+      "id": "beta-q-019-007",
+      "surah": 19,
+      "firstVerse": 23,
+      "lastVerse": 23,
+      "requestedLastVerse": 23,
+      "first": "يا ليتني مت قبل هذا",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 6826,
+      "end": 6887
+    },
+    {
+      "id": "beta-q-019-008",
+      "surah": 19,
+      "firstVerse": 30,
+      "lastVerse": 33,
+      "requestedLastVerse": 33,
+      "first": "إني عبد الله",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 8509,
+      "end": 8894
+    },
+    {
+      "id": "beta-q-019-009",
+      "surah": 19,
+      "firstVerse": 42,
+      "lastVerse": 45,
+      "requestedLastVerse": 45,
+      "first": "يا أبت لم تعبد",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 11356,
+      "end": 12924
+    },
+    {
+      "id": "beta-q-019-010",
+      "surah": 19,
+      "firstVerse": 47,
+      "lastVerse": 48,
+      "requestedLastVerse": 48,
+      "first": "سلام عليك",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 13423,
+      "end": 13636
+    },
+    {
+      "id": "beta-q-019-011",
+      "surah": 19,
+      "firstVerse": 7,
+      "lastVerse": 7,
+      "requestedLastVerse": 7,
+      "first": "يا زكريا إنا نبشرك",
+      "color": "blue",
+      "until": null,
+      "implicit": true,
+      "speaker": "The announcement has no explicit reporting verb at its beginning",
+      "anchorOptions": {},
+      "start": 2578,
+      "end": 2677
+    },
+    {
+      "id": "beta-q-019-012",
+      "surah": 19,
+      "firstVerse": 10,
+      "lastVerse": 10,
+      "requestedLastVerse": 10,
+      "first": "آيتك ألا تكلم الناس",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The answering voice is marked without settling identity beyond the reported reply",
+      "anchorOptions": {},
+      "start": 3568,
+      "end": 3626
+    },
+    {
+      "id": "beta-q-019-013",
+      "surah": 19,
+      "firstVerse": 21,
+      "lastVerse": 21,
+      "requestedLastVerse": 21,
+      "first": "كذلك قال ربك",
+      "color": "gray",
+      "until": "وكان أمرا مقضيا",
+      "implicit": false,
+      "speaker": "The messenger's reply ends before the final narrative formula",
+      "anchorOptions": {},
+      "start": 6284,
+      "end": 6381
+    },
+    {
+      "id": "beta-q-019-014",
+      "surah": 19,
+      "firstVerse": 21,
+      "lastVerse": 21,
+      "requestedLastVerse": 21,
+      "first": "هو علي هين",
+      "color": "blue",
+      "until": "وكان أمرا مقضيا",
+      "implicit": false,
+      "speaker": "The cited divine words include ولنجعله آية للناس ورحمة منا and remain nested inside the messenger's report",
+      "anchorOptions": {},
+      "start": 6308,
+      "end": 6381
+    },
+    {
+      "id": "beta-q-019-015",
+      "surah": 19,
+      "firstVerse": 26,
+      "lastVerse": 26,
+      "requestedLastVerse": 26,
+      "first": "إني نذرت للرحمن صوما",
+      "color": "gray",
+      "until": null,
+      "implicit": false,
+      "speaker": "The proposed response after فقولي is not asserted as an already uttered statement",
+      "anchorOptions": {},
+      "start": 7364,
+      "end": 7439
+    },
+    {
+      "id": "beta-q-019-016",
+      "surah": 19,
+      "firstVerse": 27,
+      "lastVerse": 28,
+      "requestedLastVerse": 28,
+      "first": "يا مريم لقد جئت شيئا فريا",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The people's accusation continues through verse 28",
+      "anchorOptions": {},
+      "start": 7741,
+      "end": 7893
+    },
+    {
+      "id": "beta-q-019-017",
+      "surah": 19,
+      "firstVerse": 29,
+      "lastVerse": 29,
+      "requestedLastVerse": 29,
+      "first": "كيف نكلم من كان في المهد",
+      "color": "mixed",
+      "until": null,
+      "implicit": false,
+      "speaker": "The people's question after the gesture",
+      "anchorOptions": {},
+      "start": 8181,
+      "end": 8230
+    },
+    {
+      "id": "beta-q-019-018",
+      "surah": 19,
+      "firstVerse": 46,
+      "lastVerse": 46,
+      "requestedLastVerse": 46,
+      "first": "أراغب أنت عن آلهتي يا إبراهيم",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "Abraham's father's response and threat",
+      "anchorOptions": {},
+      "start": 13138,
+      "end": 13246
+    },
+    {
+      "id": "beta-q-019-019",
+      "surah": 19,
+      "firstVerse": 66,
+      "lastVerse": 66,
+      "requestedLastVerse": 66,
+      "first": "أإذا ما مت لسوف أخرج حيا",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The reported denial",
+      "anchorOptions": {},
+      "start": 17786,
+      "end": 17828
+    },
+    {
+      "id": "beta-q-019-020",
+      "surah": 19,
+      "firstVerse": 77,
+      "lastVerse": 77,
+      "requestedLastVerse": 77,
+      "first": "لأوتين مالا وولدا",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The boast is a reported claim, not a certified prediction",
+      "anchorOptions": {},
+      "start": 19189,
+      "end": 19218
+    },
+    {
+      "id": "beta-q-019-021",
+      "surah": 19,
+      "firstVerse": 88,
+      "lastVerse": 88,
+      "requestedLastVerse": 88,
+      "first": "اتخذ الرحمن ولدا",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The rejected attributed statement",
+      "anchorOptions": {},
+      "start": 20220,
+      "end": 20250
+    }
+  ],
+  "betaEditorialStatus": "conservative-transfer-with-review-queue"
+}

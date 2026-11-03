@@ -1,0 +1,12 @@
+.connection-line--dashed-1 {
+  border-left: 0.3mm dashed black;
+  height: 120%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 7.5mm;
+  page-break-inside: auto;
+}

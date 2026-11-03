@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "source": "Surah/107_Maaun_html.html",
+  "sourceHash": "6bc5a334715070275288dd11a127ac30d83cc954d42fd7fc4db070b11c26ad4b",
+  "underlines": [
+    {
+      "id": "p107-u0001",
+      "text": "و جفا از خود می راند،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "8a14c158033962d0e674831e4d090a4cc18f9ee8d2606e9eb6a3e2515571ff43",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p107-c1",
+      "start": 185,
+      "end": 208,
+      "groups": [
+        "p107-textual-coordination-2d2922d96b"
+      ],
+      "sourceText": "يَدُعُّ الْيَتِيمَ"
+    },
+    {
+      "id": "p107-u0002",
+      "text": "[کسی را] به طعام دادن به مستمند تشویق نمی کند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "f4d164afde8a5458e7a89a977718f7830d110a0428be876b570cf9bff47853cb",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p107-c1",
+      "start": 211,
+      "end": 258,
+      "groups": [
+        "p107-textual-coordination-2d2922d96b"
+      ],
+      "sourceText": "لَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ"
+    },
+    {
+      "id": "p107-u0003",
+      "text": "ریا می کنند",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "45d1cb69f9acffe2cd9ef8999c16b8c65401c1588c03e19ffc09f467b68e779f",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p107-s0001",
+      "contextId": "p107-c2",
+      "start": 471,
+      "end": 484,
+      "groups": [
+        "p107-textual-coordination-635549065b"
+      ],
+      "sourceText": "يُرَاءُونَ"
+    },
+    {
+      "id": "p107-u0004",
+      "text": "[دادن] وسایل و ابزار ضروری زندگی [و زکات، هدیه و صدقه به نیازمندان] دریغ می ورزند.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "e24d9ef1fad6bdca870340bb6f0139a847862949526b61fd4c37a1f7ea4e5da8",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p107-s0001",
+      "contextId": "p107-c2",
+      "start": 490,
+      "end": 572,
+      "groups": [
+        "p107-textual-coordination-635549065b"
+      ],
+      "sourceText": "يَمْنَعُونَ الْمَاعُونَ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p107-textual-coordination-2d2922d96b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p107-u0001",
+        "p107-u0002"
+      ]
+    },
+    {
+      "id": "p107-textual-coordination-635549065b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p107-u0003",
+        "p107-u0004"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p107-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "– که از نمازشان غافل و نسبت به",
+        "last": "هدیه و صدقه به نیازمندان] دریغ می ورزند.۷"
+      },
+      "lines": [
+        "p107-l0001"
+      ]
+    }
+  ]
+}

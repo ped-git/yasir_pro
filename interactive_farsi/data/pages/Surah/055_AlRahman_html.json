@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "source": "Surah/055_AlRahman_html.html",
+  "sourceHash": "0e20e98ef01feabc870e72badc699868ec29dc3c5ab04590fdd3ccd03025681f",
+  "underlines": [
+    {
+      "id": "p055-u0001",
+      "text": "مادی] ترازو نهاد؛",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "95b320d1fe4e63d5f4659cec3adf2e8fecd01b496dde296706c5e765cd700da6",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 368,
+      "end": 386,
+      "groups": [
+        "p055-balance"
+      ],
+      "sourceText": "الْمِيزَانَ"
+    },
+    {
+      "id": "p055-u0002",
+      "text": "مرز عدالت و انصاف مگذرید.]",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "e3d10b9db6460680b7f360360a764d88f4b516cfef0420a631e34d8df788da51",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 433,
+      "end": 461,
+      "groups": [
+        "p055-balance"
+      ],
+      "sourceText": "الْمِيزَانِ"
+    },
+    {
+      "id": "p055-u0003",
+      "text": "مکاهید؛",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "7a0b0cac2fbe67d172767478c2f36bed71c80ea3516e40156b6394f34d057b64",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": "p055-s0001",
+      "contextId": "p055-c1",
+      "start": 503,
+      "end": 511,
+      "groups": [
+        "p055-balance"
+      ],
+      "sourceText": "الْمِيزَانَ"
+    },
+    {
+      "id": "p055-u0004",
+      "text": "است] بترسد دو بهشت است.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "435c5e0443927f4e345afd6656313c4202d34df122acb9c83d597d8a2cae06ba",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 46,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p055-s0005",
+      "contextId": "p055-c2",
+      "start": 3728,
+      "end": 3752,
+      "groups": [
+        "p055-garden-pairs"
+      ],
+      "sourceText": "جَنَّتَانِ"
+    },
+    {
+      "id": "p055-u0005",
+      "text": "و جز آن دو بهشت، دو بهشت دیگر [هم] هست.",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(2)",
+      "textHash": "ab68518a91ec1a5a7f723a1743b38014818818e108cd4be7a018cd798b05e3bd",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 62,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p055-s0005",
+      "contextId": "p055-c3",
+      "start": 5188,
+      "end": 5227,
+      "groups": [
+        "p055-garden-pairs"
+      ],
+      "sourceText": "وَمِن دُونِهِمَا جَنَّتَانِ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p055-balance",
+      "label": "The three consecutive references to the balance",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p055-u0001",
+        "p055-u0002",
+        "p055-u0003"
+      ]
+    },
+    {
+      "id": "p055-garden-pairs",
+      "label": "The two corresponding garden-pair passages",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p055-u0004",
+        "p055-u0005"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p055-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "[خدای] رحمان۱قرآن را تعلیم داد.۲انسان را آفرید؛۳به او",
+        "last": "از نعمت های پروردگارتان را انکار می کنید؟۳۶"
+      },
+      "lines": [
+        "p055-l0001"
+      ]
+    },
+    {
+      "id": "p055-s0002",
+      "parentId": "p055-s0001",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "ای انس و جن! به زودی به [حساب]",
+        "last": "از نعمت های پروردگارتان را انکار می کنید؟۳۶"
+      },
+      "lines": [
+        "p055-l0002"
+      ]
+    },
+    {
+      "id": "p055-s0003",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "و ناگهان آسمان بشکافد و چون چرمی سرخ",
+        "last": "از نعمت های پروردگارتان را انکار می کنید؟۷۷"
+      },
+      "lines": [
+        "p055-l0003"
+      ]
+    },
+    {
+      "id": "p055-s0004",
+      "parentId": "p055-s0003",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "گناهکاران به نشانه هایشان شناخته می شوند، پس",
+        "last": "از نعمت های پروردگارتان را انکار می کنید؟۴۵"
+      },
+      "lines": [
+        "p055-l0004"
+      ]
+    },
+    {
+      "id": "p055-s0005",
+      "parentId": "p055-s0003",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "و برای کسی که از مقام پروردگارش [که",
+        "last": "از نعمت های پروردگارتان را انکار می کنید؟۷۷"
+      },
+      "lines": [
+        "p055-l0005"
+      ]
+    }
+  ]
+}

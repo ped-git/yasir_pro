@@ -1,0 +1,19 @@
+{
+  "name": "yasir-visual-editor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/storage.test.mjs",
+    "test:browser": "node tests/browser.mjs"
+  },
+  "dependencies": {
+    "lucide": "^0.468.0",
+    "parse5": "^8.0.0",
+    "postcss": "^8.5.6",
+    "postcss-selector-parser": "^7.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}

@@ -1,0 +1,158 @@
+.connection-line--1 {
+  border-left: 0.3mm solid black;
+  height: 100%;
+  position: absolute;
+  right: 7.4mm;
+}
+
+.connection-line--2 {
+  border-left: 0.3mm solid rgb(150, 150, 150);
+  height: 100%;
+  position: absolute;
+  right: 5.4mm;
+}
+
+.diamond-marker {
+  width: 1.2mm;
+  height: 1.2mm;
+  -ms-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+}
+
+.diamond-marker.connection-cap--top-1 {
+  background-color: black;
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-1 {
+  background-color: black;
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.verse-group {
+  position: relative;
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.annotation {
+  border: 1px solid rgb(150, 150, 150);
+  padding: 1px 0.529166mm;
+}
+
+.text-highlight-14 {
+  color: rgb(50, 50, 50);
+  filter: blur(0.1mm);
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

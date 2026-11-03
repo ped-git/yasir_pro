@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "source": "Surah/093_Dhoha_html.html",
+  "sourceHash": "715badcaabc6fad8fc778572549ae1568f4d9ec81d157cfcbacfa6db12b5b2ae",
+  "underlines": [
+    {
+      "id": "p093-u0001",
+      "text": "سوگند به ابتدای روز [وقتی که خورشید پرتو افشانی می کند]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "cb2d698ae75429e1d92297a372733c868f01e3cd8fdaccd4acc87daa4c84c5b2",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 100,
+      "end": 157,
+      "groups": [
+        "p093-textual-coordination-b217158f39"
+      ],
+      "sourceText": "وَالضُّحَىٰ"
+    },
+    {
+      "id": "p093-u0002",
+      "text": "و سوگند به شب آن گاه که آرام گیرد،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "3d373f082266bd8e3a444404805dda64a0fe521c6726cb05296f52f68e0709a7",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 165,
+      "end": 199,
+      "groups": [
+        "p093-textual-coordination-b217158f39"
+      ],
+      "sourceText": "وَاللَّيْلِ إِذَا سَجَىٰ"
+    },
+    {
+      "id": "p093-u0003",
+      "text": "که پروردگارت تو را رها",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "2ff07bd3b1210187b8563f097bba4cea509d5703fd2ec6550571797f3e5a1403",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 207,
+      "end": 230,
+      "groups": [
+        "p093-local-underline-pattern-7b5b44371f"
+      ],
+      "sourceText": "مَا وَدَّعَكَ"
+    },
+    {
+      "id": "p093-u0004",
+      "text": "کینه قرار نداده است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "70859a4307c52c374baf0dd5c78cf1e77f5d366af763cae1a16bf4587a633987",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p093-c1",
+      "start": 249,
+      "end": 269,
+      "groups": [
+        "p093-local-underline-pattern-7b5b44371f"
+      ],
+      "sourceText": "مَا قَلَىٰ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p093-textual-coordination-b217158f39",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p093-u0001",
+        "p093-u0002"
+      ]
+    },
+    {
+      "id": "p093-local-underline-pattern-7b5b44371f",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p093-u0003",
+        "p093-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

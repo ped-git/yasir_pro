@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "source": "Surah/086_Tareq_html.html",
+  "sourceHash": "cabf1b3bfa741fabb4e20f3cd780ed3be5d030471b8c92abd4c2a61d4c4334b8",
+  "underlines": [
+    {
+      "id": "p086-u0001",
+      "text": "به آسمان و به چیزی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "f2228926f89e74654ecc04b42ee992eec47d3b2038dc6f340bfab10c10ea781d",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c1",
+      "start": 99,
+      "end": 118,
+      "groups": [
+        "p086-textual-coordination-ee41f2c80b"
+      ],
+      "sourceText": "السَّمَاءِ"
+    },
+    {
+      "id": "p086-u0002",
+      "text": "در شب پدیدار می شود؛",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "075232e3a51d387d7ba510474085814dbec4840dd069e808f4c75906f9ed2a12",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c1",
+      "start": 122,
+      "end": 143,
+      "groups": [
+        "p086-textual-coordination-ee41f2c80b"
+      ],
+      "sourceText": "الطَّارِقِ"
+    },
+    {
+      "id": "p086-u0003",
+      "text": "استخوان های",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "635e3c36eb6a7ae5461f8875d0c3e303f4397878d53cdc4871d5274353a4b641",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c2",
+      "start": 426,
+      "end": 439,
+      "groups": [
+        "p086-textual-coordination-3aa906712d"
+      ],
+      "sourceText": "الصُّلْبِ"
+    },
+    {
+      "id": "p086-u0004",
+      "text": "زن بیرون می آید.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "541adbf1a1e14473efe98aa87fbd659ddb0823668c7fe860d43a1679482a146c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c2",
+      "start": 443,
+      "end": 461,
+      "groups": [
+        "p086-textual-coordination-3aa906712d"
+      ],
+      "sourceText": "التَّرَائِبِ"
+    },
+    {
+      "id": "p086-u0005",
+      "text": "برابر عذاب]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "0de4dacaa1409888f9f76a3f746ab3eabc9cd6fe18c78e2a64b9fcd6785be743",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c2",
+      "start": 569,
+      "end": 582,
+      "groups": [
+        "p086-local-underline-pattern-312be0f954"
+      ],
+      "sourceText": "قُوَّةٍ"
+    },
+    {
+      "id": "p086-u0006",
+      "text": "است و نه یاوری.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "textHash": "4bd94b66c15c43c6a8d8e584f53f0fe742bd2c82d7e3233932405d2ba5384320",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c2",
+      "start": 592,
+      "end": 607,
+      "groups": [
+        "p086-local-underline-pattern-312be0f954"
+      ],
+      "sourceText": "نَاصِرٍ"
+    },
+    {
+      "id": "p086-u0007",
+      "text": "به آسمان که دارای باران فراوان و پرریزش است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "e7a875ed686b109f10712c0d8cfee2cb9c3708b5cc6ab8c01e4d7d5f111346ca",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 630,
+      "end": 675,
+      "groups": [
+        "p086-textual-coordination-06f4a01933"
+      ],
+      "sourceText": "السَّمَاءِ ذَاتِ الرَّجْعِ"
+    },
+    {
+      "id": "p086-u0008",
+      "text": "باران",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "47db74267d14d70020300c26c21411b68a198883009c35ed6a2ddaa214016e33",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 3,
+      "parentId": "p086-u0007",
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 648,
+      "end": 655,
+      "groups": [
+        "p086-u0008-individual"
+      ],
+      "sourceText": "ذَاتِ"
+    },
+    {
+      "id": "p086-u0009",
+      "text": "به زمین که [برای جوشیدن چشمه ها و کشت و زرع و روییدن نباتات] دارای شکاف است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(2)",
+      "textHash": "ababf901efb2cac9c47ae2c78542ab6df509fc8821c6c78dab0a8ec5ff1b0ace",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 684,
+      "end": 761,
+      "groups": [
+        "p086-textual-coordination-06f4a01933"
+      ],
+      "sourceText": "الْأَرْضِ ذَاتِ الصَّدْعِ"
+    },
+    {
+      "id": "p086-u0010",
+      "text": "ها و کشت و زرع و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "8f82539f01f74acf9bba1b837bcdbfbdf6853021e985584f08201c99e54e8133",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 3,
+      "parentId": "p086-u0009",
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 714,
+      "end": 731,
+      "groups": [
+        "p086-u0010-individual"
+      ],
+      "sourceText": "ذَاتِ"
+    },
+    {
+      "id": "p086-u0011",
+      "text": "بی تردید که این قرآن، سخنی جداکننده [میان حق و باطل] است",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(4)",
+      "textHash": "7bcf6b36cd0718628e18aa80fb5daabee45790219949d913e2dee2d4262a2b8b",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 777,
+      "end": 833,
+      "groups": [
+        "p086-textual-coordination-07941858f9"
+      ],
+      "sourceText": "إِنَّهُ لَقَوْلٌ فَصْلٌ"
+    },
+    {
+      "id": "p086-u0012",
+      "text": "آن هرگز شوخی نیست.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(5)",
+      "textHash": "b4eaa532368de914916a524b787998577a4d827cbd316c19fd0ea13eef240982",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 14,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p086-c3",
+      "start": 837,
+      "end": 855,
+      "groups": [
+        "p086-textual-coordination-07941858f9"
+      ],
+      "sourceText": "مَا هُوَ بِالْهَزْلِ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p086-textual-coordination-ee41f2c80b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p086-u0001",
+        "p086-u0002"
+      ]
+    },
+    {
+      "id": "p086-textual-coordination-3aa906712d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p086-u0003",
+        "p086-u0004"
+      ]
+    },
+    {
+      "id": "p086-textual-coordination-06f4a01933",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p086-u0007",
+        "p086-u0009"
+      ]
+    },
+    {
+      "id": "p086-textual-coordination-07941858f9",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p086-u0011",
+        "p086-u0012"
+      ]
+    },
+    {
+      "id": "p086-local-underline-pattern-312be0f954",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p086-u0005",
+        "p086-u0006"
+      ]
+    },
+    {
+      "id": "p086-u0008-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p086-u0008"
+      ]
+    },
+    {
+      "id": "p086-u0010-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p086-u0010"
+      ]
+    }
+  ],
+  "sections": []
+}

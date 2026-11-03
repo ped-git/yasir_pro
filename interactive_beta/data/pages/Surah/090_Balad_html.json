@@ -1,0 +1,680 @@
+{
+  "version": 1,
+  "source": "Surah/090_Balad_html.html",
+  "sourceHash": "97191a7c354ea57418e507ba8c1c7532d08db408fa229bea66656c3b34bf3e44",
+  "underlines": [
+    {
+      "id": "p090-u0001",
+      "text": "هَـٰذَا الْبَلَدِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "005786812d270137333dd7258b164d7b996354b64a14abd109669c90251115c0",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c1",
+      "start": 112,
+      "end": 129,
+      "groups": [
+        "p090-local-underline-pattern-8d9a630420"
+      ]
+    },
+    {
+      "id": "p090-u0002",
+      "text": "وَالِدٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "4989a747e0c662199fe34aef081fbf284e742323d15422e9a621da83176684e5",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c1",
+      "start": 180,
+      "end": 187,
+      "groups": [
+        "p090-textual-coordination-66d458324b",
+        "p090-local-underline-pattern-8d9a630420"
+      ]
+    },
+    {
+      "id": "p090-u0003",
+      "text": "مَا وَلَدَ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "5721c31af6b782e82de2b29efc7aadb703d9b4ee6619586a7a533f82dba7d857",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c1",
+      "start": 196,
+      "end": 206,
+      "groups": [
+        "p090-textual-coordination-66d458324b",
+        "p090-local-underline-pattern-8d9a630420"
+      ]
+    },
+    {
+      "id": "p090-u0004",
+      "text": "أَيَحْسَبُ أَن",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "ef9c2108e38c6ec3c767fe401b97052e0ef431e229845e66c53c7b5750fa0d42",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c2",
+      "start": 293,
+      "end": 308,
+      "groups": [
+        "p090-exact-normalized-text-bde3afd8f2"
+      ]
+    },
+    {
+      "id": "p090-u0005",
+      "text": "أَيَحْسَبُ أَن",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(1)",
+      "textHash": "ef9c2108e38c6ec3c767fe401b97052e0ef431e229845e66c53c7b5750fa0d42",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c3",
+      "start": 429,
+      "end": 444,
+      "groups": [
+        "p090-exact-normalized-text-bde3afd8f2"
+      ]
+    },
+    {
+      "id": "p090-u0006",
+      "text": "نَجْعَل لَّهُ عَيْنَيْنِ۸ وَلِسَانًا وَشَفَتَيْنِ۹",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(1)",
+      "textHash": "4f6fa769626c0810fb05c2bddc68d79b6b6a6f39b7ed672fb0586ce5ea5e1501",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c4",
+      "start": 494,
+      "end": 556,
+      "groups": [
+        "p090-textual-coordination-fe237b8e54"
+      ]
+    },
+    {
+      "id": "p090-u0007",
+      "text": "عَيْنَيْنِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "581003947c4e1c155a243dc2574baf52758b2a6a5c6e044564b05cba69bee72c",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 4,
+      "parentId": "p090-u0006",
+      "sectionId": null,
+      "contextId": "p090-c4",
+      "start": 508,
+      "end": 518,
+      "groups": [
+        "p090-textual-coordination-09b7928287"
+      ]
+    },
+    {
+      "id": "p090-u0008",
+      "text": "لِسَانًا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "606fb091c85b7dd33b744103a947da88c4db06419872636e40b66a62ef8007c9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": "p090-u0006",
+      "sectionId": null,
+      "contextId": "p090-c4",
+      "start": 528,
+      "end": 536,
+      "groups": [
+        "p090-textual-coordination-09b7928287"
+      ]
+    },
+    {
+      "id": "p090-u0009",
+      "text": "شَفَتَيْنِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "166620a2e126ae0600d0474faf7922e5bcd78753d12de82c9b40da89f9f8ff64",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": "p090-u0006",
+      "sectionId": null,
+      "contextId": "p090-c4",
+      "start": 545,
+      "end": 555,
+      "groups": [
+        "p090-textual-coordination-09b7928287"
+      ]
+    },
+    {
+      "id": "p090-u0010",
+      "text": "هَدَيْنَاهُ النَّجْدَيْنِ۱۰",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(8) > span:nth-of-type(2)",
+      "textHash": "5f879bcec05986b67bedc5e74f77d88c96162bf0f9c8638af4b07a083c7fab28",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c4",
+      "start": 565,
+      "end": 592,
+      "groups": [
+        "p090-textual-coordination-fe237b8e54"
+      ]
+    },
+    {
+      "id": "p090-u0011",
+      "text": "فَكُّ رَقَبَةٍ۱۳",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(3)",
+      "textHash": "a83f1beb01113ffd9473a2067410c9d020244a2f36848e310635b152775008e9",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 691,
+      "end": 707,
+      "groups": [
+        "p090-textual-coordination-322c5e2945"
+      ]
+    },
+    {
+      "id": "p090-u0012",
+      "text": "فَكُّ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "edef0025af93484a4e62e810580f0cbe2821079a97a3d9b2da9e8e5fe5055115",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 13,
+      "blockIndex": 5,
+      "parentId": "p090-u0011",
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 691,
+      "end": 697,
+      "groups": [
+        "p090-u0012-individual"
+      ]
+    },
+    {
+      "id": "p090-u0013",
+      "text": "رَقَبَةٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "89d9822d636936b29dd31faee6a0e087432927b71e7c3c826386e23ddd0046f2",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 5,
+      "parentId": "p090-u0011",
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 697,
+      "end": 705,
+      "groups": [
+        "p090-u0013-individual"
+      ]
+    },
+    {
+      "id": "p090-u0014",
+      "text": "إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ۱۴ يَتِيمًا ذَا مَقْرَبَةٍ۱۵ أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ۱۶",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(4)",
+      "textHash": "830eebeb85c967fe0cd3eb8d5d742478d4d6214cd5d19c30d9bd7990a083e4b3",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 14,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 719,
+      "end": 827,
+      "groups": [
+        "p090-textual-coordination-322c5e2945"
+      ]
+    },
+    {
+      "id": "p090-u0015",
+      "text": "إِطْعَامٌ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "c7e4e6f2cf614d8c174f931eb3b844abeb27b07a669fe1b673dd058836b1c4c2",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 14,
+      "blockIndex": 5,
+      "parentId": "p090-u0014",
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 719,
+      "end": 729,
+      "groups": [
+        "p090-u0015-individual"
+      ]
+    },
+    {
+      "id": "p090-u0016",
+      "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "72477a0991bf2424b62df9bb9bd434a635f8e3bf576cfc2780b6744d85cc195d",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 15,
+      "blockIndex": 5,
+      "parentId": "p090-u0014",
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 763,
+      "end": 786,
+      "groups": [
+        "p090-textual-coordination-47e6807e1b"
+      ]
+    },
+    {
+      "id": "p090-u0017",
+      "text": "مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "587b61ee9e4b466e2e88681fd2abc9b979aab37c65c643763a3b3072e76744fb",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 16,
+      "blockIndex": 5,
+      "parentId": "p090-u0014",
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 800,
+      "end": 825,
+      "groups": [
+        "p090-textual-coordination-47e6807e1b"
+      ]
+    },
+    {
+      "id": "p090-u0018",
+      "text": "آمَنُوا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(5)",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 17,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 861,
+      "end": 868,
+      "groups": [
+        "p090-textual-coordination-bc038d65b6"
+      ]
+    },
+    {
+      "id": "p090-u0019",
+      "text": "تَوَاصَوْا بِالصَّبْرِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(6)",
+      "textHash": "e17f92fa988c26b57a49a7ad80b368eddb124e97d2cef605d7666c866bd7b5bd",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 17,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 877,
+      "end": 899,
+      "groups": [
+        "p090-textual-coordination-bc038d65b6"
+      ]
+    },
+    {
+      "id": "p090-u0020",
+      "text": "تَوَاصَوْا بِالْمَرْحَمَةِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(7)",
+      "textHash": "0792bc44f93592c998c28c282c8e9e3e8da8f2c71929a438fd3a75582ea8ba50",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 17,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 908,
+      "end": 934,
+      "groups": [
+        "p090-textual-coordination-bc038d65b6"
+      ]
+    },
+    {
+      "id": "p090-u0021",
+      "text": "أَصْحَابُ الْمَيْمَنَةِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(9) > span:nth-of-type(8)",
+      "textHash": "c49173f59b2f288f46e4691994584f57d0a2a02fbff7d4b231b95adae2ab8e92",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 18,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c5",
+      "start": 955,
+      "end": 978,
+      "groups": [
+        "p090-red-green-pair-283a96e7f6"
+      ]
+    },
+    {
+      "id": "p090-u0022",
+      "text": "كَفَرُوا بِآيَاتِنَا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(10) > span:nth-of-type(1)",
+      "textHash": "32bb67533a3ad27dae81d5b760f6a28d94b289eb17d12823e79d76497d806266",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 19,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c6",
+      "start": 1015,
+      "end": 1035,
+      "groups": [
+        "p090-u0022-individual"
+      ]
+    },
+    {
+      "id": "p090-u0023",
+      "text": "أَصْحَابُ الْمَشْأَمَةِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(10) > span:nth-of-type(2)",
+      "textHash": "1f6acbba9f8895b372935b16c8f9d663ef27bc9e4112ce21f36bfbbf460411b5",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 19,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p090-c6",
+      "start": 1041,
+      "end": 1064,
+      "groups": [
+        "p090-red-green-pair-283a96e7f6"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p090-textual-coordination-66d458324b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0002",
+        "p090-u0003"
+      ]
+    },
+    {
+      "id": "p090-textual-coordination-fe237b8e54",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0006",
+        "p090-u0010"
+      ]
+    },
+    {
+      "id": "p090-textual-coordination-09b7928287",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0007",
+        "p090-u0008",
+        "p090-u0009"
+      ]
+    },
+    {
+      "id": "p090-textual-coordination-322c5e2945",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0011",
+        "p090-u0014"
+      ]
+    },
+    {
+      "id": "p090-textual-coordination-bc038d65b6",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0018",
+        "p090-u0019",
+        "p090-u0020"
+      ]
+    },
+    {
+      "id": "p090-textual-coordination-47e6807e1b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p090-u0016",
+        "p090-u0017"
+      ]
+    },
+    {
+      "id": "p090-local-underline-pattern-8d9a630420",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p090-u0001",
+        "p090-u0002",
+        "p090-u0003"
+      ]
+    },
+    {
+      "id": "p090-exact-normalized-text-bde3afd8f2",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p090-u0004",
+        "p090-u0005"
+      ]
+    },
+    {
+      "id": "p090-red-green-pair-283a96e7f6",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p090-u0021",
+        "p090-u0023"
+      ]
+    },
+    {
+      "id": "p090-u0012-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p090-u0012"
+      ]
+    },
+    {
+      "id": "p090-u0013-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p090-u0013"
+      ]
+    },
+    {
+      "id": "p090-u0015-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p090-u0015"
+      ]
+    },
+    {
+      "id": "p090-u0022-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p090-u0022"
+      ]
+    }
+  ],
+  "sections": []
+}

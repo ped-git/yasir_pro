@@ -1,0 +1,294 @@
+@import url("shared/speech-9b03f6de.css");
+@import url("shared/speech-open-before-7c3fc813.css");
+@import url("shared/speech-lightblue-before-70174316.css");
+
+.diamond-marker.connection-cap--top-1 {
+  background-color: black;
+  top: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--bottom-1 {
+  background-color: black;
+  bottom: 0;
+  right: 7mm;
+}
+
+.diamond-marker.connection-cap--top-2 {
+  background-color: rgb(150, 150, 150);
+  top: 0;
+  right: 5.05mm;
+}
+
+.diamond-marker.connection-cap--bottom-2 {
+  background-color: rgb(150, 150, 150);
+  bottom: 0;
+  right: 5.05mm;
+}
+
+.diamond-marker.connection-cap--top-3 {
+  background-color: rgb(200, 200, 200);
+  top: 0;
+  right: 3mm;
+}
+
+.diamond-marker.connection-cap--bottom-3 {
+  background-color: rgb(200, 200, 200);
+  bottom: 0;
+  right: 3mm;
+}
+
+.connection-line--thin-1 {
+  border-left: 0.1mm solid rgb(0, 0, 0);
+
+  top: 6.5mm;
+  bottom: 4.5mm;
+  position: absolute;
+  right: 7.5mm;
+}
+
+.connection-line--thin-2 {
+  border-left: 0.1mm solid rgb(50, 50, 50);
+  top: 4.5mm;
+  bottom: 4.5mm;
+  position: absolute;
+  right: 6.5mm;
+}
+
+.connection-line--thin-3 {
+  border-left: 0.1mm solid rgb(100, 100, 100);
+  top: 6mm;
+  bottom: 4.5mm;
+  position: absolute;
+  right: 5.5mm;
+}
+
+.connection-line--thin-4 {
+  border-left: 0.1mm solid rgb(150, 150, 150);
+  top: 4.5mm;
+  bottom: 4.5mm;
+  position: absolute;
+  right: 4.5mm;
+}
+
+.line-marker {
+  height: 1mm;
+  position: absolute;
+}
+
+.line-marker.connection-cap--top-1 {
+  width: 2mm;
+  background-color: rgb(0, 0, 0);
+  top: 6mm;
+  right: 7.5mm;
+}
+
+.line-marker.connection-cap--bottom-1 {
+  width: 2mm;
+  background-color: rgb(0, 0, 0);
+  bottom: 4mm;
+  right: 7.5mm;
+}
+
+.line-marker.connection-cap--top-2 {
+  width: 3mm;
+  background-color: rgb(50, 50, 50);
+  top: 4.5mm;
+  right: 6.5mm;
+}
+
+.line-marker.connection-cap--bottom-2 {
+  width: 3mm;
+  background-color: rgb(50, 50, 50);
+  bottom: 4mm;
+  right: 6.5mm;
+}
+
+.line-marker.connection-cap--top-3 {
+  width: 4mm;
+  background-color: rgb(100, 100, 100);
+  top: 6mm;
+  right: 5.5mm;
+}
+
+.line-marker.connection-cap--bottom-3 {
+  width: 4mm;
+  background-color: rgb(100, 100, 100);
+  bottom: 4mm;
+  right: 5.5mm;
+}
+
+.line-marker.connection-cap--top-4 {
+  width: 5mm;
+  background-color: rgb(150, 150, 150);
+  top: 4.5mm;
+  right: 4.5mm;
+}
+
+.line-marker.connection-cap--bottom-4 {
+  width: 5mm;
+  background-color: rgb(150, 150, 150);
+  bottom: 4mm;
+  right: 4.5mm;
+}
+
+.verse-group {
+  position: relative;
+}
+
+.verse-indent-1 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: -1mm;
+  width: 175mm;
+  text-indent: 0mm;
+}
+
+.verse-indent-2 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  width: 75mm;
+}
+
+.verse-indent-3 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  width: 75mm;
+}
+
+.verse-indent-4 {
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify;
+  margin-top: 0mm;
+  width: 132mm;
+}
+
+.verse-paragraph--compact {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.verse-paragraph--spaced {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: 0mm;
+}
+
+.small-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 15mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.small-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 15mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -5mm;
+}
+
+.big-bullet--compact {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 0mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.big-bullet--spaced {
+  margin-top: 0mm;
+  margin-right: 16.5mm;
+  margin-bottom: 4.5mm;
+  margin-left: 10mm;
+  text-align: justify;
+  text-indent: -6.5mm;
+}
+
+.annotation {
+  border: 1px dashed rgb(150, 150, 150);
+  padding: 2px 0.529166mm;
+}
+
+.spacing-reset {
+  margin-top: 0mm;
+  margin-right: 13mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -13mm;
+}
+
+.spacing-reset-2 {
+  margin-top: 0mm;
+  margin-right: 10mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -10mm;
+}
+
+.text-highlight-1 {
+  color: rgb(70, 175, 70);
+}
+
+.text-highlight-2 {
+  color: rgb(205, 100, 100);
+}
+
+.text-highlight-3 {
+  color: rgb(0, 150, 255);
+}
+
+.text-highlight-7 {
+  color: violet;
+}
+
+@media print {
+  .print-header {
+    position: fixed;
+    top: 0mm;
+    left: 40mm;
+    right: 40mm;
+    text-align: left;
+    font-size: 5mm;
+  }
+
+  .print-content {
+    margin-top: 17mm;
+    margin-bottom: 17mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+  }
+
+  .print-page-spacer {
+    margin-bottom: calc(100vh - 20px);
+  }
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  width: 190mm;
+  font-size: 4.5mm;
+  line-height: 240%;
+  font-family: "KFGQPC Uthman Taha Naskh";
+}

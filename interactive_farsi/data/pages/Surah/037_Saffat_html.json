@@ -1,0 +1,1403 @@
+{
+  "version": 1,
+  "source": "Surah/037_Saffat_html.html",
+  "sourceHash": "36cb4bd4c31e7e907541a69deacc5233fe642480b92fcc6ba5bfc75c57352237",
+  "underlines": [
+    {
+      "id": "p037-u0001",
+      "text": "سوگند به صف بستگان [مانند فرشتگان، نمازگزاران و جهادگران] که صفی [منظم و استوار] بسته اند،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(1)",
+      "textHash": "607ee3df1a937e299d3e4a218b0dec24098db1120881c424feb833b00106eab9",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 105,
+      "end": 195,
+      "groups": [
+        "p037-textual-coordination-61ead7323a"
+      ],
+      "sourceText": "وَالصَّافَّاتِ صَفًّا"
+    },
+    {
+      "id": "p037-u0002",
+      "text": "و به بازدارندگان که [انسان را از گناهان] به شدت باز می دارند،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(2)",
+      "textHash": "a37a257a26c2e263927925c79c4981bc0318650078d3d8528e8a837bab72a17c",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 203,
+      "end": 265,
+      "groups": [
+        "p037-textual-coordination-61ead7323a"
+      ],
+      "sourceText": "فَالزَّاجِرَاتِ زَجْرًا"
+    },
+    {
+      "id": "p037-u0003",
+      "text": "و به تلاوت کنندگان وحی،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(3)",
+      "textHash": "cae91ef6767cc69187d05684246f9e27a3e60e64d5470a3f52e1e6fee9fec9c7",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 273,
+      "end": 296,
+      "groups": [
+        "p037-textual-coordination-61ead7323a"
+      ],
+      "sourceText": "فَالتَّالِيَاتِ ذِكْرًا"
+    },
+    {
+      "id": "p037-u0004",
+      "text": "پروردگار آسمان ها وزمین وآنچه میان آنهاست، و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(4)",
+      "textHash": "b9d4630898f773a705d65696e3525bcd24e5e7dcd5499834d7a98c630e3979fa",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 337,
+      "end": 381,
+      "groups": [
+        "p037-textual-coordination-b7cf869ab5"
+      ],
+      "sourceText": "رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا"
+    },
+    {
+      "id": "p037-u0005",
+      "text": "آسمان ها",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "611d647d85e34d618cbb1935fcfbdd8c6320efa364c1cef3af3cbcea306b1c53",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p037-u0004",
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 345,
+      "end": 355,
+      "groups": [
+        "p037-textual-coordination-6f3e46779f"
+      ],
+      "betaEditorialReason": "The heavens and earth are coordinated neutral objects of lordship, not independently good acts.",
+      "betaSemanticRole": "neutral",
+      "sourceText": "السَّمَاوَاتِ"
+    },
+    {
+      "id": "p037-u0006",
+      "text": "وزمین وآنچه",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "9fd1756734a2d4f212377e5f26fc07b94f886579a4945f45c99cef0d09ed1060",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed ul-color-gray-220",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dashed",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p037-u0004",
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 355,
+      "end": 366,
+      "groups": [
+        "p037-textual-coordination-6f3e46779f"
+      ],
+      "betaEditorialReason": "The heavens and earth are coordinated neutral objects of lordship, not independently good acts.",
+      "betaSemanticRole": "neutral",
+      "sourceText": "الْأَرْضِ"
+    },
+    {
+      "id": "p037-u0007",
+      "text": "میان آنهاست، و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "d41a4e2f1c0c6b061857df6de150ccef7c94c81f8ec75dd254767546a16c3178",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p037-u0004",
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 367,
+      "end": 381,
+      "groups": [
+        "p037-textual-coordination-6f3e46779f"
+      ],
+      "sourceText": "مَا بَيْنَهُمَا"
+    },
+    {
+      "id": "p037-u0008",
+      "text": "پروردگار مشرق ها،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(5)",
+      "textHash": "fc890f02983f1e8abccae20a80d0e4affe5564b1c33a59b126661c1b1341a282",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 382,
+      "end": 399,
+      "groups": [
+        "p037-textual-coordination-b7cf869ab5"
+      ],
+      "sourceText": "رَبُّ الْمَشَارِقِ"
+    },
+    {
+      "id": "p037-u0009",
+      "text": "مشرق ها،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(2) > span:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "b1ba9ac50c12df89bef6f7b47d601ba772565fabdf3d471a5728f9bd934d361b",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": "p037-u0008",
+      "sectionId": null,
+      "contextId": "p037-c1",
+      "start": 390,
+      "end": 399,
+      "groups": [
+        "p037-u0009-individual"
+      ],
+      "sourceText": "الْمَشَارِقِ"
+    },
+    {
+      "id": "p037-u0010",
+      "text": "کنی و آنان مسخره می کنند،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "68f9e53458181c0a52de81037d7b81a08d2fcbf2b8b99453287def2505dbdca0",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 12,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c2",
+      "start": 1113,
+      "end": 1139,
+      "groups": [
+        "p037-textual-coordination-e934a57f9b"
+      ],
+      "sourceText": "يَسْخَرُونَ"
+    },
+    {
+      "id": "p037-u0011",
+      "text": "هنگامی که به آنان تذکر، می دهند متذکّر نمی شوند؛",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "textHash": "7881e7b3cbb2e973f989be0618e31b950169a6379f346aba4c8452b7820b7c44",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 13,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c2",
+      "start": 1143,
+      "end": 1193,
+      "groups": [
+        "p037-textual-coordination-e934a57f9b"
+      ],
+      "sourceText": "إِذَا ذُكِّرُوا لَا يَذْكُرُونَ"
+    },
+    {
+      "id": "p037-u0012",
+      "text": "معجزه ای را می بینند به شدت مسخره می کنند [و دیگران را هم به مسخره وامی دارند،]",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "ef80c9ca658277dba8d1374cf6a4920a4261d0ff620b2d17eed474c4d5ada2bd",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 14,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c2",
+      "start": 1200,
+      "end": 1284,
+      "groups": [
+        "p037-textual-coordination-e934a57f9b"
+      ],
+      "sourceText": "إِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ"
+    },
+    {
+      "id": "p037-u0013",
+      "text": "ستمکاران و هم ردیفان آنان",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(7) > span:nth-of-type(3)",
+      "textHash": "513d9fb7b0d02296db94892a5f6d77e715c169ee441d31bed85636651b53c8ed",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 22,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c3",
+      "start": 1973,
+      "end": 1999,
+      "groups": [
+        "p037-textual-coordination-af05808048"
+      ],
+      "sourceText": "الَّذِينَ ظَلَمُوا"
+    },
+    {
+      "id": "p037-u0014",
+      "text": "معبودهایی را که همواره",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(7) > span:nth-of-type(4)",
+      "textHash": "2851358972c49c612d735e01625ba1a4126221af4e5f78871d409a78934154e8",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 22,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c3",
+      "start": 2001,
+      "end": 2024,
+      "groups": [
+        "p037-textual-coordination-af05808048"
+      ],
+      "sourceText": "أَزْوَاجَهُمْ"
+    },
+    {
+      "id": "p037-u0015",
+      "text": "به جای خدا می پرستیدند، گرد آورید.۲۲پس همه را به",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(7) > span:nth-of-type(5)",
+      "textHash": "f603ee6afef45f4a02a25528b4ddfd29f43aae54dc53977570f4771d1394411a",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 22,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c3",
+      "start": 2025,
+      "end": 2074,
+      "groups": [
+        "p037-textual-coordination-af05808048"
+      ],
+      "sourceText": "مَا كَانُوا يَعْبُدُونَ۲۲ مِن دُونِ اللَّهِ"
+    },
+    {
+      "id": "p037-u0016",
+      "text": "زیرا آنان چنین بودند که هر زمان به آنان می گفتند: معبودی جز خدا نیست، تکبّر می کردند،",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(14) > span:nth-of-type(1)",
+      "textHash": "86eedce69adb8453abe250d624309862f0b292de87baa04387be07e6f7cfae47",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 35,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c4",
+      "start": 3132,
+      "end": 3219,
+      "groups": [
+        "p037-textual-coordination-4fad725895"
+      ],
+      "sourceText": "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَـٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ"
+    },
+    {
+      "id": "p037-u0017",
+      "text": "[همواره] می گفتند: آیا باید به خاطر شاعری دیوانه معبودان خود را رها کنیم؟!",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2) > p:nth-of-type(14) > span:nth-of-type(2)",
+      "textHash": "94a0f3abbf7d6414568c486e5a4654e00e6b5e2c6cc78accc51c87b29f454fff",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 36,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": "p037-s0001",
+      "contextId": "p037-c4",
+      "start": 3223,
+      "end": 3298,
+      "groups": [
+        "p037-textual-coordination-4fad725895"
+      ],
+      "sourceText": "يَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَّجْنُونٍ"
+    },
+    {
+      "id": "p037-u0018",
+      "text": "و در میان آیندگان برای او نام نیک به جا گذاشتیم؛۷۸ سلام بر نوح در میان جهانیان.۷۹به راستی ما نیکوکاران را این گونه پاداش می دهیم.۸۰بی تردید او از بندگان مؤمن ما بود.۸۱",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(3) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "27b8b368e0a2c9afcace7c0ddeba1b66e2ae8c7ac972e35dc5fd76a876c4a970",
+      "appearance": {
+        "signature": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-color-gray-100 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 78,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": "p037-s0005",
+      "contextId": "p037-c5",
+      "start": 6452,
+      "end": 6630,
+      "groups": [
+        "p037-u0018-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only. Separate the newly nested underline levels so their different patterns remain visible.",
+      "betaSemanticRole": "good",
+      "sourceText": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ۷۸ سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ۷۹ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ۸۰ إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ۸۱"
+    },
+    {
+      "id": "p037-u0019",
+      "text": "l",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(16) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "textHash": "acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 104,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "p037-c6",
+      "start": 8669,
+      "end": 8670,
+      "groups": [
+        "p037-u0019-individual"
+      ],
+      "sourceText": "l"
+    },
+    {
+      "id": "p037-u0020",
+      "text": "و در میان آیندگان برای او [نام نیک] به جا گذاشتیم.۱۰۸ سلام بر ابراهیم.۱۰۹[ما] نیکوکاران را این گونه پاداش می دهیم.۱۱۰بی تردید او از بندگان مؤمن ما بود،۱۱۱",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(1)",
+      "textHash": "60bf4e35057dcf317a13cdd26d9325430140d46d85a10063c90a6773519179d9",
+      "appearance": {
+        "signature": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-color-gray-100 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 108,
+      "blockIndex": 7,
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "p037-c7",
+      "start": 8992,
+      "end": 9157,
+      "groups": [
+        "p037-u0020-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only. Separate the newly nested underline levels so their different patterns remain visible.",
+      "betaSemanticRole": "good",
+      "sourceText": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ۱۰۸ سَلَامٌ عَلَىٰ إِبْرَاهِيمَ۱۰۹ كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ۱۱۰ إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ۱۱۱"
+    },
+    {
+      "id": "p037-u0021",
+      "text": "و در میان آیندگان برای هر دو نفر نام نیک به جا گذاشتیم.۱۱۹ سلام بر موسی و هارون.۱۲۰ما نیکوکاران را این گونه پاداش می دهیم.۱۲۱بی تردید هر دو از بندگان مؤمن ما بودند،۱۲۲",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(5) > p:nth-of-type(1) > span:nth-of-type(3)",
+      "textHash": "aab4bfc17a839d7925790fac7f5b4cb78c0b55155118c48db95f64027212144c",
+      "appearance": {
+        "signature": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-color-gray-100 ul-pad-y-2px",
+        "structure": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 119,
+      "blockIndex": 8,
+      "parentId": null,
+      "sectionId": "p037-s0007",
+      "contextId": "p037-c8",
+      "start": 9613,
+      "end": 9791,
+      "groups": [
+        "p037-u0021-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only. Separate the newly nested underline levels so their different patterns remain visible.",
+      "betaSemanticRole": "good",
+      "sourceText": "وَتَرَكْنَا عَلَيْهِمَا فِي الْآخِرِينَ۱۱۹ سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ۱۲۰ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ۱۲۱ إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ۱۲۲"
+    },
+    {
+      "id": "p037-u0022",
+      "text": "و در میان آیندگان برای او نام نیک به جا گذاشتیم.۱۲۹سلام بر آل یاسین.۱۳۰ما نیکوکاران را این گونه پاداش می دهیم.۱۳۱بی تردید او از بندگان مؤمن ما بود.۱۳۲",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(6) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "a94bc94e0e063515aa7a8f319f090b4529b85af2892ae118a47ae42a31558e7b",
+      "appearance": {
+        "signature": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "verse": 129,
+      "blockIndex": 9,
+      "parentId": null,
+      "sectionId": "p037-s0008",
+      "contextId": "p037-c9",
+      "start": 10300,
+      "end": 10451,
+      "groups": [
+        "p037-u0022-individual"
+      ],
+      "betaEditorialReason": "Preserve the existing annotated semantic role but remove unpaired comparison color; gray is group identity only.",
+      "betaSemanticRole": "good",
+      "sourceText": "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ۱۲۹ سَلَامٌ عَلَىٰ إِلْ يَاسِينَ۱۳۰ إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ۱۳۱ إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ۱۳۲"
+    },
+    {
+      "id": "beta-u-37-79-1",
+      "text": "سلام بر نوح در میان جهانیان.",
+      "logicalText": "سلام على نوح في العالمين",
+      "textHash": "94fcc425549f527724fddda14cabfbba2afc0cd4473b4004df36fcf2777c7040",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(3) > p:nth-of-type(1) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": "p037-u0018",
+      "sectionId": "p037-s0005",
+      "contextId": "beta-37-79",
+      "verse": 79,
+      "groups": [
+        "beta-37-peace-refrains"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The peace formula is an explicit blessing, not neutral narrative vocabulary.",
+      "start": 6513,
+      "end": 6541,
+      "sourceText": "سَلَامٌ عَلَىٰ نُوحٍ فِي الْعَالَمِينَ"
+    },
+    {
+      "id": "beta-u-37-109-2",
+      "text": "سلام بر ابراهیم.",
+      "logicalText": "سلام على إبراهيم",
+      "textHash": "41b02418eb53c1b6406efebdfa5d98e4b2fa6104bbc08c2d0ea146d269eeadce",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": "p037-u0020",
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-109",
+      "verse": 109,
+      "groups": [
+        "beta-37-peace-refrains"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "Repeated positive peace formula in the same surah.",
+      "start": 9056,
+      "end": 9072,
+      "sourceText": "سَلَامٌ عَلَىٰ إِبْرَاهِيمَ"
+    },
+    {
+      "id": "beta-u-37-120-3",
+      "text": "سلام بر موسی و هارون.",
+      "logicalText": "سلام على موسى وهارون",
+      "textHash": "4b25a9346e58b498b2b3b29e9e2e33a4098cb50a394f6389e55af5ddf0816ac0",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(5) > p:nth-of-type(1) > span:nth-of-type(3) > span:nth-of-type(1)",
+      "parentId": "p037-u0021",
+      "sectionId": "p037-s0007",
+      "contextId": "beta-37-120",
+      "verse": 120,
+      "groups": [
+        "beta-37-peace-refrains"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The same positive refrain links this prophetic pair with the previous blessings.",
+      "start": 9682,
+      "end": 9703,
+      "sourceText": "سَلَامٌ عَلَىٰ مُوسَىٰ وَهَارُونَ"
+    },
+    {
+      "id": "beta-u-37-84-4",
+      "text": "به سوی پروردگارش آمد.",
+      "logicalText": "بقلب سليم",
+      "textHash": "4089ebc7f54a773529900a8b19766909574f3d8267ab58b06735c65cfd461db7",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-84",
+      "verse": 84,
+      "groups": [
+        "beta-37-sound-disposition"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The explicitly sound disposition is good; the bare heart faculty would be neutral.",
+      "start": 6786,
+      "end": 6807,
+      "sourceText": "بِقَلْبٍ سَلِيمٍ"
+    },
+    {
+      "id": "beta-u-37-102-5",
+      "text": "انجام ده اگر خدا بخواهد مرا از شکیبایان خواهی یافت.",
+      "logicalText": "ستجدني إن شاء الله من الصابرين",
+      "textHash": "b352d5ddfdbcf652549b87538252464611d8271654f647496accb5e7ae3f1284",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(14) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-102",
+      "verse": 102,
+      "groups": [
+        "beta-37-patient-response"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The commitment to patience is the approved response in the quoted turn.",
+      "start": 8453,
+      "end": 8504,
+      "sourceText": "سَتَجِدُنِي إِن شَاءَ اللَّهُ مِنَ الصَّابِرِينَ"
+    },
+    {
+      "id": "beta-u-37-180-6",
+      "text": "پروردگارت که دارای عزت است از آنچه او را به آن توصیف می کنند، منزّه است.",
+      "logicalText": "سبحان ربك رب العزة عما يصفون",
+      "textHash": "9088434d739d981f4edfcabbeedf9422426975b57473cec1eef408386e68f2fa",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(16) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-37-180",
+      "verse": 180,
+      "groups": [
+        "beta-37-closing-praise"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The whole expression is praise, not a bad claim inherited from the rejected description.",
+      "start": 13666,
+      "end": 13739,
+      "sourceText": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ"
+    },
+    {
+      "id": "beta-u-37-181-7",
+      "text": "سلام بر پیامبران",
+      "logicalText": "سلام على المرسلين",
+      "textHash": "8998707771d4c837e80195ad5f06cbc88855f9e73382543acf496cb2e4bf639a",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(16) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-37-181",
+      "verse": 181,
+      "groups": [
+        "beta-37-closing-praise"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The blessing continues the positive closing sequence.",
+      "start": 13743,
+      "end": 13760,
+      "sourceText": "سَلَامٌ عَلَى الْمُرْسَلِينَ"
+    },
+    {
+      "id": "beta-u-37-182-8",
+      "text": "همه ستایش ها ویژه خداست که پروردگار جهانیان است.",
+      "logicalText": "الحمد لله رب العالمين",
+      "textHash": "c0e0fd914d44464d93cf089f476783b46c00c61a47594b2d2366bc5814e992cb",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(16) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "beta-37-182",
+      "verse": 182,
+      "groups": [
+        "beta-37-closing-praise"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The praise completes the linked closing sequence.",
+      "start": 13765,
+      "end": 13813,
+      "sourceText": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ"
+    },
+    {
+      "id": "beta-u-37-101-9",
+      "text": "بردبار مژده دادیم.",
+      "logicalText": "غلام حليم",
+      "textHash": "0af1b474a29b4606ef83d9896b00c15a88d5d341ec4cff539d54a3fcc66a99ff",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(12) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-101",
+      "verse": 101,
+      "groups": [
+        "beta-37-promised-character"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The phrase presents the promised person with an explicitly good character qualification.",
+      "start": 8216,
+      "end": 8234,
+      "sourceText": "غُلَامٍ حَلِيمٍ"
+    },
+    {
+      "id": "beta-u-37-113-10",
+      "text": "و",
+      "logicalText": "محسن",
+      "textHash": "6245b4d08f3f2a9905b0ea09e27274fc55ae4d807d46623baaf9467c3d66fa4c",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-113",
+      "verse": 113,
+      "groups": [
+        "beta-37-good-descendant-quality"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-180",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The favorable quality is explicitly contrasted with self-wronging, not inferred from family identity.",
+      "start": 9281,
+      "end": 9284,
+      "sourceText": "مُحْسِنٌ"
+    },
+    {
+      "id": "beta-u-37-113-11",
+      "text": "آشکارا ستمکار بر خویشند،",
+      "logicalText": "ظالم لنفسه مبين",
+      "textHash": "72f79bd5c66d80f9ef98fbfda05b2cfcb0fdc6dcfa7e8c8504b2c881f0cb5204",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4) > p:nth-of-type(17) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": "p037-s0006",
+      "contextId": "beta-37-113",
+      "verse": 113,
+      "groups": [
+        "beta-37-bad-descendant-quality"
+      ],
+      "betaSemanticRole": "bad",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The negative quality is the opposed side within the same descendant group.",
+      "start": 9288,
+      "end": 9313,
+      "sourceText": "ظَالِمٌ لِّنَفْسِهِ مُبِينٌ"
+    },
+    {
+      "id": "beta-u-37-117-12",
+      "text": "بسیار روشنگر عطا کردیم،",
+      "logicalText": "الكتاب المستبين",
+      "textHash": "35cea8c1b8d0eb48c59108d2a33c6df8b7afe38e6753ea1ac2751c3c52581d3d",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(5) > p:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": null,
+      "sectionId": "p037-s0007",
+      "contextId": "beta-37-117",
+      "verse": 117,
+      "groups": [
+        "beta-37-granted-clarity"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The explicit clarity qualifies the granted object positively in the passage.",
+      "start": 9543,
+      "end": 9567,
+      "sourceText": "الْكِتَابَ الْمُسْتَبِينَ"
+    },
+    {
+      "id": "beta-u-37-118-13",
+      "text": "هدایتشان نمودیم،",
+      "logicalText": "الصراط المستقيم",
+      "textHash": "bc55840962272302439df61d21f2e34201eaae3dff3ee3ec38e475280143ce44",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(5) > p:nth-of-type(1) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": "p037-s0007",
+      "contextId": "beta-37-118",
+      "verse": 118,
+      "groups": [
+        "beta-37-granted-clarity"
+      ],
+      "betaSemanticRole": "good",
+      "appearance": {
+        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-100",
+        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
+        "colorFamily": "gray"
+      },
+      "betaEditorialReason": "The explicitly straight path is favorable guidance in the linked statement.",
+      "start": 9582,
+      "end": 9599,
+      "sourceText": "الصِّرَاطَ الْمُسْتَقِيمَ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p037-textual-coordination-61ead7323a",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0001",
+        "p037-u0002",
+        "p037-u0003"
+      ]
+    },
+    {
+      "id": "p037-textual-coordination-b7cf869ab5",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0004",
+        "p037-u0008"
+      ]
+    },
+    {
+      "id": "p037-textual-coordination-6f3e46779f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0005",
+        "p037-u0006",
+        "p037-u0007"
+      ]
+    },
+    {
+      "id": "p037-textual-coordination-e934a57f9b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0010",
+        "p037-u0011",
+        "p037-u0012"
+      ]
+    },
+    {
+      "id": "p037-textual-coordination-af05808048",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0013",
+        "p037-u0014",
+        "p037-u0015"
+      ]
+    },
+    {
+      "id": "p037-textual-coordination-4fad725895",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p037-u0016",
+        "p037-u0017"
+      ]
+    },
+    {
+      "id": "p037-u0009-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0009"
+      ]
+    },
+    {
+      "id": "p037-u0018-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0018"
+      ]
+    },
+    {
+      "id": "p037-u0019-individual",
+      "label": "Symbol marker; not a textual relationship",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0019"
+      ]
+    },
+    {
+      "id": "p037-u0020-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0020"
+      ]
+    },
+    {
+      "id": "p037-u0021-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0021"
+      ]
+    },
+    {
+      "id": "p037-u0022-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p037-u0022"
+      ]
+    },
+    {
+      "id": "beta-37-peace-refrains",
+      "label": "peace refrains",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-79-1",
+        "beta-u-37-109-2",
+        "beta-u-37-120-3"
+      ]
+    },
+    {
+      "id": "beta-37-sound-disposition",
+      "label": "sound disposition",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-84-4"
+      ]
+    },
+    {
+      "id": "beta-37-patient-response",
+      "label": "patient response",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-102-5"
+      ]
+    },
+    {
+      "id": "beta-37-closing-praise",
+      "label": "closing praise",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-180-6",
+        "beta-u-37-181-7",
+        "beta-u-37-182-8"
+      ]
+    },
+    {
+      "id": "beta-37-promised-character",
+      "label": "promised character",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-101-9"
+      ]
+    },
+    {
+      "id": "beta-37-good-descendant-quality",
+      "label": "good descendant quality",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-113-10"
+      ]
+    },
+    {
+      "id": "beta-37-bad-descendant-quality",
+      "label": "bad descendant quality",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-113-11"
+      ]
+    },
+    {
+      "id": "beta-37-granted-clarity",
+      "label": "granted clarity",
+      "basis": "beta-editorial-content",
+      "reviewStatus": "beta-editorial",
+      "members": [
+        "beta-u-37-117-12",
+        "beta-u-37-118-13"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p037-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "excerpt": {
+        "first": "بلکه [تو از انکارشان] تعجب می کنی و",
+        "last": "همواره انجام می دادید، پاداش داده نمی شوید،۳۹"
+      },
+      "lines": [
+        "p037-l0001"
+      ]
+    },
+    {
+      "id": "p037-s0002",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "جز بندگان خالص شده خدا [که از هر",
+        "last": "باید برای چنین پاداشی عمل کنندگان عمل کنند.۶۱"
+      },
+      "lines": [
+        "p037-l0002"
+      ]
+    },
+    {
+      "id": "p037-s0003",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "آیا این [بهشت جاودان پر نعمت] برای پذیرایی",
+        "last": "بود؟۷۳[همه هلاک شدند] جز بندگان خالص شده خدا،۷۴"
+      },
+      "lines": [
+        "p037-l0003"
+      ]
+    },
+    {
+      "id": "p037-s0004",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "و نوح ما را ندا کرد [و ما",
+        "last": "نعمت ها و مواهب خود] بهره مند کردیم.۱۴۸"
+      },
+      "lines": [
+        "p037-l0004"
+      ]
+    },
+    {
+      "id": "p037-s0005",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(3)",
+      "excerpt": {
+        "first": "و نوح ما را ندا کرد [و ما",
+        "last": "بندگان مؤمن ما بود.۸۱سپس دیگران را غرق کردیم؛۸۲"
+      },
+      "lines": [
+        "p037-l0005"
+      ]
+    },
+    {
+      "id": "p037-s0006",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(4)",
+      "excerpt": {
+        "first": "و به راستی ابراهیم از پیروان نوح بود،۸۳هنگامی",
+        "last": "برخی نیکوکارند و برخی آشکارا ستمکار بر خویشند،۱۱۳"
+      },
+      "lines": [
+        "p037-l0006"
+      ]
+    },
+    {
+      "id": "p037-s0007",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(5)",
+      "excerpt": {
+        "first": "و به راستی ما به موسی و هارون",
+        "last": "تردید هر دو از بندگان مؤمن ما بودند،۱۲۲"
+      },
+      "lines": [
+        "p037-l0007"
+      ]
+    },
+    {
+      "id": "p037-s0008",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(6)",
+      "excerpt": {
+        "first": "و بی تردید الیاس از پیامبران بود.۱۲۳ t",
+        "last": "دهیم.۱۳۱بی تردید او از بندگان مؤمن ما بود.۱۳۲"
+      },
+      "lines": [
+        "p037-l0008"
+      ]
+    },
+    {
+      "id": "p037-s0009",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(7)",
+      "excerpt": {
+        "first": "و بی تردید لوط از پیامبران بود.۱۳۳[یاد کن]",
+        "last": "می کنید،۱۳۷و نیز شبانگاهان، آیا تعقّل نمی کنید؟۱۳۸"
+      },
+      "lines": [
+        "p037-l0009"
+      ]
+    },
+    {
+      "id": "p037-s0010",
+      "parentId": "p037-s0004",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(8)",
+      "excerpt": {
+        "first": "و یونس از پیامبران بود.۱۳۹[یاد کن] هنگامی را",
+        "last": "نعمت ها و مواهب خود] بهره مند کردیم.۱۴۸"
+      },
+      "lines": [
+        "p037-l0010"
+      ]
+    }
+  ],
+  "betaQuotations": [
+    {
+      "id": "beta-q-037-001",
+      "surah": 37,
+      "firstVerse": 20,
+      "lastVerse": 20,
+      "requestedLastVerse": 20,
+      "first": "يا ويلنا هذا يوم الدين",
+      "color": "red",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 6665,
+      "end": 6702
+    },
+    {
+      "id": "beta-q-037-002",
+      "surah": 37,
+      "firstVerse": 28,
+      "lastVerse": 28,
+      "requestedLastVerse": 28,
+      "first": "إنكم كنتم تأتوننا عن اليمين",
+      "color": "red",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 8619,
+      "end": 8665
+    },
+    {
+      "id": "beta-q-037-003",
+      "surah": 37,
+      "firstVerse": 29,
+      "lastVerse": 32,
+      "requestedLastVerse": 32,
+      "first": "بل لم تكونوا مؤمنين",
+      "color": "red",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 8835,
+      "end": 9101
+    },
+    {
+      "id": "beta-q-037-004",
+      "surah": 37,
+      "firstVerse": 51,
+      "lastVerse": 53,
+      "requestedLastVerse": 53,
+      "first": "إني كان لي قرين",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 11834,
+      "end": 12008
+    },
+    {
+      "id": "beta-q-037-005",
+      "surah": 37,
+      "firstVerse": 56,
+      "lastVerse": 57,
+      "requestedLastVerse": 57,
+      "first": "تالله إن كدت لتردين",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 12509,
+      "end": 12616
+    },
+    {
+      "id": "beta-q-037-006",
+      "surah": 37,
+      "firstVerse": 89,
+      "lastVerse": 89,
+      "requestedLastVerse": 89,
+      "first": "إني سقيم",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 17231,
+      "end": 17245
+    },
+    {
+      "id": "beta-q-037-007",
+      "surah": 37,
+      "firstVerse": 95,
+      "lastVerse": 96,
+      "requestedLastVerse": 96,
+      "first": "أتعبدون ما تنحتون",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 18046,
+      "end": 18137
+    },
+    {
+      "id": "beta-q-037-008",
+      "surah": 37,
+      "firstVerse": 99,
+      "lastVerse": 100,
+      "requestedLastVerse": 100,
+      "first": "إني ذاهب إلى ربي",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 18708,
+      "end": 18805
+    },
+    {
+      "id": "beta-q-037-009",
+      "surah": 37,
+      "firstVerse": 102,
+      "lastVerse": 102,
+      "requestedLastVerse": 102,
+      "first": "يا بني إني أرى",
+      "color": "green",
+      "until": "قال يا أبت",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 19144,
+      "end": 19225
+    },
+    {
+      "id": "beta-q-037-010",
+      "surah": 37,
+      "firstVerse": 102,
+      "lastVerse": 102,
+      "requestedLastVerse": 102,
+      "first": "يا أبت افعل ما تؤمر",
+      "color": "green",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 19393,
+      "end": 19475
+    },
+    {
+      "id": "beta-q-037-011",
+      "surah": 37,
+      "firstVerse": 52,
+      "lastVerse": 53,
+      "requestedLastVerse": 53,
+      "first": "أإنك لمن المصدقين",
+      "color": "red",
+      "implicit": false,
+      "speaker": null,
+      "anchorOptions": {},
+      "start": 11888,
+      "end": 12008
+    },
+    {
+      "id": "beta-q-037-012",
+      "surah": 37,
+      "firstVerse": 54,
+      "lastVerse": 54,
+      "requestedLastVerse": 54,
+      "first": "هل أنتم مطلعون",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "The paradise inhabitant addresses his companions",
+      "anchorOptions": {},
+      "start": 12176,
+      "end": 12201
+    },
+    {
+      "id": "beta-q-037-013",
+      "surah": 37,
+      "firstVerse": 58,
+      "lastVerse": 60,
+      "requestedLastVerse": 60,
+      "first": "أفما نحن بميتين",
+      "color": "green",
+      "until": null,
+      "implicit": true,
+      "speaker": "The rejoicing question continues across verses; the following general exhortation remains outside",
+      "anchorOptions": {},
+      "start": 12638,
+      "end": 12807
+    },
+    {
+      "id": "beta-q-037-014",
+      "surah": 37,
+      "firstVerse": 91,
+      "lastVerse": 92,
+      "requestedLastVerse": 92,
+      "first": "ألا تأكلون",
+      "color": "green",
+      "until": null,
+      "implicit": false,
+      "speaker": "Abraham's paired rhetorical questions to the idols",
+      "anchorOptions": {},
+      "start": 17600,
+      "end": 17666
+    },
+    {
+      "id": "beta-q-037-015",
+      "surah": 37,
+      "firstVerse": 97,
+      "lastVerse": 97,
+      "requestedLastVerse": 97,
+      "first": "ابنوا له بنيانا",
+      "color": "red",
+      "until": null,
+      "implicit": false,
+      "speaker": "The opponents' proposal",
+      "anchorOptions": {},
+      "start": 18317,
+      "end": 18367
+    },
+    {
+      "id": "beta-q-037-016",
+      "surah": 37,
+      "firstVerse": 104,
+      "lastVerse": 105,
+      "requestedLastVerse": 105,
+      "first": "أن يا إبراهيم",
+      "color": "blue",
+      "until": "إنا كذلك نجزي",
+      "implicit": true,
+      "speaker": "The reported divine call ends before the general recompense formula",
+      "anchorOptions": {},
+      "start": 20024,
+      "end": 20094
+    }
+  ],
+  "betaEditorialStatus": "conservative-transfer-with-review-queue"
+}

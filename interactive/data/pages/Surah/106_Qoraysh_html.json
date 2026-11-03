@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "source": "Surah/106_Qoraysh_html.html",
+  "sourceHash": "d34ddd7372097497bcc59f77b59cdd106de5acfc33e50385131f3546e085fd09",
+  "underlines": [
+    {
+      "id": "p106-u0001",
+      "text": "الشِّتَاءِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "3db94f0a95ab4d36235cc3187b83386d6d26f39b581a4dcae7c9df4a781e5b7f",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 145,
+      "end": 155,
+      "groups": [
+        "p106-textual-coordination-536870a22d"
+      ]
+    },
+    {
+      "id": "p106-u0002",
+      "text": "الصَّيْفِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "367474dd56dda79c314af902fe6924d33cb7a9bdf90c7b0b57ab454a299f044b",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 164,
+      "end": 173,
+      "groups": [
+        "p106-textual-coordination-536870a22d"
+      ]
+    },
+    {
+      "id": "p106-u0003",
+      "text": "أَطْعَمَهُم مِّن جُوعٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "151ff11ea084638845f1bfd7cc50360515fd219223cae57a4a43f0213ee9192d",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 235,
+      "end": 257,
+      "groups": [
+        "p106-textual-coordination-2d210e2f31"
+      ]
+    },
+    {
+      "id": "p106-u0004",
+      "text": "آمَنَهُم مِّنْ خَوْفٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "f62deaab73577d422bc173f873b8bfc3a2aa6709a3b62cb7f9b97268b18a7643",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p106-c1",
+      "start": 266,
+      "end": 287,
+      "groups": [
+        "p106-textual-coordination-2d210e2f31"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p106-textual-coordination-536870a22d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p106-u0001",
+        "p106-u0002"
+      ]
+    },
+    {
+      "id": "p106-textual-coordination-2d210e2f31",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p106-u0003",
+        "p106-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

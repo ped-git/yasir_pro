@@ -1,0 +1,34 @@
+
+.edit-style-648c0c417d10:not(#edit-reserved) {
+border: 1px solid rgb(150, 150, 150);
+padding: 1px 0.529166mm;
+--ul-gradient-direction: initial;
+--ul-gradient-stops: initial;
+border-bottom-color: currentColor;
+--ul-gradient-direction: to left;
+border-image: linear-gradient(var(--ul-gradient-direction), var(--ul-gradient-stops));
+border-image-slice: 1;
+border-bottom-style: solid;
+border-left: 0;
+border-right: 0;
+border-top: 0;
+--ul-gradient-stops: black, white;
+border-bottom-width: 1px;
+}
+
+.edit-style-ae8e198e185a:not(#edit-reserved) {
+border: 1px solid rgb(150, 150, 150);
+padding: 1px 0.529166mm;
+--ul-gradient-direction: initial;
+--ul-gradient-stops: initial;
+border-bottom-color: rgb(220, 220, 220);
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-bottom-style: solid;
+border-left: 0;
+border-right: 0;
+border-top: 0;
+border-bottom-width: 1px;
+}

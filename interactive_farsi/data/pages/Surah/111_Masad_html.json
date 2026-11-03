@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "source": "Surah/111_Masad_html.html",
+  "sourceHash": "7a8661d8f67595ec9b4ae07aa6a8fbe82ba73a8554589ee6a2bc6f74b3542f94",
+  "underlines": [
+    {
+      "id": "p111-u0001",
+      "text": "ابولهب، و نابود",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "19aeac48b8e8e4e682d5f3ecf9d3db3789426f967059b3a080e2c52a175c4b70",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 108,
+      "end": 124,
+      "groups": [
+        "p111-u0001-individual"
+      ],
+      "sourceText": "أَبِي لَهَبٍ"
+    },
+    {
+      "id": "p111-u0002",
+      "text": "خدا را که در دنیا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "3c32bc8f3b7a956e5901661709931fb3b7f72e8670b5c3cb8e30a4c1ac6ad1c4",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 183,
+      "end": 202,
+      "groups": [
+        "p111-textual-coordination-568b561633"
+      ],
+      "sourceText": "مَالُهُ"
+    },
+    {
+      "id": "p111-u0003",
+      "text": "استیصال است] از او دفع نکرد.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "bef279e835bffbcfed5c6d0d901e058ec7e278fec201927b68566c89e7505a98",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 207,
+      "end": 235,
+      "groups": [
+        "p111-textual-coordination-568b561633"
+      ],
+      "sourceText": "مَا كَسَبَ"
+    },
+    {
+      "id": "p111-u0004",
+      "text": "[نیز] همسرش که هیزم",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "5ef51ea6dd7e47ac2ccecfa7f6ab66249c4fe79bc500689afa29b9ac628716af",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p111-c1",
+      "start": 271,
+      "end": 291,
+      "groups": [
+        "p111-u0004-individual"
+      ],
+      "sourceText": "امْرَأَتُهُ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p111-textual-coordination-568b561633",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p111-u0002",
+        "p111-u0003"
+      ]
+    },
+    {
+      "id": "p111-u0001-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p111-u0001"
+      ]
+    },
+    {
+      "id": "p111-u0004-individual",
+      "label": "Individual phrase; no relationship inferred",
+      "basis": "individual",
+      "reviewStatus": "unassigned",
+      "members": [
+        "p111-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

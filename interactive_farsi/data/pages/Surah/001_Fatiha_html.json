@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "source": "Surah/001_Fatiha_html.html",
+  "sourceHash": "d41620c663323e89755d72626b04caf4e366fac069f3e12e80d28c97e7218d80",
+  "underlines": [
+    {
+      "id": "p001-u0001",
+      "text": "مالک و مربّی جهانیان است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "344ac834edabc5f07bb6d341d2839cc8579b8364427645c7961466629b07bfb4",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 130,
+      "end": 155,
+      "groups": [
+        "p001-divine-attributes"
+      ],
+      "sourceText": "رَبِّ الْعَالَمِينَ"
+    },
+    {
+      "id": "p001-u0002",
+      "text": "رحمتش بی اندازه و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "0d5ef3177c79cb3fb874e4cc5cf8d95946d4dbe9195ca9065a4b534dc94303f1",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 163,
+      "end": 180,
+      "groups": [
+        "p001-divine-attributes"
+      ],
+      "sourceText": "الرَّحْمَـٰنِ"
+    },
+    {
+      "id": "p001-u0003",
+      "text": "مهربانی اش همیشگی است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "5b1688039fe1b213625e97af74dd42ce59602f63626b4f7d35ba189a35d1c2c0",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 187,
+      "end": 209,
+      "groups": [
+        "p001-divine-attributes"
+      ],
+      "sourceText": "الرَّحِيمِ"
+    },
+    {
+      "id": "p001-u0004",
+      "text": "مالک و فرمانروای روز پاداش و کیفر است.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "2dbc5a80254d5afb6774f009ed06b4cd0bdca3c9f1835e335c92d98099213d7d",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c1",
+      "start": 217,
+      "end": 255,
+      "groups": [
+        "p001-divine-attributes"
+      ],
+      "sourceText": "مَالِكِ يَوْمِ الدِّينِ"
+    },
+    {
+      "id": "p001-u0005",
+      "text": "[پروردگارا!] تنها تو را می پرستیم",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "a72b1632b3edac2b509c6e7571f16f01ba8295279ed876410a3e429871192fff",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c2",
+      "start": 279,
+      "end": 313,
+      "groups": [
+        "p001-worship-and-help"
+      ],
+      "sourceText": "إِيَّاكَ نَعْبُدُ"
+    },
+    {
+      "id": "p001-u0006",
+      "text": "تنها از تو کمک می خواهیم.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "b0fdd3764ae93c975bab903ee60d8aea555d3d6da37d35c65f441c75c9a3cd4e",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c2",
+      "start": 315,
+      "end": 341,
+      "groups": [
+        "p001-worship-and-help"
+      ],
+      "sourceText": "إِيَّاكَ نَسْتَعِينُ"
+    },
+    {
+      "id": "p001-u0007",
+      "text": "نعمتِ [ایمان، عمل شایسته و اخلاق حسنه] عطاکردی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(1)",
+      "textHash": "62063862c71a1cebb84f08d753e9f416b6b82c41a4afb56c1a214a656beeb9dd",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 469,
+      "end": 515,
+      "groups": [
+        "p001-contrasting-paths"
+      ],
+      "sourceText": "أَنْعَمْتَ عَلَيْهِمْ"
+    },
+    {
+      "id": "p001-u0008",
+      "text": "مورد خشم تواند",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(2)",
+      "textHash": "fa5f44946ce7abbb22a2e271b6d9723b924eac00bb9870b9061dc42590f79c24",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 531,
+      "end": 545,
+      "groups": [
+        "p001-contrasting-paths"
+      ],
+      "sourceText": "الْمَغْضُوبِ عَلَيْهِمْ"
+    },
+    {
+      "id": "p001-u0009",
+      "text": "گمراه اند.",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "6422e8beab699d813df7346dd51e0523fa36a713db56fa3efd221e0a5e4c2335",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 7,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p001-c3",
+      "start": 551,
+      "end": 561,
+      "groups": [
+        "p001-contrasting-paths"
+      ],
+      "sourceText": "الضَّالِّينَ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p001-divine-attributes",
+      "label": "Divine attributes in the opening praise",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0001",
+        "p001-u0002",
+        "p001-u0003",
+        "p001-u0004"
+      ]
+    },
+    {
+      "id": "p001-worship-and-help",
+      "label": "Parallel declarations of worship and seeking help",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0005",
+        "p001-u0006"
+      ]
+    },
+    {
+      "id": "p001-contrasting-paths",
+      "label": "Favored path contrasted with the two rejected paths",
+      "basis": "editorial-content",
+      "reviewStatus": "curated",
+      "members": [
+        "p001-u0007",
+        "p001-u0008",
+        "p001-u0009"
+      ]
+    }
+  ],
+  "sections": []
+}

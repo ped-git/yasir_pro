@@ -1,0 +1,671 @@
+{
+  "version": 1,
+  "source": "Surah/062_Jome_html.html",
+  "sourceHash": "589af6184f544ba12eb87ad397aed9f18077ce13e32521992811861776f2f276",
+  "underlines": [
+    {
+      "id": "p062-u0001",
+      "text": "زمین است، خدا را [به پاک بودن از هر",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "fe1ddc48d530d4b8a69faa4d426f5d816a9e5cdd1988ad4c88dbd5f1df62c2d4",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c1",
+      "start": 121,
+      "end": 156,
+      "groups": [
+        "p062-textual-coordination-39cd4f5b9d"
+      ],
+      "sourceText": "مَا فِي السَّمَاوَاتِ"
+    },
+    {
+      "id": "p062-u0002",
+      "text": "و نقصی] می ستایند، خدایی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "abc7559ddf48c3f6defdd611a25de96d0a8e4d3404f992ac544f22c7e29bd729",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 1,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c1",
+      "start": 160,
+      "end": 186,
+      "groups": [
+        "p062-textual-coordination-39cd4f5b9d"
+      ],
+      "sourceText": "مَا فِي الْأَرْضِ"
+    },
+    {
+      "id": "p062-u0003",
+      "text": "سواد، پیامبری از",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "88ade51ac5a52d9517e743f4ba07bc00ac9e9766fc0aac935504d5894136f4e9",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 296,
+      "end": 313,
+      "groups": [
+        "p062-local-underline-pattern-ef0012e1da"
+      ],
+      "sourceText": "الْأُمِّيِّينَ"
+    },
+    {
+      "id": "p062-u0004",
+      "text": "او را بر آنان بخواند و آنان را",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "31acc444a9e675451469b2c162f75305ba2f1325e2537fd225ff812af415afb9",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 337,
+      "end": 368,
+      "groups": [
+        "p062-textual-coordination-9c1cd72ffd"
+      ],
+      "sourceText": "يَتْلُو عَلَيْهِمْ آيَاتِهِ"
+    },
+    {
+      "id": "p062-u0005",
+      "text": "آلودگی های فکری",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "d82330c87ad60fb738d8b6377148db01d4c11e5d3129c46ddff71f7d2013f7ee",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 371,
+      "end": 387,
+      "groups": [
+        "p062-textual-coordination-9c1cd72ffd"
+      ],
+      "sourceText": "يُزَكِّيهِمْ"
+    },
+    {
+      "id": "p062-u0006",
+      "text": "روحی] پاکشان کند و به آنان کتاب و حکمت بیاموزد،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "textHash": "3fa16293ade722a4fec3db998ff503e7ee8894d45e2321c1175fc8c372d03e2b",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-3px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 389,
+      "end": 437,
+      "groups": [
+        "p062-textual-coordination-9c1cd72ffd"
+      ],
+      "sourceText": "يُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ"
+    },
+    {
+      "id": "p062-u0007",
+      "text": "و به آنان",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "8911e14571e5eea3e4258fcd73fde53fb58af5a9d0de8c5c2da5279fc8703c18",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": "p062-u0006",
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 406,
+      "end": 417,
+      "groups": [
+        "p062-textual-coordination-b1cdc0da6d"
+      ],
+      "sourceText": "الْكِتَابَ"
+    },
+    {
+      "id": "p062-u0008",
+      "text": "و حکمت بیاموزد،",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "a604086ec92df446599785dc64680aaf34174a650f94d837c1c3bf9f68043ff7",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 2,
+      "blockIndex": 2,
+      "parentId": "p062-u0006",
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 421,
+      "end": 437,
+      "groups": [
+        "p062-textual-coordination-b1cdc0da6d"
+      ],
+      "sourceText": "الْحِكْمَةَ"
+    },
+    {
+      "id": "p062-u0009",
+      "text": "[نیز پیامبر را] بر مردمی دیگر [از عرب و غیر عرب] که هنوز به آنان نپیوسته",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(5)",
+      "textHash": "bcd19075194cb84e4971e20f6e43dc9f14665ce1e17cc57f5796db9abad53c02",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c2",
+      "start": 490,
+      "end": 563,
+      "groups": [
+        "p062-local-underline-pattern-ef0012e1da"
+      ],
+      "sourceText": "آخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا بِهِمْ"
+    },
+    {
+      "id": "p062-u0010",
+      "text": "می شوید، پس",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "f6dcdb0336e6f91105ddf5f38bc884a972aac772ff01a91502079c2b5a2a0409",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p062-s0001",
+      "contextId": "p062-c3",
+      "start": 1489,
+      "end": 1501,
+      "groups": [
+        "p062-textual-coordination-0a7a58e304"
+      ],
+      "sourceText": "الْغَيْبِ"
+    },
+    {
+      "id": "p062-u0011",
+      "text": "شما را به اعمالی",
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "textHash": "9ae39bdd7bd2de2b5bb5dc35027199e5640d7067e27374c29697d5d5fb293283",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": "p062-s0001",
+      "contextId": "p062-c3",
+      "start": 1502,
+      "end": 1518,
+      "groups": [
+        "p062-textual-coordination-0a7a58e304"
+      ],
+      "sourceText": "الشَّهَادَةِ"
+    },
+    {
+      "id": "p062-u0012",
+      "text": "کنید. که این [اقامه نماز جمعه",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "25f109caa38e3e5c631d1b5cc19bf27917003c0a61c61737a87ab37baaf3e7f3",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c4",
+      "start": 1691,
+      "end": 1722,
+      "groups": [
+        "p062-textual-coordination-a9a56011fb"
+      ],
+      "sourceText": "اسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ"
+    },
+    {
+      "id": "p062-u0013",
+      "text": "ترک خرید و فروش]",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(4)",
+      "textHash": "ac98f119941adf3aa500e51a4650b7c39b9eeb964202dcbbef168a6528c6ee33",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 9,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c4",
+      "start": 1724,
+      "end": 1741,
+      "groups": [
+        "p062-textual-coordination-a9a56011fb"
+      ],
+      "sourceText": "ذَرُوا الْبَيْعَ"
+    },
+    {
+      "id": "p062-u0014",
+      "text": "زمین پراکنده شوید",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(5)",
+      "textHash": "8e62cc69b07df0cf34241991f9e803339a257c9b5afad4cde03935906fa16848",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c4",
+      "start": 1822,
+      "end": 1841,
+      "groups": [
+        "p062-textual-coordination-f0f66b9628"
+      ],
+      "sourceText": "انتَشِرُوا فِي الْأَرْضِ"
+    },
+    {
+      "id": "p062-u0015",
+      "text": "از فضل و رزق خدا جویا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(6)",
+      "textHash": "a8cbebe6373b76097004e963aeb5ed0d445d2c948911715250204d1f1ad675ee",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c4",
+      "start": 1843,
+      "end": 1865,
+      "groups": [
+        "p062-textual-coordination-f0f66b9628"
+      ],
+      "sourceText": "ابْتَغُوا مِن فَضْلِ اللَّهِ"
+    },
+    {
+      "id": "p062-u0016",
+      "text": "شوید و خدا را بسیار یاد",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(7)",
+      "textHash": "f48be38ec9e0eaf4f671715ccf649107e431bb7d417dfe009891de2bec12e140",
+      "appearance": {
+        "signature": "ul-color-gray-220 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 10,
+      "blockIndex": 4,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c4",
+      "start": 1865,
+      "end": 1888,
+      "groups": [
+        "p062-textual-coordination-f0f66b9628"
+      ],
+      "sourceText": "اذْكُرُوا اللَّهَ كَثِيرًا"
+    },
+    {
+      "id": "p062-u0017",
+      "text": "تجارت یا مایه",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(1)",
+      "textHash": "1505b108cc1a841596e0d250413b37b187acb43af9b6b87d0ca1b642fbc44153",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c5",
+      "start": 1943,
+      "end": 1957,
+      "groups": [
+        "p062-textual-coordination-789dfc2a21"
+      ],
+      "sourceText": "تِجَارَةً"
+    },
+    {
+      "id": "p062-u0018",
+      "text": "ببینند [از",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(2)",
+      "textHash": "056e31a6487b963d2680dd73811ce16ffa0e7e64befb1168eefd5a50b08fd8a2",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c5",
+      "start": 1963,
+      "end": 1974,
+      "groups": [
+        "p062-textual-coordination-789dfc2a21"
+      ],
+      "sourceText": "لَهْوًا"
+    },
+    {
+      "id": "p062-u0019",
+      "text": "صف یک پارچه نماز] به سوی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(3)",
+      "textHash": "2dffda799c6fa40d195d8153c551e0c43bffb03c4a91246037f70ee0c0c57dbb",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c5",
+      "start": 1975,
+      "end": 2001,
+      "groups": [
+        "p062-textual-coordination-1675709fe6"
+      ],
+      "sourceText": "انفَضُّوا إِلَيْهَا"
+    },
+    {
+      "id": "p062-u0020",
+      "text": "پراکنده شوند و تو را در حالی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(6) > span:nth-of-type(4)",
+      "textHash": "0c7cc8f8e63755bccce7eaa774d8d9b9062255c23605380ed078a19b477d4ba3",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 5,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c5",
+      "start": 2004,
+      "end": 2032,
+      "groups": [
+        "p062-textual-coordination-1675709fe6"
+      ],
+      "sourceText": "تَرَكُوكَ قَائِمًا"
+    },
+    {
+      "id": "p062-u0021",
+      "text": "پاداش و ثوابی",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(3)",
+      "textHash": "d6df3883678ca0a1f297bb5e3489194725fe334d81dfd2b896f374d1b66be5f3",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c6",
+      "start": 2099,
+      "end": 2113,
+      "groups": [
+        "p062-local-underline-pattern-94f39f31f2"
+      ],
+      "sourceText": "اللَّهْوِ"
+    },
+    {
+      "id": "p062-u0022",
+      "text": "خداست از سرگرمی و",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(7) > span:nth-of-type(4)",
+      "textHash": "fdf0c64d8bf69935c41d77c6f5b498026268018a26149c05a085beb0e326388e",
+      "appearance": {
+        "signature": "ul-color-gray-200 ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-dashed ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 11,
+      "blockIndex": 6,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p062-c6",
+      "start": 2120,
+      "end": 2138,
+      "groups": [
+        "p062-local-underline-pattern-94f39f31f2"
+      ],
+      "sourceText": "التِّجَارَةِ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "p062-textual-coordination-39cd4f5b9d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0001",
+        "p062-u0002"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-9c1cd72ffd",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0004",
+        "p062-u0005",
+        "p062-u0006"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-b1cdc0da6d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0007",
+        "p062-u0008"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-0a7a58e304",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0010",
+        "p062-u0011"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-a9a56011fb",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0012",
+        "p062-u0013"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-f0f66b9628",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0014",
+        "p062-u0015",
+        "p062-u0016"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-789dfc2a21",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0017",
+        "p062-u0018"
+      ]
+    },
+    {
+      "id": "p062-textual-coordination-1675709fe6",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p062-u0019",
+        "p062-u0020"
+      ]
+    },
+    {
+      "id": "p062-local-underline-pattern-94f39f31f2",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p062-u0021",
+        "p062-u0022"
+      ]
+    },
+    {
+      "id": "p062-local-underline-pattern-ef0012e1da",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p062-u0003",
+        "p062-u0009"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "p062-s0001",
+      "parentId": null,
+      "selector": "body:nth-of-type(1) > div:nth-of-type(1)",
+      "excerpt": {
+        "first": "وصف کسانی که عمل کردن به تورات به",
+        "last": "که همواره انجام می دادید، آگاه خواهد کرد.۸"
+      },
+      "lines": [
+        "p062-l0001"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "source": "Surah/094_Sharh_html.html",
+  "sourceHash": "ec1a831b4552c36f016018966df6ae7a2157fac91d9d0f70208c3e5d32c4f15e",
+  "underlines": [
+    {
+      "id": "p094-u0001",
+      "text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "26197b65cc489b2e408f2bf1dd6d3796101330b93f7647f74a2a2ec56c1512c1",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c1",
+      "start": 405,
+      "end": 433,
+      "groups": [
+        "p094-textual-coordination-5e44ef439f"
+      ]
+    },
+    {
+      "id": "p094-u0002",
+      "text": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "26197b65cc489b2e408f2bf1dd6d3796101330b93f7647f74a2a2ec56c1512c1",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 6,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c1",
+      "start": 441,
+      "end": 469,
+      "groups": [
+        "p094-textual-coordination-5e44ef439f"
+      ]
+    },
+    {
+      "id": "p094-u0003",
+      "text": "انصَبْ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(1)",
+      "textHash": "29bb5707f3a9a4f55dab1fcaf0e7ce8cc8d82b52400e9648e55b42ec63c39b5b",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c2",
+      "start": 512,
+      "end": 518,
+      "groups": [
+        "p094-textual-coordination-c6f89aacc5"
+      ]
+    },
+    {
+      "id": "p094-u0004",
+      "text": "إِلَىٰ رَبِّكَ فَارْغَب",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(2)",
+      "textHash": "6e3a237c0fe85ebae2deb5cfd15d6f721ab172f412805fda372767876a440e3c",
+      "appearance": {
+        "signature": "ul-color-gray-180 ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0px ul-pad-y-0px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 8,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p094-c2",
+      "start": 528,
+      "end": 551,
+      "groups": [
+        "p094-textual-coordination-c6f89aacc5"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p094-textual-coordination-5e44ef439f",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p094-u0001",
+        "p094-u0002"
+      ]
+    },
+    {
+      "id": "p094-textual-coordination-c6f89aacc5",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p094-u0003",
+        "p094-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

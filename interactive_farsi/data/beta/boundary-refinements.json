@@ -1,0 +1,62 @@
+{
+  "updates": [
+    { "surah": 3, "verse": 7, "first": "آمنا به", "until": "وما يذكر" },
+    { "surah": 3, "verse": 64, "first": "يا أهل الكتاب تعالوا", "until": "فإن تولوا" },
+    { "surah": 4, "verse": 119, "first": "ولأضلنهم", "firstVerse": 118, "replaceFirst": "لأتخذن من عبادك", "until": "ومن يتخذ" },
+    { "surah": 5, "verse": 118, "first": "إن تعذبهم فإنهم عبادك", "firstVerse": 116, "replaceFirst": "سبحانك" },
+    { "surah": 6, "verse": 71, "first": "أندعو من دون الله", "until": "قل إن هدى الله" },
+    { "surah": 7, "verse": 18, "first": "اخرج منها مذءوما", "lastVerse": 19 },
+    { "surah": 8, "verse": 48, "first": "إني بريء منكم", "until": "والله شديد العقاب" },
+    { "surah": 12, "verse": 37, "first": "لا يأتيكما طعام", "lastVerse": 41 },
+    { "surah": 14, "verse": 22, "first": "إن الله وعدكم وعد الحق", "until": "إن الظالمين" },
+    { "surah": 17, "verse": 53, "first": "يقولوا التي هي أحسن", "omit": true },
+    { "surah": 17, "verse": 110, "first": "ادعوا الله أو ادعوا الرحمن", "until": "ولا تجهر" },
+    { "surah": 17, "verse": 111, "first": "الحمد لله الذي لم يتخذ ولدا", "until": "وكبره" },
+    { "surah": 21, "verse": 24, "first": "هاتوا برهانكم", "until": "بل أكثرهم" },
+    { "surah": 21, "verse": 25, "first": "أنه لا إله إلا أنا", "implicit": true },
+    { "surah": 21, "verse": 67, "first": "أف لكم ولما تعبدون", "firstVerse": 66, "replaceFirst": "أفتعبدون من دون الله" },
+    { "surah": 23, "verse": 108, "first": "اخسئوا فيها ولا تكلمون", "lastVerse": 111 },
+    { "surah": 26, "verse": 75, "first": "أفرأيتم ما كنتم تعبدون", "lastVerse": 89 },
+    { "surah": 26, "verse": 83, "first": "رب هب لي حكما", "omit": true },
+    { "surah": 27, "verse": 22, "first": "أحطت بما لم تحط به", "lastVerse": 25 },
+    { "surah": 29, "verse": 46, "first": "آمنا بالذي أنزل إلينا", "color": "green" },
+    { "surah": 30, "verse": 55, "first": "ما لبثوا غير ساعة", "implicit": true },
+    { "surah": 33, "verse": 63, "first": "إنما علمها عند الله", "until": "وما يدريك" },
+    { "surah": 36, "verse": 79, "first": "يحييها الذي أنشأها", "lastVerse": 80 },
+    { "surah": 38, "verse": 41, "first": "أني مسني الشيطان", "implicit": true },
+    { "surah": 40, "verse": 30, "first": "يا قوم إني أخاف عليكم", "lastVerse": 34 },
+    { "surah": 41, "verse": 44, "first": "هو للذين آمنوا هدى وشفاء", "removeUntil": true },
+    { "surah": 42, "verse": 13, "first": "أن أقيموا الدين", "implicit": true },
+    { "surah": 5, "verse": 28, "first": "لئن بسطت إلي يدك", "firstVerse": 27, "replaceFirst": "إنما يتقبل الله من المتقين" },
+    { "surah": 6, "verse": 79, "first": "إني وجهت وجهي", "firstVerse": 78, "replaceFirst": "يا قوم إني بريء" },
+    { "surah": 21, "verse": 56, "first": "بل ربكم رب السماوات", "lastVerse": 57 },
+    { "surah": 28, "verse": 7, "first": "أرضعيه", "replaceFirst": "أن أرضعيه", "implicit": true }
+  ],
+  "additionalQuotes": [
+    [3,64,64,"اشهدوا بأنا مسلمون","black"],
+    [5,116,116,"يا عيسى ابن مريم أأنت قلت للناس","blue","قال سبحانك"],
+    [6,63,63,"لئن أنجانا من هذه","gray",null,"implicit"],
+    [12,42,42,"اذكرني عند ربك","green","فأنساه الشيطان"],
+    [12,54,54,"إنك اليوم لدينا مكين أمين","gray"],
+    [13,43,43,"لست مرسلا","red","قل كفى"],
+    [6,50,50,"هل يستوي الأعمى والبصير","black"],
+    [6,56,56,"لا أتبع أهواءكم","black"],
+    [5,27,27,"لأقتلنك","red","قال إنما"],
+    [26,74,74,"بل وجدنا آباءنا كذلك يفعلون","red"]
+  ],
+  "additionalUncertainties": [
+    [8,48,48,"The final والله شديد العقاب may be divine comment rather than Satan's continued words. The conservative endpoint leaves this maxim outside."],
+    [14,22,22,"The closing إن الظالمين لهم عذاب أليم may be read as divine commentary. The beta leaves the final maxim outside Satan's quotation."],
+    [27,25,26,"The closing divine-attribute statement may be the hoopoe's continued speech or a narrative comment. Verse 26 is left unassigned."],
+    [29,26,26,"The speaker of إني مهاجر إلى ربي may be attributed differently in interpretation. A positive speaker color does not resolve identity."],
+    [40,34,35,"The transition into الذين يجادلون may mark divine commentary. The beta does not certify verse 35 as the believing man's speech."],
+    [43,9,9,"The reported acknowledgment of the Creator is spoken by opponents; its red quotation color denotes the local speaker role, not that the acknowledged proposition is false."],
+    [27,34,35,"وكذلك يفعلون may continue the queen's speech or be a narratorial confirmation before her speech resumes in verse 35. The current continuous gray quotation is provisional, not a resolved attribution."],
+    [17,53,53,"وقل لعبادي يقولوا التي هي أحسن is a reporting instruction, not a fully specified direct utterance. The earlier inferred quotation around يقولوا was removed; do not imply that the instruction itself is what the servants say."]
+  ],
+  "reviewedCorrections": [
+    { "surah": 4, "firstVerse": 118, "lastVerse": 119, "before": "The red quotation began at ولأضلنهم in verse 119, omitting the same speaker's preceding vow.", "after": "Begin at لأتخذن من عبادك in verse 118 and continue through the vow in verse 119; stop before ومن يتخذ, where the warning/commentary begins.", "reason": "The explicit وقال in verse 118 introduces the same uninterrupted first-person speech continued by coordinated verbs in verse 119." },
+    { "surah": 6, "firstVerse": 50, "lastVerse": 50, "before": "Only the first response introduced by قل had quotation signs.", "after": "Add a separate black pair for هل يستوي الأعمى والبصير through the verse ending, following the second قل.", "reason": "A second reporting command starts a separate response; it is not part of the preceding response's narration." },
+    { "surah": 6, "firstVerse": 56, "lastVerse": 56, "before": "Only the first response introduced by قل had quotation signs.", "after": "Add a separate black pair for لا أتبع أهواءكم through the verse ending, following the second قل.", "reason": "The second explicit reporting command was previously left without its own paired markers." }
+  ]
+}

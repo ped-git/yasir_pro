@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "source": "Surah/103_Aasr_html.html",
+  "sourceHash": "2f6c380d7b6ac0780cf2d22adad94fbbba23720bf77d8fe1946dd3b7da23ca0f",
+  "underlines": [
+    {
+      "id": "p103-u0001",
+      "text": "آمَنُوا",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(1)",
+      "textHash": "6649fdd5a791f8c4d682b767b42a84ad2cc5c40e09bc9d91e42093098edefa71",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 171,
+      "end": 178,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ]
+    },
+    {
+      "id": "p103-u0002",
+      "text": "عَمِلُوا الصَّالِحَاتِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(2)",
+      "textHash": "02f3fdcfb782446c021600c0da79c7859e06d0cd8ad7bf09d58a2e85336f7bcf",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 187,
+      "end": 209,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ]
+    },
+    {
+      "id": "p103-u0003",
+      "text": "تَوَاصَوْا بِالْحَقِّ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(3)",
+      "textHash": "23dd4f8091b2ec61549c3e298086a25ab0b1ab6f1c8bd1c68c6cafee1f49944a",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 218,
+      "end": 239,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ]
+    },
+    {
+      "id": "p103-u0004",
+      "text": "تَوَاصَوْا بِالصَّبْرِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "e17f92fa988c26b57a49a7ad80b368eddb124e97d2cef605d7666c866bd7b5bd",
+      "appearance": {
+        "signature": "ul-color-gray-100 ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pad-x-0mm ul-pad-y-1px ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "gray"
+      },
+      "verse": 3,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p103-c1",
+      "start": 248,
+      "end": 270,
+      "groups": [
+        "p103-textual-coordination-1aa1df6c2b"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p103-textual-coordination-1aa1df6c2b",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p103-u0001",
+        "p103-u0002",
+        "p103-u0003",
+        "p103-u0004"
+      ]
+    }
+  ],
+  "sections": []
+}

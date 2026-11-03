@@ -1,0 +1,14 @@
+speech[lightblue]::before {
+  color: rgb(150, 150, 255);
+}
+
+speech[gray]::before {
+  color: rgb(150, 150, 150);
+}
+
+.connection-line--1 {
+  border-left: 0.3mm solid black;
+  height: 100%;
+  position: absolute;
+  right: 7.4mm;
+}

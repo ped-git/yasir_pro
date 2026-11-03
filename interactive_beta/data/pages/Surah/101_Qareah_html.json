@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "source": "Surah/101_Qareah_html.html",
+  "sourceHash": "3d90e1bb1445fcc668aa699b13896f752b730be30941ec54bad36b89cab33c83",
+  "underlines": [
+    {
+      "id": "p101-u0001",
+      "text": "يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(4)",
+      "textHash": "b70d8abcba29bf9e5f76b80205fa209de65fae0a6011c21be95147d01bd21b7a",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 4,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c1",
+      "start": 190,
+      "end": 232,
+      "groups": [
+        "p101-textual-coordination-277707498d"
+      ]
+    },
+    {
+      "id": "p101-u0002",
+      "text": "تَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنفُوشِ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(3) > span:nth-of-type(5)",
+      "textHash": "fb2c6d077f081626a3dd5767c51f8b3c45bb0bf95e74f62df22af8ec5e3fe606",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-black-white ul-thickness-1px",
+        "structure": "ul-gradient-to-left ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": null
+      },
+      "verse": 5,
+      "blockIndex": 1,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c1",
+      "start": 242,
+      "end": 284,
+      "groups": [
+        "p101-textual-coordination-277707498d"
+      ]
+    },
+    {
+      "id": "p101-u0003",
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(3)",
+      "textHash": "c460ffd96a594dd992b20a6d250ff447525fc552e0febe26e8e4074d55433b66",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-green-100-180-100 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 6,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c2",
+      "start": 318,
+      "end": 352,
+      "groups": [
+        "p101-red-green-pair-76b5fea6bb",
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ]
+    },
+    {
+      "id": "p101-u0004",
+      "text": "فَهُوَ فِي عِيشَةٍ رَّاضِيَةٍ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(4) > span:nth-of-type(4)",
+      "textHash": "adf36f4a02d476cf1fb7e4406d2f0d2390200b8a9c05dad9843b39e4ff4c3e3d",
+      "appearance": {
+        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "green"
+      },
+      "verse": 7,
+      "blockIndex": 2,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c2",
+      "start": 360,
+      "end": 389,
+      "groups": [
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ]
+    },
+    {
+      "id": "p101-u0005",
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(3)",
+      "textHash": "0fa88e790dd786d7c08003cba8cc246627c305d2c216bc6184d75a77af57cbc5",
+      "appearance": {
+        "signature": "ul-color-currentcolor ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-stops-white-red-220-150-150 ul-thickness-1px",
+        "structure": "ul-gradient-to-right ul-image-gradient ul-image-slice-1 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 8,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c3",
+      "start": 423,
+      "end": 457,
+      "groups": [
+        "p101-red-green-pair-76b5fea6bb",
+        "p101-red-green-pair-b055a3de99",
+        "p101-red-green-pair-71c42b141c"
+      ]
+    },
+    {
+      "id": "p101-u0006",
+      "text": "فَأُمُّهُ هَاوِيَةٌ",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(5) > span:nth-of-type(4)",
+      "textHash": "49f14d4ccaba5347d6e023ecbc64934bba4f44a3cd42d7b0a85b7608467e9392",
+      "appearance": {
+        "signature": "ul-color-red-220-150-150 ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
+        "colorFamily": "red"
+      },
+      "verse": 9,
+      "blockIndex": 3,
+      "parentId": null,
+      "sectionId": null,
+      "contextId": "p101-c3",
+      "start": 465,
+      "end": 484,
+      "groups": [
+        "p101-red-green-pair-71c42b141c"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "p101-textual-coordination-277707498d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p101-u0001",
+        "p101-u0002"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-76b5fea6bb",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0005"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-b055a3de99",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0004",
+        "p101-u0005"
+      ]
+    },
+    {
+      "id": "p101-red-green-pair-71c42b141c",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p101-u0003",
+        "p101-u0004",
+        "p101-u0005",
+        "p101-u0006"
+      ]
+    }
+  ],
+  "sections": []
+}
