@@ -1013,6 +1013,50 @@
       ]
     },
     {
+      "id": "underline-b0058187-2615-4d86-8df1-73262e9a5ed3",
+      "text": "يُحْبِبْكُمُ اللَّهُ",
+      "textHash": "fb2a57abba1e2592a697822d2539bf248db67cd440c647352b8094d5ca6501d3",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-b6c91746-0e90-4815-9a66-cf1532160d73"
+      ]
+    },
+    {
+      "id": "underline-80c85ecf-ed2d-41c4-9866-ffd1655343c7",
+      "text": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ",
+      "textHash": "2d36c2c1b3446c04317b2fbc819ede63bfd8314ddea63d45bc36a19c7bd6e055",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(19) > span:nth-of-type(4)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-b6c91746-0e90-4815-9a66-cf1532160d73"
+      ]
+    },
+    {
+      "id": "underline-fd747963-54a5-44cd-8ad5-9053fe83c4fc",
+      "text": "اللَّهَ",
+      "textHash": "a768e8cc122d94ca32a72696e331555348f0109a284d3c38b0e307e63b6f9392",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(20) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-a288a04e-71f1-4561-aa36-c8ff4eec1132"
+      ]
+    },
+    {
+      "id": "underline-12e9f0b3-c801-4839-8bab-e990d9f8c58f",
+      "text": "الرَّسُولَ",
+      "textHash": "e502abea24dc13fcece0bfdf9fad5566474f6271feca99bef8382c63bd3879ab",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(20) > span:nth-of-type(4)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-a288a04e-71f1-4561-aa36-c8ff4eec1132"
+      ]
+    },
+    {
       "id": "beta-u-3-37-15",
       "text": "تَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ",
       "logicalText": "تقبلها ربها بقبول حسن",
@@ -5102,6 +5146,26 @@
       ]
     },
     {
+      "id": "manual-b6c91746-0e90-4815-9a66-cf1532160d73",
+      "label": "yohbeb-1",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "members": [
+        "underline-b0058187-2615-4d86-8df1-73262e9a5ed3",
+        "underline-80c85ecf-ed2d-41c4-9866-ffd1655343c7"
+      ]
+    },
+    {
+      "id": "manual-a288a04e-71f1-4561-aa36-c8ff4eec1132",
+      "label": "allahrasoul-2",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "members": [
+        "underline-fd747963-54a5-44cd-8ad5-9053fe83c4fc",
+        "underline-12e9f0b3-c801-4839-8bab-e990d9f8c58f"
+      ]
+    },
+    {
       "id": "beta-3-favorable-reception",
       "label": "favorable reception",
       "basis": "beta-editorial-content",
@@ -7163,6 +7227,6 @@
     }
   ],
   "betaEditorialStatus": "conservative-transfer-with-review-queue",
-  "editorSavedAt": "2026-11-03T08:03:20.355Z",
+  "editorSavedAt": "2026-11-03T10:57:19.951Z",
   "manual": true
 }

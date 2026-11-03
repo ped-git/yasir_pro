@@ -584,3 +584,25 @@ border-bottom-width: 1px;
   text-underline-offset: 3mm;
 
 }
+
+.edit-style-custom-v4-solid-969696-e7b44a-90-22-3-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #969696;
+  text-decoration-thickness: 0.3mm;
+  text-underline-offset: 2.2mm;
+
+}
+
+.edit-style-custom-v4-solid-666666-e7b44a-90-22-3-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #666666;
+  text-decoration-thickness: 0.3mm;
+  text-underline-offset: 2.2mm;
+
+}

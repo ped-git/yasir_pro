@@ -7,18 +7,23 @@ speech.beta-speech {
   unicode-bidi: isolate;
 }
 
+body.beta-quote-8mm speech,
+body.beta-quote-8mm speech::before {
+  font-size: 8mm;
+}
+
 speech.beta-speech[open]::before {
   content: "\00ab";
   position: relative;
   top: 1.5mm;
-  font-size: 12mm;
+  font-size: 8mm;
 }
 
 speech.beta-speech[close]::before {
   content: "\00bb";
   position: relative;
   top: 1.5mm;
-  font-size: 12mm;
+  font-size: 8mm;
 }
 
 speech.beta-speech[underline]::before {
