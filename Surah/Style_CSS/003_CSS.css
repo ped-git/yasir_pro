@@ -161,7 +161,7 @@
 }
 
 .spacing-reset {
-  margin-top: 0mm;
+  margin-top: 2mm;
   margin-right: 0mm;
   margin-bottom: 0mm;
   margin-left: 0mm;
@@ -184,6 +184,15 @@
 
 .spacing-reset-2.spacing-expanded {
   margin-bottom: 4.5mm;
+}
+
+.spacing-reset-3 {
+  margin-top: -1mm;
+  margin-right: 6.5mm;
+  margin-bottom: 0mm;
+  margin-left: 0mm;
+  text-align: justify;
+  text-indent: -6.5mm;
 }
 
 .spacing-reset-7 {
