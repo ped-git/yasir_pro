@@ -721,9 +721,7 @@
       "start": 1788,
       "end": 1818,
       "groups": [
-        "p059-local-underline-pattern-7c1286116b",
-        "p059-red-green-pair-4e7866f228",
-        "p059-red-green-pair-aa6d26ce1d"
+        "manual-olaeka-1"
       ]
     },
     {
@@ -874,10 +872,7 @@
       "start": 2075,
       "end": 2106,
       "groups": [
-        "p059-local-underline-pattern-7c1286116b",
-        "p059-red-green-pair-4e7866f228",
-        "p059-red-green-pair-aa6d26ce1d",
-        "p059-red-green-pair-82a5645c19"
+        "manual-olaeka-1"
       ]
     },
     {
@@ -1225,9 +1220,7 @@
       "start": 2851,
       "end": 2894,
       "groups": [
-        "p059-local-underline-pattern-f19f0a7c33",
-        "p059-red-green-pair-82a5645c19",
-        "p059-red-green-pair-4d881ff180"
+        "manual-olaeka-1"
       ]
     },
     {
@@ -1290,9 +1283,7 @@
       "start": 3068,
       "end": 3111,
       "groups": [
-        "p059-local-underline-pattern-f19f0a7c33",
-        "p059-red-green-pair-82a5645c19",
-        "p059-red-green-pair-4d881ff180"
+        "manual-olaeka-1"
       ]
     },
     {
@@ -1444,7 +1435,7 @@
       "start": 3827,
       "end": 3857,
       "groups": [
-        "p059-red-green-pair-2dac685b9a"
+        "manual-olaeka-1"
       ]
     },
     {
@@ -1945,6 +1936,22 @@
       ]
     },
     {
+      "id": "p059-exact-normalized-text-1291cbc2b9",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p059-u0003",
+        "p059-u0050"
+      ]
+    },
+    {
       "id": "p059-textual-coordination-02e8948d32",
       "label": "Coordinated phrases with matching underline forms",
       "basis": "textual-coordination",
@@ -2009,68 +2016,59 @@
       ]
     },
     {
-      "id": "p059-textual-coordination-2e47ece95d",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
+      "id": "p059-local-underline-pattern-7297aade28",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
       "reviewStatus": "suggested",
       "evidence": [
-        "same-context",
+        "matching-underline",
+        "same-section",
         "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
       ],
       "members": [
-        "p059-u0023",
-        "p059-u0024"
+        "p059-u0010",
+        "p059-u0011",
+        "p059-u0013",
+        "p059-u0014"
       ]
     },
     {
-      "id": "p059-textual-coordination-1fe56b4ac2",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
+      "id": "p059-local-underline-pattern-c883b95ae2",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
       "reviewStatus": "suggested",
       "evidence": [
-        "same-context",
+        "matching-underline",
+        "same-section",
         "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
       ],
       "members": [
+        "p059-u0012",
+        "p059-u0015"
+      ]
+    },
+    {
+      "id": "p059-local-underline-pattern-a951dd3ccf",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0016",
+        "p059-u0017",
+        "p059-u0018",
         "p059-u0028",
         "p059-u0031"
-      ]
-    },
-    {
-      "id": "p059-textual-coordination-6c162eea9e",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "same-context",
-        "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
-      ],
-      "members": [
-        "p059-u0038",
-        "p059-u0039",
-        "p059-u0040"
-      ]
-    },
-    {
-      "id": "p059-textual-coordination-07824981bf",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "same-context",
-        "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
-      ],
-      "members": [
-        "p059-u0044",
-        "p059-u0047"
       ]
     },
     {
@@ -2092,6 +2090,98 @@
       ]
     },
     {
+      "id": "p059-textual-coordination-2e47ece95d",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p059-u0023",
+        "p059-u0024"
+      ]
+    },
+    {
+      "id": "p059-local-underline-pattern-985988fd7c",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0025",
+        "p059-u0035",
+        "p059-u0042"
+      ]
+    },
+    {
+      "id": "p059-red-green-pair-b317a38ffd",
+      "label": "Paired red and green alternatives",
+      "basis": "red-green-pair",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p059-u0025",
+        "p059-u0035",
+        "p059-u0042",
+        "p059-u0049"
+      ]
+    },
+    {
+      "id": "p059-red-green-pair-4e7866f228",
+      "label": "Paired red and green alternatives",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p059-u0025",
+        "p059-u0035",
+        "p059-u0042",
+        "p059-u0049"
+      ]
+    },
+    {
+      "id": "p059-red-green-pair-aa6d26ce1d",
+      "label": "Paired red and green alternatives",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p059-u0025",
+        "p059-u0035",
+        "p059-u0042",
+        "p059-u0049",
+        "p059-u0050"
+      ]
+    },
+    {
       "id": "p059-textual-coordination-a5e27b3eca",
       "label": "Coordinated phrases with matching underline forms",
       "basis": "textual-coordination",
@@ -2105,6 +2195,39 @@
       "members": [
         "p059-u0026",
         "p059-u0027"
+      ]
+    },
+    {
+      "id": "p059-textual-coordination-1fe56b4ac2",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p059-u0028",
+        "p059-u0031"
+      ]
+    },
+    {
+      "id": "p059-local-underline-pattern-f3be78b443",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0029",
+        "p059-u0030"
       ]
     },
     {
@@ -2124,6 +2247,38 @@
       ]
     },
     {
+      "id": "manual-olaeka-1",
+      "label": "olaeka-1",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "members": [
+        "p059-u0034",
+        "p059-u0041",
+        "p059-u0057",
+        "p059-u0060",
+        "p059-u0067"
+      ]
+    },
+    {
+      "id": "p059-red-green-pair-82a5645c19",
+      "label": "Paired red and green alternatives",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p059-u0035",
+        "p059-u0042",
+        "p059-u0049",
+        "p059-u0050"
+      ]
+    },
+    {
       "id": "p059-textual-coordination-4e5a36820b",
       "label": "Coordinated phrases with matching underline forms",
       "basis": "textual-coordination",
@@ -2137,6 +2292,74 @@
       "members": [
         "p059-u0036",
         "p059-u0037"
+      ]
+    },
+    {
+      "id": "p059-textual-coordination-6c162eea9e",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p059-u0038",
+        "p059-u0039",
+        "p059-u0040"
+      ]
+    },
+    {
+      "id": "p059-red-green-pair-4d881ff180",
+      "label": "Paired red and green alternatives",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "evidence": [
+        "opposite-red-green",
+        "same-section",
+        "same-nesting-layer",
+        "nearest-local-counterpart",
+        "saved-before-display"
+      ],
+      "members": [
+        "p059-u0042",
+        "p059-u0049",
+        "p059-u0050"
+      ]
+    },
+    {
+      "id": "p059-local-underline-pattern-6524aa0d16",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0043",
+        "p059-u0048"
+      ]
+    },
+    {
+      "id": "p059-textual-coordination-07824981bf",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p059-u0044",
+        "p059-u0047"
       ]
     },
     {
@@ -2239,6 +2462,41 @@
       ]
     },
     {
+      "id": "p059-local-underline-pattern-27d0a8e044",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0063",
+        "p059-u0064",
+        "p059-u0065",
+        "p059-u0066"
+      ]
+    },
+    {
+      "id": "p059-exact-normalized-text-b7026b05a8",
+      "label": "Repeated content phrase with the same underline form",
+      "basis": "exact-normalized-text",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "exact-normalized-text",
+        "matching-underline",
+        "same-nesting-layer",
+        "non-generic-content"
+      ],
+      "members": [
+        "p059-u0063",
+        "p059-u0065"
+      ]
+    },
+    {
       "id": "p059-paired-contrast-17a852d1e6",
       "label": "Locally coordinated contrasting alternatives",
       "basis": "paired-contrast",
@@ -2256,19 +2514,51 @@
       ]
     },
     {
-      "id": "p059-textual-coordination-b036885009",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
-      "reviewStatus": "suggested",
+      "id": "p059-red-green-pair-2dac685b9a",
+      "label": "Paired red and green alternatives",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
       "evidence": [
-        "same-context",
+        "opposite-red-green",
+        "same-section",
         "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
+        "nearest-local-counterpart",
+        "saved-before-display"
       ],
       "members": [
+        "p059-u0068",
+        "p059-u0069"
+      ]
+    },
+    {
+      "id": "p059-local-underline-pattern-1bee3a311b",
+      "label": "Nearby matching underlines in the same discourse section",
+      "basis": "local-underline-pattern",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "matching-underline",
+        "same-section",
+        "same-nesting-layer",
+        "bounded-verse-distance",
+        "no-new-speech-boundary"
+      ],
+      "members": [
+        "p059-u0070",
         "p059-u0073",
-        "p059-u0074"
+        "p059-u0074",
+        "p059-u0075",
+        "p059-u0076",
+        "p059-u0077",
+        "p059-u0078",
+        "p059-u0079",
+        "p059-u0080",
+        "p059-u0081",
+        "p059-u0082",
+        "p059-u0083",
+        "p059-u0084",
+        "p059-u0085",
+        "p059-u0088",
+        "p059-u0089"
       ]
     },
     {
@@ -2285,6 +2575,22 @@
       "members": [
         "p059-u0071",
         "p059-u0072"
+      ]
+    },
+    {
+      "id": "p059-textual-coordination-b036885009",
+      "label": "Coordinated phrases with matching underline forms",
+      "basis": "textual-coordination",
+      "reviewStatus": "suggested",
+      "evidence": [
+        "same-context",
+        "same-nesting-layer",
+        "coordinating-text",
+        "matching-underline"
+      ],
+      "members": [
+        "p059-u0073",
+        "p059-u0074"
       ]
     },
     {
@@ -2357,352 +2663,6 @@
         "p059-u0088",
         "p059-u0089"
       ]
-    },
-    {
-      "id": "p059-local-underline-pattern-7297aade28",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0010",
-        "p059-u0011",
-        "p059-u0013",
-        "p059-u0014"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-c883b95ae2",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0012",
-        "p059-u0015"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-a951dd3ccf",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0016",
-        "p059-u0017",
-        "p059-u0018",
-        "p059-u0028",
-        "p059-u0031"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-985988fd7c",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0025",
-        "p059-u0035",
-        "p059-u0042"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-f3be78b443",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0029",
-        "p059-u0030"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-7c1286116b",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0034",
-        "p059-u0041"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-6524aa0d16",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0043",
-        "p059-u0048"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-f19f0a7c33",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0057",
-        "p059-u0060"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-27d0a8e044",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0063",
-        "p059-u0064",
-        "p059-u0065",
-        "p059-u0066"
-      ]
-    },
-    {
-      "id": "p059-local-underline-pattern-1bee3a311b",
-      "label": "Nearby matching underlines in the same discourse section",
-      "basis": "local-underline-pattern",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "matching-underline",
-        "same-section",
-        "same-nesting-layer",
-        "bounded-verse-distance",
-        "no-new-speech-boundary"
-      ],
-      "members": [
-        "p059-u0070",
-        "p059-u0073",
-        "p059-u0074",
-        "p059-u0075",
-        "p059-u0076",
-        "p059-u0077",
-        "p059-u0078",
-        "p059-u0079",
-        "p059-u0080",
-        "p059-u0081",
-        "p059-u0082",
-        "p059-u0083",
-        "p059-u0084",
-        "p059-u0085",
-        "p059-u0088",
-        "p059-u0089"
-      ]
-    },
-    {
-      "id": "p059-exact-normalized-text-1291cbc2b9",
-      "label": "Repeated content phrase with the same underline form",
-      "basis": "exact-normalized-text",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "exact-normalized-text",
-        "matching-underline",
-        "same-nesting-layer",
-        "non-generic-content"
-      ],
-      "members": [
-        "p059-u0003",
-        "p059-u0050"
-      ]
-    },
-    {
-      "id": "p059-exact-normalized-text-b7026b05a8",
-      "label": "Repeated content phrase with the same underline form",
-      "basis": "exact-normalized-text",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "exact-normalized-text",
-        "matching-underline",
-        "same-nesting-layer",
-        "non-generic-content"
-      ],
-      "members": [
-        "p059-u0063",
-        "p059-u0065"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-b317a38ffd",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0025",
-        "p059-u0035",
-        "p059-u0042",
-        "p059-u0049"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-4e7866f228",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0025",
-        "p059-u0034",
-        "p059-u0035",
-        "p059-u0041",
-        "p059-u0042",
-        "p059-u0049"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-aa6d26ce1d",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0025",
-        "p059-u0034",
-        "p059-u0035",
-        "p059-u0041",
-        "p059-u0042",
-        "p059-u0049",
-        "p059-u0050"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-82a5645c19",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0035",
-        "p059-u0041",
-        "p059-u0042",
-        "p059-u0049",
-        "p059-u0050",
-        "p059-u0057",
-        "p059-u0060"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-4d881ff180",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0042",
-        "p059-u0049",
-        "p059-u0050",
-        "p059-u0057",
-        "p059-u0060"
-      ]
-    },
-    {
-      "id": "p059-red-green-pair-2dac685b9a",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
-      "members": [
-        "p059-u0067",
-        "p059-u0068",
-        "p059-u0069"
-      ]
     }
   ],
   "sections": [
@@ -2710,13 +2670,15 @@
       "id": "p059-s0001",
       "parentId": null,
       "selector": "body:nth-of-type(1) > div:nth-of-type(2)",
+      "lines": [
+        "p059-l0001"
+      ],
       "excerpt": {
         "first": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ",
         "last": "فِي النَّارِ خَالِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ۱۷"
-      },
-      "lines": [
-        "p059-l0001"
-      ]
+      }
     }
-  ]
+  ],
+  "editorSavedAt": "2026-11-08T21:49:41.112Z",
+  "manual": true
 }
