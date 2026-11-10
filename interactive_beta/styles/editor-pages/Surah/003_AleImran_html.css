@@ -837,3 +837,90 @@ border-bottom-width: 1px;
   text-underline-offset: 2.2mm;
 
 }
+
+.edit-style-custom-v4-dotted-c9c9c9-e7b44a-90-23-3-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: #c9c9c9;
+  text-decoration-thickness: 0.3mm;
+  text-underline-offset: 2.3mm;
+
+}
+
+.edit-style-custom-v4-solid-c9c9c9-e7b44a-90-23-3-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #c9c9c9;
+  text-decoration-thickness: 0.3mm;
+  text-underline-offset: 2.3mm;
+
+}
+
+.edit-style-custom-v4-solid-666666-e7b44a-90-0-5-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #666666;
+  text-decoration-thickness: 0.5mm;
+  text-underline-offset: 0mm;
+
+}
+
+.edit-style-custom-v4-solid-666666-e7b44a-90-7-5-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #666666;
+  text-decoration-thickness: 0.5mm;
+  text-underline-offset: 0.7mm;
+
+}
+
+.edit-style-custom-v4-solid-666666-e7b44a-90-10-5-no-sides:not(#edit-reserved) {
+  border: 0 !important;
+  padding: 0 !important;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-color: #666666;
+  text-decoration-thickness: 0.5mm;
+  text-underline-offset: 1mm;
+
+}
+
+.edit-style-582ab37336dc-line {
+border-left: 0.3mm dashed black;
+height: 120%;
+position: absolute;
+top: 50%;
+-ms-transform: translateY(-50%);
+-moz-transform: translateY(-50%);
+-webkit-transform: translateY(-50%);
+transform: translateY(-50%);
+right: 7.5mm;
+page-break-inside: auto;
+pointer-events:none;
+}
+.edit-style-582ab37336dc-section {position:relative;}
+
+.edit-style-582ab37336dc-section {display:block;position:relative;padding-inline:10mm;}
+
+.edit-style-21933f57cd43:not(#edit-reserved) {
+border: 1px solid rgb(180, 180, 180);
+padding: 0px 0.53mm;
+border: 2px dotted rgb(150, 150, 150);
+padding: 3px 0.53mm;
+}
+
+.edit-style-9eae3d11651d:not(#edit-reserved) {
+padding: 1px 9px;
+border-right: 3px solid #222;
+border-left: 3px solid #222;
+white-space: nowrap;
+font-weight: bold;
+}
