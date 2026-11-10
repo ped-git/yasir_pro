@@ -2463,6 +2463,17 @@
       ]
     },
     {
+      "id": "underline-b4f5cc03-d136-4ff0-9578-3a5a8344f447",
+      "text": "وَاللَّهُ وَاسِعٌ عَلِيمٌ۷۳ يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ ۗ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+      "textHash": "a6c7e5e7395fa28451a6953da79e4925daabff30ed15753306eae772f67d79ff",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(31) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-332d0dbd-0e7c-4508-a6eb-03030737fe51"
+      ]
+    },
+    {
       "id": "p003-u0068",
       "text": "وَيَقُولُونَ عَلَى اللَّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ",
       "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(2)",
@@ -6152,6 +6163,15 @@
       ]
     },
     {
+      "id": "manual-332d0dbd-0e7c-4508-a6eb-03030737fe51",
+      "label": "manual-332d0dbd-0e7c-4508-a6eb-03030737fe51",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "members": [
+        "underline-b4f5cc03-d136-4ff0-9578-3a5a8344f447"
+      ]
+    },
+    {
       "id": "p003-exact-normalized-text-5e4d39658b",
       "label": "Repeated content phrase with the same underline form",
       "basis": "exact-normalized-text",
@@ -7890,6 +7910,6 @@
     }
   ],
   "betaEditorialStatus": "conservative-transfer-with-review-queue",
-  "editorSavedAt": "2026-11-10T09:16:01.252Z",
+  "editorSavedAt": "2026-11-10T09:42:33.632Z",
   "manual": true
 }

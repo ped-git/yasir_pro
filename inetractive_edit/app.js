@@ -18,7 +18,7 @@
   let savedState = '';
   let opening = false;
   const quoteColors = ['blue', 'green', 'red', 'black', 'gray', 'lightblue', 'mixed'];
-  const underlineTypes = ['solid', 'dashed', 'dotted', 'double', 'wavy', 'linear-gradient', 'repeating-linear-gradient', 'radial-gradient', 'repeating-radial-gradient'];
+  const underlineTypes = ['uncertain', 'solid', 'dashed', 'dotted', 'double', 'wavy', 'linear-gradient', 'repeating-linear-gradient', 'radial-gradient', 'repeating-radial-gradient'];
   const sidebarWidthKey = 'yasir-studio-sidebar-width';
   const memberListHeightKey = 'yasir-studio-member-list-height';
 
@@ -194,6 +194,7 @@
     form.className = 'underline-builder';
     form.innerHTML = `
       <label>Type<select data-setting="type" aria-label="Underline type">
+        <option value="uncertain">Uncertain mark</option>
         <option value="solid">Solid</option><option value="dashed">Dashed</option>
         <option value="dotted">Dotted</option><option value="double">Double</option><option value="wavy">Wavy</option>
         <option value="linear-gradient">Linear gradient</option><option value="repeating-linear-gradient">Repeating linear gradient</option>
@@ -249,7 +250,9 @@
       const isGradient = settings.type.endsWith('gradient');
       const lineStyle = ['solid', 'dashed', 'dotted', 'double', 'wavy'].includes(settings.type) ? settings.type : 'solid';
       const id = `edit-style-custom-v4-${settings.type}-${settings.color.slice(1)}-${settings.color2.slice(1)}-${settings.angle}-${compact(settings.distance)}-${compact(settings.thickness)}-${sideOrder.join('-') || 'no-sides'}`;
-      const underlineCss = isGradient
+      const underlineCss = settings.type === 'uncertain'
+        ? `  text-decoration: none !important;\n  border-left: 1px dotted rgb(100, 100, 100) !important;\n  border-right: 1px dotted rgb(100, 100, 100) !important;\n  padding: 0px 0.264583mm !important;`
+        : isGradient
         ? `  text-decoration: none;\n  background-image: ${gradientImage(settings)};\n  background-position: 0 100%;\n  background-repeat: repeat-x;\n  background-size: ${gradientSize(settings)};\n  padding-bottom: ${settings.distance + settings.thickness}mm !important;`
         : `  text-decoration-line: underline;\n  text-decoration-style: ${lineStyle};\n  text-decoration-color: ${settings.color};\n  text-decoration-thickness: ${settings.thickness}mm;\n  text-underline-offset: ${settings.distance}mm;`;
       const sidesCss = sideOrder.map((side) => `  border-${side}: ${settings.thickness}mm ${lineStyle} ${settings.color} !important;`).join('\n');
@@ -264,8 +267,11 @@
     const updatePreview = () => {
       const settings = readSettings();
       const isGradient = settings.type.endsWith('gradient');
-      form.querySelectorAll('[data-gradient-setting]').forEach((element) => { element.hidden = !isGradient; });
-      form.querySelectorAll('[data-angle-setting]').forEach((element) => { element.hidden = !settings.type.includes('linear'); });
+      const isUncertain = settings.type === 'uncertain';
+      form.querySelectorAll('[data-gradient-setting]').forEach((element) => { element.hidden = !isGradient || isUncertain; });
+      form.querySelectorAll('[data-angle-setting]').forEach((element) => { element.hidden = !settings.type.includes('linear') || isUncertain; });
+      for (const name of ['distance', 'color', 'thickness']) form.querySelector(`[data-setting="${name}"]`).closest('label').hidden = isUncertain;
+      form.querySelector('.underline-sides').hidden = isUncertain;
       form.querySelector('[data-value="distance"]').textContent = `${settings.distance.toFixed(1)} mm`;
       form.querySelector('[data-value="thickness"]').textContent = `${settings.thickness.toFixed(1)} mm`;
       form.querySelector('[data-value="angle"]').textContent = `${settings.angle}°`;

@@ -119,6 +119,15 @@ try {
     await page.locator(`[data-kind="${kind}"]`).click();
     if (kind === 'underline') {
       const builder = page.locator('#style-list');
+      assert.equal(await builder.locator('[data-setting="type"] option').first().getAttribute('value'), 'uncertain', 'Uncertain mark should be first in the underline list');
+      await builder.locator('[data-setting="type"]').selectOption('uncertain');
+      const uncertainSample = builder.locator('.custom-underline-sample');
+      assert.deepEqual(await uncertainSample.evaluate((element) => {
+        const style = getComputedStyle(element);
+        return { left: style.borderLeftStyle, right: style.borderRightStyle, bottom: style.borderBottomStyle, leftWidth: style.borderLeftWidth, rightWidth: style.borderRightWidth };
+      }), { left: 'dotted', right: 'dotted', bottom: 'none', leftWidth: '1px', rightWidth: '1px' });
+      await assertMillimeters(uncertainSample, 'paddingLeft', 0.264583);
+      assert.match(await page.locator('#custom-underline-preview-css').textContent(), /border-left: 1px dotted rgb\(100, 100, 100\) !important/);
       assert.equal(await builder.locator('[data-setting="distance"]').getAttribute('max'), '9');
       await builder.locator('[data-setting="type"]').selectOption('wavy');
       await builder.locator('[data-setting="distance"]').evaluate((element) => { element.value = '9'; element.dispatchEvent(new Event('input', { bubbles: true })); });
