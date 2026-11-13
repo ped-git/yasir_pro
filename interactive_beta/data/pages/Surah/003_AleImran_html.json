@@ -2474,9 +2474,31 @@
       ]
     },
     {
+      "id": "underline-eadc3ef3-c850-4d83-8f25-4146da389a37",
+      "text": "مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِ إِلَيْكَ",
+      "textHash": "a1c960b061f2a3664ccff00a5abc15f5a0d9db43573f784732d4e234eaee01c5",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(2)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-f758c3a9-2591-428f-9c22-62efab0ea4bc"
+      ]
+    },
+    {
+      "id": "underline-7a2e440b-b24d-4fac-b4d8-366df54bcd1b",
+      "text": "مِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَائِمًا",
+      "textHash": "1ae63dd54c6722fa49ccec829ae09bbcdea700e08b90a095f2f76439a6ef0dbe",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(3)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-f758c3a9-2591-428f-9c22-62efab0ea4bc"
+      ]
+    },
+    {
       "id": "p003-u0068",
       "text": "وَيَقُولُونَ عَلَى اللَّهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(2)",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(4)",
       "textHash": "1f261faf5a1c901cc4a9db178baacbacaa2323c8ad9ab00f8ff52bb3939de02a",
       "appearance": {
         "signature": "ul-color-gray-100 ul-pad-x-0px ul-pad-y-0px ul-pattern-dotted ul-sides-open ul-thickness-2px",
@@ -2495,292 +2517,125 @@
       ]
     },
     {
-      "id": "p003-u0069",
-      "text": "مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَىٰ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(3)",
-      "textHash": "d5f0a16f6f27db0b1c129e2ab0e03911a8869b166b43a853213c9f6ebf64f7b9",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-green-100-180-100 ul-pattern-solid ul-pad-y-2px",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-solid ul-pad-y-2px",
-        "colorFamily": "green"
-      },
-      "verse": 76,
-      "blockIndex": 19,
+      "id": "underline-37e2181b-a583-4bd9-9f44-b018af49ce9f",
+      "text": "مَنْ أَوْفَىٰ بِعَهْدِهِ وَاتَّقَىٰ فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
+      "textHash": "1c12817dea93dbdad1d4565dbb0728c7b2343f12a0ef7fcdb6b21e14a62ede9b",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(5)",
       "parentId": null,
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17654,
-      "end": 17689,
       "groups": [
-        "p003-red-green-pair-0702b37786",
-        "p003-red-green-pair-7e5803976c",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069"
-      ],
-      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern. Separate the newly nested underline levels so their different patterns remain visible.",
-      "betaSemanticRole": "good"
-    },
-    {
-      "id": "beta-u-3-76-20",
-      "text": "أَوْفَىٰ بِعَهْدِهِ",
-      "logicalText": "أوفى بعهده",
-      "textHash": "6d7c75ac6ea8033d36e4d04678b0576afec9b1b51ac0a80f2fdbdf7e5f96c403",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(3) > span:nth-of-type(1)",
-      "parentId": "p003-u0069",
-      "sectionId": null,
-      "contextId": "beta-3-76",
-      "verse": 76,
-      "groups": [
-        "beta-3-covenant-and-piety"
-      ],
-      "betaSemanticRole": "good",
-      "appearance": {
-        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
-        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
-        "colorFamily": "gray"
-      },
-      "betaEditorialReason": "Both coordinated responses are explicitly commended."
-    },
-    {
-      "id": "beta-u-3-76-21",
-      "text": "اتَّقَىٰ",
-      "logicalText": "اتقى",
-      "textHash": "50084fadefe4c9ea793e5d0e3141014f3727a7f87e115f4b9e6b50be6fe031aa",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(3) > span:nth-of-type(2)",
-      "parentId": "p003-u0069",
-      "sectionId": null,
-      "contextId": "beta-3-76",
-      "verse": 76,
-      "groups": [
-        "beta-3-covenant-and-piety"
-      ],
-      "betaSemanticRole": "good",
-      "appearance": {
-        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid ul-color-gray-150",
-        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-solid",
-        "colorFamily": "gray"
-      },
-      "betaEditorialReason": "Both coordinated responses are explicitly commended."
-    },
-    {
-      "id": "p003-u0070",
-      "text": "فَإِنَّ اللَّهَ يُحِبُّ الْمُتَّقِينَ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(4)",
-      "textHash": "7e5011e1cf6029eea75c8282521693dc78135685e82f6d6a5d9066af732116fd",
-      "appearance": {
-        "signature": "ul-color-green-100-180-100 ul-pattern-solid ul-sides-open ul-thickness-1px",
-        "structure": "ul-pattern-solid ul-sides-open ul-thickness-1px",
-        "colorFamily": "green"
-      },
-      "verse": 76,
-      "blockIndex": 19,
-      "parentId": null,
-      "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17690,
-      "end": 17727,
-      "groups": [
-        "p003-red-green-pair-7e5803976c",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069"
+        "manual-b7294e1b-cf05-4655-a8c3-5ae278de183b"
       ]
     },
     {
-      "id": "p003-u0071",
-      "text": "الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(5)",
-      "textHash": "ebdf913b21492b11907b9f348eb4d7eff1fd852cebd51a8542a721854b541f0e",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted ul-pad-y-2px",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted ul-pad-y-2px",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "id": "underline-bc16416d-c558-4d84-b357-2465361fa6fc",
+      "text": "أَوْفَىٰ بِعَهْدِهِ",
+      "textHash": "6d7c75ac6ea8033d36e4d04678b0576afec9b1b51ac0a80f2fdbdf7e5f96c403",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(5) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": "underline-37e2181b-a583-4bd9-9f44-b018af49ce9f",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17746,
-      "end": 17817,
       "groups": [
-        "p003-red-green-pair-0702b37786",
-        "p003-red-green-pair-7e5803976c",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069"
-      ],
-      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern. Separate the newly nested underline levels so their different patterns remain visible.",
-      "betaSemanticRole": "bad"
+        "manual-fbef3964-82ba-4d25-9cc6-61331daffa59"
+      ]
     },
     {
-      "id": "beta-u-3-77-22",
-      "text": "يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا",
-      "logicalText": "يشترون بعهد الله وأيمانهم ثمنا قليلا",
-      "textHash": "5b65e9d0c68e9a59f7a2c6553c35e312f203d33681df14e82b5a66216496193b",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(5) > span:nth-of-type(1)",
-      "parentId": "p003-u0071",
+      "id": "underline-354cd55e-9414-4424-bacc-d44717b3de42",
+      "text": "اتَّقَىٰ",
+      "textHash": "50084fadefe4c9ea793e5d0e3141014f3727a7f87e115f4b9e6b50be6fe031aa",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(5) > span:nth-of-type(2) > span:nth-of-type(1)",
+      "parentId": "underline-37e2181b-a583-4bd9-9f44-b018af49ce9f",
       "sectionId": null,
-      "contextId": "beta-3-77",
-      "verse": 77,
       "groups": [
-        "beta-3-betrayal-for-gain"
-      ],
-      "betaSemanticRole": "bad",
-      "appearance": {
-        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-180",
-        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "gray"
-      },
-      "betaEditorialReason": "The full predicate describes betrayal for gain; the neutral price word alone does not determine the type."
+        "manual-fbef3964-82ba-4d25-9cc6-61331daffa59"
+      ]
     },
     {
-      "id": "p003-u0072",
-      "text": "لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ",
+      "id": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
+      "text": "الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَـٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "textHash": "621fff64cfaa2078c4fc03d61d1a59a4ebe883d5860a18cffa9596b1889463aa",
       "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6)",
+      "parentId": null,
+      "sectionId": null,
+      "groups": [
+        "manual-b7294e1b-cf05-4655-a8c3-5ae278de183b"
+      ]
+    },
+    {
+      "id": "underline-f8ee4b09-82f2-499b-b6cb-caebea8fd80c",
+      "text": "عَهْدِ اللَّهِ",
+      "textHash": "845d78cd653b66bcd1a4025e6efb37f7b607af9dcbbcbdeaaf58c58441f19e1b",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(1) > span:nth-of-type(1)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
+      "sectionId": null,
+      "groups": [
+        "manual-479d3b83-b71e-487e-a6d0-9b747837e541"
+      ]
+    },
+    {
+      "id": "underline-454539da-5e10-4692-bb56-30c69b76799f",
+      "text": "أَيْمَانِهِمْ",
+      "textHash": "2a755525cbd5b59a5489aca595fb07918062546903979e5296a181998920be27",
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(1) > span:nth-of-type(2)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
+      "sectionId": null,
+      "groups": [
+        "manual-479d3b83-b71e-487e-a6d0-9b747837e541"
+      ]
+    },
+    {
+      "id": "underline-92416328-d8c9-493c-a8c4-dc636f2a4540",
+      "text": "لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ",
       "textHash": "8e793dff5b94d72e6cef47c9bc788f1ac409396582490d846910d1e050f0da99",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(2)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17830,
-      "end": 17863,
       "groups": [
-        "p003-textual-coordination-8549d063b5",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069",
-        "beta-3-adverse-consequences"
-      ],
-      "betaEditorialReason": "These are coordinated adverse outcomes, not good prohibitions; the negation describes deprivation.",
-      "betaSemanticRole": "bad"
+        "manual-aafb84d7-96df-4f17-baf3-070384bf8f06"
+      ]
     },
     {
-      "id": "p003-u0073",
+      "id": "underline-86786fda-697a-4ce4-87c1-7d59866604a2",
       "text": "لَا يُكَلِّمُهُمُ اللَّهُ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(7)",
       "textHash": "98c5c2fc0bba255f8b486539697c71757c52cd9c1c5b5b4168a86877c0645d43",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(3)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17876,
-      "end": 17901,
       "groups": [
-        "p003-textual-coordination-8549d063b5",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069",
-        "beta-3-adverse-consequences"
-      ],
-      "betaEditorialReason": "These are coordinated adverse outcomes, not good prohibitions; the negation describes deprivation.",
-      "betaSemanticRole": "bad"
+        "manual-aafb84d7-96df-4f17-baf3-070384bf8f06"
+      ]
     },
     {
-      "id": "p003-u0074",
+      "id": "underline-82766381-9f0b-4f41-bac1-8677607318d1",
       "text": "لَا يَنظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(8)",
       "textHash": "ecbb66b19ea08f89198e187cc25cab516cb27482bca7d87649cfc1ead9c6d2a4",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(4)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17914,
-      "end": 17956,
       "groups": [
-        "p003-textual-coordination-8549d063b5",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069",
-        "beta-3-adverse-consequences"
-      ],
-      "betaEditorialReason": "These are coordinated adverse outcomes, not good prohibitions; the negation describes deprivation.",
-      "betaSemanticRole": "bad"
+        "manual-aafb84d7-96df-4f17-baf3-070384bf8f06"
+      ]
     },
     {
-      "id": "p003-u0075",
+      "id": "underline-f5af4ccf-1201-4e73-a0f5-f46ba6f41506",
       "text": "لَا يُزَكِّيهِمْ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(9)",
       "textHash": "f269e63225d3f856dc84e2bfc9d96f69813e2401732b8a8ab8ba0299999c2e12",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(5)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17969,
-      "end": 17985,
       "groups": [
-        "p003-textual-coordination-8549d063b5",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069",
-        "beta-3-adverse-consequences"
-      ],
-      "betaEditorialReason": "These are coordinated adverse outcomes, not good prohibitions; the negation describes deprivation.",
-      "betaSemanticRole": "bad"
+        "manual-aafb84d7-96df-4f17-baf3-070384bf8f06"
+      ]
     },
     {
-      "id": "p003-u0076",
+      "id": "underline-2c268fa4-af40-40f7-9b3f-ff690f238bf8",
       "text": "لَهُمْ عَذَابٌ أَلِيمٌ",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(10)",
       "textHash": "204e2d4e57161a344b4ede2ed597fa43119656329cf7060e4c95e64cb41c7725",
-      "appearance": {
-        "signature": "ul-sides-open ul-thickness-1px ul-color-red-220-150-150 ul-pattern-dotted ul-pad-y-2px",
-        "structure": "ul-sides-open ul-thickness-1px ul-pattern-dotted ul-pad-y-2px",
-        "colorFamily": "red"
-      },
-      "verse": 77,
-      "blockIndex": 19,
-      "parentId": null,
+      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(6) > span:nth-of-type(6)",
+      "parentId": "underline-77929a7d-d686-4579-aa77-ba0530c302d1",
       "sectionId": null,
-      "contextId": "p003-c19",
-      "start": 17998,
-      "end": 18020,
       "groups": [
-        "p003-textual-coordination-8549d063b5",
-        "p003-red-green-pair-44974ad822",
-        "beta-contrast-3-u0069"
-      ],
-      "betaEditorialReason": "Existing red/green comparison: the good alternative is solid and the bad alternative dotted; color identifies the contrast rather than replacing semantic pattern. Separate the newly nested underline levels so their different patterns remain visible.",
-      "betaSemanticRole": "bad"
-    },
-    {
-      "id": "beta-u-3-77-23",
-      "text": "عَذَابٌ أَلِيمٌ",
-      "logicalText": "عذاب أليم",
-      "textHash": "705ce170d6de039b673b9ebc19d92676d433446a552a53f38e732406aa773129",
-      "selector": "body:nth-of-type(1) > p:nth-of-type(32) > span:nth-of-type(10) > span:nth-of-type(1)",
-      "parentId": "p003-u0076",
-      "sectionId": null,
-      "contextId": "beta-3-77",
-      "verse": 77,
-      "groups": [
-        "beta-3-adverse-consequences"
-      ],
-      "betaSemanticRole": "bad",
-      "appearance": {
-        "signature": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted ul-color-gray-100",
-        "structure": "ul-sides-open ul-pad-y-0px ul-pad-x-0px ul-thickness-1px ul-pattern-dotted",
-        "colorFamily": "gray"
-      },
-      "betaEditorialReason": "These are coordinated adverse outcomes, not good prohibitions; the negation describes deprivation."
+        "manual-aafb84d7-96df-4f17-baf3-070384bf8f06"
+      ]
     },
     {
       "id": "p003-u0077",
@@ -6172,6 +6027,16 @@
       ]
     },
     {
+      "id": "manual-f758c3a9-2591-428f-9c22-62efab0ea4bc",
+      "label": "menhomman-1",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
+      "members": [
+        "underline-eadc3ef3-c850-4d83-8f25-4146da389a37",
+        "underline-7a2e440b-b24d-4fac-b4d8-366df54bcd1b"
+      ]
+    },
+    {
       "id": "p003-exact-normalized-text-5e4d39658b",
       "label": "Repeated content phrase with the same underline form",
       "basis": "exact-normalized-text",
@@ -6188,129 +6053,46 @@
       ]
     },
     {
-      "id": "p003-red-green-pair-0702b37786",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
+      "id": "manual-b7294e1b-cf05-4655-a8c3-5ae278de183b",
+      "label": "awfayashtarun-1",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
       "members": [
-        "p003-u0069",
-        "p003-u0071"
+        "underline-37e2181b-a583-4bd9-9f44-b018af49ce9f",
+        "underline-77929a7d-d686-4579-aa77-ba0530c302d1"
       ]
     },
     {
-      "id": "p003-red-green-pair-7e5803976c",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
+      "id": "manual-fbef3964-82ba-4d25-9cc6-61331daffa59",
+      "label": "atagha-3",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
       "members": [
-        "p003-u0069",
-        "p003-u0070",
-        "p003-u0071"
+        "underline-bc16416d-c558-4d84-b357-2465361fa6fc",
+        "underline-354cd55e-9414-4424-bacc-d44717b3de42"
       ]
     },
     {
-      "id": "p003-red-green-pair-44974ad822",
-      "label": "Paired red and green alternatives",
-      "basis": "red-green-pair",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "opposite-red-green",
-        "same-section",
-        "same-nesting-layer",
-        "nearest-local-counterpart",
-        "saved-before-display"
-      ],
+      "id": "manual-479d3b83-b71e-487e-a6d0-9b747837e541",
+      "label": "aymanehem-2",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
       "members": [
-        "p003-u0069",
-        "p003-u0070",
-        "p003-u0071",
-        "p003-u0072",
-        "p003-u0073",
-        "p003-u0074",
-        "p003-u0075",
-        "p003-u0076"
+        "underline-f8ee4b09-82f2-499b-b6cb-caebea8fd80c",
+        "underline-454539da-5e10-4692-bb56-30c69b76799f"
       ]
     },
     {
-      "id": "beta-contrast-3-u0069",
-      "label": "Compared good and bad alternatives",
-      "basis": "beta-semantic-contrast",
-      "reviewStatus": "beta-editorial",
+      "id": "manual-aafb84d7-96df-4f17-baf3-070384bf8f06",
+      "label": "layozakihem-1",
+      "basis": "saved-manual-membership",
+      "reviewStatus": "manual",
       "members": [
-        "p003-u0069",
-        "p003-u0070",
-        "p003-u0071",
-        "p003-u0072",
-        "p003-u0073",
-        "p003-u0074",
-        "p003-u0075",
-        "p003-u0076"
-      ],
-      "evidence": "Existing opposite-color annotations, nearest local counterpart, same nested layer, same section, and at most two verses apart."
-    },
-    {
-      "id": "beta-3-covenant-and-piety",
-      "label": "covenant and piety",
-      "basis": "beta-editorial-content",
-      "reviewStatus": "beta-editorial",
-      "members": [
-        "beta-u-3-76-20",
-        "beta-u-3-76-21"
-      ]
-    },
-    {
-      "id": "beta-3-betrayal-for-gain",
-      "label": "betrayal for gain",
-      "basis": "beta-editorial-content",
-      "reviewStatus": "beta-editorial",
-      "members": [
-        "beta-u-3-77-22"
-      ]
-    },
-    {
-      "id": "p003-textual-coordination-8549d063b5",
-      "label": "Coordinated phrases with matching underline forms",
-      "basis": "textual-coordination",
-      "reviewStatus": "suggested",
-      "evidence": [
-        "same-context",
-        "same-nesting-layer",
-        "coordinating-text",
-        "matching-underline"
-      ],
-      "members": [
-        "p003-u0072",
-        "p003-u0073",
-        "p003-u0074",
-        "p003-u0075",
-        "p003-u0076"
-      ]
-    },
-    {
-      "id": "beta-3-adverse-consequences",
-      "label": "adverse consequences",
-      "basis": "beta-editorial-content",
-      "reviewStatus": "beta-editorial",
-      "members": [
-        "p003-u0072",
-        "p003-u0073",
-        "p003-u0074",
-        "p003-u0075",
-        "beta-u-3-77-23"
+        "underline-92416328-d8c9-493c-a8c4-dc636f2a4540",
+        "underline-86786fda-697a-4ce4-87c1-7d59866604a2",
+        "underline-82766381-9f0b-4f41-bac1-8677607318d1",
+        "underline-f5af4ccf-1201-4e73-a0f5-f46ba6f41506",
+        "underline-2c268fa4-af40-40f7-9b3f-ff690f238bf8"
       ]
     },
     {
@@ -7910,6 +7692,6 @@
     }
   ],
   "betaEditorialStatus": "conservative-transfer-with-review-queue",
-  "editorSavedAt": "2026-11-10T09:42:33.632Z",
+  "editorSavedAt": "2026-11-13T13:16:58.210Z",
   "manual": true
 }
